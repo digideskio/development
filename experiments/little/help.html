@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <script type="text/javascript" src= 
+"http://mbostock.github.com/d3/d3.v2.min.js"></script> 
+  <body> 
+    <div id="lines"> 
+        <div id="svgpath_with_DATA"></div> 
+    </div> 
+    <script type="text/javascript"> 
+var divDATA = d3.select("#svgpath_with_DATA") 
+var svgDATA = divDATA.append("svg:svg") 
+var path= {}; 
+    path["B"]= [ [600, 60], [650, 110],[690, 70], [740, 100] ]; 
+    path["C"]= [ [600, 40], [650, 90], [690, 50], [740, 80]  ]; 
+//... 
+// and HERE, I HIT THE WALL, even with  line_15 -which does not depend on 
+//the data supplied at all- it does not work, 
+// -> no line, no error, no console.log output 
+var p= svgDATA.selectAll("path") 
+    .data(d3.entries(path));         //comment out to test with key/value 
+//    .data(d3.values(path));        //comment out to test with no key/value 
+var line_13 = d3.svg.line()  // use when testing with d3.values 
+                .x(function(d,i){console.log("lineX i: " + i + " x: " + d[0]);return d[0];}) 
+                .y(function(d, i){console.log("lineY i: " + i + " y: " + d[1]);return d[1];}) 
+                .interpolate("linear"); 
+var line_14 = d3.svg.line() // use when testing with d3.entries 
+                .x(function(d,i){console.log("lineX k: " + d.key +  " x: "+ 
+d.value[0]); return d.value[0];}) 
+                .y(function(d,i){console.log("lineY k: " + d.key +  " x: "+ 
+d.value[1]); return d.value[1];}) 
+                .interpolate("linear"); 
+var line_15 = d3.svg.line()  //use when verifying, if .x/.y do get called at all 
+                .x(function(){console.log("lineX k: " + "?" +  " x: "+ "600");return "200";}) 
+                .y(function(){console.log("lineY k: " + "?" +  " y: "+ "100");return "100";}) 
+                .interpolate("linear"); 
+var p_new= p.enter(); 
+    p_new.append("svg:path") 
+       .attr("d", line_13)       // comment out to test with data array, 
+//no key/value,   .data(d3.values (path) 
+//        .attr("d", line_14)         // comment out to test with data 
+//dependent line;        .data(d3.entries(path) 
+//        .attr("d", line_15)       // comment out to test with data 
+//independent line,      .data(d3.entries(path) 
+        .style("stroke-width", 2) 
+        .style("stroke", "crimson") 
+        .style("fill", "none"); 
+    p_new.append("svg:text")  // to "debug" 
+          .attr("x", function(d,i) {return 600 + i*30;}) 
+          .attr("dy", function(d,i) {return 50 + i*15;}) 
+          .text(function(d,i) {console.log("text index i: " + i +"=key: " + 
+d.key + "-> [0][0]/[3][1]: " + d.value[0][0] +"/"+d.value[3][1]); 
+                                     return i +  "=key: " + d.key + " : "+d.value[0][0] + 
+"/"+d.value[3][1]}) 
+    </script> 
+  </body> 
+</html> 

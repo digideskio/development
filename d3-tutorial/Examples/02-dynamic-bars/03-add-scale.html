@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+.bar {
+  fill: steelblue;
+  stroke: none;
+}
+</style>
+<body>
+<script src="../d3.v2.js"></script>
+<script>
+var _id_ = 0;
+function generate() {
+	return { index: _id_++, value: 5 + 95*Math.random() };
+}
+
+var data = d3.range(100).map(generate);
+
+var w = 900,
+    h = 100,
+    bw = 9;
+
+// set scale for y-values
+var y = d3.scale.linear().domain([0,100]).range([0,100]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", w)
+    .attr("height", h);
+
+svg.selectAll("rect.bar")
+    .data(data)
+  .enter().append("rect")
+    .attr("class", "bar")
+    .attr("x", function(d,i) { return i*bw; })
+    .attr("width", bw-1)
+     // update y and height to use scale mapping
+    .attr("y", function(d) { return h - y(d.value); })
+    .attr("height", function(d) { return y(d.value); });
+
+</script>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head><style>
+body{margin:0px;}
+svg {
+  //border: solid 1px #666;
+  overflow: hidden;
+}
+
+#maincircle {
+  stroke:#eee;
+  stroke-width:5;
+  stroke-dasharray:10 10;
+  fill:none;
+}
+
+</style></head>
+<body>
+<script src="http://mbostock.github.com/d3/d3.v2.min.js?2.8.1"></script>
+
+
+<script>
+var width = 800,
+    height = 800;
+
+var svg=d3.select("body").append("svg")
+  .attr("width",width)
+  .attr("height",height)
+
+var maincircle=svg.append("circle").attr("id","maincircle")
+  .attr("cx",width/2)
+  .attr("cy",height/2)
+  .attr("r",width/3)
+
+
+</script>
+
+
+</body>
+</html>

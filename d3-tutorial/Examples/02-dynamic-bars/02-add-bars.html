@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+/* Add styling for bars in bar chart */
+.bar {
+  fill: steelblue;
+  stroke: none;
+}
+</style>
+<body>
+<script src="../d3.v2.js"></script>
+<script>
+var _id_ = 0;
+function generate() {
+	return { index: _id_++, value: 5 + 95*Math.random() };
+}
+
+var data = d3.range(100).map(generate);
+
+// set desired size for bar chart
+var w = 900,
+    h = 100,
+    bw = 9;
+
+// add svg element
+var svg = d3.select("body").append("svg")
+    .attr("width", w)
+    .attr("height", h);
+
+// add bar chart as collection of rects
+svg.selectAll("rect.bar")
+    .data(data)
+  .enter().append("rect")
+    .attr("class", "bar")
+    .attr("x", function(d,i) { return i*bw; })
+    .attr("width", bw-1)
+    .attr("y", function(d) { return h - d.value; })
+    .attr("height", function(d) { return d.value; });
+
+</script>

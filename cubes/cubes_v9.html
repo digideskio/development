@@ -1,0 +1,388 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+		<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.0.0"></script>
+		<!--<script type="text/javascript" src="http://blog.oecdfactblog.org/wp-includes/js/protovis-r3.2.js"></script>-->
+		<style>
+			@import url("http://mbostock.github.com/d3/style.css?1.10.0");
+			@import url("http://mbostock.github.com/d3/syntax.css?1.10.0");
+		</style>
+		<style>
+		.cell {
+			position:absolute;
+			overflow:hidden;
+			height:20;
+			width:20;
+			border:1px solid white;
+			text-align:center;
+			vertical-align:middle;
+			}
+		.cellSVG {height:20;width:20;}
+		#filtering {position:absolute;left:600px;}
+		</style>
+	</head>
+	<body>
+		<div id="mode">
+		mode:0
+		</div>
+		<div id="info">
+		</div>
+		<div id="chart">
+		</div>
+		<div id="filtering">
+
+
+		<form name="filterForm">
+		0<input type="checkbox" name="filter0" value="0" checked>
+		1<input type="checkbox" name="filter0" value="1" checked>
+		2<input type="checkbox" name="filter0" value="2" checked>
+		3<input type="checkbox" name="filter0" value="3" checked>
+		4<input type="checkbox" name="filter0" value="4" checked>
+		5<input type="checkbox" name="filter0" value="5" checked>
+		6<input type="checkbox" name="filter0" value="6" checked>
+		7<input type="checkbox" name="filter0" value="7" checked>
+		8<input type="checkbox" name="filter0" value="8" checked>
+		9<input type="checkbox" name="filter0" value="9" checked></br>
+		0<input type="checkbox" name="filter1" value="0" checked>
+		1<input type="checkbox" name="filter1" value="1" checked>
+		2<input type="checkbox" name="filter1" value="2" checked>
+		3<input type="checkbox" name="filter1" value="3" checked>
+		4<input type="checkbox" name="filter1" value="4" checked>
+		5<input type="checkbox" name="filter1" value="5" checked>
+		6<input type="checkbox" name="filter1" value="6" checked>
+		7<input type="checkbox" name="filter1" value="7" checked>
+		8<input type="checkbox" name="filter1" value="8" checked>
+		9<input type="checkbox" name="filter1" value="9" checked></br>
+		0<input type="checkbox" name="filter2" value="0" checked>
+		1<input type="checkbox" name="filter2" value="1" checked>
+		2<input type="checkbox" name="filter2" value="2" checked>
+		3<input type="checkbox" name="filter2" value="3" checked>
+		4<input type="checkbox" name="filter2" value="4" checked>
+		5<input type="checkbox" name="filter2" value="5" checked>
+		6<input type="checkbox" name="filter2" value="6" checked>
+		7<input type="checkbox" name="filter2" value="7" checked>
+		8<input type="checkbox" name="filter2" value="8" checked>
+		9<input type="checkbox" name="filter2" value="9" checked></br>
+		0<input type="checkbox" name="filter3" value="0" checked>
+		1<input type="checkbox" name="filter3" value="1" checked>
+		2<input type="checkbox" name="filter3" value="2" checked>
+		3<input type="checkbox" name="filter3" value="3" checked>
+		4<input type="checkbox" name="filter3" value="4" checked>
+		5<input type="checkbox" name="filter3" value="5" checked>
+		6<input type="checkbox" name="filter3" value="6" checked>
+		7<input type="checkbox" name="filter3" value="7" checked>
+		8<input type="checkbox" name="filter3" value="8" checked>
+		9<input type="checkbox" name="filter3" value="9" checked></br>
+		0<input type="checkbox" name="filter4" value="0" checked>
+		1<input type="checkbox" name="filter4" value="1" checked>
+		2<input type="checkbox" name="filter4" value="2" checked>
+		3<input type="checkbox" name="filter4" value="3" checked>
+		4<input type="checkbox" name="filter4" value="4" checked>
+		5<input type="checkbox" name="filter4" value="5" checked>
+		6<input type="checkbox" name="filter4" value="6" checked>
+		7<input type="checkbox" name="filter4" value="7" checked>
+		8<input type="checkbox" name="filter4" value="8" checked>
+		9<input type="checkbox" name="filter4" value="9" checked></br>
+		0<input type="checkbox" name="filter5" value="0" checked>
+		1<input type="checkbox" name="filter5" value="1" checked>
+		2<input type="checkbox" name="filter5" value="2" checked>
+		3<input type="checkbox" name="filter5" value="3" checked>
+		4<input type="checkbox" name="filter5" value="4" checked>
+		5<input type="checkbox" name="filter5" value="5" checked>
+		6<input type="checkbox" name="filter5" value="6" checked>
+		7<input type="checkbox" name="filter5" value="7" checked>
+		8<input type="checkbox" name="filter5" value="8" checked>
+		9<input type="checkbox" name="filter5" value="9" checked></br>
+		</form>
+		</div>
+		<script type="text/javascript" src="data.js"></script>
+		<script type="text/javascript">
+		/* version changes
+
+
+		8.000: key codes change various modes.
+		8.001: attribute set to faces now a variable, no longer magic number
+		8.002: cubes now delayed by attribute value and at once, no longer each dimension at a time.
+ 		8.003: some renaming, adding hidden faces
+ 		8.004: small cubes are part of a big cube
+ 		8.1  : now - big cube rotates or explode towards user, no longer project cubes to faces.
+ 		8.101: rotates by pi/2 increments along 2 axes
+ 		8.102: change attrProba to check if rotation works well
+ 		8.103: changing the scales so that 0,0,0 is at center of screen vs at one corner
+ 		8.104: first experiments with filtering
+		8.105: changed attrProba to normal
+		8.11 : adding filtering form
+		8.111: changing pos structure
+		8.112: adding visibility debugging functions
+		8.113: drawing axes
+		8.114: different way of drawing faces
+		9    : realistic data (2010)
+
+
+		*/
+		var k=0.707106781;
+		var depth=k/2;
+		var u=10;
+		var a=u*depth;
+
+		var s=u+2*a;
+
+		var nb=data.length;
+
+		var maxDim=Math.ceil(Math.sqrt(nb));
+		var cubeEdge=Math.ceil(Math.pow(nb,1/3));
+
+		var frontFace=0, topFace=1, rightFace=2, backFace=5, bottomFace=4, leftFace=3;
+
+
+		function showData() {data.forEach(function(d) {row=d.id+" ";d[variables].forEach(function(v) {row+=v+" ";});console.log(row);})}
+		function showMatrix() {data.forEach(function(i,d) {console.log(matrix[0][d]+" "+matrix[1][d]+" "+matrix[2][d]+" "+matrix[3][d]+" "+matrix[4][d]+" "+matrix[5][d]+" "+matrix[6][d]);})}
+
+		data.forEach(function(d,i) {d.id=i;})
+
+
+
+		var matrix=d3.range(7).map(function(c) {return d3.range(nb).map(function(r) {return r;});})
+		var pos=data.map(function(d) {return {id:d.id,x:0,y:0,z:0,order:-1,visible:1};});
+
+		var xScaleX=d3.scale.linear().domain([-maxDim/2,maxDim/2]).range([0,maxDim*u]),
+			xScaleZ=d3.scale.linear().domain([-maxDim/2,maxDim/2]).range([maxDim*a,0]),
+			yScaleY=d3.scale.linear().domain([-maxDim/2,maxDim/2]).range([50+maxDim*u,50]),
+			yScaleZ=d3.scale.linear().domain([-maxDim/2,maxDim/2]).range([50,50+maxDim*a]);
+
+		function renderX(vector) {return xScaleX(vector[0])+xScaleZ(vector[2]);}
+		function renderY(vector) {return yScaleY(vector[1])+yScaleZ(vector[2]);}
+
+		function allVisible() {pos.forEach(function(d,i) {pos[i].visible=1;})}
+		function allHidden() {pos.forEach(function(d,i) {pos[i].visible=0;})}
+		function hideSome(k) {pos.forEach(function(d,i) {pos[i].visible=(Math.random()<k)?1:0;})}
+
+		function showVisible() {return pos.map(function(d) {return d.visible;});}
+		function rePos() {
+			if (mode==0) {
+				var i=0;
+				pos.forEach(function(d,index) {
+					var x,y,z;
+
+					y=~~(i/(cubeEdge*cubeEdge));
+					x=(~~((i-(cubeEdge*cubeEdge)*y)/cubeEdge));
+					z=(i%cubeEdge);
+
+					y-=(cubeEdge/2);
+					x-=(cubeEdge/2);
+					z-=(cubeEdge/2);
+					ox=d.x;
+					oy=d.y;
+					oz=d.z;
+					pos[index]={id:d.id,x:x,y:y,z:z,ox:ox,oy:oy,oz:oz,order:i,delay:d.id,visible:d.visible};
+					if (d.visible){i++;}
+				})
+			} else if (mode==1) {
+				var i=0;
+				pos.sort(function(a,b) {return data[a.id].variables[frontFace]-data[b.id].variables[frontFace];})
+				.forEach(function(d,index) {
+				    var x,y,z;
+					z=0;
+					y=~~(i/maxDim);
+					x=i%maxDim;
+					x-=maxDim/2;
+					y-=maxDim/2;
+					ox=d.x;
+					oy=d.y;
+					oz=d.z;
+					pos[index]={id:d.id,x:x,y:y,z:z,ox:ox,oy:oy,oz:oz,order:-1,delay:500*Math.random(),visible:d.visible};
+					if(d.visible){i++;}
+				})
+			}
+			pos.sort(function(a,b) {return (maxDim*maxDim*(a.y-b.y)+maxDim*(a.z-b.z)+a.x-b.x);});
+			pos.forEach(function(d,i) {pos[i]['order']=i;})
+			pos.sort(function(a,b) {return a.id-b.id;})
+		}
+
+
+		function filterUpdate() {
+			cubes.filter(function(d,i) {return !(pos[d.id].visible);}).transition().style("opacity",0).style("stroke-opacity",0);
+			cubes.filter(function(d,i) {return pos[d.id].visible;}).transition().style("opacity",1).style("stroke-opacity",1);
+			rePos();transform();
+		}
+
+		function rotate(yAxis, angle) {
+			// for the moment we keep it simple
+			var sign=(angle>0)?1:-1;
+			var dummyFace=frontFace;
+			if(!yAxis) {
+				if (sign<0) {
+					frontFace=topFace;
+					topFace=backFace;
+					backFace=bottomFace;
+					bottomFace=dummyFace;
+				} else {
+					frontFace=bottomFace;
+					bottomFace=backFace;
+					backFace=topFace;
+					topFace=dummyFace;
+				}
+				pos.forEach(function(d,i) {
+					var x,y,z,ox=d.x,oy=d.y,oz=d.z;
+					x=ox;
+					y=sign*oz;
+					z=-sign*oy;
+					pos[i]={id:d.id,x:x,y:y,z:z,ox:ox,oy:oy,oz:oz,order:-1,delay:0,visible:d.visible};
+				})
+
+			} else {
+				if (sign>0) {
+					frontFace=leftFace;
+					leftFace=backFace;
+					backFace=rightFace;
+					rightFace=dummyFace;
+				} else {
+					frontFace=rightFace;
+					rightFace=backFace;
+					backFace=leftFace;
+					leftFace=dummyFace;
+				}
+				pos.forEach(function(d,i) {
+					var x,y,z,ox=d.x,oy=d.y,oz=d.z;
+					y=oy;
+					z=-sign*ox;
+					x=sign*oz;
+					pos[i]={id:d.id,x:x,y:y,z:z,ox:ox,oy:oy,oz:oz,order:-1,delay:0,visible:d.visible};
+				})
+			}
+			cubes.selectAll(".f0").style("fill", function(d) {return dict[d.variables[frontFace]].color;})
+			cubes.selectAll(".f1").style("fill", function(d) {return dict[d.variables[topFace]].color;})
+			cubes.selectAll(".f2").style("fill", function(d) {return dict[d.variables[rightFace]].color;})
+			pos.sort(function(a,b) {return maxDim*maxDim*(a.y-b.y)+maxDim*(a.z-b.z)+a.x-b.x;});
+			pos.forEach(function(d,i) {pos[i]['order']=i;})
+			pos.sort(function(a,b) {return a.id-b.id;})
+		}
+
+
+
+
+
+// not sure what this does vv
+
+		d3.range(6).forEach(function(i) {
+		  data.sort(function(a,b) {
+		    return a.variables[i]-b.variables[i]
+		  ;});
+		  matrix[i+1]=data.map(function(d) {return d.id;});
+		  data.sort(function(a,b) {return a.id-b.id;});
+  		})
+
+
+
+
+
+
+
+		//      +----+
+		//    / 1   /|
+		//   +-----+ |
+		//   |     |2|
+		//   |  0  | +
+		//   |     |/
+		//   +-----+
+		//
+		//
+		//  0 - z=0
+ 		//  1 - y=0
+		//  2 - x=0
+
+
+
+
+		var mode=0;rePos();
+
+
+		var vis=d3.select("body").append("svg:svg").attr("width",600).attr("height",600)
+		var bigcube=vis.append("svg:g");
+
+		var cubes=bigcube.selectAll("rect").data(data).enter().append("svg:g");
+
+		var axes=vis.append("svg:g");
+		axes.append("svg:path").style("stroke","black").attr("d",function() {return "M "+renderX([0,-maxDim,0])+" "+renderY([0,-maxDim,0])+" L "+renderX([0,maxDim,0])+" "+renderY([0,maxDim,0]);})
+		axes.append("svg:path").style("stroke","black").attr("d",function() {return "M "+renderX([-maxDim,0,0])+" "+renderY([-maxDim,0,0])+" L "+renderX([maxDim,0,0])+" "+renderY([maxDim,0,0]);})
+		axes.append("svg:path").style("stroke","black").attr("d",function() {return "M "+renderX([0,0,-maxDim])+" "+renderY([0,0,-maxDim])+" L "+renderX([0,0,maxDim])+" "+renderY([0,0,maxDim]);})
+
+		cubes
+		    .style("stroke","black")
+			.attr("id", function(d) {return d.id;})
+
+		cubes.each(function(d,i) {
+				var myPos=pos[d.id];
+				var myCube=d3.select(this);
+
+				myCube
+					.attr("transform", "translate(" + (xScaleX(myPos.x)+xScaleZ(myPos.z)) +", "+ (yScaleY(myPos.y)+yScaleZ(myPos.z)) +")")
+					;})
+
+		colorCubes();
+
+		function colorCubes() {
+		var ax,bx,cx,dx,ex,fx,gx,hx,ay,by,cy,dy,ey,fy,gy,hy;
+		ax=ex=gy=hy=.5*(a-u),
+		ay=by=dx=hx=.5*(u-a),
+		bx=fx=cy=dy=.5*(a+u),
+		cx=gx=ey=fy=-.5*(a+u);
+
+		// 0 face - frontFace
+		cubes.append("svg:path").attr("class","f0").attr("d","M " + cx + " " + cy + " h "+u+" v -"+u+" h -"+u+" Z").style("fill", function(d) {return dict[d.variables[frontFace]].color;})
+		// 1 face - topFace
+		cubes.append("svg:path").attr("class","f1").attr("d","M " + gx + " " + gy + " h "+u+" l "+a+" -"+a+" h -"+u+" Z").style("fill", function(d) {return dict[d.variables[topFace]].color;})
+		// 2 face - rightFace
+		cubes.append("svg:path").attr("class","f2").attr("d","M " + hx + " " + hy + " v "+u+" l "+a+" -"+a+" v -"+u+" Z").style("fill", function(d) {return dict[d.variables[rightFace]].color;})
+		// 3 face - leftFace
+		cubes.append("svg:path").attr("class","f3").attr("d","M 0 0").style("fill", function(d) {return dict[d.variables[leftFace]].color;})
+		// 4 face - bottomFace
+		cubes.append("svg:path").attr("class","f4").attr("d","M 0 0").style("fill", function(d) {return dict[d.variables[bottomFace]].color;})
+		// 5 face - backFace
+		cubes.append("svg:path").attr("class","f5").attr("d","M 0 0").style("fill", function(d) {return dict[d.variables[backFace]].color;})
+		}
+
+		cubes.on("click",function(d,i) {
+		d3.select("#info").html(
+			"id:"+d.id+", i:"+i+"<br>attr:"+d.attr[0]+" "+d.attr[1]+" "+d.attr[2])
+
+		})
+
+		//cubes.on("mousedown", transform);
+		d3.select(window).on("keydown", waitforkey);
+		function waitforkey() {
+			switch (d3.event.keyCode) {
+							case 32: mode = 1-mode; rePos(); break;
+							case 37: d3.select("#mode").html("turning around Y axis, counter-clockwise"); rotate(true,Math.PI/2);break;
+							case 39: d3.select("#mode").html("turning around Y axis, clockwise"); rotate(true,-Math.PI/2);break;
+							case 38: d3.select("#mode").html("turning around X axis, counter-clockwise");rotate(false, Math.PI/2);break;
+							case 40: d3.select("#mode").html("turning around X axis, clockwise");rotate(false, -Math.PI/2);break;
+
+			}
+			transform();
+		}
+
+		function transform() {
+
+			cubes.each(function(d,i) {
+				var myPos=pos[d.id];
+				var myCube=d3.select(this);
+
+				myCube.transition()
+					.attr("transform", "translate(" + (xScaleX(myPos.x)+xScaleZ(myPos.z)) +", "+ (yScaleY(myPos.y)+yScaleZ(myPos.z)) +")")
+					.delay(myPos.delay)
+					.duration(500);
+			})
+
+
+
+			// sort them cubes
+			//
+			// cubes.sort(function(a,b) {var ai=matrix[mode][a.id]; bi=matrix[mode][b.id];return (maxDim*maxDim*(~~(ai/maxDim))+maxDim*(ai%maxDim))-(maxDim*maxDim*(~~(bi/maxDim))+maxDim*(bi%maxDim));})
+			//
+			cubes.sort(function(a,b) {return pos[a.id].order-pos[b.id].order;})
+}
+		</script>
+	</body>
+</html>
+

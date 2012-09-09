@@ -1,0 +1,23 @@
+
+var svg=d3.select("#chart").append("svg:svg")
+scene=svg.append("svg:g")
+rect=scene.append("svg:path")
+
+
+function draw(angle) {var c=Math.cos(angle),s=Math.sin(angle),
+ax=-50*c+50*s+200, ay=-50*s-50*c+200,
+bx=50*c+50*s+200,by=50*s-50*c+200,
+cx=-50*c-50*s+200,cy=-50*s+50*c+200,
+dx=50*c-50*s+200,dy=50*s+50*c+200;
+rect.attr("d","M "+ax+" "+ay+" L "+bx+" "+by+" L "+dx+" "+dy+" L "+cx+" "+cy+" Z");
+}
+
+rect.style("fill","aliceblue").style("stroke","steelblue")
+
+ d3.transition() 
+      .duration(2000) 
+      .ease("elastic") 
+      .tween("myVar", function() { 
+        var i = d3.interpolate(0, Math.PI/2); 
+        return function(t) { draw(i(t)); }; 
+      }); 
