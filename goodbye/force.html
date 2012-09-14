@@ -10,12 +10,14 @@ body{background-color: aliceblue;}
 .node {
   stroke: #fff;
 }
-
+.wcWords {display:none;}
 #chart {position:fixed;}
 #side {position:absolute;top:0px;left:1000px;width:500px;}
 
 </style>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
 <body>
+
   <div id="chart"></div>
   <div id="side"></div>
 <script src="http://d3js.org/d3.v2.min.js"></script>
@@ -28,6 +30,11 @@ var cScale=d3.scale.linear()
   //.range(["purple","green"])
   .range(["purple","lightblue","green"])
   ;
+var fsScale=d3.scale.linear()
+  .domain([20,200])
+  .range([10,24])
+  .clamp([true])
+;
 var margin = {top: 0, right: 40, bottom: 0, left: 40},
     width = 1000 - margin.left - margin.right,
     height = 1000 - margin.top - margin.bottom;
@@ -87,10 +94,15 @@ d3.json("nodes.txt", function(json) {
     .attr("r",3).attr("cx",function(d,i){return 40*i}).attr("cy",function(d,i){return 25-25*d.value/d.max})
     .style("fill","steelblue").style("stroke","none")
     .append("title").text(function(d) {return d.value;})
-  divs.append("div").selectAll("span")
-  .data(function(d) {var max=d3.max(d.mf, function(w) {return w.freq;});return d.mf.map(function(w) {return {word:w.word,freq:w.freq,max:max};});})
+  wc=divs.append("div").classed("wordcloud",1);
+  wc.append("h4").html("Frequent words:").on("click",function(d) {
+    var v=d3.selectAll("#wd"+d.ID).style("display");console.log(v);
+    d3.selectAll("#wd"+d.ID).style("display",v=="none"?"block":"none")
+  })
+  wc.append("div").classed("wcWords",1).attr("id",function(d) {return "wd"+d.ID;}).selectAll("span")
+  .data(function(d) {var max=d3.max(d.mf, function(w) {return w.freq;});return d.mf.map(function(w) {return {word:w.word,freq:w.freq,max:max};}).sort(function(a,b) {return (a.word>b.word)?1:-1;});})
   .enter()
-    .append("span").html(function(d) {return d.word+" ";}).append("title",function(d) {return d.freq;})
+    .append("span").html(function(d) {return d.word+" ";}).style("font-size",function(d) {return fsScale(d.freq)+"px";}).append("title").text(function(d) {return d.freq;})
   
 
   //side.selectAll(".barchart").data(top10).enter().append("g").classed("barchart",1).attr("transform",function(d,i).)
