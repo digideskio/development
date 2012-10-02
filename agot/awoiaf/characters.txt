@@ -1,0 +1,1886 @@
+<<<<<<<<<<<<<<<URL	Name	id	First mention	Mentions	Last mention
+/index.php/Maynard_Plumm	Maynard Plumm	1103	-1	0	0
+/index.php/Nage	Nage	1200	-1	0	0
+/index.php/Melwyn_Sarsfield	Melwyn Sarsfield	1126	-1	0	0
+/index.php/Nysterica	Nysterica	1222	-1	0	0
+/index.php/Cossomo	Cossomo	330	-1	0	0
+/index.php/Damon_Vypren	Damon Vypren	374	-1	0	0
+/index.php/Margaery_Tyrell	Margaery Tyrell	1066	27	26	347
+/index.php/Jon_Vance	Jon Vance	854	-1	0	0
+/index.php/Bryan_Frey	Bryan Frey	259	-1	0	0
+/index.php/Luceon_Frey	Luceon Frey	999	-1	0	0
+/index.php/Dunaver	Dunaver	441	-1	0	0
+/index.php/Jarl	Jarl	794	160	3	175
+/index.php/Temmo	Temmo	1634	-1	0	0
+/index.php/Red_Walder_Frey	Red Walder Frey	1390	-1	0	0
+/index.php/Illyrio_Mopatis	Illyrio Mopatis	771	3	14	327
+/index.php/Terrence_Toyne	Terrence Toyne	1638	241	1	241
+/index.php/Malliard	Malliard	1053	-1	0	0
+/index.php/Gilbert_Farring	Gilbert Farring	601	-1	0	0
+/index.php/Arlan_of_Pennytree	Arlan of Pennytree	115	-1	0	0
+/index.php/Daenerys_Targaryen	Daenerys Targaryen	352	3	52	347
+/index.php/Harry_Strickland	Harry Strickland	706	299	1	299
+/index.php/Rhialta_Vance	Rhialta Vance	1413	-1	0	0
+/index.php/Jorah_Stark	Jorah Stark	863	-1	0	0
+/index.php/Symeon_Star-Eyes	Symeon Star-Eyes	1614	131	1	131
+/index.php/Osbert_Serry	Osbert Serry	1253	-1	0	0
+/index.php/Galladon	Galladon	551	-1	0	0
+/index.php/Rickard_Karstark	Rickard Karstark	1420	81	5	190
+/index.php/Alester_Norcross	Alester Norcross	49	-1	0	0
+/index.php/Meliana	Meliana	1120	-1	0	0
+/index.php/Quellon_Humble	Quellon Humble	1342	246	1	246
+/index.php/Tickler	Tickler	1656	100	2	219
+/index.php/Dale_Drumm	Dale Drumm	367	-1	0	0
+/index.php/Emmett	Emmett	499	303	1	303
+/index.php/Norbert_Vance	Norbert Vance	1211	-1	0	0
+/index.php/Samwell_Tarly	Samwell Tarly	1527	26	26	282
+/index.php/Jon_Arryn	Jon Arryn	836	2	33	269
+/index.php/Richard_Horpe	Richard Horpe	1418	282	2	337
+/index.php/Gretchel	Gretchel	631	238	1	238
+/index.php/Dudley	Dudley	440	-1	0	0
+/index.php/Androw_Frey	Androw Frey	102	-1	0	0
+/index.php/Albar_Royce	Albar Royce	39	238	1	238
+/index.php/Jorquen	Jorquen	867	-1	0	0
+/index.php/Robert_Arryn	Robert Arryn	1432	4	14	269
+/index.php/Edrick_Stark	Edrick Stark	466	-1	0	0
+/index.php/Aegor_Rivers	Aegor Rivers	14	241	2	309
+/index.php/Damon_Lannister	Damon Lannister	371	-1	0	0
+/index.php/Will_(Standfast)	Will (Standfast)	1830	-1	0	0
+/index.php/Barristan_Selmy	Barristan Selmy	163	8	33	345
+/index.php/Wendell_Webber	Wendell Webber	1817	-1	0	0
+/index.php/Alyn_Frey	Alyn Frey	69	-1	0	0
+/index.php/Tygett_Lannister	Tygett Lannister	1713	115	2	261
+/index.php/Jeyne_Rivers	Jeyne Rivers	819	-1	0	0
+/index.php/Tyana_Wylde	Tyana Wylde	1707	-1	0	0
+/index.php/Martyn_Rivers	Martyn Rivers	1086	29	2	113
+/index.php/Ben_(Big_Belly)	Ben (Big Belly)	185	-1	0	0
+/index.php/Arryk	Arryk	125	8	1	8
+/index.php/Patrek_Mallister	Patrek Mallister	1291	29	1	29
+/index.php/Urreg	Urreg	1741	-1	0	0
+/index.php/Sallei_Paege	Sallei Paege	1521	-1	0	0
+/index.php/Jon_Hollard	Jon Hollard	844	-1	0	0
+/index.php/Jeyne_Westerling	Jeyne Westerling	822	159	8	272
+/index.php/Aegon_III_Targaryen	Aegon III Targaryen	10	23	1	23
+/index.php/Rhaena_Targaryen	Rhaena Targaryen	1409	-1	0	0
+/index.php/Cassana_Estermont	Cassana Estermont	283	-1	0	0
+/index.php/Maester_Cressen	Maester Cressen	1046	74	4	228
+/index.php/Daeron_Vaith	Daeron Vaith	357	-1	0	0
+/index.php/Sylva_Santagar	Sylva Santagar	1612	249	3	268
+/index.php/Euron_Greyjoy	Euron Greyjoy	521	190	9	331
+/index.php/Ronnel_Stout	Ronnel Stout	1482	-1	0	0
+/index.php/Theon_Stark	Theon Stark	1649	-1	0	0
+/index.php/Kemmett_Pyke	Kemmett Pyke	896	239	1	239
+/index.php/Mariya_Darry	Mariya Darry	1072	-1	0	0
+/index.php/Benedict	Benedict	190	228	1	228
+/index.php/Theobald	Theobald	1642	-1	0	0
+/index.php/Lysa_Meadows	Lysa Meadows	1032	-1	0	0
+/index.php/Lysa_Tully	Lysa Tully	1033	12	2	261
+/index.php/Shortear	Shortear	1564	-1	0	0
+/index.php/Jodge	Jodge	830	-1	0	0
+/index.php/Lyra_Mormont	Lyra Mormont	1031	-1	0	0
+/index.php/Roslin_Frey	Roslin Frey	1493	180	5	266
+/index.php/Hake	Hake	669	-1	0	0
+/index.php/Clement	Clement	307	-1	0	0
+/index.php/Cley_Cerwyn	Cley Cerwyn	313	90	1	90
+/index.php/Howland_Reed	Howland Reed	753	4	4	190
+/index.php/Symond_Botley	Symond Botley	1618	-1	0	0
+/index.php/Tion_Frey	Tion Frey	1664	165	1	165
+/index.php/Humfrey_Swyft	Humfrey Swyft	764	-1	0	0
+/index.php/Lyn_Corbray	Lyn Corbray	1022	238	2	251
+/index.php/Elbert_Arryn	Elbert Arryn	476	-1	0	0
+/index.php/Lyle_Crakehall	Lyle Crakehall	1017	119	5	266
+/index.php/Togg_Joth	Togg Joth	1671	-1	0	0
+/index.php/Mylenda_Caron	Mylenda Caron	1188	-1	0	0
+/index.php/Stonehand	Stonehand	1601	246	1	246
+/index.php/Gilly	Gilly	603	97	11	278
+/index.php/Cynthea_Frey	Cynthea Frey	342	-1	0	0
+/index.php/Emma	Emma	498	228	1	228
+/index.php/Narbert	Narbert	1202	-1	0	0
+/index.php/Sleepy_Jack	Sleepy Jack	1577	-1	0	0
+/index.php/Leonella_Lefford	Leonella Lefford	948	-1	0	0
+/index.php/Torrhen_Karstark	Torrhen Karstark	1684	63	2	159
+/index.php/Aenys_Frey	Aenys Frey	22	295	3	321
+/index.php/Robert_Baratheon	Robert Baratheon	1434	0	81	347
+/index.php/Clydas	Clydas	316	224	2	285
+/index.php/Ryles	Ryles	1513	-1	0	0
+/index.php/Alia	Alia	52	-1	0	0
+/index.php/Cheyk	Cheyk	301	-1	0	0
+/index.php/Jammos_Frey	Jammos Frey	787	-1	0	0
+/index.php/Colen_of_Greenpools	Colen of Greenpools	320	96	1	96
+/index.php/Elwood_Meadows	Elwood Meadows	491	119	1	119
+/index.php/Eyron_Stark	Eyron Stark	526	-1	0	0
+/index.php/Myrtle	Myrtle	1198	-1	0	0
+/index.php/Artos_Stark	Artos Stark	131	-1	0	0
+/index.php/Galt	Galt	554	-1	0	0
+/index.php/Emrick	Emrick	504	-1	0	0
+/index.php/Lyanna_Stark	Lyanna Stark	1015	4	15	347
+/index.php/Gelmarr	Gelmarr	584	-1	0	0
+/index.php/Vardis_Egen	Vardis Egen	1754	34	3	40
+/index.php/Courtenay_Greenhill	Courtenay Greenhill	332	-1	0	0
+/index.php/Cleyton_Caswell	Cleyton Caswell	314	-1	0	0
+/index.php/Jon_Wylde	Jon Wylde	856	-1	0	0
+/index.php/Brandon_Stark_(Bad)	Brandon Stark (Bad)	244	-1	0	0
+/index.php/Brynden_Tully	Brynden Tully	265	2	19	272
+/index.php/Preston_Greenfield	Preston Greenfield	1321	115	2	123
+/index.php/House_Templeton	House Templeton	752	-1	0	0
+/index.php/Dunsen	Dunsen	444	-1	0	0
+/index.php/Ragwyle	Ragwyle	1363	-1	0	0
+/index.php/Dickon_Frey	Dickon Frey	410	-1	0	0
+/index.php/Morosh	Morosh	1164	-1	0	0
+/index.php/Garth_Hightower	Garth Hightower	576	-1	0	0
+/index.php/Yormwell	Yormwell	1876	-1	0	0
+/index.php/Osney_Kettleblack	Osney Kettleblack	1259	245	5	329
+/index.php/Harodon	Harodon	694	-1	0	0
+/index.php/Mors_Umber	Mors Umber	1170	-1	0	0
+/index.php/Domeric_Bolton	Domeric Bolton	417	307	1	307
+/index.php/Sigfryd_Harlaw	Sigfryd Harlaw	1568	239	1	239
+/index.php/Tansy_(orphan)	Tansy (orphan)	1630	-1	0	0
+/index.php/Jasper_Redfort	Jasper Redfort	798	-1	0	0
+/index.php/Robyn_Rhysling	Robyn Rhysling	1450	-1	0	0
+/index.php/Oznak_zo_Pahl	Oznak zo Pahl	1276	202	1	202
+/index.php/Old_Tattersalt	Old Tattersalt	1230	-1	0	0
+/index.php/Alyn_Estermont	Alyn Estermont	68	-1	0	0
+/index.php/Asha_Greyjoy	Asha Greyjoy	138	85	16	337
+/index.php/Scarb	Scarb	1538	-1	0	0
+/index.php/Mohor	Mohor	1148	-1	0	0
+/index.php/Belis	Belis	177	182	1	182
+/index.php/Lucas_Roote	Lucas Roote	997	-1	0	0
+/index.php/Hugh	Hugh	755	25	4	99
+/index.php/Gyles_Rosby	Gyles Rosby	662	118	4	267
+/index.php/Garin_(Prince)	Garin (Prince)	562	-1	0	0
+/index.php/Donnel_Locke	Donnel Locke	424	-1	0	0
+/index.php/Renfred_Rykker	Renfred Rykker	1395	-1	0	0
+/index.php/Shella_Whent	Shella Whent	1557	251	1	251
+/index.php/Lenyl	Lenyl	939	-1	0	0
+/index.php/Alysane_Mormont	Alysane Mormont	77	317	2	337
+/index.php/Glendon_Flowers	Glendon Flowers	606	-1	0	0
+/index.php/Ben_Plumm	Ben Plumm	188	202	1	202
+/index.php/Three-Tooth	Three-Tooth	1655	239	1	239
+/index.php/Alyce_Graceford	Alyce Graceford	62	-1	0	0
+/index.php/Gariss	Gariss	563	-1	0	0
+/index.php/Donnor_Stark	Donnor Stark	428	-1	0	0
+/index.php/Bowen_Marsh	Bowen Marsh	237	21	9	344
+/index.php/Edwyn_Frey	Edwyn Frey	469	194	5	272
+/index.php/Kirby_Pimm	Kirby Pimm	903	-1	0	0
+/index.php/Will	Will	1825	0	1	0
+/index.php/Elys_Waynwood	Elys Waynwood	495	-1	0	0
+/index.php/Lia_Serry	Lia Serry	963	-1	0	0
+/index.php/Rafford	Rafford	1361	158	2	272
+/index.php/Varly	Varly	1756	-1	0	0
+/index.php/Elron	Elron	489	-1	0	0
+/index.php/Elia_Sand	Elia Sand	484	230	1	230
+/index.php/Garth_Greyfeather	Garth Greyfeather	575	306	1	306
+/index.php/Steffon_Varner	Steffon Varner	1597	-1	0	0
+/index.php/Walda_Rivers	Walda Rivers	1778	-1	0	0
+/index.php/Grazdan	Grazdan	623	-1	0	0
+/index.php/Orbert_Caswell	Orbert Caswell	1242	-1	0	0
+/index.php/Clarence_Crabb_(Short)	Clarence Crabb (Short)	305	-1	0	0
+/index.php/Irri	Irri	775	11	2	23
+/index.php/Tregar	Tregar	1690	-1	0	0
+/index.php/Ulwyck_Uller	Ulwyck Uller	1733	-1	0	0
+/index.php/Sedgekins	Sedgekins	1541	-1	0	0
+/index.php/Willifer	Willifer	1845	-1	0	0
+/index.php/Yorkel	Yorkel	1874	-1	0	0
+/index.php/Imry_Florent	Imry Florent	773	132	2	170
+/index.php/Jaqen_H%27ghar	Jaqen H'ghar	791	79	8	250
+/index.php/Harrag_Sharp	Harrag Sharp	697	-1	0	0
+/index.php/Alayaya	Alayaya	38	89	3	207
+/index.php/Aegon_IV_Targaryen	Aegon IV Targaryen	11	80	1	80
+/index.php/Cetheres	Cetheres	296	-1	0	0
+/index.php/Toregg	Toregg	1680	-1	0	0
+/index.php/Sam_Stoops	Sam Stoops	1524	-1	0	0
+/index.php/Medger_Cerwyn	Medger Cerwyn	1106	104	1	104
+/index.php/Quence	Quence	1343	-1	0	0
+/index.php/Lyman_Darry	Lyman Darry	1018	-1	0	0
+/index.php/Horas_Redwyne	Horas Redwyne	741	29	1	29
+/index.php/Tya_Lannister	Tya Lannister	1706	-1	0	0
+/index.php/Lewys_Piper	Lewys Piper	959	-1	0	0
+/index.php/Valarr_Targaryen	Valarr Targaryen	1752	-1	0	0
+/index.php/Wat	Wat	1798	-1	0	0
+/index.php/Alyssa_Blackwood	Alyssa Blackwood	86	-1	0	0
+/index.php/Jon_Penrose	Jon Penrose	848	-1	0	0
+/index.php/Lyonel_Baratheon	Lyonel Baratheon	1026	-1	0	0
+/index.php/Aron_Santagar	Aron Santagar	121	18	7	252
+/index.php/Halmon_Paege	Halmon Paege	677	-1	0	0
+/index.php/Godwyn	Godwyn	611	-1	0	0
+/index.php/Bael	Bael	146	125	1	125
+/index.php/Gerold_Grafton	Gerold Grafton	593	-1	0	0
+/index.php/Pollitor	Pollitor	1311	-1	0	0
+/index.php/Meg	Meg	1109	-1	0	0
+/index.php/Will_(squire)	Will (squire)	1829	-1	0	0
+/index.php/Flement_Brax	Flement Brax	538	-1	0	0
+/index.php/Rolland_Uffering	Rolland Uffering	1473	-1	0	0
+/index.php/Jyanna_Frey	Jyanna Frey	884	-1	0	0
+/index.php/Grisel	Grisel	637	-1	0	0
+/index.php/Terrence_Kenning	Terrence Kenning	1637	-1	0	0
+/index.php/Malcolm	Malcolm	1050	-1	0	0
+/index.php/Shae	Shae	1552	62	15	280
+/index.php/Medgar_Tully	Medgar Tully	1105	-1	0	0
+/index.php/Cedric_Payne	Cedric Payne	290	-1	0	0
+/index.php/Ossy	Ossy	1261	-1	0	0
+/index.php/Rodrik_Stark	Rodrik Stark	1457	-1	0	0
+/index.php/Morgarth	Morgarth	1160	-1	0	0
+/index.php/Amarei_Crakehall	Amarei Crakehall	89	-1	0	0
+/index.php/Lanna_(Happy_Port)	Lanna (Happy Port)	926	-1	0	0
+/index.php/Jon_Redfort	Jon Redfort	850	-1	0	0
+/index.php/Lem_(Standfast)	Lem (Standfast)	935	-1	0	0
+/index.php/Luthor_Tyrell	Luthor Tyrell	1009	-1	0	0
+/index.php/Merrell_Florent	Merrell Florent	1136	-1	0	0
+/index.php/Bandy	Bandy	156	-1	0	0
+/index.php/Tywin_Lannister	Tywin Lannister	1727	4	74	347
+/index.php/Creighton_Longbough	Creighton Longbough	337	-1	0	0
+/index.php/Rugen	Rugen	1499	-1	0	0
+/index.php/Benjen_Stark_(Bitter)	Benjen Stark (Bitter)	195	-1	0	0
+/index.php/Gerion_Lannister	Gerion Lannister	591	261	2	272
+/index.php/Robar_Royce	Robar Royce	1429	29	5	212
+/index.php/Del	Del	387	-1	0	0
+/index.php/Sandor_Frey	Sandor Frey	1529	-1	0	0
+/index.php/Sandor_Clegane	Sandor Clegane	1528	4	36	323
+/index.php/Kurleket	Kurleket	910	-1	0	0
+/index.php/Jon_Connington	Jon Connington	840	174	8	347
+/index.php/Maric_Seaworth	Maric Seaworth	1069	-1	0	0
+/index.php/Tanton_Fossoway	Tanton Fossoway	1631	-1	0	0
+/index.php/Argilac	Argilac	111	-1	0	0
+/index.php/Marlon_Manderly	Marlon Manderly	1075	-1	0	0
+/index.php/Rainbow_Knight	Rainbow Knight	1364	-1	0	0
+/index.php/Vayon_Poole	Vayon Poole	1758	14	8	51
+/index.php/Rorge	Rorge	1488	88	8	265
+/index.php/Ogo	Ogo	1227	61	1	61
+/index.php/Josmyn_Peckledon	Josmyn Peckledon	872	258	2	272
+/index.php/Lomys	Lomys	969	-1	0	0
+/index.php/Leathers	Leathers	933	-1	0	0
+/index.php/Haggon	Haggon	668	275	1	275
+/index.php/Harwin	Harwin	708	1	8	270
+/index.php/Wex_Pyke	Wex Pyke	1820	124	2	304
+/index.php/Watty	Watty	1807	-1	0	0
+/index.php/Pono	Pono	1313	68	1	68
+/index.php/Mina_Tyrell	Mina Tyrell	1143	-1	0	0
+/index.php/Maron_Greyjoy	Maron Greyjoy	1077	130	3	239
+/index.php/Jonos_Bracken	Jonos Bracken	858	180	3	323
+/index.php/Harys_Swyft	Harys Swyft	714	245	5	347
+/index.php/Loreza_Sand	Loreza Sand	979	230	1	230
+/index.php/Pycelle	Pycelle	1326	2	28	347
+/index.php/Hosman_Norcross	Hosman Norcross	743	-1	0	0
+/index.php/Titus_Peake	Titus Peake	1665	-1	0	0
+/index.php/Tim_Tangletongue	Tim Tangletongue	1658	-1	0	0
+/index.php/Senelle	Senelle	1546	240	2	252
+/index.php/Gran_Goodbrother	Gran Goodbrother	621	229	1	229
+/index.php/Pyat_Pree	Pyat Pree	1325	101	2	122
+/index.php/Sloey	Sloey	1578	-1	0	0
+/index.php/Leona_Tyrell	Leona Tyrell	946	-1	0	0
+/index.php/Guyard_Morrigen	Guyard Morrigen	650	136	1	136
+/index.php/Willow_Heddle	Willow Heddle	1848	265	1	265
+/index.php/Mya_Stone	Mya Stone	1185	34	2	269
+/index.php/Lord_Caswell	Lord Caswell	974	-1	0	0
+/index.php/Tybolt_Hetherspoon	Tybolt Hetherspoon	1709	-1	0	0
+/index.php/Cadwyn	Cadwyn	275	-1	0	0
+/index.php/Cadwyl	Cadwyl	274	-1	0	0
+/index.php/Omer_Blackberry	Omer Blackberry	1238	-1	0	0
+/index.php/Symond_Frey	Symond Frey	1619	294	2	321
+/index.php/Alequo_Adarys	Alequo Adarys	43	-1	0	0
+/index.php/Denys_Drumm	Denys Drumm	398	-1	0	0
+/index.php/Urron_Greyiron	Urron Greyiron	1743	239	1	239
+/index.php/Wat_(Wet)	Wat (Wet)	1803	-1	0	0
+/index.php/Beldecar	Beldecar	175	-1	0	0
+/index.php/Grigg	Grigg	636	-1	0	0
+/index.php/Kraznys_mo_Nakloz	Kraznys mo Nakloz	907	168	2	172
+/index.php/Daeron_I_Targaryen	Daeron I Targaryen	354	5	1	5
+/index.php/Jon	Jon	835	-1	0	0
+/index.php/Belwas	Belwas	183	137	5	334
+/index.php/Petyr_Frey	Petyr Frey	1304	194	2	226
+/index.php/Fogo	Fogo	539	-1	0	0
+/index.php/Trebor_Jordayne	Trebor Jordayne	1689	-1	0	0
+/index.php/Moonshadow	Moonshadow	1154	-1	0	0
+/index.php/Symon_Santagar	Symon Santagar	1617	-1	0	0
+/index.php/High_Sparrow	High Sparrow	729	329	1	329
+/index.php/Cellador	Cellador	292	314	1	314
+/index.php/Rolfe_(Red)	Rolfe (Red)	1468	-1	0	0
+/index.php/Pate_(Maidenpool)	Pate (Maidenpool)	1283	-1	0	0
+/index.php/Theomore_Harlaw	Theomore Harlaw	1647	239	1	239
+/index.php/Beron_Stark	Beron Stark	208	-1	0	0
+/index.php/Hodor	Hodor	736	8	15	309
+/index.php/Henly_(Young)	Henly (Young)	725	-1	0	0
+/index.php/Sharna	Sharna	1555	158	2	162
+/index.php/Mirri_Maz_Duur	Mirri Maz Duur	1145	61	5	122
+/index.php/Grazdan_mo_Eraz	Grazdan mo Eraz	625	-1	0	0
+/index.php/Walder_Frey_(Big)	Walder Frey (Big)	1781	180	2	287
+/index.php/Qhorin_Halfhand	Qhorin Halfhand	1335	70	8	142
+/index.php/Will_(Hookface)	Will (Hookface)	1827	-1	0	0
+/index.php/Poxy_Tym	Poxy Tym	1318	-1	0	0
+/index.php/Umma	Umma	1736	-1	0	0
+/index.php/Noho_Dimittis	Noho Dimittis	1209	252	1	252
+/index.php/Jyck	Jyck	885	13	3	24
+/index.php/Boremund_Harlaw	Boremund Harlaw	233	239	1	239
+/index.php/Nan	Nan	1201	1	5	80
+/index.php/Arthur_Dayne	Arthur Dayne	130	6	9	249
+/index.php/Garth_XII_Gardener	Garth XII Gardener	578	-1	0	0
+/index.php/Norne_Goodbrother	Norne Goodbrother	1214	246	1	246
+/index.php/Rhaenys_daughter_of_Rhaegar_Targaryen	Rhaenys daughter of Rhaegar Targaryen	1410	230	1	230
+/index.php/Justin_Massey	Justin Massey	882	282	3	337
+/index.php/Utt	Utt	1749	184	1	184
+/index.php/Alyx_Frey	Alyx Frey	87	-1	0	0
+/index.php/Gawen_Glover	Gawen Glover	580	-1	0	0
+/index.php/Delp	Delp	391	-1	0	0
+/index.php/Frynne	Frynne	547	-1	0	0
+/index.php/Urzen	Urzen	1745	124	1	124
+/index.php/Reznak_mo_Reznak	Reznak mo Reznak	1401	277	4	334
+/index.php/Urek	Urek	1738	-1	0	0
+/index.php/Delena_Florent	Delena Florent	388	30	2	35
+/index.php/Hugh_Beesbury	Hugh Beesbury	756	-1	0	0
+/index.php/Baelor_Hightower	Baelor Hightower	148	215	1	215
+/index.php/Collio_Quaynis	Collio Quaynis	322	-1	0	0
+/index.php/Ollo_Lophand	Ollo Lophand	1234	178	1	178
+/index.php/Gawen_Swann	Gawen Swann	581	-1	0	0
+/index.php/Gawen_Westerling	Gawen Westerling	582	164	4	272
+/index.php/Godric_Borrell	Godric Borrell	609	284	1	284
+/index.php/Lorren	Lorren	982	124	1	124
+/index.php/Leo_Blackbar	Leo Blackbar	940	-1	0	0
+/index.php/Tybolt_Lannister	Tybolt Lannister	1710	-1	0	0
+/index.php/Rickard_Stark_(King)	Rickard Stark (King)	1423	-1	0	0
+/index.php/Ottomore	Ottomore	1270	-1	0	0
+/index.php/Royce_Coldwater	Royce Coldwater	1496	-1	0	0
+/index.php/Gyles_Grafton	Gyles Grafton	660	-1	0	0
+/index.php/Garrett_Paege	Garrett Paege	567	-1	0	0
+/index.php/Elder_Brother	Elder Brother	477	259	1	259
+/index.php/Meha	Meha	1111	275	1	275
+/index.php/Harlon_Botley	Harlon Botley	687	-1	0	0
+/index.php/Martyn_Cassel	Martyn Cassel	1083	-1	0	0
+/index.php/Viserys_Targaryen	Viserys Targaryen	1770	3	18	318
+/index.php/Rhaella_Targaryen	Rhaella Targaryen	1407	3	4	244
+/index.php/Harren_Hoare	Harren Hoare	701	104	3	251
+/index.php/Denys_Arryn	Denys Arryn	396	238	1	238
+/index.php/Terro	Terro	1639	-1	0	0
+/index.php/Arrec	Arrec	122	-1	0	0
+/index.php/Harlan_Hunter	Harlan Hunter	685	251	1	251
+/index.php/Gareth_the_Grey	Gareth the Grey	559	-1	0	0
+/index.php/Ygritte	Ygritte	1869	125	9	303
+/index.php/Maron_Botley	Maron Botley	1076	-1	0	0
+/index.php/Gyles_III_Gardener	Gyles III Gardener	661	-1	0	0
+/index.php/Addam_Marbrand	Addam Marbrand	2	62	6	256
+/index.php/Deziel_Dalt	Deziel Dalt	407	-1	0	0
+/index.php/Ondrew_Locke	Ondrew Locke	1240	-1	0	0
+/index.php/Gormon_Tyrell	Gormon Tyrell	615	157	2	228
+/index.php/Olene_Tyrell	Olene Tyrell	1231	-1	0	0
+/index.php/Moelle	Moelle	1147	271	2	329
+/index.php/Kegs	Kegs	894	282	1	282
+/index.php/Josua_Willum	Josua Willum	876	-1	0	0
+/index.php/Lymond_Goodbrook	Lymond Goodbrook	1019	217	1	217
+/index.php/Grisella	Grisella	638	275	1	275
+/index.php/Carellen_Smallwood	Carellen Smallwood	279	-1	0	0
+/index.php/Quellon_Botley	Quellon Botley	1340	-1	0	0
+/index.php/Mycah	Mycah	1186	15	5	179
+/index.php/Beron_Blacktyde	Beron Blacktyde	207	239	1	239
+/index.php/Gorne	Gorne	618	171	1	171
+/index.php/Grey_Worm	Grey Worm	633	305	2	325
+/index.php/Olenna_Redwyne	Olenna Redwyne	1232	151	6	240
+/index.php/Ryon_Allyrion	Ryon Allyrion	1517	-1	0	0
+/index.php/Bill	Bill	223	-1	0	0
+/index.php/Benedar_Belmore	Benedar Belmore	189	238	2	269
+/index.php/Illifer	Illifer	770	232	1	232
+/index.php/Quincy_Cox	Quincy Cox	1356	259	1	259
+/index.php/Denys_Redwyne	Denys Redwyne	400	-1	0	0
+/index.php/Pate_(King%27s_Landing)	Pate (King's Landing)	1281	264	1	264
+/index.php/Urswyck	Urswyck	1744	166	2	248
+/index.php/Alesander_Torrent	Alesander Torrent	47	-1	0	0
+/index.php/Sybell_Spicer	Sybell Spicer	1608	164	4	272
+/index.php/Alyn	Alyn	63	12	5	45
+/index.php/Catelyn_Bracken	Catelyn Bracken	286	-1	0	0
+/index.php/Melara_Crane	Melara Crane	1115	-1	0	0
+/index.php/Aubrey_Ambrose	Aubrey Ambrose	141	-1	0	0
+/index.php/Jeyne_Goodbrook	Jeyne Goodbrook	814	-1	0	0
+/index.php/Roland_Crakehall_(Lord)	Roland Crakehall (Lord)	1465	106	1	106
+/index.php/Greydon_Goodbrother	Greydon Goodbrother	634	229	1	229
+/index.php/Penny	Penny	1296	302	6	332
+/index.php/Paul	Paul	1293	163	2	191
+/index.php/Leyla_Hightower	Leyla Hightower	960	-1	0	0
+/index.php/Willam_Wythers	Willam Wythers	1838	-1	0	0
+/index.php/Marwyn	Marwyn	1087	228	3	273
+/index.php/Aerys_I_Targaryen	Aerys I Targaryen	26	80	1	80
+/index.php/Drennan	Drennan	437	-1	0	0
+/index.php/Alekyne_Florent	Alekyne Florent	42	-1	0	0
+/index.php/Jason_Mallister	Jason Mallister	796	29	3	190
+/index.php/Robin_Potter	Robin Potter	1448	-1	0	0
+/index.php/Raynald_Westerling	Raynald Westerling	1386	190	2	272
+/index.php/Joth_Quickbow	Joth Quickbow	877	-1	0	0
+/index.php/Morra	Morra	1165	-1	0	0
+/index.php/Allard_Seaworth	Allard Seaworth	56	-1	0	0
+/index.php/Sybelle_Locke	Sybelle Locke	1609	239	4	337
+/index.php/Hotho_Harlaw	Hotho Harlaw	749	239	1	239
+/index.php/Moon_Boy	Moon Boy	1153	29	2	126
+/index.php/Pyg	Pyg	1327	248	1	248
+/index.php/Jaime_Lannister	Jaime Lannister	785	3	76	347
+/index.php/Pylos	Pylos	1328	199	2	208
+/index.php/Vickon_Greyjoy	Vickon Greyjoy	1761	-1	0	0
+/index.php/Donnel_Drumm	Donnel Drumm	421	-1	0	0
+/index.php/Desmond	Desmond	403	1	4	32
+/index.php/Matthar	Matthar	1099	-1	0	0
+/index.php/Gawen_Wylde	Gawen Wylde	583	107	1	107
+/index.php/Emphyria_Vance	Emphyria Vance	503	-1	0	0
+/index.php/Marissa_Frey	Marissa Frey	1071	-1	0	0
+/index.php/Dagos_Manwoody	Dagos Manwoody	363	215	1	215
+/index.php/Fralegg	Fralegg	542	246	1	246
+/index.php/Sarya_Whent	Sarya Whent	1534	-1	0	0
+/index.php/Joy_Hill	Joy Hill	879	272	1	272
+/index.php/Ottyn_Wythers	Ottyn Wythers	1271	87	2	145
+/index.php/Aerion_Targaryen	Aerion Targaryen	24	80	3	182
+/index.php/Morros_Slynt	Morros Slynt	1167	-1	0	0
+/index.php/Narbo	Narbo	1203	-1	0	0
+/index.php/Serala	Serala	1547	237	1	237
+/index.php/Dake_(Guard)	Dake (Guard)	365	-1	0	0
+/index.php/Norjen	Norjen	1212	-1	0	0
+/index.php/Perriane_Frey	Perriane Frey	1298	-1	0	0
+/index.php/Arnell	Arnell	119	-1	0	0
+/index.php/Rupert_Brax	Rupert Brax	1501	106	1	106
+/index.php/Orton_Merryweather	Orton Merryweather	1251	240	6	329
+/index.php/Arneld	Arneld	118	-1	0	0
+/index.php/Hosteen_Frey	Hosteen Frey	744	29	5	326
+/index.php/Ralf_(Lordsport)	Ralf (Lordsport)	1367	246	1	246
+/index.php/Marei	Marei	1065	-1	0	0
+/index.php/Walda_Frey_(daughter_of_Lothar)	Walda Frey (daughter of Lothar)	1777	-1	0	0
+/index.php/Mikken	Mikken	1142	8	6	109
+/index.php/Whalen_Frey	Whalen Frey	1821	-1	0	0
+/index.php/Helya	Helya	720	-1	0	0
+/index.php/Shireen_Baratheon	Shireen Baratheon	1562	74	6	328
+/index.php/Nella	Nella	1205	-1	0	0
+/index.php/Gulian_Qorgyle	Gulian Qorgyle	643	-1	0	0
+/index.php/Ethan_Glover	Ethan Glover	520	-1	0	0
+/index.php/Taena_of_Myr	Taena of Myr	1622	211	9	271
+/index.php/Simon_Leygood	Simon Leygood	1570	-1	0	0
+/index.php/Bryen_Farring	Bryen Farring	263	337	1	337
+/index.php/Harry_Sawyer	Harry Sawyer	705	-1	0	0
+/index.php/Raymun_Fossoway	Raymun Fossoway	1383	-1	0	0
+/index.php/Gormond_Goodbrother	Gormond Goodbrother	617	229	1	229
+/index.php/Melwys_Rivers	Melwys Rivers	1127	-1	0	0
+/index.php/Gurn	Gurn	648	-1	0	0
+/index.php/Shagga	Shagga	1553	99	3	215
+/index.php/Mark_Mullendore	Mark Mullendore	1073	271	1	271
+/index.php/Rolley	Rolley	1474	-1	0	0
+/index.php/Shella	Shella	1556	-1	0	0
+/index.php/Wyl_(Blind)	Wyl (Blind)	1855	-1	0	0
+/index.php/Jeyne_Waters	Jeyne Waters	821	-1	0	0
+/index.php/Monterys_Velaryon	Monterys Velaryon	1152	-1	0	0
+/index.php/Victor_Tyrell	Victor Tyrell	1764	-1	0	0
+/index.php/Lync	Lync	1023	-1	0	0
+/index.php/Boy	Boy	238	-1	0	0
+/index.php/Willit	Willit	1847	-1	0	0
+/index.php/Theodore_Tyrell	Theodore Tyrell	1644	-1	0	0
+/index.php/Ghael	Ghael	599	291	1	291
+/index.php/Castos	Castos	285	-1	0	0
+/index.php/Rosamund_Lannister	Rosamund Lannister	1491	-1	0	0
+/index.php/Will_(orphan)	Will (orphan)	1828	-1	0	0
+/index.php/Androw_Ashford	Androw Ashford	101	-1	0	0
+/index.php/Raymund_Tyrell	Raymund Tyrell	1385	-1	0	0
+/index.php/Tristifer_IV_Mudd	Tristifer IV Mudd	1695	190	2	226
+/index.php/Osha	Osha	1255	37	7	143
+/index.php/Dorren_Stark	Dorren Stark	436	80	1	80
+/index.php/Eustace_Hunter	Eustace Hunter	524	-1	0	0
+/index.php/Alysanne_Targaryen	Alysanne Targaryen	84	185	2	238
+/index.php/Alyn_Cockshaw	Alyn Cockshaw	66	-1	0	0
+/index.php/Humfrey_Beesbury	Humfrey Beesbury	761	-1	0	0
+/index.php/Mors_Manwoody	Mors Manwoody	1168	-1	0	0
+/index.php/Drogo	Drogo	438	3	13	346
+/index.php/Yohn_Farwynd	Yohn Farwynd	1871	-1	0	0
+/index.php/Wallen	Wallen	1790	-1	0	0
+/index.php/Helicent_Uffering	Helicent Uffering	716	-1	0	0
+/index.php/Edwyn_Osgrey	Edwyn Osgrey	470	-1	0	0
+/index.php/Galbart_Glover	Galbart Glover	550	20	4	301
+/index.php/Timett_(father)	Timett (father)	1661	-1	0	0
+/index.php/Yoren	Yoren	1873	13	13	121
+/index.php/Kym	Kym	916	-1	0	0
+/index.php/Andrey_Charlton	Andrey Charlton	97	-1	0	0
+/index.php/Henly	Henly	723	-1	0	0
+/index.php/Rodrik_Harlaw	Rodrik Harlaw	1455	239	2	257
+/index.php/Guyne	Guyne	651	-1	0	0
+/index.php/Ellaria_Sand	Ellaria Sand	486	215	3	249
+/index.php/Grazdan_mo_Ullhor	Grazdan mo Ullhor	626	-1	0	0
+/index.php/Aurane_Waters	Aurane Waters	142	240	6	329
+/index.php/Lennocks	Lennocks	937	-1	0	0
+/index.php/Mebble	Mebble	1104	-1	0	0
+/index.php/Sumner_Crakehall	Sumner Crakehall	1605	156	2	261
+/index.php/Roone	Roone	1484	228	1	228
+/index.php/Skahaz_mo_Kandaq	Skahaz mo Kandaq	1573	277	6	342
+/index.php/Walder_Haigh	Walder Haigh	1784	-1	0	0
+/index.php/S%27vrone	S'vrone	1606	-1	0	0
+/index.php/Steffon_Frey	Steffon Frey	1592	-1	0	0
+/index.php/Anya_Waynwood	Anya Waynwood	107	238	3	269
+/index.php/Walton_Frey	Walton Frey	1792	-1	0	0
+/index.php/Lharys	Lharys	962	-1	0	0
+/index.php/Donnis	Donnis	427	7	1	7
+/index.php/Jothos_Slynt	Jothos Slynt	878	-1	0	0
+/index.php/Dalbridge	Dalbridge	366	127	1	127
+/index.php/Robert_Brax	Robert Brax	1435	-1	0	0
+/index.php/Tybolt_Crakehall	Tybolt Crakehall	1708	-1	0	0
+/index.php/Joanna_Swyft	Joanna Swyft	828	-1	0	0
+/index.php/Areo_Hotah	Areo Hotah	110	230	5	313
+/index.php/Ryella_Frey	Ryella Frey	1508	-1	0	0
+/index.php/Doran_Martell	Doran Martell	431	91	12	313
+/index.php/Serra	Serra	1548	-1	0	0
+/index.php/Plummer	Plummer	1308	-1	0	0
+/index.php/Lucantine_Woodwright	Lucantine Woodwright	990	-1	0	0
+/index.php/Torbert	Torbert	1679	256	1	256
+/index.php/Portifer_Woodwright	Portifer Woodwright	1316	-1	0	0
+/index.php/Garrett_Flowers	Garrett Flowers	566	-1	0	0
+/index.php/Walgrave	Walgrave	1788	228	1	228
+/index.php/Utherydes_Wayn	Utherydes Wayn	1746	113	1	113
+/index.php/Krazz	Krazz	908	-1	0	0
+/index.php/Beren_Tallhart	Beren Tallhart	202	90	1	90
+/index.php/Allar_Deem	Allar Deem	55	82	1	82
+/index.php/Alyce	Alyce	60	-1	0	0
+/index.php/Andrik	Andrik	99	257	1	257
+/index.php/Dale_Seaworth	Dale Seaworth	368	-1	0	0
+/index.php/Bethany_Fair-Fingers	Bethany Fair-Fingers	216	-1	0	0
+/index.php/Daeron_Targaryen	Daeron Targaryen	356	80	2	230
+/index.php/Cerrick	Cerrick	293	-1	0	0
+/index.php/Eddard_Karstark	Eddard Karstark	455	63	2	159
+/index.php/Turnip	Turnip	1704	-1	0	0
+/index.php/Lyonel	Lyonel	1025	-1	0	0
+/index.php/Donyse	Donyse	430	-1	0	0
+/index.php/Liane_Vance	Liane Vance	964	-1	0	0
+/index.php/Willem_Lannister	Willem Lannister	1843	165	1	165
+/index.php/Alyn_Haigh	Alyn Haigh	70	-1	0	0
+/index.php/Garin_(Orphans)	Garin (Orphans)	561	249	2	268
+/index.php/Galtry_the_Green	Galtry the Green	555	-1	0	0
+/index.php/Jon_Bettley	Jon Bettley	837	-1	0	0
+/index.php/Holly	Holly	739	326	1	326
+/index.php/Daella_Targaryen	Daella Targaryen	347	-1	0	0
+/index.php/Pate	Pate	1280	-1	0	0
+/index.php/Willow_Witch-eye	Willow Witch-eye	1849	-1	0	0
+/index.php/Waldon_Wynch	Waldon Wynch	1787	-1	0	0
+/index.php/Melara_Hetherspoon	Melara Hetherspoon	1116	264	1	264
+/index.php/Ballabar	Ballabar	151	141	1	141
+/index.php/Roro_Uhoris	Roro Uhoris	1489	-1	0	0
+/index.php/Hayhead	Hayhead	715	-1	0	0
+/index.php/Rodrik_Cassel	Rodrik Cassel	1451	1	25	304
+/index.php/Will_(Treb)	Will (Treb)	1832	-1	0	0
+/index.php/Mance_Rayder	Mance Rayder	1057	1	29	344
+/index.php/Zollo	Zollo	1885	166	2	176
+/index.php/Burton_Crakehall	Burton Crakehall	268	-1	0	0
+/index.php/Oswyn	Oswyn	1264	-1	0	0
+/index.php/Hugo_Vance	Hugo Vance	757	-1	0	0
+/index.php/Aglantine	Aglantine	32	-1	0	0
+/index.php/Rolfe	Rolfe	1467	-1	0	0
+/index.php/Xhondo	Xhondo	1865	254	2	263
+/index.php/Hugo_Wull	Hugo Wull	758	337	1	337
+/index.php/Lamprey	Lamprey	921	-1	0	0
+/index.php/Mylessa_Blackwood	Mylessa Blackwood	1194	-1	0	0
+/index.php/Barth	Barth	164	-1	0	0
+/index.php/Ryger_Rivers	Ryger Rivers	1510	-1	0	0
+/index.php/Maerie_(Goodwife)	Maerie (Goodwife)	1043	-1	0	0
+/index.php/Wendel_Frey	Wendel Frey	1815	-1	0	0
+/index.php/Tristan_Ryger	Tristan Ryger	1693	-1	0	0
+/index.php/Alester_Florent	Alester Florent	48	110	6	181
+/index.php/Gormon_Peake	Gormon Peake	614	-1	0	0
+/index.php/Aemond_Targaryen	Aemond Targaryen	21	-1	0	0
+/index.php/Brandon_Stark_(the_daughterless)	Brandon Stark (the daughterless)	248	125	1	125
+/index.php/Ralf_(Shepherd)	Ralf (Shepherd)	1368	246	1	246
+/index.php/Manfred_Lothston	Manfred Lothston	1060	-1	0	0
+/index.php/Eon_Hunter	Eon Hunter	508	251	1	251
+/index.php/Jayde	Jayde	802	-1	0	0
+/index.php/Myles_(squire)	Myles (squire)	1190	-1	0	0
+/index.php/Yohn_Royce	Yohn Royce	1872	21	6	269
+/index.php/Wat_(Barleycorn)	Wat (Barleycorn)	1799	-1	0	0
+/index.php/Timoth	Timoth	1663	-1	0	0
+/index.php/Reynard_Webber	Reynard Webber	1399	-1	0	0
+/index.php/Simon_Toyne	Simon Toyne	1572	-1	0	0
+/index.php/Briar	Briar	254	275	1	275
+/index.php/Jack-Be-Lucky	Jack-Be-Lucky	778	-1	0	0
+/index.php/Dick_Crabb	Dick Crabb	409	242	2	248
+/index.php/Osmund_Kettleblack	Osmund Kettleblack	1257	115	13	271
+/index.php/Lambert_Turnberry	Lambert Turnberry	920	-1	0	0
+/index.php/Dilly	Dilly	413	-1	0	0
+/index.php/Arson	Arson	127	-1	0	0
+/index.php/Kedry	Kedry	893	281	1	281
+/index.php/Moro	Moro	1163	3	1	3
+/index.php/Alyn_(Rosewood)	Alyn (Rosewood)	64	-1	0	0
+/index.php/Daemon_Blackfyre	Daemon Blackfyre	348	309	1	309
+/index.php/Duram_Bar_Emmon	Duram Bar Emmon	446	-1	0	0
+/index.php/Mord	Mord	1156	38	3	238
+/index.php/Squirrel	Squirrel	1583	326	1	326
+/index.php/Iggo	Iggo	768	148	1	148
+/index.php/Harlan_Grandison	Harlan Grandison	684	-1	0	0
+/index.php/Donel_Greyjoy	Donel Greyjoy	419	229	1	229
+/index.php/Sherrit	Sherrit	1558	-1	0	0
+/index.php/William_Mooton	William Mooton	1844	166	2	217
+/index.php/Dareon	Dareon	381	19	6	320
+/index.php/Lyessa_Flint	Lyessa Flint	1016	-1	0	0
+/index.php/Roryn_Drumm	Roryn Drumm	1490	-1	0	0
+/index.php/Addam_Osgrey	Addam Osgrey	3	-1	0	0
+/index.php/Duncan_Targaryen	Duncan Targaryen	442	212	2	238
+/index.php/Myria_Jordayne	Myria Jordayne	1196	-1	0	0
+/index.php/Sarra_Frey	Sarra Frey	1533	-1	0	0
+/index.php/Falena_Stokeworth	Falena Stokeworth	529	-1	0	0
+/index.php/Balon_Greyjoy	Balon Greyjoy	154	4	22	317
+/index.php/Jon_Umber_(Smalljon)	Jon Umber (Smalljon)	853	196	1	196
+/index.php/Otho_Bracken	Otho Bracken	1266	-1	0	0
+/index.php/Allaquo	Allaquo	54	-1	0	0
+/index.php/Lothor_Brune	Lothor Brune	987	29	6	269
+/index.php/Leobald_Tallhart	Leobald Tallhart	945	90	1	90
+/index.php/Gerris_Drinkwater	Gerris Drinkwater	597	281	4	345
+/index.php/Boros_Blount	Boros Blount	234	8	16	347
+/index.php/Jaremy_Rykker	Jaremy Rykker	793	21	5	87
+/index.php/Ulf_(Ill)	Ulf (Ill)	1729	-1	0	0
+/index.php/Shagwell	Shagwell	1554	121	5	248
+/index.php/Matarys_Targaryen	Matarys Targaryen	1093	-1	0	0
+/index.php/Ulmer	Ulmer	1731	-1	0	0
+/index.php/Theon_Greyjoy	Theon Greyjoy	1648	1	35	344
+/index.php/Robb_Stark	Robb Stark	1431	1	73	340
+/index.php/Borcas	Borcas	232	-1	0	0
+/index.php/Robert_Brax_(son_of_Flement)	Robert Brax (son of Flement)	1436	-1	0	0
+/index.php/Jyzene	Jyzene	887	-1	0	0
+/index.php/Gareth_Clifton	Gareth Clifton	558	-1	0	0
+/index.php/Perwyn_Osgrey	Perwyn Osgrey	1301	-1	0	0
+/index.php/Quort	Quort	1357	-1	0	0
+/index.php/Denys_Mallister	Denys Mallister	399	21	3	223
+/index.php/Gyleno_Dothare	Gyleno Dothare	657	-1	0	0
+/index.php/Donella_Manderly	Donella Manderly	420	90	3	109
+/index.php/Hareth_(Mole%27s_Town)	Hareth (Mole's Town)	683	-1	0	0
+/index.php/Aemon_Rivers	Aemon Rivers	19	-1	0	0
+/index.php/Edwyd_Fossoway	Edwyd Fossoway	467	-1	0	0
+/index.php/Jynessa_Blackmont	Jynessa Blackmont	886	-1	0	0
+/index.php/Humfrey_Hewett	Humfrey Hewett	763	-1	0	0
+/index.php/Walda_Rivers_(daughter_of_Aemon)	Walda Rivers (daughter of Aemon)	1779	-1	0	0
+/index.php/Benjen_Stark_(Sweet)	Benjen Stark (Sweet)	196	-1	0	0
+/index.php/Old_Crackbones	Old Crackbones	1228	-1	0	0
+/index.php/Godry_Farring	Godry Farring	610	278	2	337
+/index.php/Antario_Jast	Antario Jast	105	106	1	106
+/index.php/Erryk	Erryk	517	8	1	8
+/index.php/Harma	Harma	689	218	1	218
+/index.php/Pia	Pia	1307	258	1	258
+/index.php/Tagganaro	Tagganaro	1623	-1	0	0
+/index.php/Mandon_Moore	Mandon Moore	1058	77	6	157
+/index.php/Munciter	Munciter	1179	-1	0	0
+/index.php/Bennet	Bennet	199	-1	0	0
+/index.php/Aenys_I_Targaryen	Aenys I Targaryen	23	-1	0	0
+/index.php/Rhonda_Rowan	Rhonda Rowan	1415	-1	0	0
+/index.php/Denys_Darklyn	Denys Darklyn	397	237	1	237
+/index.php/Lewys	Lewys	957	-1	0	0
+/index.php/Grance_Morrigen	Grance Morrigen	622	-1	0	0
+/index.php/Khorane_Sathmantes	Khorane Sathmantes	901	-1	0	0
+/index.php/Hoster_Tully	Hoster Tully	746	2	18	272
+/index.php/Gwynesse_Harlaw	Gwynesse Harlaw	655	239	1	239
+/index.php/Obella_Sand	Obella Sand	1224	230	1	230
+/index.php/Stone_Thumbs	Stone Thumbs	1600	-1	0	0
+/index.php/Kurz	Kurz	911	93	1	93
+/index.php/Murch_(Winterfell)	Murch (Winterfell)	1182	-1	0	0
+/index.php/Ysilla_Royce	Ysilla Royce	1878	-1	0	0
+/index.php/Chataya	Chataya	297	118	1	118
+/index.php/Balon_Botley	Balon Botley	153	-1	0	0
+/index.php/Uthor_Tollett	Uthor Tollett	1747	-1	0	0
+/index.php/Selwyn_Tarth	Selwyn Tarth	1544	189	1	189
+/index.php/Oswell_Whent	Oswell Whent	1263	39	1	39
+/index.php/Jack_Bulwer	Jack Bulwer	777	303	2	306
+/index.php/Dobber	Dobber	415	-1	0	0
+/index.php/Urrigon_Greyjoy	Urrigon Greyjoy	1742	229	1	229
+/index.php/Elinor_Tyrell	Elinor Tyrell	485	267	1	267
+/index.php/Bronn	Bronn	256	34	20	264
+/index.php/Toefinger	Toefinger	1670	-1	0	0
+/index.php/Eddison_Tollett	Eddison Tollett	458	87	3	303
+/index.php/Lancel_V_Lannister	Lancel V Lannister	923	-1	0	0
+/index.php/Albett	Albett	40	-1	0	0
+/index.php/Horton_Redfort	Horton Redfort	742	238	1	238
+/index.php/Steely_Pate	Steely Pate	1588	-1	0	0
+/index.php/Dormund	Dormund	435	-1	0	0
+/index.php/Bayard_Norcross	Bayard Norcross	168	-1	0	0
+/index.php/Steffon_Swyft	Steffon Swyft	1596	-1	0	0
+/index.php/Pate_(Night%27s_Watch)	Pate (Night's Watch)	1285	-1	0	0
+/index.php/Kromm	Kromm	909	-1	0	0
+/index.php/Jon_Lynderly	Jon Lynderly	845	-1	0	0
+/index.php/Cayn	Cayn	288	47	1	47
+/index.php/Roger_Ryswell	Roger Ryswell	1461	321	1	321
+/index.php/Ilyn_Payne	Ilyn Payne	772	15	14	266
+/index.php/Jon_Fossoway	Jon Fossoway	842	-1	0	0
+/index.php/Aemon_Targaryen	Aemon Targaryen	20	8	12	254
+/index.php/Griffin_King	Griffin King	635	-1	0	0
+/index.php/Amory_Lorch	Amory Lorch	93	88	8	211
+/index.php/Bass	Bass	167	-1	0	0
+/index.php/Jocelyn_Swyft	Jocelyn Swyft	829	-1	0	0
+/index.php/Rodrik_Ryswell	Rodrik Ryswell	1456	-1	0	0
+/index.php/Elyn_Norridge	Elyn Norridge	494	-1	0	0
+/index.php/Delonne_Allyrion	Delonne Allyrion	390	-1	0	0
+/index.php/Weeper	Weeper	1811	220	2	275
+/index.php/Qarlton_Chelsted	Qarlton Chelsted	1333	182	2	244
+/index.php/Norren	Norren	1215	-1	0	0
+/index.php/Will_(Stork)	Will (Stork)	1831	-1	0	0
+/index.php/Loras_Tyrell	Loras Tyrell	970	18	26	347
+/index.php/Bernarr	Bernarr	205	-1	0	0
+/index.php/Bertram_Beesbury	Bertram Beesbury	209	-1	0	0
+/index.php/Black_Walder_Frey	Black Walder Frey	225	159	3	272
+/index.php/Aegon_Blackfyre	Aegon Blackfyre	5	-1	0	0
+/index.php/Meldred_Merlyn	Meldred Merlyn	1117	-1	0	0
+/index.php/Harlen_Tyrell	Harlen Tyrell	686	-1	0	0
+/index.php/Lanna_Lannister	Lanna Lannister	927	-1	0	0
+/index.php/Dolf	Dolf	416	-1	0	0
+/index.php/Thoren_Smallwood	Thoren Smallwood	1651	80	4	145
+/index.php/Val	Val	1751	218	9	344
+/index.php/Benjen_Stark	Benjen Stark	194	2	20	309
+/index.php/Brandon_Stark_(Burner)	Brandon Stark (Burner)	245	-1	0	0
+/index.php/Medwick_Tyrell	Medwick Tyrell	1107	-1	0	0
+/index.php/Lormelle	Lormelle	981	-1	0	0
+/index.php/Jonnel_Stark	Jonnel Stark	857	-1	0	0
+/index.php/Hot_Pie	Hot Pie	747	75	10	162
+/index.php/Jeyne_Heddle	Jeyne Heddle	815	270	1	270
+/index.php/Victarion_Greyjoy	Victarion Greyjoy	1763	98	12	338
+/index.php/Dacks	Dacks	346	-1	0	0
+/index.php/Arthur_Ambrose	Arthur Ambrose	129	-1	0	0
+/index.php/Gueren	Gueren	641	-1	0	0
+/index.php/Regenard_Estren	Regenard Estren	1394	-1	0	0
+/index.php/Warryn_Beesbury	Warryn Beesbury	1797	-1	0	0
+/index.php/Rolland_Storm	Rolland Storm	1472	-1	0	0
+/index.php/Lorent_Tyrell	Lorent Tyrell	978	-1	0	0
+/index.php/Malwyn_Frey	Malwyn Frey	1056	-1	0	0
+/index.php/Jasper_Waynwood	Jasper Waynwood	799	-1	0	0
+/index.php/Sylas	Sylas	1610	-1	0	0
+/index.php/Lorimer	Lorimer	980	-1	0	0
+/index.php/Carolei_Waynwood	Carolei Waynwood	280	-1	0	0
+/index.php/Alys_Arryn	Alys Arryn	74	-1	0	0
+/index.php/Garigus	Garigus	560	182	1	182
+/index.php/Zia_Frey	Zia Frey	1884	-1	0	0
+/index.php/Ezzelyno	Ezzelyno	527	-1	0	0
+/index.php/Samwell_Spicer	Samwell Spicer	1525	-1	0	0
+/index.php/Guthor_Grimm	Guthor Grimm	649	-1	0	0
+/index.php/Barbara_Bracken	Barbara Bracken	159	-1	0	0
+/index.php/Jeren	Jeren	809	19	1	19
+/index.php/Tom_of_Sevenstreams	Tom of Sevenstreams	1673	158	6	272
+/index.php/Reek	Reek	1393	90	7	307
+/index.php/Martyn_Lannister	Martyn Lannister	1084	190	1	190
+/index.php/Brandon_Tallhart	Brandon Tallhart	249	-1	0	0
+/index.php/Arron_Qorgyle	Arron Qorgyle	124	215	1	215
+/index.php/Edric_Dayne	Edric Dayne	464	188	1	188
+/index.php/Andrey_Dalt	Andrey Dalt	98	249	2	268
+/index.php/Redwyn	Redwyn	1392	80	1	80
+/index.php/Serra_Frey	Serra Frey	1549	-1	0	0
+/index.php/Yellow_Dick	Yellow Dick	1867	321	1	321
+/index.php/Lomas_Estermont	Lomas Estermont	967	-1	0	0
+/index.php/Haldon	Haldon	673	283	5	299
+/index.php/Quill	Quill	1355	-1	0	0
+/index.php/Easy	Easy	451	-1	0	0
+/index.php/Hyle_Hunt	Hyle Hunt	767	242	5	270
+/index.php/Ironbelly	Ironbelly	774	-1	0	0
+/index.php/Tarle	Tarle	1633	229	3	246
+/index.php/Cedrik_Storm	Cedrik Storm	291	-1	0	0
+/index.php/Ryam	Ryam	1504	228	1	228
+/index.php/Lucan	Lucan	989	-1	0	0
+/index.php/Arwyn_Frey	Arwyn Frey	134	-1	0	0
+/index.php/Denyo_Terys	Denyo Terys	395	234	1	234
+/index.php/Mark_Ryswell	Mark Ryswell	1074	-1	0	0
+/index.php/Orell	Orell	1244	127	5	275
+/index.php/Ryam_Redwyne	Ryam Redwyne	1506	8	1	8
+/index.php/Leo_Tyrell_(son_of_Victor)	Leo Tyrell (son of Victor)	944	-1	0	0
+/index.php/Lucas_Corbray	Lucas Corbray	993	-1	0	0
+/index.php/Dontos_Hollard	Dontos Hollard	429	76	13	242
+/index.php/Waltyr_Frey	Waltyr Frey	1794	-1	0	0
+/index.php/Mellara_Rivers	Mellara Rivers	1123	-1	0	0
+/index.php/Harsley	Harsley	707	-1	0	0
+/index.php/Meera_Reed	Meera Reed	1108	95	9	309
+/index.php/Robin	Robin	1442	-1	0	0
+/index.php/Marsella_Waynwood	Marsella Waynwood	1082	-1	0	0
+/index.php/Joseran	Joseran	869	239	1	239
+/index.php/Nymella_Toland	Nymella Toland	1218	-1	0	0
+/index.php/Dan	Dan	375	-1	0	0
+/index.php/House_Fell	House Fell	751	337	1	337
+/index.php/Wilbert	Wilbert	1823	-1	0	0
+/index.php/Jenny_(Oldstones)	Jenny (Oldstones)	806	-1	0	0
+/index.php/Forley_Prester	Forley Prester	540	272	1	272
+/index.php/Tormund	Tormund	1681	160	3	275
+/index.php/Allyria_Dayne	Allyria Dayne	58	188	1	188
+/index.php/Osmynd	Osmynd	1258	-1	0	0
+/index.php/Walton_Stark	Walton Stark	1793	-1	0	0
+/index.php/Jhaqo	Jhaqo	824	68	2	346
+/index.php/Ormond_Osgrey	Ormond Osgrey	1248	-1	0	0
+/index.php/Gulian_Swann	Gulian Swann	644	212	1	212
+/index.php/Harren	Harren	699	239	1	239
+/index.php/Rupert_Crabb	Rupert Crabb	1502	-1	0	0
+/index.php/Quentyn_Blackwood	Quentyn Blackwood	1350	-1	0	0
+/index.php/Dagon	Dagon	361	-1	0	0
+/index.php/Lucos	Lucos	1005	-1	0	0
+/index.php/Lyonel_Corbray	Lyonel Corbray	1027	238	3	269
+/index.php/Willam_Dustin	Willam Dustin	1835	-1	0	0
+/index.php/Alyce_Dunn	Alyce Dunn	61	-1	0	0
+/index.php/Hallyne	Hallyne	676	94	3	139
+/index.php/Theodan_Wells	Theodan Wells	1643	-1	0	0
+/index.php/Tycho_Nestoris	Tycho Nestoris	1711	319	2	337
+/index.php/Hod	Hod	735	-1	0	0
+/index.php/Durran	Durran	447	-1	0	0
+/index.php/Syrio_Forel	Syrio Forel	1621	22	7	234
+/index.php/Emmond	Emmond	502	229	1	229
+/index.php/Artys_Arryn	Artys Arryn	132	-1	0	0
+/index.php/Robin_Moreland	Robin Moreland	1447	-1	0	0
+/index.php/Ryam_Florent	Ryam Florent	1505	-1	0	0
+/index.php/Gulian	Gulian	642	-1	0	0
+/index.php/Zachery_Frey	Zachery Frey	1879	-1	0	0
+/index.php/Sky_Blue_Su	Sky Blue Su	1575	-1	0	0
+/index.php/Bennard_Brune	Bennard Brune	197	-1	0	0
+/index.php/Rafe	Rafe	1360	-1	0	0
+/index.php/Dafyn_Vance	Dafyn Vance	359	-1	0	0
+/index.php/Sawane_Botley	Sawane Botley	1536	229	2	239
+/index.php/Moredo_Prestayn	Moredo Prestayn	1158	-1	0	0
+/index.php/Walys_Flowers	Walys Flowers	1795	-1	0	0
+/index.php/Jeffory_Norcross	Jeffory Norcross	805	-1	0	0
+/index.php/Shierle_Swyft	Shierle Swyft	1561	-1	0	0
+/index.php/Gunthor_Hightower	Gunthor Hightower	647	-1	0	0
+/index.php/Amerei_Frey	Amerei Frey	92	258	2	261
+/index.php/Will_Humble	Will Humble	1833	246	1	246
+/index.php/Jeyne_Lydden	Jeyne Lydden	817	-1	0	0
+/index.php/Edwyle_Stark	Edwyle Stark	468	-1	0	0
+/index.php/Jate_Blackberry	Jate Blackberry	801	-1	0	0
+/index.php/Harrion_Karstark	Harrion Karstark	702	62	2	319
+/index.php/Lotho_Lornel	Lotho Lornel	986	-1	0	0
+/index.php/Gunthor	Gunthor	646	42	1	42
+/index.php/Matrice	Matrice	1097	-1	0	0
+/index.php/Philip_Foote	Philip Foote	1305	139	1	139
+/index.php/Rawney	Rawney	1378	-1	0	0
+/index.php/Lucamore_Strong	Lucamore Strong	988	241	1	241
+/index.php/Rolland_Darklyn	Rolland Darklyn	1470	-1	0	0
+/index.php/Meizo_Mahr	Meizo Mahr	1112	-1	0	0
+/index.php/Lucas_Blackwood	Lucas Blackwood	991	-1	0	0
+/index.php/Rodrik_Greyjoy	Rodrik Greyjoy	1454	130	3	239
+/index.php/Bethany_(Blushing_Bethany)	Bethany (Blushing Bethany)	214	-1	0	0
+/index.php/Nightingale	Nightingale	1207	-1	0	0
+/index.php/Ronel_Rivers	Ronel Rivers	1479	-1	0	0
+/index.php/Barre	Barre	162	84	1	84
+/index.php/Alfyn	Alfyn	51	-1	0	0
+/index.php/Daeryssa	Daeryssa	358	15	1	15
+/index.php/Melesa_Crakehall	Melesa Crakehall	1118	-1	0	0
+/index.php/Mallador_Locke	Mallador Locke	1051	87	1	87
+/index.php/Ned	Ned	1204	4	1	4
+/index.php/Naerys_Targaryen	Naerys Targaryen	1199	15	1	15
+/index.php/Luco_Prestayn	Luco Prestayn	1004	-1	0	0
+/index.php/Harras_Harlaw	Harras Harlaw	698	239	2	257
+/index.php/Joseth_Mallister	Joseth Mallister	871	-1	0	0
+/index.php/Marillion	Marillion	1070	28	5	251
+/index.php/Argrave_the_Defiant	Argrave the Defiant	112	-1	0	0
+/index.php/Mathis_Frey	Mathis Frey	1094	-1	0	0
+/index.php/Wylla_Manderly	Wylla Manderly	1859	294	2	304
+/index.php/Dalla	Dalla	369	218	5	263
+/index.php/Arys_Oakheart	Arys Oakheart	137	76	7	329
+/index.php/Damon_Paege	Damon Paege	372	-1	0	0
+/index.php/Roose_Ryswell	Roose Ryswell	1487	-1	0	0
+/index.php/Wat_(Standfast)	Wat (Standfast)	1802	-1	0	0
+/index.php/Anguy	Anguy	103	30	2	158
+/index.php/Richard_Farrow	Richard Farrow	1417	-1	0	0
+/index.php/Doreah	Doreah	434	11	3	86
+/index.php/Othell_Yarwyck	Othell Yarwyck	1265	224	2	314
+/index.php/Clement_Piper	Clement Piper	309	40	3	266
+/index.php/Rat_Cook	Rat Cook	1375	201	1	201
+/index.php/Lewyn_Martell	Lewyn Martell	956	182	4	334
+/index.php/Eldon_Estermont	Eldon Estermont	479	252	2	268
+/index.php/Old_Grey_Gull	Old Grey Gull	1229	239	1	239
+/index.php/Rennifer_Longwaters	Rennifer Longwaters	1398	-1	0	0
+/index.php/Erreg	Erreg	514	-1	0	0
+/index.php/Alyn_Velaryon	Alyn Velaryon	73	-1	0	0
+/index.php/Byren_Flowers	Byren Flowers	272	-1	0	0
+/index.php/Rymund	Rymund	1516	-1	0	0
+/index.php/Selyse_Florent	Selyse Florent	1545	35	8	344
+/index.php/Aladale_Wynch	Aladale Wynch	34	-1	0	0
+/index.php/Rhaegar_Targaryen	Rhaegar Targaryen	1404	3	36	347
+/index.php/Balon_Swann	Balon Swann	155	29	9	329
+/index.php/Mern_Gardener	Mern Gardener	1134	13	1	13
+/index.php/Todder	Todder	1668	19	2	80
+/index.php/Bryen	Bryen	261	-1	0	0
+/index.php/Alys_Frey	Alys Frey	75	-1	0	0
+/index.php/Sylwa_Paege	Sylwa Paege	1613	-1	0	0
+/index.php/Edwyn_Stark	Edwyn Stark	471	-1	0	0
+/index.php/Beqqo	Beqqo	201	-1	0	0
+/index.php/Harren_Botley	Harren Botley	700	239	1	239
+/index.php/Egon_Emeros	Egon Emeros	474	-1	0	0
+/index.php/Jaggot	Jaggot	783	-1	0	0
+/index.php/Weasel	Weasel	1810	83	3	93
+/index.php/Quhuru_Mo	Quhuru Mo	1353	101	1	101
+/index.php/Andros_Brax	Andros Brax	100	-1	0	0
+/index.php/Barbrey_Ryswell	Barbrey Ryswell	160	307	3	321
+/index.php/Steffarion_Sparr	Steffarion Sparr	1589	229	1	229
+/index.php/Lucas_Codd	Lucas Codd	992	239	2	246
+/index.php/Samwell_Stone	Samwell Stone	1526	-1	0	0
+/index.php/Yorko_Terys	Yorko Terys	1875	234	1	234
+/index.php/Clement_Crabb	Clement Crabb	308	-1	0	0
+/index.php/Devan_Seaworth	Devan Seaworth	406	155	2	306
+/index.php/Wenda	Wenda	1813	-1	0	0
+/index.php/Thormor	Thormor	1652	-1	0	0
+/index.php/Rob	Rob	1428	-1	0	0
+/index.php/Maester_Aemon	Maester Aemon	1045	0	18	285
+/index.php/Gladden_Wylde	Gladden Wylde	605	162	1	162
+/index.php/Clayton_Suggs	Clayton Suggs	306	337	1	337
+/index.php/Morrec	Morrec	1166	13	3	24
+/index.php/Robert_Frey	Robert Frey	1438	-1	0	0
+/index.php/Quenton_Greyjoy	Quenton Greyjoy	1347	229	1	229
+/index.php/Brandon_Norrey	Brandon Norrey	242	-1	0	0
+/index.php/Bluetooth	Bluetooth	229	-1	0	0
+/index.php/Roose_Bolton	Roose Bolton	1486	33	31	321
+/index.php/Ralf_(Limper)	Ralf (Limper)	1366	246	1	246
+/index.php/Varamyr	Varamyr	1753	218	2	275
+/index.php/Cersei_Frey	Cersei Frey	294	-1	0	0
+/index.php/Perwyn_Frey	Perwyn Frey	1300	29	2	196
+/index.php/Bryan_Fossoway	Bryan Fossoway	258	-1	0	0
+/index.php/Brea	Brea	251	-1	0	0
+/index.php/Patchface	Patchface	1279	74	4	319
+/index.php/Wendamyr	Wendamyr	1814	239	1	239
+/index.php/Rhaegel_Targaryen	Rhaegel Targaryen	1405	-1	0	0
+/index.php/Symon	Symon	1615	118	4	215
+/index.php/Mallor_(Knight)	Mallor (Knight)	1055	-1	0	0
+/index.php/Mordane	Mordane	1157	7	7	131
+/index.php/Manfred_Dondarrion	Manfred Dondarrion	1059	-1	0	0
+/index.php/Woth	Woth	1852	-1	0	0
+/index.php/Alyn_Hunt	Alyn Hunt	71	-1	0	0
+/index.php/Leana_Frey	Leana Frey	932	-1	0	0
+/index.php/Danos_Slynt	Danos Slynt	379	-1	0	0
+/index.php/Ryman_Frey	Ryman Frey	1514	159	7	272
+/index.php/Alan	Alan	35	-1	0	0
+/index.php/Wyman_Manderly	Wyman Manderly	1860	20	12	326
+/index.php/Tomard	Tomard	1674	22	5	50
+/index.php/Bonifer_Hasty	Bonifer Hasty	231	255	1	255
+/index.php/Smiling_Knight	Smiling Knight	1579	212	1	212
+/index.php/Archibald_Yronwood	Archibald Yronwood	108	281	4	345
+/index.php/Quentyn_Ball	Quentyn Ball	1349	-1	0	0
+/index.php/Rohanne_Webber	Rohanne Webber	1463	-1	0	0
+/index.php/Theomar_Smallwood	Theomar Smallwood	1645	-1	0	0
+/index.php/Umar	Umar	1734	-1	0	0
+/index.php/Bellena_Hawick	Bellena Hawick	181	-1	0	0
+/index.php/Tywin_Frey	Tywin Frey	1725	-1	0	0
+/index.php/Benfrey_Frey	Benfrey Frey	193	-1	0	0
+/index.php/Wendel_Manderly	Wendel Manderly	1816	55	4	304
+/index.php/Robin_Hollard	Robin Hollard	1446	-1	0	0
+/index.php/Pate_(Standfast)	Pate (Standfast)	1289	-1	0	0
+/index.php/Bethany_Ryswell	Bethany Ryswell	219	-1	0	0
+/index.php/Hobb	Hobb	733	-1	0	0
+/index.php/Erik	Erik	510	247	2	301
+/index.php/Lyanna_Mormont	Lyanna Mormont	1014	278	1	278
+/index.php/Gwin_Goodbrother	Gwin Goodbrother	654	229	1	229
+/index.php/Jon_Myre	Jon Myre	846	239	2	246
+/index.php/Lenwood_Tawney	Lenwood Tawney	938	246	1	246
+/index.php/Dancy	Dancy	376	-1	0	0
+/index.php/Dake	Dake	364	-1	0	0
+/index.php/Matthos_Seaworth	Matthos Seaworth	1100	-1	0	0
+/index.php/Carrot	Carrot	281	-1	0	0
+/index.php/Biter	Biter	224	79	5	270
+/index.php/Three_Toes	Three Toes	1654	-1	0	0
+/index.php/Daryn_Hornwood	Daryn Hornwood	382	63	2	90
+/index.php/Rast	Rast	1374	-1	0	0
+/index.php/Byan_Votyris	Byan Votyris	271	-1	0	0
+/index.php/Mad_Huntsman	Mad Huntsman	1036	174	1	174
+/index.php/Stygg	Stygg	1603	124	1	124
+/index.php/Dickon_Manwoody	Dickon Manwoody	411	-1	0	0
+/index.php/Betharios_of_Braavos	Betharios of Braavos	220	-1	0	0
+/index.php/Garizon	Garizon	564	-1	0	0
+/index.php/Morgil	Morgil	1161	15	1	15
+/index.php/Jeyne_Swann	Jeyne Swann	820	-1	0	0
+/index.php/Sybassion	Sybassion	1607	-1	0	0
+/index.php/Quentyn_Martell	Quentyn Martell	1351	230	12	345
+/index.php/Craster	Craster	334	97	2	178
+/index.php/Fair_Walda_Frey	Fair Walda Frey	528	-1	0	0
+/index.php/Robert_Ashford	Robert Ashford	1433	-1	0	0
+/index.php/Manfryd_Lothston	Manfryd Lothston	1063	-1	0	0
+/index.php/Cragorn	Cragorn	333	247	1	247
+/index.php/Pate_(Lancewood)	Pate (Lancewood)	1282	-1	0	0
+/index.php/Eustace	Eustace	522	-1	0	0
+/index.php/Owen_Norrey	Owen Norrey	1275	-1	0	0
+/index.php/Ben	Ben	184	-1	0	0
+/index.php/Romny_Weaver	Romny Weaver	1477	246	1	246
+/index.php/Dunstan_Drumm	Dunstan Drumm	445	246	3	257
+/index.php/Lythene_Frey	Lythene Frey	1034	-1	0	0
+/index.php/Aethelmure	Aethelmure	29	9	1	9
+/index.php/Raymar_Royce	Raymar Royce	1379	-1	0	0
+/index.php/Kyle	Kyle	912	-1	0	0
+/index.php/Normund_Tyrell	Normund Tyrell	1213	-1	0	0
+/index.php/Ferrego_Antaryon	Ferrego Antaryon	536	-1	0	0
+/index.php/Salloreon	Salloreon	1523	123	1	123
+/index.php/Jorelle_Mormont	Jorelle Mormont	865	-1	0	0
+/index.php/Sallor	Sallor	1522	-1	0	0
+/index.php/Quentyn_Qorgyle	Quentyn Qorgyle	1352	-1	0	0
+/index.php/Ben_Bushy	Ben Bushy	187	-1	0	0
+/index.php/Brienne_of_Tarth	Brienne of Tarth	255	96	25	329
+/index.php/Wilbert_Osgrey	Wilbert Osgrey	1824	-1	0	0
+/index.php/Dacey_Mormont	Dacey Mormont	345	196	1	196
+/index.php/Spare_Boot	Spare Boot	1581	-1	0	0
+/index.php/Pearse_Caron	Pearse Caron	1295	-1	0	0
+/index.php/Eggon	Eggon	472	-1	0	0
+/index.php/Moreo_Tumitis	Moreo Tumitis	1159	18	1	18
+/index.php/Lymond_Lychester	Lymond Lychester	1020	167	1	167
+/index.php/Tommen_Baratheon	Tommen Baratheon	1676	2	38	347
+/index.php/Jonos_Frey	Jonos Frey	859	-1	0	0
+/index.php/Creighton_Redfort	Creighton Redfort	338	-1	0	0
+/index.php/Bryen_Caron	Bryen Caron	262	-1	0	0
+/index.php/Henk	Henk	722	-1	0	0
+/index.php/Renly_Baratheon	Renly Baratheon	1396	8	41	340
+/index.php/Owen	Owen	1272	-1	0	0
+/index.php/Enger	Enger	507	-1	0	0
+/index.php/Qotho	Qotho	1337	11	1	11
+/index.php/Anvil_Ryn	Anvil Ryn	106	-1	0	0
+/index.php/Roone_(Maester)	Roone (Maester)	1485	-1	0	0
+/index.php/Alliser_Thorne	Alliser Thorne	57	19	15	303
+/index.php/Myriah_Martell	Myriah Martell	1197	230	1	230
+/index.php/Ayrmidon	Ayrmidon	144	9	1	9
+/index.php/Lancel_Lannister	Lancel Lannister	922	47	16	347
+/index.php/Harwyn_Plumm	Harwyn Plumm	712	-1	0	0
+/index.php/Gage	Gage	548	8	1	8
+/index.php/Hali	Hali	674	-1	0	0
+/index.php/Elys_Westerling	Elys Westerling	496	-1	0	0
+/index.php/Chayle	Chayle	298	9	3	109
+/index.php/Harwood_Stout	Harwood Stout	710	316	1	316
+/index.php/Ronnel_Harclay	Ronnel Harclay	1481	-1	0	0
+/index.php/Mathis_Rowan	Mathis Rowan	1095	107	2	235
+/index.php/Bloodbeard	Bloodbeard	227	325	2	334
+/index.php/Tothmure	Tothmure	1688	-1	0	0
+/index.php/Triston_Farwynd	Triston Farwynd	1699	-1	0	0
+/index.php/Melicent	Melicent	1121	-1	0	0
+/index.php/Denestan	Denestan	392	239	1	239
+/index.php/Willum	Willum	1850	-1	0	0
+/index.php/Aegon_II_Targaryen	Aegon II Targaryen	9	-1	0	0
+/index.php/Maslyn	Maslyn	1091	-1	0	0
+/index.php/Joseth	Joseth	870	-1	0	0
+/index.php/Lollys_Stokeworth	Lollys Stokeworth	966	115	8	252
+/index.php/Robb_Reyne	Robb Reyne	1430	-1	0	0
+/index.php/Ardrian_Celtigar	Ardrian Celtigar	109	-1	0	0
+/index.php/Elaena_Targaryen	Elaena Targaryen	475	-1	0	0
+/index.php/Robert_Frey_(son_of_Raymund)	Robert Frey (son of Raymund)	1439	-1	0	0
+/index.php/Pate_(Old)	Pate (Old)	1286	158	1	158
+/index.php/Jayne_Bracken	Jayne Bracken	803	-1	0	0
+/index.php/Tytos_Lannister	Tytos Lannister	1724	92	3	340
+/index.php/Triston	Triston	1698	-1	0	0
+/index.php/Raymun	Raymun	1381	-1	0	0
+/index.php/Maron_Volmark	Maron Volmark	1079	246	2	257
+/index.php/Roggo	Roggo	1462	-1	0	0
+/index.php/Coratt	Coratt	326	-1	0	0
+/index.php/Puddingfoot	Puddingfoot	1324	-1	0	0
+/index.php/Jojen_Reed	Jojen Reed	832	95	11	309
+/index.php/Myles_Smallwood	Myles Smallwood	1193	-1	0	0
+/index.php/Daeron_II_Targaryen	Daeron II Targaryen	355	60	3	309
+/index.php/Tytos_Blackwood	Tytos Blackwood	1721	63	4	323
+/index.php/Qarl	Qarl	1331	239	3	301
+/index.php/Arwyn_Oakheart	Arwyn Oakheart	135	-1	0	0
+/index.php/Wayn	Wayn	1809	-1	0	0
+/index.php/Richard_Lonmouth	Richard Lonmouth	1419	-1	0	0
+/index.php/Nissa_Nissa	Nissa Nissa	1208	84	1	84
+/index.php/Othor	Othor	1267	52	1	52
+/index.php/Leo_Tyrell_(Longthorn)	Leo Tyrell (Longthorn)	943	-1	0	0
+/index.php/Sargon_Botley	Sargon Botley	1532	-1	0	0
+/index.php/Alysanne_Hightower	Alysanne Hightower	80	-1	0	0
+/index.php/Alysanne_Lefford	Alysanne Lefford	81	-1	0	0
+/index.php/Benfred_Tallhart	Benfred Tallhart	192	111	1	111
+/index.php/Wynton_Stout	Wynton Stout	1863	-1	0	0
+/index.php/Tysha	Tysha	1719	42	9	297
+/index.php/Aethan	Aethan	28	-1	0	0
+/index.php/Daughter_of_the_Dusk	Daughter of the Dusk	383	-1	0	0
+/index.php/Rickard_Wylde	Rickard Wylde	1425	-1	0	0
+/index.php/Jeyne_Lothston	Jeyne Lothston	816	-1	0	0
+/index.php/Garth_(Greenaway)	Garth (Greenaway)	572	-1	0	0
+/index.php/Abelar_Hightower	Abelar Hightower	0	-1	0	0
+/index.php/Bharbo	Bharbo	221	-1	0	0
+/index.php/Zarabelo	Zarabelo	1880	-1	0	0
+/index.php/Wynafrei_Whent	Wynafrei Whent	1861	-1	0	0
+/index.php/Elyas_Willum	Elyas Willum	493	-1	0	0
+/index.php/Ben_Blackthumb	Ben Blackthumb	186	-1	0	0
+/index.php/Beck	Beck	172	-1	0	0
+/index.php/Elmar_Frey	Elmar Frey	488	59	2	138
+/index.php/Turquin	Turquin	1705	-1	0	0
+/index.php/Lann_the_Clever	Lann the Clever	924	-1	0	0
+/index.php/Willem_Frey	Willem Frey	1842	-1	0	0
+/index.php/Ebrose	Ebrose	453	228	1	228
+/index.php/Joyeuse_Erenford	Joyeuse Erenford	880	-1	0	0
+/index.php/Daena_Targaryen	Daena Targaryen	351	-1	0	0
+/index.php/Lucas_Nayland	Lucas Nayland	996	-1	0	0
+/index.php/Aegon_V_Targaryen	Aegon V Targaryen	13	80	3	243
+/index.php/Viserys_II_Targaryen	Viserys II Targaryen	1768	-1	0	0
+/index.php/Wat_(Whitesmile)	Wat (Whitesmile)	1804	-1	0	0
+/index.php/Aegon_Frey_(Bloodborn)	Aegon Frey (Bloodborn)	6	-1	0	0
+/index.php/Wylis_Manderly	Wylis Manderly	1857	55	7	304
+/index.php/Endrew_Tarth	Endrew Tarth	506	80	1	80
+/index.php/Rowan	Rowan	1495	326	1	326
+/index.php/Qyburn	Qyburn	1358	138	18	340
+/index.php/Elia_Martell	Elia Martell	483	3	12	268
+/index.php/Stiv	Stiv	1599	37	1	37
+/index.php/Timett	Timett	1660	99	3	215
+/index.php/Mallor	Mallor	1054	-1	0	0
+/index.php/Conn	Conn	324	62	1	62
+/index.php/Leo_Lefford	Leo Lefford	941	119	1	119
+/index.php/Renly_Norcross	Renly Norcross	1397	-1	0	0
+/index.php/Assadora_of_Ibben	Assadora of Ibben	140	-1	0	0
+/index.php/Dywen	Dywen	450	52	7	303
+/index.php/Willem_Darry	Willem Darry	1841	3	3	318
+/index.php/Willas_Tyrell	Willas Tyrell	1840	151	7	260
+/index.php/Conwy	Conwy	325	80	1	80
+/index.php/Tumberjon	Tumberjon	1703	-1	0	0
+/index.php/Steffon_Fossoway	Steffon Fossoway	1591	-1	0	0
+/index.php/Beardless_Dick	Beardless Dick	169	-1	0	0
+/index.php/Lew_(Long)	Lew (Long)	955	-1	0	0
+/index.php/Becca_(Baker)	Becca (Baker)	171	-1	0	0
+/index.php/Donnel_of_Duskendale	Donnel of Duskendale	425	-1	0	0
+/index.php/Larence_Snow	Larence Snow	928	90	1	90
+/index.php/Lynesse_Hightower	Lynesse Hightower	1024	86	2	273
+/index.php/Vulture_King	Vulture King	1772	-1	0	0
+/index.php/Igon_Vyrwel	Igon Vyrwel	769	-1	0	0
+/index.php/Colin_Florent	Colin Florent	321	-1	0	0
+/index.php/Cortnay_Penrose	Cortnay Penrose	328	35	4	118
+/index.php/Reysen	Reysen	1400	-1	0	0
+/index.php/Greenbeard	Greenbeard	628	162	2	167
+/index.php/Roland_Crakehall_(Kingsguard)	Roland Crakehall (Kingsguard)	1464	-1	0	0
+/index.php/Endehar	Endehar	505	-1	0	0
+/index.php/Dorea_Sand	Dorea Sand	433	230	1	230
+/index.php/Missandei	Missandei	1146	172	5	330
+/index.php/Marq_Rankenfell	Marq Rankenfell	1081	-1	0	0
+/index.php/Myrcella_Baratheon	Myrcella Baratheon	1195	5	20	329
+/index.php/Rufus_Leek	Rufus Leek	1498	-1	0	0
+/index.php/Hamish	Hamish	679	-1	0	0
+/index.php/Heward	Heward	727	35	1	35
+/index.php/Cleos_Frey	Cleos Frey	311	81	10	261
+/index.php/Danwell_Frey	Danwell Frey	380	29	1	29
+/index.php/Bethany_Bracken	Bethany Bracken	215	-1	0	0
+/index.php/Bran_the_Builder	Bran the Builder	241	2	2	24
+/index.php/Lorent_Lorch	Lorent Lorch	977	-1	0	0
+/index.php/Arya_Stark	Arya Stark	136	2	69	339
+/index.php/Torwynd	Torwynd	1687	-1	0	0
+/index.php/Azor_Ahai	Azor Ahai	145	84	3	285
+/index.php/Murch	Murch	1181	-1	0	0
+/index.php/Aegon_I_Targaryen	Aegon I Targaryen	8	13	7	247
+/index.php/Daemon_II_Blackfyre	Daemon II Blackfyre	349	-1	0	0
+/index.php/Bessa	Bessa	211	-1	0	0
+/index.php/Buford_Bulwer	Buford Bulwer	266	-1	0	0
+/index.php/Saathos	Saathos	1518	-1	0	0
+/index.php/Alysanne_Bulwer	Alysanne Bulwer	79	-1	0	0
+/index.php/Moryn_Tyrell	Moryn Tyrell	1174	228	1	228
+/index.php/Kyle_Condon	Kyle Condon	914	-1	0	0
+/index.php/Frenken	Frenken	545	141	1	141
+/index.php/Joanna_Lannister	Joanna Lannister	827	166	4	272
+/index.php/Morya_Frey	Morya Frey	1173	-1	0	0
+/index.php/Ambrode	Ambrode	90	-1	0	0
+/index.php/House_Farman	House Farman	750	-1	0	0
+/index.php/Andar_Royce	Andar Royce	94	29	2	105
+/index.php/Mellei	Mellei	1124	-1	0	0
+/index.php/Quentin_Tyrell	Quentin Tyrell	1346	-1	0	0
+/index.php/Chiswyck	Chiswyck	303	104	3	158
+/index.php/Gallard	Gallard	553	-1	0	0
+/index.php/Rosey	Rosey	1492	228	1	228
+/index.php/Fornio	Fornio	541	-1	0	0
+/index.php/Maggy	Maggy	1048	252	2	264
+/index.php/Otter_Gimpknee	Otter Gimpknee	1268	-1	0	0
+/index.php/Gilwood_Hunter	Gilwood Hunter	604	238	2	251
+/index.php/Aeron_Greyjoy	Aeron Greyjoy	25	85	8	257
+/index.php/Jorgen	Jorgen	866	-1	0	0
+/index.php/Merrit	Merrit	1138	-1	0	0
+/index.php/Blane	Blane	226	-1	0	0
+/index.php/Gerardys	Gerardys	589	-1	0	0
+/index.php/Varys	Varys	1757	12	48	347
+/index.php/Perros_Blackmont	Perros Blackmont	1299	-1	0	0
+/index.php/Ashara_Dayne	Ashara Dayne	139	6	3	188
+/index.php/Daven_Lannister	Daven Lannister	384	164	4	266
+/index.php/Alebelly	Alebelly	41	109	1	109
+/index.php/Robert_Flowers	Robert Flowers	1437	-1	0	0
+/index.php/Jeyne_Westerling_(wife_of_Maegor_I)	Jeyne Westerling (wife of Maegor I)	823	-1	0	0
+/index.php/Tom_Costayne	Tom Costayne	1672	-1	0	0
+/index.php/Matt	Matt	1098	-1	0	0
+/index.php/Gyloro_Dothare	Gyloro Dothare	663	-1	0	0
+/index.php/Robin_Greyjoy	Robin Greyjoy	1444	229	1	229
+/index.php/Fern	Fern	534	158	1	158
+/index.php/Jorah_Mormont	Jorah Mormont	862	3	31	341
+/index.php/Marianne_Vance	Marianne Vance	1068	-1	0	0
+/index.php/Rhaego	Rhaego	1406	46	4	122
+/index.php/Eddard_Stark	Eddard Stark	456	1	88	340
+/index.php/Tyta_Frey	Tyta Frey	1720	-1	0	0
+/index.php/Morton_Waynwood	Morton Waynwood	1172	-1	0	0
+/index.php/Rycherd_Crane	Rycherd Crane	1507	-1	0	0
+/index.php/Jared_Frey	Jared Frey	792	29	3	321
+/index.php/Bella	Bella	178	-1	0	0
+/index.php/Qyle	Qyle	1359	-1	0	0
+/index.php/Agrivane	Agrivane	33	-1	0	0
+/index.php/Melaquin	Melaquin	1114	-1	0	0
+/index.php/Franklyn_Frey	Franklyn Frey	544	-1	0	0
+/index.php/Xaro_Xhoan_Daxos	Xaro Xhoan Daxos	1864	101	4	291
+/index.php/Runcel_Hightower	Runcel Hightower	1500	-1	0	0
+/index.php/Harys_Haigh	Harys Haigh	713	-1	0	0
+/index.php/Gevin_Harlaw	Gevin Harlaw	598	-1	0	0
+/index.php/Warren	Warren	1796	-1	0	0
+/index.php/Wendello_Qar_Deeth	Wendello Qar Deeth	1818	-1	0	0
+/index.php/Peter_Plumm	Peter Plumm	1302	-1	0	0
+/index.php/Paxter_Redwyne	Paxter Redwyne	1294	47	6	329
+/index.php/Tuffleberry	Tuffleberry	1702	-1	0	0
+/index.php/Leona_Woolfield	Leona Woolfield	947	-1	0	0
+/index.php/Aegon_Targaryen	Aegon Targaryen	12	122	13	347
+/index.php/Ossifer_Plumm	Ossifer Plumm	1260	-1	0	0
+/index.php/Oro_Tendyris	Oro Tendyris	1249	-1	0	0
+/index.php/Gorghan_of_Old_Ghis	Gorghan of Old Ghis	613	-1	0	0
+/index.php/Murenmure	Murenmure	1183	229	1	229
+/index.php/Melessa_Florent	Melessa Florent	1119	-1	0	0
+/index.php/Becca	Becca	170	-1	0	0
+/index.php/Grey_King	Grey King	632	247	1	247
+/index.php/Joss	Joss	873	-1	0	0
+/index.php/Gillam	Gillam	602	-1	0	0
+/index.php/Rhaenys_Targaryen	Rhaenys Targaryen	1411	18	3	211
+/index.php/Torren_Liddle	Torren Liddle	1683	-1	0	0
+/index.php/Merlon_Crakehall	Merlon Crakehall	1133	-1	0	0
+/index.php/Joss_the_Gloom	Joss the Gloom	875	-1	0	0
+/index.php/Viserys_I_Targaryen	Viserys I Targaryen	1767	241	1	241
+/index.php/Jasper_Arryn	Jasper Arryn	797	238	1	238
+/index.php/Helliweg	Helliweg	717	-1	0	0
+/index.php/Grenn	Grenn	630	19	11	233
+/index.php/Franklyn_Fowler	Franklyn Fowler	543	268	1	268
+/index.php/Hilmar_Drumm	Hilmar Drumm	730	-1	0	0
+/index.php/Daario_Naharis	Daario Naharis	344	187	9	330
+/index.php/Gendry	Gendry	586	27	18	270
+/index.php/Shyra	Shyra	1565	-1	0	0
+/index.php/Gerold_Dayne	Gerold Dayne	592	249	2	268
+/index.php/Errok	Errok	516	-1	0	0
+/index.php/Violet	Violet	1765	-1	0	0
+/index.php/Garth	Garth	571	-1	0	0
+/index.php/Marya_Seaworth	Marya Seaworth	1089	-1	0	0
+/index.php/Tansy	Tansy	1629	-1	0	0
+/index.php/Gowen_Baratheon	Gowen Baratheon	620	-1	0	0
+/index.php/Dermot	Dermot	402	255	1	255
+/index.php/Danelle_Lothston	Danelle Lothston	377	-1	0	0
+/index.php/Alysanne_Bracken	Alysanne Bracken	78	-1	0	0
+/index.php/Farlen	Farlen	532	-1	0	0
+/index.php/Maelys_Blackfyre	Maelys Blackfyre	1042	190	1	190
+/index.php/Barra	Barra	161	35	3	82
+/index.php/Butterbumps	Butterbumps	269	151	1	151
+/index.php/Tytos_Frey	Tytos Frey	1723	-1	0	0
+/index.php/Desmond_Redwyne	Desmond Redwyne	405	-1	0	0
+/index.php/Rakharo	Rakharo	1365	23	1	23
+/index.php/Zhoe_Blanetree	Zhoe Blanetree	1883	-1	0	0
+/index.php/Jonothor_Darry	Jonothor Darry	861	244	1	244
+/index.php/Fat_Walda_Frey	Fat Walda Frey	533	138	2	182
+/index.php/Alaric	Alaric	37	-1	0	0
+/index.php/Olymer_Tyrell	Olymer Tyrell	1235	-1	0	0
+/index.php/Balman_Byrch	Balman Byrch	152	252	2	260
+/index.php/Rus	Rus	1503	229	1	229
+/index.php/Clifford_Conklyn	Clifford Conklyn	315	-1	0	0
+/index.php/Tremond_Gargalen	Tremond Gargalen	1692	-1	0	0
+/index.php/Alannys_Harlaw	Alannys Harlaw	36	98	3	239
+/index.php/Sigrin	Sigrin	1569	98	1	98
+/index.php/Beric_Dondarrion	Beric Dondarrion	204	29	21	270
+/index.php/Jeyne_Darry	Jeyne Darry	812	-1	0	0
+/index.php/Daenerys,_daughter_of_Aegon_IV	Daenerys, daughter of Aegon IV	353	-1	0	0
+/index.php/Eleanor_Mooton	Eleanor Mooton	481	-1	0	0
+/index.php/Stonesnake	Stonesnake	1602	125	2	142
+/index.php/Holger	Holger	738	-1	0	0
+/index.php/Gregor_Clegane	Gregor Clegane	629	29	39	347
+/index.php/Koss	Koss	906	-1	0	0
+/index.php/Manfrey_Martell	Manfrey Martell	1062	230	1	230
+/index.php/Philip_Plumm	Philip Plumm	1306	-1	0	0
+/index.php/Timon	Timon	1662	-1	0	0
+/index.php/Roger_Hogg	Roger Hogg	1460	-1	0	0
+/index.php/Olyvar_Oakheart	Olyvar Oakheart	1237	-1	0	0
+/index.php/Kyra	Kyra	917	287	2	307
+/index.php/Cass	Cass	282	-1	0	0
+/index.php/Alesander_Staedmon	Alesander Staedmon	46	-1	0	0
+/index.php/Alerie_Hightower	Alerie Hightower	44	-1	0	0
+/index.php/Edmure_Tully	Edmure Tully	462	6	23	272
+/index.php/Porridge	Porridge	1314	-1	0	0
+/index.php/Robin_Ryger	Robin Ryger	1449	146	3	272
+/index.php/Raynard	Raynard	1387	256	2	264
+/index.php/Wyl	Wyl	1854	35	1	35
+/index.php/Jaime_Frey	Jaime Frey	784	-1	0	0
+/index.php/Caleotte	Caleotte	276	230	1	230
+/index.php/Eddara_Tallhart	Eddara Tallhart	454	-1	0	0
+/index.php/Bellegere_Otherys_(Courtesan)	Bellegere Otherys (Courtesan)	180	-1	0	0
+/index.php/Ghost_of_High_Heart	Ghost of High Heart	600	167	2	188
+/index.php/Lanna	Lanna	925	-1	0	0
+/index.php/Jyana	Jyana	883	-1	0	0
+/index.php/Ronnet_Connington	Ronnet Connington	1483	242	4	347
+/index.php/Elenya_Westerling	Elenya Westerling	482	-1	0	0
+/index.php/Orland	Orland	1246	-1	0	0
+/index.php/Moribald_Chester	Moribald Chester	1162	-1	0	0
+/index.php/Ellery_Vance	Ellery Vance	487	-1	0	0
+/index.php/Gynir	Gynir	664	-1	0	0
+/index.php/Garse_Flowers	Garse Flowers	569	-1	0	0
+/index.php/Tanselle	Tanselle	1628	237	1	237
+/index.php/Raymun_Darry	Raymun Darry	1382	16	3	55
+/index.php/Alyn_Stackspear	Alyn Stackspear	72	-1	0	0
+/index.php/Harmune	Harmune	693	-1	0	0
+/index.php/Lady_of_the_Leaves	Lady of the Leaves	919	167	1	167
+/index.php/Tregar_Ormollen	Tregar Ormollen	1691	86	1	86
+/index.php/Axell_Florent	Axell Florent	143	155	5	319
+/index.php/Lucion_Lannister	Lucion Lannister	1003	-1	0	0
+/index.php/Walder_Vance	Walder Vance	1786	-1	0	0
+/index.php/Ferret	Ferret	537	-1	0	0
+/index.php/Jhiqui	Jhiqui	825	11	2	23
+/index.php/Jalabhar_Xho	Jalabhar Xho	786	29	1	29
+/index.php/Brusco	Brusco	257	250	2	262
+/index.php/Jeyne_Poole	Jeyne Poole	818	7	12	344
+/index.php/Nymeria_Sand	Nymeria Sand	1220	230	2	313
+/index.php/Harwyn_Hoare	Harwyn Hoare	711	-1	0	0
+/index.php/Ronnel_Arryn	Ronnel Arryn	1480	238	1	238
+/index.php/Hoarfrost_Umber	Hoarfrost Umber	732	-1	0	0
+/index.php/Garrison_Prester	Garrison Prester	568	-1	0	0
+/index.php/Humfrey_Hardyng	Humfrey Hardyng	762	-1	0	0
+/index.php/Willam	Willam	1834	-1	0	0
+/index.php/Corliss_Penny	Corliss Penny	327	337	1	337
+/index.php/Mace_Tyrell	Mace Tyrell	1035	20	24	347
+/index.php/Wallace_Waynwood	Wallace Waynwood	1789	-1	0	0
+/index.php/Cassella_Vaith	Cassella Vaith	284	-1	0	0
+/index.php/Lucas_Lothston	Lucas Lothston	995	-1	0	0
+/index.php/Elyana_Vypren	Elyana Vypren	492	-1	0	0
+/index.php/Hal	Hal	670	306	1	306
+/index.php/Alester_Oakheart	Alester Oakheart	50	-1	0	0
+/index.php/Rolly_Duckfield	Rolly Duckfield	1475	283	2	289
+/index.php/Pypar	Pypar	1329	19	7	233
+/index.php/Halder	Halder	672	19	4	80
+/index.php/Olyvar_Frey	Olyvar Frey	1236	196	1	196
+/index.php/Waif	Waif	1775	250	3	320
+/index.php/Dick	Dick	408	237	1	237
+/index.php/Murmison	Murmison	1184	-1	0	0
+/index.php/Aemon_Costayne	Aemon Costayne	17	-1	0	0
+/index.php/Vickon_Botley	Vickon Botley	1760	-1	0	0
+/index.php/Jacelyn_Bywater	Jacelyn Bywater	776	82	8	198
+/index.php/Garth_Greenfield	Garth Greenfield	574	-1	0	0
+/index.php/Softfoot	Softfoot	1580	-1	0	0
+/index.php/Mychel_Redfort	Mychel Redfort	1187	34	2	269
+/index.php/Yandry	Yandry	1866	289	1	289
+/index.php/Denyse_Hightower	Denyse Hightower	401	-1	0	0
+/index.php/Jeyne_Beesbury	Jeyne Beesbury	811	-1	0	0
+/index.php/Steffon_Stackspear	Steffon Stackspear	1595	-1	0	0
+/index.php/Lyonel_Selmy	Lyonel Selmy	1029	-1	0	0
+/index.php/Loren_Lannister	Loren Lannister	976	13	1	13
+/index.php/Shirei_Frey	Shirei Frey	1563	-1	0	0
+/index.php/Jacks	Jacks	779	22	1	22
+/index.php/Karl	Karl	889	178	1	178
+/index.php/Ragnor_Pyke	Ragnor Pyke	1362	-1	0	0
+/index.php/Dryn	Dryn	439	-1	0	0
+/index.php/White_Walda_Frey	White Walda Frey	1822	-1	0	0
+/index.php/Tywin_Frey_(son_of_Raymund)	Tywin Frey (son of Raymund)	1726	-1	0	0
+/index.php/Victaria_Tyrell	Victaria Tyrell	1762	-1	0	0
+/index.php/Tristifer_V_Mudd	Tristifer V Mudd	1696	-1	0	0
+/index.php/Ermesande_Hayford	Ermesande Hayford	511	99	1	99
+/index.php/Arianne_of_Tarth	Arianne of Tarth	114	-1	0	0
+/index.php/Squint	Squint	1582	-1	0	0
+/index.php/Jenny_(Penny)	Jenny (Penny)	807	-1	0	0
+/index.php/Dalla_(Dragonstone)	Dalla (Dragonstone)	370	-1	0	0
+/index.php/Joss_Stilwood	Joss Stilwood	874	-1	0	0
+/index.php/Talla_Tarly	Talla Tarly	1625	-1	0	0
+/index.php/Canker_Jeyne	Canker Jeyne	278	-1	0	0
+/index.php/Gendel	Gendel	585	171	1	171
+/index.php/Hubard_Rambton	Hubard Rambton	754	84	1	84
+/index.php/Rolland_Longthorpe	Rolland Longthorpe	1471	-1	0	0
+/index.php/Serwyn	Serwyn	1550	8	2	15
+/index.php/Harrold_Hardyng	Harrold Hardyng	703	251	2	269
+/index.php/Beth_Cassel	Beth Cassel	213	7	2	140
+/index.php/Helly	Helly	718	-1	0	0
+/index.php/Styr	Styr	1604	152	6	200
+/index.php/Goady	Goady	608	-1	0	0
+/index.php/Marwyn_Belmore	Marwyn Belmore	1088	238	1	238
+/index.php/Eglantine	Eglantine	473	-1	0	0
+/index.php/Ollidor	Ollidor	1233	-1	0	0
+/index.php/Jafer_Flowers	Jafer Flowers	782	52	3	99
+/index.php/Tristimun	Tristimun	1697	-1	0	0
+/index.php/Selmond_Stackspear	Selmond Stackspear	1543	-1	0	0
+/index.php/Wyl_Waynwood	Wyl Waynwood	1856	-1	0	0
+/index.php/Theo_Wull	Theo Wull	1641	-1	0	0
+/index.php/Uller	Uller	1730	-1	0	0
+/index.php/Kella	Kella	895	-1	0	0
+/index.php/Shyra_Errol	Shyra Errol	1566	-1	0	0
+/index.php/Lem	Lem	934	158	4	270
+/index.php/Lew	Lew	953	7	1	7
+/index.php/Kennos_of_Kayce	Kennos of Kayce	898	255	1	255
+/index.php/Randa	Randa	1372	-1	0	0
+/index.php/Ralf_Stonehouse	Ralf Stonehouse	1370	246	1	246
+/index.php/Leslyn_Haigh	Leslyn Haigh	950	-1	0	0
+/index.php/Nute	Nute	1217	246	2	257
+/index.php/Symon_Hollard	Symon Hollard	1616	237	1	237
+/index.php/Jeor_Mormont	Jeor Mormont	808	0	22	278
+/index.php/Lucas_Inchfield	Lucas Inchfield	994	-1	0	0
+/index.php/Rolder	Rolder	1466	-1	0	0
+/index.php/Andrew_Estermont	Andrew Estermont	96	208	1	208
+/index.php/Werlag	Werlag	1819	-1	0	0
+/index.php/Gorold_Goodbrother	Gorold Goodbrother	619	229	1	229
+/index.php/Poetess	Poetess	1310	-1	0	0
+/index.php/Harlon_Greyjoy	Harlon Greyjoy	688	229	1	229
+/index.php/Harrold_Osgrey	Harrold Osgrey	704	-1	0	0
+/index.php/Torrek	Torrek	1682	-1	0	0
+/index.php/Raymond_Nayland	Raymond Nayland	1380	-1	0	0
+/index.php/Meryn_Trant	Meryn Trant	1140	8	15	347
+/index.php/Willam_Stark	Willam Stark	1836	-1	0	0
+/index.php/Mudge_(miller)	Mudge (miller)	1176	-1	0	0
+/index.php/Alyn_Ambrose	Alyn Ambrose	65	-1	0	0
+/index.php/Quenten_Banefort	Quenten Banefort	1345	-1	0	0
+/index.php/Yna	Yna	1870	-1	0	0
+/index.php/Wat_(orphan)	Wat (orphan)	1800	-1	0	0
+/index.php/Lucimore_Botley	Lucimore Botley	1002	-1	0	0
+/index.php/Eustace_Osgrey	Eustace Osgrey	525	-1	0	0
+/index.php/Blue_Bard	Blue Bard	228	267	2	271
+/index.php/Criston_Cole	Criston Cole	339	241	2	244
+/index.php/Quent	Quent	1344	-1	0	0
+/index.php/Sawwood	Sawwood	1537	-1	0	0
+/index.php/Orbelo	Orbelo	1241	-1	0	0
+/index.php/Wulfe	Wulfe	1853	-1	0	0
+/index.php/Zekko	Zekko	1882	-1	0	0
+/index.php/Eustace_Brune	Eustace Brune	523	-1	0	0
+/index.php/Jory_Cassel	Jory Cassel	868	1	13	45
+/index.php/Tristifer_Botley	Tristifer Botley	1694	239	2	337
+/index.php/Gyles_Farwynd	Gyles Farwynd	659	-1	0	0
+/index.php/Sailor%27s_Wife	Sailor's Wife	1519	254	1	254
+/index.php/Bennarion_Botley	Bennarion Botley	198	-1	0	0
+/index.php/Ordello	Ordello	1243	-1	0	0
+/index.php/Eroeh	Eroeh	512	68	2	305
+/index.php/Ygon_Farwynd	Ygon Farwynd	1868	-1	0	0
+/index.php/Dykk_Harlaw	Dykk Harlaw	449	-1	0	0
+/index.php/Shadrick	Shadrick	1551	-1	0	0
+/index.php/Kyle_Royce	Kyle Royce	915	-1	0	0
+/index.php/Dyah	Dyah	448	-1	0	0
+/index.php/Maege_Mormont	Maege Mormont	1038	21	2	190
+/index.php/Lyonel_Frey	Lyonel Frey	1028	-1	0	0
+/index.php/Janna_Tyrell	Janna Tyrell	789	-1	0	0
+/index.php/Oberyn_Martell	Oberyn Martell	1225	183	6	318
+/index.php/Willamen_Frey	Willamen Frey	1839	-1	0	0
+/index.php/Lucifer_Hardy	Lucifer Hardy	1001	-1	0	0
+/index.php/Tyrek_Lannister	Tyrek Lannister	1715	92	5	255
+/index.php/Thistle	Thistle	1650	275	1	275
+/index.php/Walton	Walton	1791	189	3	321
+/index.php/Rhaelle_Targaryen	Rhaelle Targaryen	1408	263	1	263
+/index.php/Ysilla	Ysilla	1877	289	2	293
+/index.php/Edderion_Stark	Edderion Stark	457	-1	0	0
+/index.php/Vortimer_Crane	Vortimer Crane	1771	-1	0	0
+/index.php/Garse_Goodbrook	Garse Goodbrook	570	-1	0	0
+/index.php/Mollander	Mollander	1149	228	1	228
+/index.php/Bessa_(Winterfell)	Bessa (Winterfell)	212	-1	0	0
+/index.php/Uthor_Underleaf	Uthor Underleaf	1748	-1	0	0
+/index.php/Byam_Flint	Byam Flint	270	-1	0	0
+/index.php/Alysanne_Osgrey	Alysanne Osgrey	83	-1	0	0
+/index.php/Lark	Lark	929	97	3	145
+/index.php/Gerren	Gerren	596	-1	0	0
+/index.php/Alysanne_of_Tarth	Alysanne of Tarth	82	-1	0	0
+/index.php/Tobho_Mott	Tobho Mott	1667	27	4	188
+/index.php/Osmund_Frey	Osmund Frey	1256	-1	0	0
+/index.php/Barth_Stark	Barth Stark	166	-1	0	0
+/index.php/Porther	Porther	1315	22	1	22
+/index.php/Myles_Manwoody	Myles Manwoody	1191	-1	0	0
+/index.php/Dagmer	Dagmer	360	98	4	229
+/index.php/Gwayne_Gaunt	Gwayne Gaunt	653	237	1	237
+/index.php/Weese	Weese	1812	100	3	112
+/index.php/Dennet	Dennet	393	-1	0	0
+/index.php/Arron	Arron	123	-1	0	0
+/index.php/Alesander_Frey	Alesander Frey	45	196	1	196
+/index.php/Cersei_Lannister	Cersei Lannister	295	2	87	347
+/index.php/Sarella_Sand	Sarella Sand	1531	230	1	230
+/index.php/Bellegere_Otherys	Bellegere Otherys	179	-1	0	0
+/index.php/Ocley	Ocley	1226	-1	0	0
+/index.php/Sefton_Staunton	Sefton Staunton	1542	-1	0	0
+/index.php/Coldhands	Coldhands	318	191	5	288
+/index.php/Hareth	Hareth	682	-1	0	0
+/index.php/Erreck	Erreck	513	-1	0	0
+/index.php/Aegon_Frey_(Jinglebell)	Aegon Frey (Jinglebell)	7	196	1	196
+/index.php/Will_(Fletcher)	Will (Fletcher)	1826	-1	0	0
+/index.php/Addison_Hill	Addison Hill	4	-1	0	0
+/index.php/Obara_Sand	Obara Sand	1223	230	1	230
+/index.php/Nolla	Nolla	1210	-1	0	0
+/index.php/Pudding	Pudding	1323	-1	0	0
+/index.php/Watt	Watt	1806	-1	0	0
+/index.php/Luwin	Luwin	1013	2	24	143
+/index.php/Dagon_Greyjoy	Dagon Greyjoy	362	-1	0	0
+/index.php/Robin_Hill	Robin Hill	1445	-1	0	0
+/index.php/Wate	Wate	1805	-1	0	0
+/index.php/Satin	Satin	1535	200	2	221
+/index.php/Groleo	Groleo	639	153	6	334
+/index.php/Jonos_Stark	Jonos Stark	860	-1	0	0
+/index.php/Haegon_Blackfyre	Haegon Blackfyre	666	-1	0	0
+/index.php/Lothar_Mallery	Lothar Mallery	985	162	1	162
+/index.php/Alys_Karstark	Alys Karstark	76	165	4	324
+/index.php/Lister	Lister	965	-1	0	0
+/index.php/Hullen	Hullen	760	1	6	158
+/index.php/Oswell_Kettleblack	Oswell Kettleblack	1262	213	3	238
+/index.php/Tysane_Frey	Tysane Frey	1718	-1	0	0
+/index.php/Rhaegar_Frey	Rhaegar Frey	1403	294	2	321
+/index.php/Ricasso	Ricasso	1416	230	1	230
+/index.php/Salladhor_Saan	Salladhor Saan	1520	84	7	284
+/index.php/Edmund_Ambrose	Edmund Ambrose	461	-1	0	0
+/index.php/Steffon_Seaworth	Steffon Seaworth	1594	-1	0	0
+/index.php/Hal_(Hog)	Hal (Hog)	671	-1	0	0
+/index.php/Erren_Florent	Erren Florent	515	-1	0	0
+/index.php/Aerys_II_Targaryen	Aerys II Targaryen	27	6	30	347
+/index.php/Rodrik_Freeborn	Rodrik Freeborn	1453	239	1	239
+/index.php/Falyse_Stokeworth	Falyse Stokeworth	531	131	5	264
+/index.php/Jaehaerys_I_Targaryen	Jaehaerys I Targaryen	780	153	2	185
+/index.php/Herbert_Bolling	Herbert Bolling	726	-1	0	0
+/index.php/Stannis_Baratheon	Stannis Baratheon	1586	8	78	347
+/index.php/Torrhen_Stark	Torrhen Stark	1685	-1	0	0
+/index.php/Tyrion_Lannister	Tyrion Lannister	1716	4	95	347
+/index.php/Garth_Gardener_(Greenhand)	Garth Gardener (Greenhand)	573	151	1	151
+/index.php/Brenett	Brenett	253	-1	0	0
+/index.php/Owen_Inchfield	Owen Inchfield	1274	-1	0	0
+/index.php/Theomore	Theomore	1646	-1	0	0
+/index.php/Parmen_Crane	Parmen Crane	1278	116	1	116
+/index.php/Erena_Glover	Erena Glover	509	239	1	239
+/index.php/Orys_Baratheon	Orys Baratheon	1252	-1	0	0
+/index.php/Emmon_Frey	Emmon Frey	501	29	6	272
+/index.php/Walda_Frey_(daughter_of_Edwyn)	Walda Frey (daughter of Edwyn)	1776	-1	0	0
+/index.php/Baelor_Targaryen	Baelor Targaryen	150	12	2	80
+/index.php/Harbert_Paege	Harbert Paege	681	-1	0	0
+/index.php/Lucos_Chyttering	Lucos Chyttering	1006	-1	0	0
+/index.php/Lord_Walder_Frey	Lord Walder Frey	975	59	14	266
+/index.php/Owen_(brother_of_Meribald)	Owen (brother of Meribald)	1273	-1	0	0
+/index.php/Kyra_Frey	Kyra Frey	918	-1	0	0
+/index.php/Joffrey_Baratheon	Joffrey Baratheon	831	4	69	302
+/index.php/Triston_Sunderland	Triston Sunderland	1700	-1	0	0
+/index.php/Willam_Wells	Willam Wells	1837	281	1	281
+/index.php/Munda	Munda	1180	-1	0	0
+/index.php/Steffon_Baratheon	Steffon Baratheon	1590	74	2	80
+/index.php/Donal_Noye	Donal Noye	418	19	4	209
+/index.php/Walder_Frey_(Little)	Walder Frey (Little)	1782	78	4	287
+/index.php/Cuger	Cuger	340	-1	0	0
+/index.php/Cyrenna_Swann	Cyrenna Swann	343	-1	0	0
+/index.php/Polliver	Polliver	1312	100	2	219
+/index.php/Steffon_Hollard	Steffon Hollard	1593	-1	0	0
+/index.php/Maddy	Maddy	1037	238	1	238
+/index.php/Gerold_Hightower	Gerold Hightower	594	8	5	212
+/index.php/Meralyn	Meralyn	1128	-1	0	0
+/index.php/Bradamar_Frey	Bradamar Frey	239	-1	0	0
+/index.php/Martyn_Mullendore	Martyn Mullendore	1085	-1	0	0
+/index.php/Grubbs	Grubbs	640	-1	0	0
+/index.php/Sigfry_Stonetree	Sigfry Stonetree	1567	-1	0	0
+/index.php/Urrathon	Urrathon	1740	-1	0	0
+/index.php/Bellonara_Otherys	Bellonara Otherys	182	-1	0	0
+/index.php/Guncer_Sunglass	Guncer Sunglass	645	84	2	155
+/index.php/Bess_Bracken	Bess Bracken	210	-1	0	0
+/index.php/Rylene_Florent	Rylene Florent	1512	-1	0	0
+/index.php/Genna_Lannister	Genna Lannister	587	217	4	272
+/index.php/Petyr_Baelish	Petyr Baelish	1303	8	35	269
+/index.php/Moqorro	Moqorro	1155	286	4	338
+/index.php/Luke	Luke	1007	-1	0	0
+/index.php/Tobbot	Tobbot	1666	-1	0	0
+/index.php/Garth_Tyrell	Garth Tyrell	577	235	1	235
+/index.php/Timeon	Timeon	1659	166	2	248
+/index.php/Jeyne	Jeyne	810	-1	0	0
+/index.php/Anders_Yronwood	Anders Yronwood	95	241	1	241
+/index.php/Chella	Chella	299	-1	0	0
+/index.php/Bedwyck	Bedwyck	173	87	5	282
+/index.php/Gared	Gared	557	0	3	21
+/index.php/Harra	Harra	695	-1	0	0
+/index.php/Qarro_Volentin	Qarro Volentin	1334	-1	0	0
+/index.php/Lucas_Tyrell	Lucas Tyrell	998	-1	0	0
+/index.php/Visenya_Targaryen	Visenya Targaryen	1766	18	1	18
+/index.php/Ramsay_Snow	Ramsay Snow	1371	90	10	245
+/index.php/Joramun	Joramun	864	-1	0	0
+/index.php/Theo_Frey	Theo Frey	1640	29	1	29
+/index.php/Annara_Farring	Annara Farring	104	-1	0	0
+/index.php/Ternesio_Terys	Ternesio Terys	1635	234	1	234
+/index.php/Umfred	Umfred	1735	-1	0	0
+/index.php/Tarber	Tarber	1632	93	1	93
+/index.php/Quickfinger	Quickfinger	1354	-1	0	0
+/index.php/Mathos_Mallarawan	Mathos Mallarawan	1096	-1	0	0
+/index.php/Orphan_Oss	Orphan Oss	1250	-1	0	0
+/index.php/Harmen_Uller	Harmen Uller	690	249	1	249
+/index.php/Janei_Lannister	Janei Lannister	788	-1	0	0
+/index.php/Cleon	Cleon	310	216	2	300
+/index.php/Eldiss	Eldiss	478	-1	0	0
+/index.php/Gascoyne	Gascoyne	579	241	1	241
+/index.php/Belgrave	Belgrave	176	-1	0	0
+/index.php/Talea	Talea	1624	-1	0	0
+/index.php/Gysella_Goodbrother	Gysella Goodbrother	665	229	1	229
+/index.php/Layna	Layna	931	-1	0	0
+/index.php/Branston_Cuy	Branston Cuy	250	-1	0	0
+/index.php/Michael_Mertyns	Michael Mertyns	1141	-1	0	0
+/index.php/Mors_Martell	Mors Martell	1169	230	1	230
+/index.php/Halys_Hornwood	Halys Hornwood	678	62	2	90
+/index.php/Big_Boil	Big Boil	222	-1	0	0
+/index.php/Maekar_Targaryen	Maekar Targaryen	1041	-1	0	0
+/index.php/Belandra	Belandra	174	-1	0	0
+/index.php/Ormond	Ormond	1247	-1	0	0
+/index.php/Quellon_Greyjoy	Quellon Greyjoy	1341	229	1	229
+/index.php/Gyles	Gyles	658	-1	0	0
+/index.php/Stafford_Lannister	Stafford Lannister	1584	81	4	113
+/index.php/Karyl_Vance	Karyl Vance	891	43	2	180
+/index.php/Sebaston_Farman	Sebaston Farman	1540	-1	0	0
+/index.php/Symond_Templeton	Symond Templeton	1620	238	2	269
+/index.php/Wynafryd_Manderly	Wynafryd Manderly	1862	-1	0	0
+/index.php/Raynard_Ruttiger	Raynard Ruttiger	1388	-1	0	0
+/index.php/Amabel	Amabel	88	-1	0	0
+/index.php/Harmund_Sharp	Harmund Sharp	692	-1	0	0
+/index.php/Chett	Chett	300	87	3	145
+/index.php/Edric_Storm	Edric Storm	465	30	9	208
+/index.php/Rudge	Rudge	1497	-1	0	0
+/index.php/Jon_Bulwer	Jon Bulwer	839	-1	0	0
+/index.php/Damon_Shett	Damon Shett	373	-1	0	0
+/index.php/Tanda_Stokeworth	Tanda Stokeworth	1627	115	5	260
+/index.php/Grazdan_(Great)	Grazdan (Great)	624	-1	0	0
+/index.php/Nymeria	Nymeria	1219	7	6	320
+/index.php/Chiggen	Chiggen	302	-1	0	0
+/index.php/Hugor_of_the_Hill	Hugor of the Hill	759	280	1	280
+/index.php/Bors	Bors	236	-1	0	0
+/index.php/Qarl_(Thrall)	Qarl (Thrall)	1332	-1	0	0
+/index.php/Rigney	Rigney	1427	239	1	239
+/index.php/Nestor_Royce	Nestor Royce	1206	34	3	269
+/index.php/Myles_Mooton	Myles Mooton	1192	-1	0	0
+/index.php/Harbert	Harbert	680	-1	0	0
+/index.php/Rymolf	Rymolf	1515	-1	0	0
+/index.php/Pate_of_the_Blue_Fork	Pate of the Blue Fork	1290	-1	0	0
+/index.php/Mudge	Mudge	1175	-1	0	0
+/index.php/Red_Oarsman	Red Oarsman	1389	246	1	246
+/index.php/Lum	Lum	1008	-1	0	0
+/index.php/Sylas_Flatnose	Sylas Flatnose	1611	229	1	229
+/index.php/Eden_Risley	Eden Risley	459	-1	0	0
+/index.php/Calon	Calon	277	-1	0	0
+/index.php/Rickard_Tyrell	Rickard Tyrell	1424	-1	0	0
+/index.php/Alla_Tyrell	Alla Tyrell	53	267	1	267
+/index.php/Tim_Stone	Tim Stone	1657	-1	0	0
+/index.php/Lester_Morrigen	Lester Morrigen	952	-1	0	0
+/index.php/Ebben	Ebben	452	127	2	142
+/index.php/Puckens	Puckens	1322	-1	0	0
+/index.php/Armen	Armen	116	228	1	228
+/index.php/Ulrick_Dayne	Ulrick Dayne	1732	-1	0	0
+/index.php/Rickon_Stark	Rickon Stark	1426	1	21	304
+/index.php/Margot_Lannister	Margot Lannister	1067	-1	0	0
+/index.php/Otto_Hightower	Otto Hightower	1269	-1	0	0
+/index.php/Unella	Unella	1737	329	1	329
+/index.php/Armond_Caswell	Armond Caswell	117	-1	0	0
+/index.php/Meribald	Meribald	1131	253	2	265
+/index.php/Mortimer_Boggs	Mortimer Boggs	1171	-1	0	0
+/index.php/Jurne	Jurne	881	-1	0	0
+/index.php/Glendon_Hewett	Glendon Hewett	607	-1	0	0
+/index.php/Hop-Robin	Hop-Robin	740	-1	0	0
+/index.php/Bump	Bump	267	275	1	275
+/index.php/Robert_Paege	Robert Paege	1440	-1	0	0
+/index.php/Bryce_Caron	Bryce Caron	260	29	2	139
+/index.php/Jate	Jate	800	-1	0	0
+/index.php/Della_Frey	Della Frey	389	-1	0	0
+/index.php/Garlan_Tyrell	Garlan Tyrell	565	164	7	271
+/index.php/Donnel_Haigh	Donnel Haigh	422	-1	0	0
+/index.php/TomToo	TomToo	1678	-1	0	0
+/index.php/Cosgrove	Cosgrove	329	-1	0	0
+/index.php/Cedra	Cedra	289	268	1	268
+/index.php/Harwood_Fell	Harwood Fell	709	-1	0	0
+/index.php/Vylarr	Vylarr	1773	77	2	99
+/index.php/Melly	Melly	1125	-1	0	0
+/index.php/Donnel_Hill	Donnel Hill	423	193	1	193
+/index.php/Perra_Frey	Perra Frey	1297	-1	0	0
+/index.php/Rickard_Ryswell	Rickard Ryswell	1421	316	1	316
+/index.php/Pate_(Shermer%27s_Grove)	Pate (Shermer's Grove)	1288	-1	0	0
+/index.php/Lew_(Left_Hand)	Lew (Left Hand)	954	-1	0	0
+/index.php/Jeyne_Fossoway	Jeyne Fossoway	813	-1	0	0
+/index.php/Jon_Waters	Jon Waters	855	-1	0	0
+/index.php/Arianne_Martell	Arianne Martell	113	230	6	318
+/index.php/Vargo_Hoat	Vargo Hoat	1755	104	14	261
+/index.php/Cletus_Yronwood	Cletus Yronwood	312	281	1	281
+/index.php/Catelyn_Tully	Catelyn Tully	287	2	67	316
+/index.php/Bodger	Bodger	230	-1	0	0
+/index.php/Emmon_Cuy	Emmon Cuy	500	107	3	212
+/index.php/Ulf	Ulf	1728	62	1	62
+/index.php/Arryk_(Guard)	Arryk (Guard)	126	-1	0	0
+/index.php/Quaithe	Quaithe	1338	101	6	318
+/index.php/Lorcas	Lorcas	971	-1	0	0
+/index.php/Stevron_Frey	Stevron Frey	1598	59	4	226
+/index.php/Rossart	Rossart	1494	156	2	182
+/index.php/Mero	Mero	1135	202	1	202
+/index.php/Jaehaerys_II_Targaryen	Jaehaerys II Targaryen	781	80	2	216
+/index.php/Raymund_Frey	Raymund Frey	1384	-1	0	0
+/index.php/Myles	Myles	1189	230	1	230
+/index.php/Haggo	Haggo	667	11	1	11
+/index.php/Alyn_Connington	Alyn Connington	67	-1	0	0
+/index.php/Henly_(Old)	Henly (Old)	724	-1	0	0
+/index.php/Danny_Flint	Danny Flint	378	-1	0	0
+/index.php/Bernarr_(Black)	Bernarr (Black)	206	-1	0	0
+/index.php/Lucias_Vypren	Lucias Vypren	1000	-1	0	0
+/index.php/Gergen	Gergen	590	-1	0	0
+/index.php/Pate_(Pinchbottom)	Pate (Pinchbottom)	1287	-1	0	0
+/index.php/Jeffory_Mallister	Jeffory Mallister	804	-1	0	0
+/index.php/Tyene_Sand	Tyene Sand	1712	230	4	313
+/index.php/Hoster_Frey	Hoster Frey	745	-1	0	0
+/index.php/Hizdahr_zo_Loraq	Hizdahr zo Loraq	731	277	11	342
+/index.php/Mollos	Mollos	1150	228	1	228
+/index.php/Luton	Luton	1012	326	1	326
+/index.php/Omer_Florent	Omer Florent	1239	-1	0	0
+/index.php/Veiled_Lady	Veiled Lady	1759	-1	0	0
+/index.php/Erryk_(Guard)	Erryk (Guard)	518	-1	0	0
+/index.php/Jon_Umber_(Greatjon)	Jon Umber (Greatjon)	852	53	9	226
+/index.php/Aggo	Aggo	31	23	1	23
+/index.php/Bethany_Redwyne	Bethany Redwyne	217	-1	0	0
+/index.php/Kirth_Vance	Kirth Vance	904	-1	0	0
+/index.php/Luthor_Tyrell_(son_of_Moryn)	Luthor Tyrell (son of Moryn)	1010	-1	0	0
+/index.php/Orivel	Orivel	1245	-1	0	0
+/index.php/Falia_Flowers	Falia Flowers	530	-1	0	0
+/index.php/Brella	Brella	252	-1	0	0
+/index.php/Ferny	Ferny	535	-1	0	0
+/index.php/Rhae_Targaryen	Rhae Targaryen	1402	-1	0	0
+/index.php/Lommy_Greenhands	Lommy Greenhands	968	75	3	93
+/index.php/Quaro	Quaro	1339	23	2	64
+/index.php/Trystane_Martell	Trystane Martell	1701	99	4	313
+/index.php/Edmyn_Tully	Edmyn Tully	463	-1	0	0
+/index.php/Pate_(Mory)	Pate (Mory)	1284	-1	0	0
+/index.php/Dirk	Dirk	414	178	1	178
+/index.php/Stannis_Seaworth	Stannis Seaworth	1587	-1	0	0
+/index.php/Berena_Hornwood	Berena Hornwood	203	90	1	90
+/index.php/Maegelle_Frey	Maegelle Frey	1039	-1	0	0
+/index.php/Addam	Addam	1	-1	0	0
+/index.php/Masha_Heddle	Masha Heddle	1090	-1	0	0
+/index.php/Luthor_Tyrell_(son_of_Theodore)	Luthor Tyrell (son of Theodore)	1011	-1	0	0
+/index.php/Daemon_Sand	Daemon Sand	350	215	3	252
+/index.php/Megga_Tyrell	Megga Tyrell	1110	267	1	267
+/index.php/Aggar	Aggar	30	-1	0	0
+/index.php/Rickard_Stark	Rickard Stark	1422	4	9	182
+/index.php/Lester	Lester	951	-1	0	0
+/index.php/Grazdan_zo_Galare	Grazdan zo Galare	627	-1	0	0
+/index.php/Rodrik_Flint	Rodrik Flint	1452	-1	0	0
+/index.php/Dennis_Plumm	Dennis Plumm	394	-1	0	0
+/index.php/Maegor_I_Targaryen	Maegor I Targaryen	1040	18	4	256
+/index.php/Ravella_Swann	Ravella Swann	1377	167	1	167
+/index.php/Mela	Mela	1113	-1	0	0
+/index.php/Maron_Martell	Maron Martell	1078	-1	0	0
+/index.php/Simon_Staunton	Simon Staunton	1571	-1	0	0
+/index.php/Lord_Ashford	Lord Ashford	972	-1	0	0
+/index.php/Wat_(sailor)	Wat (sailor)	1801	-1	0	0
+/index.php/Alvyn_Sharp	Alvyn Sharp	59	246	1	246
+/index.php/Frenya	Frenya	546	326	1	326
+/index.php/Tommen_Costayne	Tommen Costayne	1677	-1	0	0
+/index.php/Leyton_Hightower	Leyton Hightower	961	215	3	273
+/index.php/Borroq	Borroq	235	275	1	275
+/index.php/Bran_Stark	Bran Stark	240	1	49	321
+/index.php/Nymos	Nymos	1221	-1	0	0
+/index.php/Notch	Notch	1216	-1	0	0
+/index.php/Jon_Pox	Jon Pox	849	-1	0	0
+/index.php/Zei	Zei	1881	-1	0	0
+/index.php/Vyman	Vyman	1774	119	2	272
+/index.php/Sansa_Stark	Sansa Stark	1530	2	66	340
+/index.php/Desmond_Grell	Desmond Grell	404	147	3	272
+/index.php/Lenn	Lenn	936	-1	0	0
+/index.php/Jhogo	Jhogo	826	23	6	330
+/index.php/Wylla	Wylla	1858	12	2	188
+/index.php/Crawn	Crawn	335	-1	0	0
+/index.php/Byron	Byron	273	-1	0	0
+/index.php/Aemon_Estermont	Aemon Estermont	18	-1	0	0
+/index.php/Jon_Cupps	Jon Cupps	841	-1	0	0
+/index.php/Galazza_Galare	Galazza Galare	549	345	1	345
+/index.php/Clarence_Crabb	Clarence Crabb	304	242	1	242
+/index.php/Jon_Penny	Jon Penny	847	-1	0	0
+/index.php/Cutjack	Cutjack	341	93	1	93
+/index.php/Cohollo	Cohollo	317	11	1	11
+/index.php/Wolmer	Wolmer	1851	-1	0	0
+/index.php/Podrick_Payne	Podrick Payne	1309	103	10	270
+/index.php/Poul_Pemford	Poul Pemford	1317	-1	0	0
+/index.php/Scolera	Scolera	1539	329	1	329
+/index.php/Lymond_Vikary	Lymond Vikary	1021	106	1	106
+/index.php/Mago	Mago	1049	-1	0	0
+/index.php/Dorcas	Dorcas	432	245	1	245
+/index.php/Shiera_Crakehall	Shiera Crakehall	1559	-1	0	0
+/index.php/Jommy	Jommy	834	-1	0	0
+/index.php/Jon_Brax	Jon Brax	838	-1	0	0
+/index.php/Jommo	Jommo	833	-1	0	0
+/index.php/Ryella_Royce	Ryella Royce	1509	-1	0	0
+/index.php/Arthor_Karstark	Arthor Karstark	128	-1	0	0
+/index.php/Randyll_Tarly	Randyll Tarly	1373	26	14	347
+/index.php/Qos	Qos	1336	-1	0	0
+/index.php/Hallis_Mollen	Hallis Mollen	675	14	2	24
+/index.php/Walder_Goodbrook	Walder Goodbrook	1783	-1	0	0
+/index.php/Ketter	Ketter	899	-1	0	0
+/index.php/Goodwin	Goodwin	612	-1	0	0
+/index.php/Barba_Bracken	Barba Bracken	158	-1	0	0
+/index.php/Qalen	Qalen	1330	239	1	239
+/index.php/Viserys_Plumm	Viserys Plumm	1769	-1	0	0
+/index.php/Kenned	Kenned	897	-1	0	0
+/index.php/Emberlei_Frey	Emberlei Frey	497	-1	0	0
+/index.php/Edgerran_Oakheart	Edgerran Oakheart	460	-1	0	0
+/index.php/Cregan_Stark	Cregan Stark	336	-1	0	0
+/index.php/Waymar_Royce	Waymar Royce	1808	0	8	251
+/index.php/Rhea_Florent	Rhea Florent	1412	-1	0	0
+/index.php/Lothar	Lothar	983	-1	0	0
+/index.php/Mawney	Mawney	1101	-1	0	0
+/index.php/Mullin	Mullin	1177	-1	0	0
+/index.php/Elwood	Elwood	490	-1	0	0
+/index.php/Tytos_Brax	Tytos Brax	1722	-1	0	0
+/index.php/Marq_Piper	Marq Piper	1080	43	4	266
+/index.php/Maynard	Maynard	1102	-1	0	0
+/index.php/Merry_Meg	Merry Meg	1139	-1	0	0
+/index.php/Terrance_Lynderly	Terrance Lynderly	1636	-1	0	0
+/index.php/Hobber_Redwyne	Hobber Redwyne	734	29	2	110
+/index.php/Gerold_Lannister	Gerold Lannister	595	-1	0	0
+/index.php/Skyte	Skyte	1576	-1	0	0
+/index.php/Donnel_Waynwood	Donnel Waynwood	426	34	1	34
+/index.php/Palla	Palla	1277	-1	0	0
+/index.php/Tyrion_Tanner	Tyrion Tanner	1717	244	2	252
+/index.php/Brynden_Rivers	Brynden Rivers	264	243	2	309
+/index.php/Baelor_Blacktyde	Baelor Blacktyde	147	239	3	257
+/index.php/Willis_Wode	Willis Wode	1846	34	1	34
+/index.php/Rhogoro	Rhogoro	1414	3	1	3
+/index.php/Monford_Velaryon	Monford Velaryon	1151	-1	0	0
+/index.php/Mully	Mully	1178	319	1	319
+/index.php/Baelor_I_Targaryen	Baelor I Targaryen	149	18	2	151
+/index.php/Walder_Rivers	Walder Rivers	1785	180	2	266
+/index.php/Ambrose_Butterwell	Ambrose Butterwell	91	-1	0	0
+/index.php/Brandon_Stark_(Shipwright)	Brandon Stark (Shipwright)	247	-1	0	0
+/index.php/Tommard_Heddle	Tommard Heddle	1675	-1	0	0
+/index.php/Dunk	Dunk	443	309	1	309
+/index.php/Lord_Cafferen	Lord Cafferen	973	-1	0	0
+/index.php/Ryk	Ryk	1511	-1	0	0
+/index.php/Harmond_Umber	Harmond Umber	691	-1	0	0
+/index.php/Urras_Ironfoot	Urras Ironfoot	1739	229	1	229
+/index.php/Kyle_(Banners)	Kyle (Banners)	913	-1	0	0
+/index.php/Gerald_Gower	Gerald Gower	588	-1	0	0
+/index.php/Rollam_Westerling	Rollam Westerling	1469	-1	0	0
+/index.php/Barth_(brewer)	Barth (brewer)	165	-1	0	0
+/index.php/Kevan_Lannister	Kevan Lannister	900	69	19	347
+/index.php/Kindly_Man	Kindly Man	902	234	4	320
+/index.php/Gormond_Drumm	Gormond Drumm	616	-1	0	0
+/index.php/Thoros_of_Myr	Thoros of Myr	1653	29	11	270
+/index.php/Karlon_Stark	Karlon Stark	890	-1	0	0
+/index.php/Helman_Tallhart	Helman Tallhart	719	20	7	180
+/index.php/Mag_Mar_Tun_Doh_Weg	Mag Mar Tun Doh Weg	1047	209	1	209
+/index.php/Lewys_Lydden	Lewys Lydden	958	-1	0	0
+/index.php/Jon_Snow	Jon Snow	851	1	69	344
+/index.php/Praed	Praed	1319	-1	0	0
+/index.php/Alyssa_Arryn	Alyssa Arryn	85	-1	0	0
+/index.php/Merrett_Frey	Merrett Frey	1137	196	3	326
+/index.php/Vaellyn	Vaellyn	1750	228	1	228
+/index.php/Tymor	Tymor	1714	-1	0	0
+/index.php/Torwold_Browntooth	Torwold Browntooth	1686	239	2	246
+/index.php/Kedge	Kedge	892	-1	0	0
+/index.php/Kaeth	Kaeth	888	204	1	204
+/index.php/Walder_Brax	Walder Brax	1780	-1	0	0
+/index.php/Robett_Glover	Robett Glover	1441	121	7	304
+/index.php/Lothar_Frey	Lothar Frey	984	180	3	226
+/index.php/Robin_Flint	Robin Flint	1443	-1	0	0
+/index.php/Hoke	Hoke	737	-1	0	0
+/index.php/Manfred_Swann	Manfred Swann	1061	-1	0	0
+/index.php/Rolph_Spicer	Rolph Spicer	1476	159	3	217
+/index.php/Galyeon_of_Cuy	Galyeon of Cuy	556	-1	0	0
+/index.php/Benedict_Broom	Benedict Broom	191	-1	0	0
+/index.php/Merling_Queen	Merling Queen	1132	-1	0	0
+/index.php/Lyonel_Tyrell	Lyonel Tyrell	1030	-1	0	0
+/index.php/Colmar_Frey	Colmar Frey	323	-1	0	0
+/index.php/Redtusk	Redtusk	1391	-1	0	0
+/index.php/Brandon_Stark	Brandon Stark	243	2	15	188
+/index.php/Larra_Blackmont	Larra Blackmont	930	-1	0	0
+/index.php/Minisa_Whent	Minisa Whent	1144	-1	0	0
+/index.php/Hendry_Bracken	Hendry Bracken	721	-1	0	0
+/index.php/Rodwell_Stark	Rodwell Stark	1458	-1	0	0
+/index.php/Jarmen_Buckwell	Jarmen Buckwell	795	117	1	117
+/index.php/Manfryd_Yew	Manfryd Yew	1064	-1	0	0
+/index.php/Aelinor_Targaryen	Aelinor Targaryen	15	80	1	80
+/index.php/Melisandre	Melisandre	1122	69	25	344
+/index.php/Gwayne_Corbray	Gwayne Corbray	652	-1	0	0
+/index.php/Gylbert_Farwynd	Gylbert Farwynd	656	247	1	247
+/index.php/Esgred	Esgred	519	-1	0	0
+/index.php/Malleon	Malleon	1052	27	1	27
+/index.php/Shiera_Seastar	Shiera Seastar	1560	309	1	309
+/index.php/Leonette_Fossoway	Leonette Fossoway	949	-1	0	0
+/index.php/Patrek_Vance	Patrek Vance	1292	-1	0	0
+/index.php/Rattleshirt	Rattleshirt	1376	142	7	306
+/index.php/Arwood_Frey	Arwood Frey	133	-1	0	0
+/index.php/Roelle	Roelle	1459	-1	0	0
+/index.php/Colemon	Colemon	319	25	8	269
+/index.php/Davos_Seaworth	Davos Seaworth	385	74	17	306
+/index.php/Harrag_Hoare	Harrag Hoare	696	229	1	229
+/index.php/Skittrick	Skittrick	1574	-1	0	0
+/index.php/Hother_Umber	Hother Umber	748	316	1	316
+/index.php/Dickon_Tarly	Dickon Tarly	412	26	2	242
+/index.php/Bethany_Rosby	Bethany Rosby	218	-1	0	0
+/index.php/Bannen	Bannen	157	-1	0	0
+/index.php/Humfrey_Wagstaff	Humfrey Wagstaff	765	-1	0	0
+/index.php/Merianne_Frey	Merianne Frey	1130	-1	0	0
+/index.php/Leo_Tyrell	Leo Tyrell	942	228	2	273
+/index.php/Jon_Heddle	Jon Heddle	843	-1	0	0
+/index.php/Deana_Hardyng	Deana Hardyng	386	-1	0	0
+/index.php/Tallad	Tallad	1626	91	3	271
+/index.php/Quenton_Hightower	Quenton Hightower	1348	-1	0	0
+/index.php/Arnolf_Karstark	Arnolf Karstark	120	292	2	337
+/index.php/Bennis	Bennis	200	-1	0	0
+/index.php/Cotter_Pyke	Cotter Pyke	331	218	4	333
+/index.php/Ralf_Kenning	Ralf Kenning	1369	246	2	295
+/index.php/Galladon_of_Tarth	Galladon of Tarth	552	-1	0	0
+/index.php/Kojja_Mo	Kojja Mo	905	263	1	263
+/index.php/Todric	Todric	1669	-1	0	0
+/index.php/Husband	Husband	766	156	2	158
+/index.php/Ronald_Vance	Ronald Vance	1478	-1	0	0
+/index.php/Meredyth_Crane	Meredyth Crane	1129	-1	0	0
+/index.php/Aemon_Blackfyre	Aemon Blackfyre	16	-1	0	0
+/index.php/Janos_Slynt	Janos Slynt	790	27	16	303
+/index.php/Stalwart_Shield	Stalwart Shield	1585	277	1	277
+/index.php/Osfryd_Kettleblack	Osfryd Kettleblack	1254	131	3	271
+/index.php/Prendahl_na_Ghezn	Prendahl na Ghezn	1320	-1	0	0
+/index.php/Maerie_(Whore)	Maerie (Whore)	1044	-1	0	0
+/index.php/Eldred_Codd	Eldred Codd	480	246	1	246
+/index.php/Brandon_Stark_(Lord)	Brandon Stark (Lord)	246	-1	0	0
+/index.php/Hibald	Hibald	728	-1	0	0

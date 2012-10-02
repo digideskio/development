@@ -1,0 +1,922 @@
+URL	
+ame	\id	First mention	Mentions	Last mention
+/index.php/Gull_Tower	Gull Tower	165
+	-1	0	0
+/index.php/Fairmarket	Fairmarket	112
+	272	1	272
+/index.php/Lorn_Point	Lorn Point	246
+	-1	0	0
+/index.php/River_Road	River Road	331
+	-1	0	0
+/index.php/Queensgate	Queensgate	310
+	-1	0	0
+/index.php/Deep_Den	Deep Den	85
+	-1	0	0
+/index.php/Arbor	Arbor	6
+	257	4	273
+/index.php/Moat_Cailin	Moat Cailin	258
+	20	10	301
+/index.php/Red_Mountains	Red Mountains	322
+	-1	0	0
+/index.php/Casterly_Rock	Casterly Rock	58
+	2	27	347
+/index.php/Torches	Torches	420
+	-1	0	0
+/index.php/White_Knife	White Knife	456
+	14	2	304
+/index.php/Searoad	Searoad	357
+	-1	0	0
+/index.php/Harridan_Hill	Harridan Hill	175
+	-1	0	0
+/index.php/Whispering_Sound	Whispering Sound	453
+	228	1	228
+/index.php/Heart%27s_Home	Heart's Home	179
+	-1	0	0
+/index.php/Flint_Cliffs	Flint Cliffs	120
+	-1	0	0
+/index.php/Three_Sisters	Three Sisters	416
+	18	2	284
+/index.php/Barrowton	Barrowton	16
+	301	2	307
+/index.php/Goldroad	Goldroad	141
+	-1	0	0
+/index.php/Crackclaw_Point	Crackclaw Point	76
+	242	2	248
+/index.php/Riverrun	Riverrun	333
+	1	44	323
+/index.php/Chataya%27s_brothel	Chataya's brothel	61
+	89	2	103
+/index.php/Seven_Shrines	Seven Shrines	360
+	228	1	228
+/index.php/Runestone	Runestone	339
+	251	1	251
+/index.php/Darry_(river)	Darry (river)	84
+	-1	0	0
+/index.php/Children%27s_Tower	Children's Tower	64
+	-1	0	0
+/index.php/Lorath	Lorath	239
+	79	2	112
+/index.php/Lemonwood	Lemonwood	227
+	-1	0	0
+/index.php/Summerhall	Summerhall	403
+	170	3	188
+/index.php/Hellholt	Hellholt	180
+	249	1	249
+/index.php/Vaith	Vaith	434
+	-1	0	0
+/index.php/Westwatch-by-the-Bridge	Westwatch-by-the-Bridge	452
+	-1	0	0
+/index.php/Fingers	Fingers	118
+	13	2	18
+/index.php/Wolfswood	Wolfswood	465
+	13	3	124
+/index.php/Lordsport	Lordsport	244
+	85	1	85
+/index.php/Longsister	Longsister	237
+	-1	0	0
+/index.php/High_Heart	High Heart	181
+	167	2	188
+/index.php/Stonedance	Stonedance	396
+	-1	0	0
+/index.php/Seagard	Seagard	354
+	81	1	81
+/index.php/Pennytree	Pennytree	299
+	323	1	323
+/index.php/Gift	Gift	133
+	221	2	223
+/index.php/Darry	Darry	83
+	81	5	261
+/index.php/Bloody_Gate	Bloody Gate	36
+	34	1	34
+/index.php/Horn_Hill	Horn Hill	192
+	220	4	273
+/index.php/Raventree_Hall	Raventree Hall	317
+	219	3	329
+/index.php/Stokeworth	Stokeworth	392
+	-1	0	0
+/index.php/Ironman%27s_Bay	Ironman's Bay	203
+	-1	0	0
+/index.php/Tumbleton	Tumbleton	431
+	-1	0	0
+/index.php/Blackhaven	Blackhaven	29
+	212	1	212
+/index.php/Oldstones	Oldstones	290
+	190	2	226
+/index.php/Willow_Wood	Willow Wood	462
+	-1	0	0
+/index.php/Sentinel_Stand	Sentinel Stand	358
+	-1	0	0
+/index.php/Hornwood	Hornwood	194
+	-1	0	0
+/index.php/Blackwater_Bay	Blackwater Bay	32
+	132	2	150
+/index.php/Blackmont	Blackmont	30
+	-1	0	0
+/index.php/Wickenden	Wickenden	458
+	-1	0	0
+/index.php/Tumbledown_Tower	Tumbledown Tower	428
+	154	1	154
+/index.php/Cockleswent	Cockleswent	71
+	-1	0	0
+/index.php/Rutting_Meadow	Rutting Meadow	341
+	-1	0	0
+/index.php/Castle_Black	Castle Black	59
+	0	17	333
+/index.php/Stonehelm	Stonehelm	398
+	-1	0	0
+/index.php/Grey_King%27s_Hall	Grey King's Hall	157
+	-1	0	0
+/index.php/Gallowsgrey	Gallowsgrey	124
+	-1	0	0
+/index.php/Guildhall_of_the_Alchemists	Guildhall of the Alchemists	164
+	94	1	94
+/index.php/Widow%27s_Watch	Widow's Watch	461
+	304	1	304
+/index.php/Ramsgate	Ramsgate	316
+	304	1	304
+/index.php/Pyke	Pyke	306
+	19	7	190
+/index.php/Giant%27s_Stair	Giant's Stair	132
+	117	1	117
+/index.php/Ashford_Meadow	Ashford Meadow	9
+	-1	0	0
+/index.php/Sow%27s_Horn	Sow's Horn	383
+	-1	0	0
+/index.php/Teats	Teats	410
+	-1	0	0
+/index.php/Mousedown_Mill	Mousedown Mill	262
+	-1	0	0
+/index.php/Ravishment.	Ravishment.	318
+	-1	0	0
+/index.php/Seven_Swords	Seven Swords	361
+	-1	0	0
+/index.php/Bay_of_Seals	Bay of Seals	23
+	-1	0	0
+/index.php/Rook%27s_Rest	Rook's Rest	334
+	-1	0	0
+/index.php/Atranta	Atranta	12
+	-1	0	0
+/index.php/Coldmoat	Coldmoat	72
+	-1	0	0
+/index.php/Greenstone	Greenstone	153
+	268	1	268
+/index.php/Downdelving	Downdelving	95
+	-1	0	0
+/index.php/Prince%27s_Pass	Prince's Pass	304
+	-1	0	0
+/index.php/Grey_Cliffs	Grey Cliffs	154
+	-1	0	0
+/index.php/Shipbreaker_Bay	Shipbreaker Bay	370
+	-1	0	0
+/index.php/Grey_Glen	Grey Glen	156
+	-1	0	0
+/index.php/Godsgrace	Godsgrace	135
+	-1	0	0
+/index.php/Cobble_Cover	Cobble Cover	70
+	-1	0	0
+/index.php/Grindcorn_Mill	Grindcorn Mill	163
+	-1	0	0
+/index.php/Yunkai	Yunkai	471
+	187	11	334
+/index.php/Isle_of_Pigs	Isle of Pigs	206
+	-1	0	0
+/index.php/Ashford	Ashford	8
+	242	1	242
+/index.php/Estermont	Estermont	107
+	-1	0	0
+/index.php/Honeytree	Honeytree	190
+	-1	0	0
+/index.php/Rushing_Falls	Rushing Falls	340
+	-1	0	0
+/index.php/Leafy_Lake	Leafy Lake	226
+	-1	0	0
+/index.php/Tower_of_Joy	Tower of Joy	426
+	39	1	39
+/index.php/Isle_of_Faces	Isle of Faces	205
+	2	4	169
+/index.php/Fieldstone	Fieldstone	117
+	-1	0	0
+/index.php/Gorne%27s_Way	Gorne's Way	142
+	-1	0	0
+/index.php/Widow%27s_Wash	Widow's Wash	460
+	-1	0	0
+/index.php/Sept_of_Snow	Sept of Snow	359
+	-1	0	0
+/index.php/Shatterstone	Shatterstone	366
+	-1	0	0
+/index.php/Starfish_Harbor	Starfish Harbor	388
+	273	1	273
+/index.php/Yronwood	Yronwood	470
+	-1	0	0
+/index.php/Ghiscar	Ghiscar	129
+	-1	0	0
+/index.php/Threepenny_Wood	Threepenny Wood	418
+	-1	0	0
+/index.php/Cape_of_Eagles	Cape of Eagles	55
+	-1	0	0
+/index.php/Woodhedge	Woodhedge	466
+	-1	0	0
+/index.php/Kingswood	Kingswood	221
+	123	1	123
+/index.php/Antlers	Antlers	5
+	-1	0	0
+/index.php/Hammerhorn	Hammerhorn	168
+	-1	0	0
+/index.php/Cornfield	Cornfield	74
+	-1	0	0
+/index.php/Flea_Bottom	Flea Bottom	119
+	65	1	65
+/index.php/Pentos	Pentos	300
+	3	12	327
+/index.php/Wayfarer%27s_Rest	Wayfarer's Rest	446
+	-1	0	0
+/index.php/Grassy_Vale	Grassy Vale	144
+	-1	0	0
+/index.php/Starpike	Starpike	389
+	-1	0	0
+/index.php/Nutten	Nutten	279
+	-1	0	0
+/index.php/Alyssa%27s_Tears	Alyssa's Tears	3
+	-1	0	0
+/index.php/New_Gift	New Gift	271
+	185	1	185
+/index.php/Bandallon	Bandallon	13
+	-1	0	0
+/index.php/Rainwood	Rainwood	314
+	-1	0	0
+/index.php/Maiden_(river)	Maiden (river)	248
+	-1	0	0
+/index.php/Oakenshield_(Wall)	Oakenshield (Wall)	281
+	-1	0	0
+/index.php/Long_Barrow	Long Barrow	234
+	-1	0	0
+/index.php/Ashemark	Ashemark	7
+	-1	0	0
+/index.php/Giant%27s_Lance	Giant's Lance	131
+	-1	0	0
+/index.php/Hayford	Hayford	177
+	255	1	255
+/index.php/Red_Deer_Island	Red Deer Island	319
+	-1	0	0
+/index.php/Mountains_of_the_Moon	Mountains of the Moon	261
+	31	6	129
+/index.php/Parchments	Parchments	294
+	-1	0	0
+/index.php/Goldgrass	Goldgrass	138
+	-1	0	0
+/index.php/Stonecrab_Cay	Stonecrab Cay	395
+	-1	0	0
+/index.php/Qarth	Qarth	307
+	86	11	308
+/index.php/Ivy_Hall	Ivy Hall	208
+	-1	0	0
+/index.php/Bay_of_Ice	Bay of Ice	22
+	-1	0	0
+/index.php/Briarwhite	Briarwhite	42
+	-1	0	0
+/index.php/Derring_Downs	Derring Downs	89
+	-1	0	0
+/index.php/King%27s_Tower	King's Tower	214
+	282	1	282
+/index.php/Saltspear	Saltspear	349
+	-1	0	0
+/index.php/Stinking_Goose	Stinking Goose	391
+	242	1	242
+/index.php/Broad_Arch	Broad Arch	46
+	-1	0	0
+/index.php/Poddingfield	Poddingfield	303
+	-1	0	0
+/index.php/Sheepshead_Hills	Sheepshead Hills	367
+	304	1	304
+/index.php/Blazewater_Bay	Blazewater Bay	35
+	-1	0	0
+/index.php/Trident	Trident	427
+	2	15	194
+/index.php/Dothraki_Sea	Dothraki Sea	94
+	17	3	286
+/index.php/Massey%27s_Hook	Massey's Hook	252
+	-1	0	0
+/index.php/Wendwater	Wendwater	451
+	-1	0	0
+/index.php/Deepwood_Motte	Deepwood Motte	88
+	98	7	317
+/index.php/Lord_Harroway%27s_Town	Lord Harroway's Town	240
+	192	1	192
+/index.php/Deep_Lake	Deep Lake	86
+	-1	0	0
+/index.php/Bastard%27s_Cradle	Bastard's Cradle	18
+	-1	0	0
+/index.php/Vaith_(river)	Vaith (river)	435
+	-1	0	0
+/index.php/Rimegate	Rimegate	327
+	-1	0	0
+/index.php/Astapor	Astapor	11
+	153	9	311
+/index.php/Wall	Wall	442
+	0	25	333
+/index.php/Rills	Rills	326
+	-1	0	0
+/index.php/Widow%27s_Tower	Widow's Tower	459
+	104	1	104
+/index.php/Hoarfrost_Hill	Hoarfrost Hill	187
+	-1	0	0
+/index.php/New_Barrel	New Barrel	270
+	-1	0	0
+/index.php/Stonedoor	Stonedoor	397
+	171	1	171
+/index.php/Brandybottom	Brandybottom	41
+	-1	0	0
+/index.php/Tarth	Tarth	409
+	166	2	242
+/index.php/Slaver%27s_Bay	Slaver's Bay	377
+	257	5	331
+/index.php/Oakenshield	Oakenshield	280
+	257	1	257
+/index.php/Castamere	Castamere	57
+	217	1	217
+/index.php/Sandstone	Sandstone	350
+	-1	0	0
+/index.php/Bitterbridge	Bitterbridge	26
+	116	2	248
+/index.php/Blueburn	Blueburn	37
+	-1	0	0
+/index.php/Scourge	Scourge	352
+	-1	0	0
+/index.php/Nagga%27s_Hill	Nagga's Hill	269
+	247	1	247
+/index.php/Meereen	Meereen	253
+	202	21	347
+/index.php/Crossbow_Ridge	Crossbow Ridge	78
+	-1	0	0
+/index.php/Sarsfield	Sarsfield	351
+	-1	0	0
+/index.php/Brimstone	Brimstone	44
+	-1	0	0
+/index.php/Merling_Rock	Merling Rock	254
+	-1	0	0
+/index.php/Redfort	Redfort	323
+	-1	0	0
+/index.php/Kingspyre_Tower	Kingspyre Tower	216
+	104	1	104
+/index.php/King%27s_Landing	King's Landing	213
+	3	65	323
+/index.php/Isle_of_Tears	Isle of Tears	207
+	-1	0	0
+/index.php/Orkmont	Orkmont	292
+	-1	0	0
+/index.php/Evenfall_Hall	Evenfall Hall	108
+	166	2	189
+/index.php/Greenapple	Greenapple	147
+	-1	0	0
+/index.php/Greyguard	Greyguard	158
+	171	2	282
+/index.php/Spears_of_the_Merling_King	Spears of the Merling King	384
+	-1	0	0
+/index.php/Visenya%27s_hill	Visenya's hill	437
+	18	3	271
+/index.php/Southshield	Southshield	382
+	257	1	257
+/index.php/Water_Gardens	Water Gardens	444
+	230	2	241
+/index.php/Naath	Naath	267
+	286	2	325
+/index.php/Basilisk_Point	Basilisk Point	17
+	-1	0	0
+/index.php/Little_Willow	Little Willow	230
+	-1	0	0
+/index.php/Waspwood	Waspwood	443
+	-1	0	0
+/index.php/Horseshoe_Rock	Horseshoe Rock	196
+	-1	0	0
+/index.php/Greenblood	Greenblood	148
+	249	1	249
+/index.php/Dragonstone	Dragonstone	98
+	3	27	347
+/index.php/High_Road	High Road	184
+	-1	0	0
+/index.php/Wolf%27s_Den	Wolf's Den	464
+	-1	0	0
+/index.php/Deepdown	Deepdown	87
+	-1	0	0
+/index.php/Harlaw	Harlaw	171
+	98	2	239
+/index.php/Eyrie	Eyrie	109
+	2	19	284
+/index.php/Broken_Arm	Broken Arm	48
+	-1	0	0
+/index.php/Greenfield	Greenfield	149
+	-1	0	0
+/index.php/Mander	Mander	251
+	257	2	273
+/index.php/Inn_of_the_Kneeling_Man	Inn of the Kneeling Man	198
+	156	3	162
+/index.php/Haystack_Hall	Haystack Hall	178
+	-1	0	0
+/index.php/Great_Sept_of_Baelor	Great Sept of Baelor	145
+	18	10	340
+/index.php/Ninestars	Ninestars	275
+	-1	0	0
+/index.php/Horseshoe_Hills	Horseshoe Hills	195
+	-1	0	0
+/index.php/Brindlewood	Brindlewood	45
+	-1	0	0
+/index.php/Vinetown	Vinetown	436
+	273	1	273
+/index.php/Riverbend	Riverbend	332
+	-1	0	0
+/index.php/Nightsong	Nightsong	274
+	-1	0	0
+/index.php/Kayce	Kayce	210
+	-1	0	0
+/index.php/Winterfell	Winterfell	463
+	1	70	344
+/index.php/Old_Wyk	Old Wyk	287
+	246	1	246
+/index.php/Lambswold	Lambswold	222
+	158	1	158
+/index.php/Cape_Kraken	Cape Kraken	54
+	-1	0	0
+/index.php/Harrentown	Harrentown	174
+	-1	0	0
+/index.php/Barrowlands	Barrowlands	15
+	-1	0	0
+/index.php/Strongsong	Strongsong	402
+	-1	0	0
+/index.php/Driftwood_Hall	Driftwood Hall	101
+	-1	0	0
+/index.php/Nagga%27s_Cradle	Nagga's Cradle	268
+	-1	0	0
+/index.php/Icemark	Icemark	197
+	282	1	282
+/index.php/Uplands	Uplands	433
+	-1	0	0
+/index.php/Grandview	Grandview	143
+	-1	0	0
+/index.php/Goldengrove	Goldengrove	137
+	-1	0	0
+/index.php/Greenhill	Greenhill	151
+	-1	0	0
+/index.php/Blackcrown	Blackcrown	28
+	-1	0	0
+/index.php/Gods_Eye	Gods Eye	134
+	-1	0	0
+/index.php/Smithyton	Smithyton	379
+	-1	0	0
+/index.php/Sevenstreams	Sevenstreams	362
+	-1	0	0
+/index.php/Duskendale	Duskendale	104
+	138	7	237
+/index.php/Corpse_Lake	Corpse Lake	75
+	-1	0	0
+/index.php/Stoney_Sept	Stoney Sept	399
+	174	2	299
+/index.php/White_Harbor	White Harbor	455
+	90	7	326
+/index.php/Coldwater_Burn	Coldwater Burn	73
+	-1	0	0
+/index.php/Last_River	Last River	225
+	-1	0	0
+/index.php/Dragon_Gate	Dragon Gate	96
+	-1	0	0
+/index.php/Wyndhall	Wyndhall	469
+	-1	0	0
+/index.php/Spottswood	Spottswood	385
+	-1	0	0
+/index.php/King%27s_Gate	King's Gate	212
+	-1	0	0
+/index.php/The_Neck	The Neck	413
+	4	9	304
+/index.php/Banefort	Banefort	14
+	-1	0	0
+/index.php/Standfast	Standfast	386
+	-1	0	0
+/index.php/Fair_Isle	Fair Isle	110
+	-1	0	0
+/index.php/Sea_Dragon_Point	Sea Dragon Point	353
+	246	2	301
+/index.php/Salt_Shore	Salt Shore	346
+	-1	0	0
+/index.php/Three_Towers	Three Towers	417
+	-1	0	0
+/index.php/Broken_Branch	Broken Branch	49
+	304	1	304
+/index.php/Brandon%27s_Gift	Brandon's Gift	40
+	185	1	185
+/index.php/Pebble	Pebble	296
+	-1	0	0
+/index.php/Sisterton	Sisterton	372
+	-1	0	0
+/index.php/Braavos	Braavos	39
+	3	17	320
+/index.php/Peach	Peach	295
+	-1	0	0
+/index.php/Longbow_Hall	Longbow Hall	236
+	-1	0	0
+/index.php/Grey_Garden	Grey Garden	155
+	-1	0	0
+/index.php/Dun_Fort	Dun Fort	103
+	237	1	237
+/index.php/Fawnton	Fawnton	113
+	-1	0	0
+/index.php/Weatherback_Ridge	Weatherback Ridge	447
+	-1	0	0
+/index.php/Lord%27s_Mill	Lord's Mill	242
+	-1	0	0
+/index.php/Myr	Myr	266
+	3	6	280
+/index.php/Ryamsport	Ryamsport	342
+	273	1	273
+/index.php/Rain_House	Rain House	313
+	-1	0	0
+/index.php/Oldcastle	Oldcastle	288
+	304	1	304
+/index.php/Drunkard%27s_Tower	Drunkard's Tower	102
+	-1	0	0
+/index.php/Ocean_Road	Ocean Road	282
+	-1	0	0
+/index.php/Greenshield	Greenshield	152
+	-1	0	0
+/index.php/Hornvale	Hornvale	193
+	-1	0	0
+/index.php/River_Gate	River Gate	329
+	-1	0	0
+/index.php/Pebbleton	Pebbleton	297
+	229	1	229
+/index.php/Blacktyde	Blacktyde	31
+	-1	0	0
+/index.php/Sharp_Point	Sharp Point	365
+	-1	0	0
+/index.php/Blackbuckle	Blackbuckle	27
+	-1	0	0
+/index.php/Ruby_Ford	Ruby Ford	338
+	15	2	104
+/index.php/Long_Lake	Long Lake	235
+	306	1	306
+/index.php/Sable_Hall	Sable Hall	343
+	-1	0	0
+/index.php/Last_Hearth	Last Hearth	224
+	-1	0	0
+/index.php/Frozen_Ford	Frozen Ford	123
+	-1	0	0
+/index.php/Fellwood	Fellwood	115
+	-1	0	0
+/index.php/Aegon%27s_high_hill	Aegon's high hill	2
+	18	1	18
+/index.php/Iron_Holt	Iron Holt	200
+	-1	0	0
+/index.php/Highgarden	Highgarden	185
+	3	13	242
+/index.php/Sweetsister	Sweetsister	407
+	284	1	284
+/index.php/Acorn_Water	Acorn Water	1
+	124	1	124
+/index.php/Sludgy_Pond	Sludgy Pond	378
+	-1	0	0
+/index.php/Bronzegate	Bronzegate	50
+	-1	0	0
+/index.php/Sallydance	Sallydance	345
+	-1	0	0
+/index.php/Crow_Spike_Keep	Crow Spike Keep	80
+	-1	0	0
+/index.php/Clegane%27s_Keep	Clegane's Keep	69
+	-1	0	0
+/index.php/Oldforge	Oldforge	289
+	-1	0	0
+/index.php/Tower_of_Ghosts	Tower of Ghosts	424
+	104	2	138
+/index.php/Smoking_Log	Smoking Log	380
+	-1	0	0
+/index.php/Harvest_Hall	Harvest Hall	176
+	-1	0	0
+/index.php/Sunflower_Hall	Sunflower Hall	404
+	-1	0	0
+/index.php/Checkered_Hazard	Checkered Hazard	62
+	228	1	228
+/index.php/Blackwood_Vale	Blackwood Vale	34
+	-1	0	0
+/index.php/Stony_Shore	Stony Shore	400
+	98	4	246
+/index.php/Lonely_Hills	Lonely Hills	232
+	-1	0	0
+/index.php/Crossroads_Inn	Crossroads Inn	79
+	-1	0	0
+/index.php/Tower_of_Glimmering	Tower of Glimmering	425
+	-1	0	0
+/index.php/Kingsroad	Kingsroad	220
+	12	5	83
+/index.php/Buckle	Buckle	52
+	-1	0	0
+/index.php/The_Crag	The Crag	412
+	129	2	159
+/index.php/Battle_Island	Battle Island	19
+	228	1	228
+/index.php/Hightower	Hightower	186
+	-1	0	0
+/index.php/Rhaenys%27s_hill	Rhaenys's hill	325
+	18	1	18
+/index.php/Castle_Cerwyn	Castle Cerwyn	60
+	-1	0	0
+/index.php/Moon_Door	Moon Door	260
+	-1	0	0
+/index.php/Feastfires	Feastfires	114
+	-1	0	0
+/index.php/Red_Keep	Red Keep	320
+	12	18	347
+/index.php/Chequy_Water	Chequy Water	63
+	-1	0	0
+/index.php/Muddy_Hall	Muddy Hall	263
+	-1	0	0
+/index.php/Cider_Hall	Cider Hall	65
+	-1	0	0
+/index.php/Shadow_Tower	Shadow Tower	363
+	53	5	275
+/index.php/Wendish_Town	Wendish Town	450
+	238	1	238
+/index.php/The_Paps	The Paps	414
+	-1	0	0
+/index.php/Roseroad	Roseroad	337
+	-1	0	0
+/index.php/Sunspear	Sunspear	405
+	115	6	313
+/index.php/Lonely_Light	Lonely Light	233
+	-1	0	0
+/index.php/Saltcliffe	Saltcliffe	347
+	-1	0	0
+/index.php/Lorgen%27s_Wood	Lorgen's Wood	245
+	-1	0	0
+/index.php/Stone_Hedge	Stone Hedge	393
+	-1	0	0
+/index.php/Norvos	Norvos	276
+	268	1	268
+/index.php/Planky_Town	Planky Town	302
+	-1	0	0
+/index.php/Little_Dosk	Little Dosk	229
+	-1	0	0
+/index.php/Cape_Wrath	Cape Wrath	56
+	336	1	336
+/index.php/Shandystone	Shandystone	364
+	-1	0	0
+/index.php/Darkdell	Darkdell	82
+	-1	0	0
+/index.php/Tarbeck_Hall	Tarbeck Hall	408
+	-1	0	0
+/index.php/Pinkmaiden_Castle	Pinkmaiden Castle	301
+	-1	0	0
+/index.php/Flint%27s_Finger	Flint's Finger	121
+	-1	0	0
+/index.php/Dragonpit	Dragonpit	97
+	18	1	18
+/index.php/Lannisport	Lannisport	223
+	85	6	340
+/index.php/Tumblestone	Tumblestone	430
+	-1	0	0
+/index.php/Ghost_Hill	Ghost Hill	130
+	-1	0	0
+/index.php/High_Hermitage	High Hermitage	182
+	249	1	249
+/index.php/Dosk	Dosk	93
+	-1	0	0
+/index.php/Rosby	Rosby	335
+	118	4	237
+/index.php/Wailing_Tower	Wailing Tower	441
+	100	2	104
+/index.php/Hardin%27s_Tower	Hardin's Tower	169
+	-1	0	0
+/index.php/Brownhollow	Brownhollow	51
+	-1	0	0
+/index.php/Greenguard	Greenguard	150
+	-1	0	0
+/index.php/Quiet_Isle	Quiet Isle	311
+	253	2	259
+/index.php/Harlaw_Hall	Harlaw Hall	172
+	-1	0	0
+/index.php/Dreadfort	Dreadfort	99
+	53	16	304
+/index.php/Nunny	Nunny	278
+	-1	0	0
+/index.php/Nunn%27s_Deep	Nunn's Deep	277
+	-1	0	0
+/index.php/Greyshield	Greyshield	159
+	-1	0	0
+/index.php/Pendric_Hills	Pendric Hills	298
+	-1	0	0
+/index.php/Skyreach	Skyreach	376
+	-1	0	0
+/index.php/Mummer%27s_Ford	Mummer's Ford	265
+	-1	0	0
+/index.php/Whitewalls	Whitewalls	457
+	-1	0	0
+/index.php/Griffin%27s_Roost	Griffin's Roost	161
+	299	3	347
+/index.php/Pussywillows	Pussywillows	305
+	-1	0	0
+/index.php/Nightfort	Nightfort	273
+	201	3	319
+/index.php/Karhold	Karhold	209
+	182	2	337
+/index.php/Cairns	Cairns	53
+	-1	0	0
+/index.php/Great_Wyk	Great Wyk	146
+	-1	0	0
+/index.php/Forktop	Forktop	122
+	-1	0	0
+/index.php/Hag%27s_Mire	Hag's Mire	167
+	-1	0	0
+/index.php/Vulture%27s_Roost	Vulture's Roost	440
+	-1	0	0
+/index.php/Snakewood	Snakewood	381
+	-1	0	0
+/index.php/Faircastle	Faircastle	111
+	-1	0	0
+/index.php/Eastwatch-by-the-Sea	Eastwatch-by-the-Sea	106
+	319	3	328
+/index.php/Volantis	Volantis	438
+	3	8	331
+/index.php/Quill_and_Tankard	Quill and Tankard	312
+	228	1	228
+/index.php/Dyre_Den	Dyre Den	105
+	248	1	248
+/index.php/Kinghouse	Kinghouse	211
+	-1	0	0
+/index.php/Golden_Tooth	Golden Tooth	136
+	40	4	190
+/index.php/Boneway	Boneway	38
+	241	1	241
+/index.php/Grimston	Grimston	162
+	-1	0	0
+/index.php/Iron_Gate	Iron Gate	199
+	-1	0	0
+/index.php/Silverhill	Silverhill	371
+	-1	0	0
+/index.php/Dornish_Marches	Dornish Marches	92
+	-1	0	0
+/index.php/Kingsgrave	Kingsgrave	215
+	-1	0	0
+/index.php/Gate_of_the_Gods	Gate of the Gods	125
+	-1	0	0
+/index.php/Blackwater_Rush	Blackwater Rush	33
+	18	5	228
+/index.php/Driftmark	Driftmark	100
+	-1	0	0
+/index.php/Tumbler%27s_Falls	Tumbler's Falls	429
+	-1	0	0
+/index.php/Storm%27s_End	Storm's End	401
+	4	20	347
+/index.php/Holyhall	Holyhall	188
+	-1	0	0
+/index.php/Honeyholt	Honeyholt	189
+	-1	0	0
+/index.php/Stone_Mill	Stone Mill	394
+	-1	0	0
+/index.php/Broken_Anvil	Broken Anvil	47
+	77	1	77
+/index.php/Bear_Island	Bear Island	24
+	12	2	86
+/index.php/Oldtown	Oldtown	291
+	53	9	273
+/index.php/Battle_Valley	Battle Valley	20
+	-1	0	0
+/index.php/Sherrer	Sherrer	368
+	-1	0	0
+/index.php/Sweetport_Sound	Sweetport Sound	406
+	-1	0	0
+/index.php/Crows_Nest	Crows Nest	81
+	-1	0	0
+/index.php/Greywater_Watch	Greywater Watch	160
+	95	3	169
+/index.php/Lys	Lys	247
+	3	9	320
+/index.php/Tower_of_Dread	Tower of Dread	423
+	104	1	104
+/index.php/Fever_River	Fever River	116
+	-1	0	0
+/index.php/Wyl_(Dorne)	Wyl (Dorne)	468
+	-1	0	0
+/index.php/Lord_Hewett%27s_Town	Lord Hewett's Town	241
+	-1	0	0
+/index.php/Ten_Towers	Ten Towers	411
+	239	2	301
+/index.php/Mudgrave	Mudgrave	264
+	-1	0	0
+/index.php/Weeping_Water	Weeping Water	449
+	-1	0	0
+/index.php/Old_Oak	Old Oak	285
+	-1	0	0
+/index.php/Acorn_Hall	Acorn Hall	0
+	167	1	167
+/index.php/Old_Stone_Bridge	Old Stone Bridge	286
+	-1	0	0
+/index.php/Oxcross	Oxcross	293
+	113	1	113
+/index.php/Citadel	Citadel	66
+	53	11	282
+/index.php/Gulltown	Gulltown	166
+	158	2	284
+/index.php/Rippledown_Rill	Rippledown Rill	328
+	-1	0	0
+/index.php/Weeping_Tower	Weeping Tower	448
+	-1	0	0
+/index.php/Torentine	Torentine	421
+	-1	0	0
+/index.php/Mole%27s_Town	Mole's Town	259
+	70	3	209
+/index.php/Longtable	Longtable	238
+	271	1	271
+/index.php/Harrenhal	Harrenhal	173
+	57	26	258
+/index.php/Sailor%27s_Sept	Sailor's Sept	344
+	228	1	228
+/index.php/Old_Gate	Old Gate	284
+	-1	0	0
+/index.php/Crakehall	Crakehall	77
+	-1	0	0
+/index.php/Red_Lake	Red Lake	321
+	-1	0	0
+/index.php/Ironoaks	Ironoaks	204
+	269	1	269
+/index.php/Bay_of_Crabs	Bay of Crabs	21
+	-1	0	0
+/index.php/Whispers	Whispers	454
+	242	2	248
+/index.php/The_Twins	The Twins	415
+	59	15	307
+/index.php/Littlesister	Littlesister	231
+	-1	0	0
+/index.php/Lion_Gate	Lion Gate	228
+	-1	0	0
+/index.php/Starry_Sept	Starry Sept	390
+	228	1	228
+/index.php/Ghaston_Grey	Ghaston Grey	128
+	268	1	268
+/index.php/Redwyne_Straits	Redwyne Straits	324
+	273	1	273
+/index.php/Ramsford	Ramsford	315
+	-1	0	0
+/index.php/Claypool	Claypool	68
+	-1	0	0
+/index.php/Queenscrown	Queenscrown	309
+	193	1	193
+/index.php/Gates_of_the_Moon	Gates of the Moon	127
+	238	3	269
+/index.php/Maidenvault	Maidenvault	250
+	-1	0	0
+/index.php/Skagos	Skagos	373
+	304	1	304
+/index.php/Donnelwood	Donnelwood	90
+	-1	0	0
+/index.php/Tor	Tor	419
+	-1	0	0
+/index.php/Mistwood	Mistwood	257
+	-1	0	0
+/index.php/Honeywine	Honeywine	191
+	228	1	228
+/index.php/Skipping_Stones	Skipping Stones	375
+	-1	0	0
+/index.php/Sealskin_Point	Sealskin Point	355
+	-1	0	0
+/index.php/Big_Willow	Big Willow	25
+	-1	0	0
+/index.php/Starfall	Starfall	387
+	6	2	188
+/index.php/Asshai	Asshai	10
+	11	7	228
+/index.php/Hardstone_Hills	Hardstone Hills	170
+	-1	0	0
+/index.php/Lord%27s_Sept	Lord's Sept	243
+	-1	0	0
+/index.php/Skane	Skane	374
+	-1	0	0
+/index.php/Old_Anchor	Old Anchor	283
+	-1	0	0
+/index.php/Volmark	Volmark	439
+	-1	0	0
+/index.php/Maidenpool	Maidenpool	249
+	166	6	272
+/index.php/Newkeep	Newkeep	272
+	-1	0	0
+/index.php/Woodswatch-by-the-Pool	Woodswatch-by-the-Pool	467
+	-1	0	0
+/index.php/Merman%27s_Court	Merman's Court	256
+	-1	0	0
+/index.php/Shield_Islands	Shield Islands	369
+	257	1	257
+/index.php/Brightwater_Keep	Brightwater Keep	43
+	164	3	240
+/index.php/Saltpans	Saltpans	348
+	219	6	265
+/index.php/Mermaid%27s_Palace	Mermaid's Palace	255
+	-1	0	0
+/index.php/Claw_Isle	Claw Isle	67
+	181	1	181
+/index.php/Wat%27s_Wood	Wat's Wood	445
+	-1	0	0
+/index.php/Gatehouse_Tower	Gatehouse Tower	126
+	-1	0	0
+/index.php/Tyrosh	Tyrosh	432
+	3	5	268
+/index.php/Antler_River	Antler River	4
+	-1	0	0
+/index.php/Torrhen%27s_Square	Torrhen's Square	422
+	111	3	246
+/index.php/Qohor	Qohor	308
+	3	2	153

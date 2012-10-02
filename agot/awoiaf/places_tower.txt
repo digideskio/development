@@ -1,0 +1,400 @@
+name	alt name	url	summary	type
+Acorn Hall	Acorn Hall	/reference/k/01211/index.html	The seat of House Smallwood.	place
+Aegon's High Hill	Aegon's High Hill	/reference/k/02003/index.html	Aegon's High Hill lies in the northeast corner of King's Landing and atop it sits the Red Keep. Aegon's High Hill can be seen from anywhere in the city.	place
+Alyssa's Tears	Alyssa's Tears	/reference/k/01132/index.html	A waterfall near the Eyrie. It is named for Alyssa Arryn.	place
+Arbor, The	The Arbor	/reference/k/01167/index.html	An island off the southwest coast of the Reach.	place
+Ashemark	Ashemark	/reference/k/01235/index.html	The seat of House Marbrand.	place
+Ashford	Ashford	/reference/k/01236/index.html		place
+Asshai	Asshai	/reference/k/01178/index.html	A city far to the east. The people of Asshai are called the Asshai'i.	place
+Astapor	Astapor	/reference/k/01237/index.html	A slave-trading city on Slaver's Bay.	place
+Atranta	Atranta	/reference/k/02083/index.html	The seat of House Vance.	place
+Banefort	Banefort	/reference/k/02041/index.html	The seat of House Banefort.	place
+Barrowlands, The	The Barrowlands	/reference/k/01897/index.html	A portion of the North bounded by the Wolfswood, the Rills, the Neck, and the White Knife.	place
+Barrowton	Barrowton	/reference/k/02523/index.html	The seat of House Dustin.	place
+Basilisk Isles	Basilisk Isles	/reference/k/02434/index.html	A group of islands off the north coast of Sothoros.	place
+Bastard's Cradle	Bastard's Cradle	/reference/k/02650/index.html	A small island in the Redwyne Straits near the Arbor.	place
+Battle Island	Battle Island	/reference/k/02116/index.html	An island in the Whispering Sound. The Hightower is located there.	place
+Bay of Crabs	Bay of Crabs	/reference/k/01978/index.html	The Bay of Crabs is a narrow bay that separates the Vale from the Crownlands.	place
+Bay of Ice	Bay of Ice	/reference/k/01889/index.html	A large bay off northwestern Westeros.	place
+Bay of Seals	Bay of Seals	/reference/k/01882/index.html	A bay off the northeast coast of Westeros.	place
+Bayasabhad	Bayasabhad	/reference/k/01179/index.html	A land somewhere in the east.	place
+Bear Island	Bear Island	/reference/k/01119/index.html	An island off the northwest coast of the North. It sits in the Bay of Ice.	place
+Big Willow River	Big Willow River	/reference/k/01825/index.html	A river in the Riverlands.	place
+Bite, The	The Bite	/reference/k/01192/index.html	The Bite is a bay enclosed by the North to the north, the Neck to the west, and the Vale to the south. White Harbor is a port on the north shores of the Bite.	place
+Bitterbridge	Bitterbridge	/reference/k/01251/index.html	The seat of House Caswell.	place
+Blackcrown	Blackcrown	/reference/k/02054/index.html	The seat of House Bulwer.	place
+Blackhaven	Blackhaven	/reference/k/01252/index.html	The seat of House Dondarrion.	place
+Blackmont	Blackmont	/reference/k/01253/index.html	The seat of House Blackmont.	place
+Blacktyde	Blacktyde	/reference/k/01255/index.html	One of the Iron Islands.	place
+Blackwater Bay	Blackwater Bay	/reference/k/01898/index.html	A bay that cuts through the middle of the Crownlands.	place
+Blackwater Rush	Blackwater Rush	/reference/k/01256/index.html	A river that flows through the Riverlands and the Crownlands to enter the sea at King's Landing.	place
+Blazewater Bay	Blazewater Bay	/reference/k/01891/index.html	A bay off the southwest coast of the North.	place
+Bloody Gate	Bloody Gate	/reference/k/01129/index.html	A small castle that guards the entrance to the Vale of Arryn.	place
+Blue Bym	Blue Bym	/reference/k/02906/index.html	A river that is a tributary to the Mander.	place
+Blue Fork	Blue Fork	/reference/k/01151/index.html	A branch of the Trident, the largest river in Westeros.	place
+Boneway	Boneway	/reference/k/02172/index.html	A road that winds through the eastern Red Mountains connecting Dorne with the rest of Westeros.	place
+Braavos	Braavos	/reference/k/01261/index.html	One of the nine Free Cities.	place
+Bracken of Stone Hedge	Bracken of Stone Hedge	/reference/k/00931/index.html	A house of the Riverlands.	place
+Brandybottom	Brandybottom	/reference/k/02816/index.html	A village in the Reach.	place
+Briarwhite	Briarwhite	/reference/k/01268/index.html	A holdfast in the Riverlands.	place
+Brightwater Keep	Brightwater Keep	/reference/k/01269/index.html	The seat of House Florent.	place
+Brimstone	Brimstone	/reference/k/02910/index.html	A river in Dorne.	place
+Brindlewood	Brindlewood	/reference/k/01990/index.html	A village in the Riverlands.	place
+Broken Arm, The	The Broken Arm	/reference/k/01175/index.html	The remains of a land bridge that once connected Westeros with the eastern continent.	place
+Broken Branch, The	The Broken Branch	/reference/k/02903/index.html	A river in the North.	place
+Bronzegate	Bronzegate	/reference/k/02056/index.html	The seat of House Buckler.	place
+Brownhollow	Brownhollow	/reference/k/02626/index.html	The seat of a lesser branch of House Brune.	place
+Cape Wrath	Cape Wrath	/reference/k/01862/index.html	A stretch of land on the northern coast of the Sea of Dorne.	place
+Castamere	Castamere	/reference/k/01279/index.html	A gold mining center in the Westerlands and the former seat of House Reyne.	place
+Casterly Rock	Casterly Rock	/reference/k/01157/index.html	The seat of House Lannister.	place
+Castle Black	Castle Black	/reference/k/01164/index.html	The main Night's Watch fortress.	place
+Castle Cerwyn	Castle Cerwyn	/reference/k/01280/index.html	The seat of House Cerwyn.	place
+Castle Darry	Castle Darry	/reference/k/02201/index.html	The seat of House Darry.	place
+Castle Hornwood	Castle Hornwood	/reference/k/02916/index.html	The seat of House Hornwood.	place
+Castle Stokeworth	Castle Stokeworth	/reference/k/01281/index.html	The seat of House Stokeworth.	place
+Chequy Water, The	The Chequy Water	/reference/k/02772/index.html	A stream in the Reach.	place
+Chestnut	Chestnut	/reference/k/02749/index.html	An old swaybacked stot owned by Ser Arlan of Pennytree and ridden by his squire, Duncan.	place
+Citadel, The	The Citadel	/reference/k/01173/index.html	The headquarters of the maesters.	place
+Claw Isle	Claw Isle	/reference/k/01288/index.html	An island in the Narrow Sea containing the seat of House Celtigar.	place
+Cockleswent	Cockleswent	/reference/k/02755/index.html	A river that is a tributary to the Mander.	place
+Coldmoat	Coldmoat	/reference/k/02769/index.html	The seat of House Webber.	place
+Coldwater Burn	Coldwater Burn	/reference/k/02228/index.html	The seat of House Coldwater.	place
+Corpse Lake	Corpse Lake	/reference/k/02147/index.html	A keep on Great Wyk belonging to a branch of House Goodbrother.	place
+Crackclaw Point	Crackclaw Point	/reference/k/01979/index.html	A peninsula wedged between the Bay of Crabs amd Blackwater Bay.	place
+Crag, The	The Crag	/reference/k/01292/index.html	The seat of House Westerling.	place
+Crakehall	Crakehall	/reference/k/02047/index.html	The seat of House Crakehall.	place
+Craster's Keep	Craster's Keep	/reference/k/01817/index.html	The home of the wildling Craster.	place
+Crow Spike Keep	Crow Spike Keep	/reference/k/02146/index.html	A keep on Great Wyk belonging to a branch of House Goodbrother.	place
+Crownlands, The	The Crownlands	/reference/k/01209/index.html	Those lands that were directly ruled by House Targaryen.	place
+Crows Nest	Crows Nest	/reference/k/02052/index.html	The seat of House Morrigen.	place
+Darry River	Darry River	/reference/k/01826/index.html	A river in the Riverlands.	place
+Deep Den	Deep Den	/reference/k/02074/index.html	The seat of House Lydden.	place
+Deep Lake	Deep Lake	/reference/k/01929/index.html	One of the abandoned castles along the Wall.	place
+Deepwood Motte	Deepwood Motte	/reference/k/01302/index.html	The seat of House Glover.	place
+Derring Downs	Derring Downs	/reference/k/02815/index.html	A series of downs in the Reach.	place
+Disputed Lands	Disputed Lands	/reference/k/01980/index.html	An area of the Eastern Continent that is claimed by several of the Free Cities.	place
+Donnelwood	Donnelwood	/reference/k/02938/index.html	A town in the Riverlands.	place
+Dorne	Dorne	/reference/k/01117/index.html	The southernmost of the seven principal regions of Westeros.	place
+Dornish Marches	Dornish Marches	/reference/k/01310/index.html	That part of the Reach and the Stormlands that borders Dorne.	place
+Dosk	Dosk	/reference/k/02762/index.html	A town in the Reach.	place
+Dothraki Sea	Dothraki Sea	/reference/k/01180/index.html	A large expanse of territory with no hills, trees, cities, or roads. A hundred varieties of grasses grow in the Dothraki Sea, in hues varying from green, to indigo, and even to orange. It is the domain of the Dothraki people.	place
+Downdelving	Downdelving	/reference/k/02145/index.html	A keep on Great Wyk belonging to a branch of House Goodbrother.	place
+Dragonpit	Dragonpit	/reference/k/01981/index.html	The home of the Targaryen dragons in King's Landing.	place
+Dragonstone	Dragonstone	/reference/k/01193/index.html	The ancestral home of House Targaryen.	place
+Dragonstone	Dragonstone	/reference/k/02048/index.html	An island in the Narrow Sea.	place
+Dreadfort, The	The Dreadfort	/reference/k/01120/index.html	The seat of House Bolton.	place
+Driftmark	Driftmark	/reference/k/01313/index.html	The seat of House Velaryon.	place
+Duskendale	Duskendale	/reference/k/01319/index.html	The seat of House Rykker.	place
+Dyre Den	Dyre Den	/reference/k/02423/index.html	The seat of House Brune.	place
+Eastwatch-by-the-Sea	Eastwatch-by-the-Sea	/reference/k/01165/index.html	One of three fortresses still maintained by the Night's Watch.	place
+Estermont	Estermont	/reference/k/02467/index.html	An island off the coast of Cape Wrath.	place
+Evenfall Hall	Evenfall Hall	/reference/k/01350/index.html	The seat of House Tarth.	place
+Eyrie, The	The Eyrie	/reference/k/01133/index.html	The seat of House Arryn.	place
+Fair Isle	Fair Isle	/reference/k/02143/index.html	An island off the coast of the Westerlands.	place
+Faircastle	Faircastle	/reference/k/02849/index.html	The seat of House Farman on Fair Isle.	place
+Fairmarket	Fairmarket	/reference/k/02530/index.html	A town in the Riverlands.	place
+Far North, The	The Far North	/reference/k/01207/index.html	The region of Westeros beyond the Wall.	place
+Fawnton	Fawnton	/reference/k/02945/index.html	The seat of House Cafferen.	place
+Felwood	Felwood	/reference/k/02468/index.html	The seat of House Fell.	place
+Fever River	Fever River	/reference/k/01892/index.html	A river in the North.	place
+Fieldstone	Fieldstone	/reference/k/02940/index.html	A town in the Riverlands.	place
+Fingers, The	The Fingers	/reference/k/01134/index.html	A stretch of coastline north of the Vale that juts into the sea like fingers.	place
+Fist of the First Men	Fist of the First Men	/reference/k/01356/index.html	A lone mountain that rises next to the Milkwater at the edge of the Haunted Forest.	place
+Flea Bottom	Flea Bottom	/reference/k/01987/index.html	Flea Bottom is a neighborhood that lies in the southeast quadrant of King's Landing. It is a maze of unpaved, narrow, crowded streets, filled with pigsties, stables, tanner sheds, winesinks and whorehouses.	place
+Forest of Qohor	Forest of Qohor	/reference/k/01853/index.html	A forest near the free city of the same name.	place
+Free Cities, The	The Free Cities	/reference/k/01166/index.html	Nine independent city states that lie across the Narrow Sea from Westeros.	place
+Frostfangs	Frostfangs	/reference/k/01885/index.html	A large mountain range that covers the entire western side of the Far North.	place
+Frozen Shore, The	The Frozen Shore	/reference/k/02001/index.html	The western coast of the Far North.	place
+Gates of the Moon	Gates of the Moon	/reference/k/01135/index.html	The seat of House Royce in the Vale. It is located at the base of the Giant's Lance.	place
+Ghaston Grey	Ghaston Grey	/reference/k/02607/index.html	A half-ruined castle in Dorne.	place
+Ghost Hill	Ghost Hill	/reference/k/02716/index.html	The seat of House Toland.	place
+Giant's Lance	Giant's Lance	/reference/k/01136/index.html	The mountain on which the Eyrie sits.	place
+Gift, The	The Gift	/reference/k/01206/index.html	The land to the south of The Wall for fifty leagues that has been given to the Night's Watch in perpetuity.	place
+God's Eye	God's Eye	/reference/k/01141/index.html	A large lake in the Riverlands.	place
+Godsgrace	Godsgrace	/reference/k/01689/index.html	A galley in the royal fleet of the Seven Kingdoms.	place
+Godsgrace	Godsgrace	/reference/k/01374/index.html	The seat of House Allyrion.	place
+Golden Tooth	Golden Tooth	/reference/k/01158/index.html	The seat of House Lefford.	place
+Goldengrove	Goldengrove	/reference/k/01168/index.html	The seat of House Rowan.	place
+Goldroad	Goldroad	/reference/k/01846/index.html	The Goldroad runs from Lannisport to King's Landing and marks the border between the Riverlands and the Reach.	place
+Gorge, The	The Gorge	/reference/k/01160/index.html	The Gorge is a stretch of land in the Far North, located west of Shadow Tower, south of the Frostfangs, and northeast of the Bay of Ice.	place
+Grandview	Grandview	/reference/k/02946/index.html	The seat of House Grandison.	place
+Great Eastern Continent, The	The Great Eastern Continent	/reference/k/01174/index.html	The continent to the east of Westeros.	place
+Great Sept	Great Sept	/reference/k/01982/index.html	The center of the Faith in the Seven Kingdoms.	place
+Great Wyk	Great Wyk	/reference/k/01402/index.html	One of the Iron Islands.	place
+Green Fork	Green Fork	/reference/k/01152/index.html	A branch of the Trident, the largest river in Westeros.	place
+Greenapple River	Greenapple River	/reference/k/01827/index.html	A river in the Riverlands.	place
+Greenblood	Greenblood	/reference/k/02425/index.html	A river in Dorne.	place
+Greenfield	Greenfield	/reference/k/00976/index.html	A house of the Westerlands.	place
+Greenhill	Greenhill	/reference/k/02502/index.html	A noble house of Westeros.	place
+Greenshield	Greenshield	/reference/k/02513/index.html	One of the Shield Islands.	place
+Greenstone	Greenstone	/reference/k/02466/index.html	The seat of House Estermont.	place
+Grey Garden	Grey Garden	/reference/k/02247/index.html	A castle of House Harlaw.	place
+Grey Glen	Grey Glen	/reference/k/02232/index.html	The seat of House Tollett.	place
+Greyguard	Greyguard	/reference/k/01405/index.html	One of the abandoned castles along the Wall.	place
+Greyshield	Greyshield	/reference/k/02512/index.html	One of the Shield Islands.	place
+Greywater Watch	Greywater Watch	/reference/k/01121/index.html	The seat of House Reed.	place
+Grimston	Grimston	/reference/k/02519/index.html	The seat of House Grimm on Greyshield.	place
+Gull Tower	Gull Tower	/reference/k/02230/index.html	The seat of House Shett.	place
+Gulltown	Gulltown	/reference/k/01140/index.html	A city in the Vale and the seat of House Grafton.	place
+Hag's Mire	Hag's Mire	/reference/k/01824/index.html	An area of bogs in the Riverlands.	place
+Hammerhorn	Hammerhorn	/reference/k/02124/index.html	The seat of House Goodbrother.	place
+Hardstone Hills	Hardstone Hills	/reference/k/02123/index.html	A mountain chain on Great Wyk.	place
+Harlaw	Harlaw	/reference/k/01415/index.html	One of the Iron Islands.	place
+Harlaw Hall	Harlaw Hall	/reference/k/02241/index.html	The former seat of House Harlaw.	place
+Harrenhal	Harrenhal	/reference/k/01142/index.html	The seat of House Whent.	place
+Harrentown	Harrentown	/reference/k/01879/index.html	A town by the castle of Harrenhal.	place
+Harridan Hill	Harridan Hill	/reference/k/02248/index.html	A castle of House Harlaw.	place
+Harroway	Harroway	/reference/k/01420/index.html	The seat of House Roote.	place
+Harvest Hall	Harvest Hall	/reference/k/02014/index.html	The seat of House Selmy.	place
+Haunted Forest	Haunted Forest	/reference/k/01161/index.html	A large forest in the Far North.	place
+Hayford	Hayford	/reference/k/00985/index.html	A house of the Crownlands.	place
+Haystack Hall	Haystack Hall	/reference/k/02930/index.html	The seat of House Errol.	place
+Heart's Home	Heart's Home	/reference/k/02457/index.html	The seat of House Corbray.	place
+Hellholt	Hellholt	/reference/k/01423/index.html	The seat of House Uller.	place
+High Heart	High Heart	/reference/k/01842/index.html	A hill in the Riverlands that was sacred to the children of the forest.	place
+High Hermitage	High Hermitage	/reference/k/02784/index.html	The seat of a lesser branch of House Dayne.	place
+High Road	High Road	/reference/k/01847/index.html	A road that leads from the Trident to the Vale of Arryn.	place
+Highgarden	Highgarden	/reference/k/01169/index.html	The seat of House Tyrell.	place
+Hightower, The	The Hightower	/reference/k/02114/index.html	A lighthouse/fortress in Oldtown.	place
+Honeyholt	Honeyholt	/reference/k/02694/index.html	The seat of House Beesbury.	place
+Honeywine	Honeywine	/reference/k/02091/index.html	A river that flows through Oldtown.	place
+Horn Hill	Horn Hill	/reference/k/01170/index.html	The seat of House Tarly.	place
+Hornvale	Hornvale	/reference/k/01430/index.html	The seat of House Brax.	place
+Horseshoe Hills	Horseshoe Hills	/reference/k/02814/index.html	A group of hills in the Reach.	place
+Horseshoe Rock	Horseshoe Rock	/reference/k/02649/index.html	A small island in the Redwyne Straits near the Arbor.	place
+Ibben	Ibben	/reference/k/01433/index.html	An island nation north and east of Westeros.	place
+Icemark	Icemark	/reference/k/01930/index.html	One of the abandoned castles along the Wall.	place
+Inn of the Kneeling Man	Inn of the Kneeling Man	/reference/k/01831/index.html	An inn in the Riverlands that supposedly stands on the exact spot where King Torrhen Stark knelt to do fealty to Aegon the Conqueror.	place
+Iron Holt	Iron Holt	/reference/k/02062/index.html	The seat of House Wynch. It is located on Pyke.	place
+Iron Islands, The	The Iron Islands	/reference/k/01115/index.html	A small group of islands off the northwest coast of Westeros.  They are the home of the ironmen.	place
+Ironoaks Castle	Ironoaks Castle	/reference/k/02234/index.html	The seat of House Waynwood.	place
+Isle of Faces	Isle of Faces	/reference/k/01143/index.html	An island situated in the God's Eye.	place
+Isle of Pigs	Isle of Pigs	/reference/k/02647/index.html	A small island in the Redwyne Straits near the Arbor.	place
+Jade Sea	Jade Sea	/reference/k/01194/index.html	The Jade Sea is east of Qarth and the Great Eastern Continent.	place
+Karhold	Karhold	/reference/k/01122/index.html	The seat of House Karstark.	place
+Kayakayanaya	Kayakayanaya	/reference/k/01181/index.html	A land somewhere to the east.	place
+Kayce	Kayce	/reference/k/01453/index.html	The seat of House Kenning.	place
+King's Landing	King's Landing	/reference/k/01118/index.html	The capital of the Seven Kingdoms.	place
+Kingsgrave	Kingsgrave	/reference/k/01455/index.html	The seat of House Manwoody.	place
+Kingsroad	Kingsroad	/reference/k/01848/index.html	The kingsroad is the largest and most important north-south road in the Seven Kingdoms. It begins at King's Landing and extends all the way up to Castle Black on the Wall, passing through Moat Cailin and Winterfell on the way.	place
+Kingswood, The	The Kingswood	/reference/k/01880/index.html	A large forest south of King's Landing that is the personal preserve of the king.	place
+Lambswold	Lambswold	/reference/k/02872/index.html	A village in the Riverlands.	place
+Lancewood	Lancewood	/reference/k/02936/index.html	A town in the Riverlands.	place
+Lannisport	Lannisport	/reference/k/01159/index.html	The primary city and port of the Westerlands.	place
+Last Hearth	Last Hearth	/reference/k/01464/index.html	The seat of House Umber.	place
+Last River, The	The Last River	/reference/k/02900/index.html	A river in the North. As the name implies, it is the last major river before the Wall.	place
+Leafy Lake	Leafy Lake	/reference/k/02785/index.html	The seat of a minor branch of House Osgrey.	place
+Lemonwood	Lemonwood	/reference/k/01466/index.html	The seat of House Dalt.	place
+Little Dosk	Little Dosk	/reference/k/02763/index.html	A town in the Reach.	place
+Little Willow River	Little Willow River	/reference/k/01828/index.html	A river in the Riverlands.	place
+Littlesister	Littlesister	/reference/k/02681/index.html	One of the Three Sisters.	place
+Lonely Hills, The	The Lonely Hills	/reference/k/02904/index.html	A group of hills in the North.	place
+Lonely Light	Lonely Light	/reference/k/02385/index.html	The seat of House Farwynd.	place
+Long Barrow	Long Barrow	/reference/k/01472/index.html	One of the abandoned castles along the Wall.	place
+Long Lake	Long Lake	/reference/k/02901/index.html	A lake in the North. It is the source of the White Knife.	place
+Longbow Hall	Longbow Hall	/reference/k/01473/index.html	The seat of House Hunter.	place
+Longsister	Longsister	/reference/k/02680/index.html	One of the Three Sisters.	place
+Longtable	Longtable	/reference/k/02053/index.html	The seat of House Merryweather.	place
+Lorath	Lorath	/reference/k/01474/index.html	One of the nine Free Cities.	place
+Lord Hewett's Town	Lord Hewett's Town	/reference/k/02517/index.html	The principal settlement on Oakenshield.	place
+Lordsport	Lordsport	/reference/k/01475/index.html	A town on the Island of Pyke and the seat of House Botley.	place
+Lorn Point	Lorn Point	/reference/k/02921/index.html	A landmark on the Frozen Shore.	place
+Lys	Lys	/reference/k/01483/index.html	One of the nine Free Cities.	place
+Maegor's Holdfast	Maegor's Holdfast	/reference/k/02004/index.html	The inner building within the Red Keep.	place
+Maiden River	Maiden River	/reference/k/01829/index.html	A river in the Riverlands.	place
+Maidenpool	Maidenpool	/reference/k/01486/index.html	The seat of House Mooton.	place
+Mander	Mander	/reference/k/01884/index.html	A river in the Reach.	place
+Meereen	Meereen	/reference/k/01188/index.html	A slave-trading city on Slaver's Bay.	place
+Mermaid's Palace, The	The Mermaid's Palace	/reference/k/02648/index.html	A small island in the Redwyne Straits near the Arbor.	place
+Milkwater	Milkwater	/reference/k/01893/index.html	A river in the Far North.	place
+Moat Cailin	Moat Cailin	/reference/k/01123/index.html	A ruined castle in the North. It guards the Neck.	place
+Mole's Town	Mole's Town	/reference/k/01162/index.html	A town in the Gift near Castle Black.	place
+Mory	Mory	/reference/k/02937/index.html	A town in the Riverlands.	place
+Mountains of the Moon	Mountains of the Moon	/reference/k/01130/index.html	A mountain range that isolates the Vale of Arryn from the rest of Westeros.	place
+Mousedown Mill	Mousedown Mill	/reference/k/02939/index.html	A town in the Riverlands.	place
+Mummer's Ford	Mummer's Ford	/reference/k/01144/index.html	A holdfast in the Riverlands.	place
+Myr	Myr	/reference/k/01515/index.html	One of the nine Free Cities.	place
+Naath	Naath	/reference/k/01517/index.html	An island in the Summer Sea.	place
+Nagga	Nagga	/reference/k/02149/index.html	A hill on Old Wyk sacred to the ironmen.	place
+Nagga's Cradle	Nagga's Cradle	/reference/k/02340/index.html	A bay off the coast of Old Wyk.	place
+Narrow Sea	Narrow Sea	/reference/k/01195/index.html	The sea that borders Westeros on the southeast.	place
+Neck, The	The Neck	/reference/k/01124/index.html	A region of marshes and bogs that separates the North from the rest of the Seven Kingdoms.	place
+New Ghis	New Ghis	/reference/k/02027/index.html	A city on a small island in Slaver's Bay.	place
+Nightfort, The	The Nightfort	/reference/k/01928/index.html	One of the abandoned castles along the Wall.	place
+Nightsong	Nightsong	/reference/k/01520/index.html	The seat of House Caron.	place
+Ninestars	Ninestars	/reference/k/02237/index.html	The seat of House Templeton.	place
+North, The	The North	/reference/k/01110/index.html	The largest of the seven principal regions of Westeros.	place
+Norvos	Norvos	/reference/k/01522/index.html	One of the nine Free Cities.	place
+Nunn's Deep	Nunn's Deep	/reference/k/01896/index.html	A gold mining center in the Westerlands.	place
+Nutten	Nutten	/reference/k/02593/index.html	A town in the Riverlands.	place
+Oakenshield	Oakenshield	/reference/k/02515/index.html	One of the Shield Islands.	place
+Old Crossroads Inn, The	The Old Crossroads Inn	/reference/k/02541/index.html	An inn that stands at the intersection of the kingsroad and the high road.	place
+Old Ghis	Old Ghis	/reference/k/01526/index.html	A ruined city on Slaver's Bay.	place
+Old Oak	Old Oak	/reference/k/01171/index.html	The seat of House Oakheart.	place
+Old Stone Bridge	Old Stone Bridge	/reference/k/02185/index.html	An inn next to a stone bridge on the kingsroad between Rosby and Duskendale. The innkeeper is Naggle.	place
+Old Wyk	Old Wyk	/reference/k/01527/index.html	One of the Iron Islands.	place
+Oldcastle	Oldcastle	/reference/k/02055/index.html	The seat of House Locke.	place
+Oldstones	Oldstones	/reference/k/01528/index.html	A ruined castle in the Riverlands.	place
+Oldtown	Oldtown	/reference/k/01172/index.html	The second largest city of the Seven Kingdoms and principal port of the Reach.	place
+Orkmont	Orkmont	/reference/k/02068/index.html	One of the Iron Islands.	place
+Oxcross	Oxcross	/reference/k/01536/index.html	A town in the Westerlands.	place
+Paps, The	The Paps	/reference/k/02630/index.html	The seat of House Elesham.	place
+Parchments	Parchments	/reference/k/02920/index.html	The seat of House Penrose.	place
+Pebbleton	Pebbleton	/reference/k/02122/index.html		place
+Pendric Hills	Pendric Hills	/reference/k/01539/index.html	A gold mining center in the Westerlands.	place
+Pennytree	Pennytree	/reference/k/02799/index.html	A village somewhere in Westeros.	place
+Pentos	Pentos	/reference/k/01201/index.html	One of the nine Free Cities.	place
+Pig's Alley	Pig's Alley	/reference/k/02005/index.html	Pig's Alley is a neighborhood of King's Landing.	place
+Pinkmaiden Castle	Pinkmaiden Castle	/reference/k/02045/index.html	The seat of House Piper.	place
+Planky Town	Planky Town	/reference/k/02426/index.html	The only permanent settlement of the orphans of the Greenblood.	place
+Port of Ibben	Port of Ibben	/reference/k/01196/index.html	The capital city of the island nation of Ibben.	place
+Prince's Pass	Prince's Pass	/reference/k/02173/index.html	A pass through the Red Mountains.	place
+Pyke	Pyke	/reference/k/01547/index.html	One of the Iron Islands.	place
+Pyke	Pyke	/reference/k/01548/index.html	The seat of House Greyjoy.	place
+Qarth	Qarth	/reference/k/01182/index.html	An independent city state and trading power on the Great Eastern Continent.	place
+Qohor	Qohor	/reference/k/01551/index.html	One of the nine Free Cities.	place
+Queenscrown	Queenscrown	/reference/k/01554/index.html	A village in the Gift. It is now a ruin.	place
+Queensgate	Queensgate	/reference/k/01555/index.html	One of the abandoned castles along the Wall.	place
+Quiet isle, The	The Quiet isle	/reference/k/02535/index.html	A monastery situated on an island where the Trident empties into the Bay of Crabs.	place
+Rainwood	Rainwood	/reference/k/01901/index.html	A forest that covers much of the Stormlands.	place
+Raventree	Raventree	/reference/k/01145/index.html	Seat of House Blackwood.	place
+Reach, The	The Reach	/reference/k/01112/index.html	One of the seven principal regions of Westeros.	place
+Red Dunes	Red Dunes	/reference/k/02721/index.html	The seat of House Vaith.	place
+Red Fork	Red Fork	/reference/k/01153/index.html	A branch of the Trident, the largest river in Westeros.	place
+Red Keep	Red Keep	/reference/k/01851/index.html	The royal residence in King's Landing.	place
+Red Lake	Red Lake	/reference/k/02907/index.html	A lake in the Reach.	place
+Red Lands, The	The Red Lands	/reference/k/01878/index.html	A harsh desert on the Great Eastern Continent.	place
+Red Mountains	Red Mountains	/reference/k/01562/index.html	The Red Mountains run along the length of the border between Reach and the Stormlands.	place
+Redfort	Redfort	/reference/k/02051/index.html	The seat of House Redfort.	place
+Redwyne Straits	Redwyne Straits	/reference/k/02646/index.html	A water passage between the Arbor and Westeros.	place
+Rhaenys's Hill	Rhaenys's Hill	/reference/k/02006/index.html	Rhaenys's Hill is a landmark in King's Landing, atop which sits the Dragonpit.	place
+Rhoyne River	Rhoyne River	/reference/k/01183/index.html		place
+Rills, The	The Rills	/reference/k/01887/index.html	A series of hills in the North.	place
+Rippledown Rill	Rippledown Rill	/reference/k/01830/index.html	A river in the Riverlands.	place
+River Road, The	The River Road	/reference/k/02602/index.html	The river road runs from Casterly Rock to the Old Crossroads Inn, where it crosses the kingsroad and becomes the high road.	place
+Riverbend	Riverbend	/reference/k/02594/index.html	A town in the Riverlands.	place
+Riverlands, The	The Riverlands	/reference/k/01116/index.html	One of the seven principal regions of Westeros.	place
+Riverrun	Riverrun	/reference/k/01146/index.html	The seat of House Tully.	place
+Rosby	Rosby	/reference/k/01569/index.html	The seat of House Rosby.	place
+Roseroad	Roseroad	/reference/k/01849/index.html	A road that runs from Highgarden to King's Landing.	place
+Runestone	Runestone	/reference/k/02058/index.html	The seat of House Royce.	place
+Ryamsport	Ryamsport	/reference/k/02654/index.html	The main port of the Arbor.	place
+Sallydance	Sallydance	/reference/k/01574/index.html	A village in the Riverlands.	place
+Salt Shore	Salt Shore	/reference/k/01575/index.html	The seat of House Gargalen.	place
+Saltcliffe	Saltcliffe	/reference/k/01577/index.html	One of the Iron Islands.	place
+Saltpans	Saltpans	/reference/k/01988/index.html	A town in the Riverlands.	place
+Saltspear	Saltspear	/reference/k/01890/index.html	A narrow branch of Blazewater Bay.	place
+Sandstone	Sandstone	/reference/k/01578/index.html	The seat of House Qorgyle.	place
+Sarsfield	Sarsfield	/reference/k/01056/index.html	A house of the Westerlands.	place
+Scourge, The	The Scourge	/reference/k/02909/index.html	A river in Dorne. It joins the Vaith to form the Greenblood.	place
+Sea Dragon Point	Sea Dragon Point	/reference/k/01888/index.html	A peninsula at the edge of the Bay of Ice.	place
+Sea of Dorne	Sea of Dorne	/reference/k/01983/index.html	A sea that juts into the southeast coast of Westeros and separates Dorne and the Stormlands.	place
+Seagard	Seagard	/reference/k/01147/index.html	The seat of House Mallister.	place
+Sealskin Point	Sealskin Point	/reference/k/02676/index.html	The seat of House Farwynd.	place
+Seastone Chair	Seastone Chair	/reference/k/01765/index.html	The seat of the kings of the Iron Islands.	place
+Seven Kingdoms, The	The Seven Kingdoms	/reference/k/01208/index.html	The official name of the country that occupies the majority of the continent of Westeros.	place
+Sevenstreams	Sevenstreams	/reference/k/01580/index.html	The area in the Riverlands where the Blue Fork of the Trident breaks down into a large number of small brooks and rills.	place
+Shadow Lands, The	The Shadow Lands	/reference/k/01184/index.html	A region far to the east.	place
+Shadow Tower, The	The Shadow Tower	/reference/k/01582/index.html	One of three fortresses still maintained by the Night's Watch.	place
+Shamyriana	Shamyriana	/reference/k/01185/index.html	A land somewhere in the east.	place
+Shandystone	Shandystone	/reference/k/02441/index.html	An abandoned keep next to a dried up well.	place
+Sharp Point	Sharp Point	/reference/k/01985/index.html	The seat of House Bar Emmon.	place
+Shatterstone	Shatterstone	/reference/k/02373/index.html	The seat of House Goodbrother.	place
+Shermer's Grove	Shermer's Grove	/reference/k/02935/index.html	A town in the Riverlands.	place
+Sherrer	Sherrer	/reference/k/01148/index.html	A holdfast in the Riverlands.	place
+Shield Islands, The	The Shield Islands	/reference/k/02511/index.html	A group of islands at the mouth of the Mander.	place
+Shipbreaker Bay	Shipbreaker Bay	/reference/k/01863/index.html	A bay off the coast of the Stormlands.	place
+Shivering Sea	Shivering Sea	/reference/k/02002/index.html	The sea off the extreme northeast coast of Westeros.	place
+Skagos	Skagos	/reference/k/01971/index.html	A large island off the coast of the North.	place
+Skahazadhan	Skahazadhan	/reference/k/01186/index.html	A river that marks the border between the cities of Slaver's Bay and lands further north.	place
+Skane	Skane	/reference/k/02312/index.html	An islands in the Bay of Seals.	place
+Skirling Pass	Skirling Pass	/reference/k/01823/index.html	A pass through the Forstfangs.	place
+Sky	Sky	/reference/k/01137/index.html	The final of three waycastles between the Gates of the Moon and the Eyrie.	place
+Skyreach	Skyreach	/reference/k/02719/index.html	The seat of House Fowler.	place
+Slaver's Bay	Slaver's Bay	/reference/k/01187/index.html	Slaver's Bay is both the bay separating the old Ghiscari cities from Valyria and the name of the region in which the slaver cities of the Ghiscari are located.	place
+Smoking Log, The	The Smoking Log	/reference/k/01125/index.html	A tavern in the town outside Winterfell.	place
+Snakewood	Snakewood	/reference/k/02459/index.html	The seat of House Lynderly.	place
+Snow	Snow	/reference/k/01138/index.html	The second of three waycastles between the Gates of the Moon and the Eyrie.	place
+Sothoros	Sothoros	/reference/k/02359/index.html	A continent that lies south of the Great Eastern Continent.	place
+Southshield	Southshield	/reference/k/02514/index.html	One of the Shield Islands.	place
+Sow's Horn	Sow's Horn	/reference/k/02496/index.html	The seat of House Hogg.	place
+Spottswood	Spottswood	/reference/k/02428/index.html	The seat of House Santagar.	place
+Standfast	Standfast	/reference/k/02764/index.html	The seat of House Osgrey.	place
+Starfall	Starfall	/reference/k/01176/index.html	The seat of House Dayne.	place
+Starfish Harbor	Starfish Harbor	/reference/k/02656/index.html	A town on the Arbor.	place
+Stepstones, The	The Stepstones	/reference/k/01903/index.html	A series of islands between Dorne and the eastern continent.	place
+Stone	Stone	/reference/k/01139/index.html	The first of three waycastles between the Gates of the Moon and the Eyrie.	place
+Stone Hedge	Stone Hedge	/reference/k/01149/index.html	The keep of House Bracken.	place
+Stone Mill	Stone Mill	/reference/k/01593/index.html	A location with a ford over the Red Fork of the Trident.	place
+Stonecrab Cay	Stonecrab Cay	/reference/k/02645/index.html	A small island in the Redwyne Straits near the Arbor.	place
+Stonedoor	Stonedoor	/reference/k/01595/index.html	One of the abandoned castles along the Wall.	place
+Stonehelm	Stonehelm	/reference/k/01596/index.html	The seat of house Swann.	place
+Stoney Sept	Stoney Sept	/reference/k/01598/index.html	A large town in the Riverlands.	place
+Stony Shore	Stony Shore	/reference/k/01886/index.html	A barren stretch of coastline west of the Rills.	place
+Stormlands, The	The Stormlands	/reference/k/01114/index.html	One of the seven principal regions of Westeros.	place
+Storm's End	Storm's End	/reference/k/01599/index.html	The seat of House Baratheon.	place
+Street of Flour	Street of Flour	/reference/k/02007/index.html	The Street of Flour is a street of King's Landing. Many bakeries and food sellers can be found there.	place
+Street of Steel	Street of Steel	/reference/k/02009/index.html	The Street of Steel is a street of King's Landing that is covered with blacksmiths. It starts at the Mud Gate and runs up a hill.	place
+Street of the Sisters	Street of the Sisters	/reference/k/02008/index.html	The Street of the Sisters is a street of King's Landing that runs straight from Visenya's Hill to Rhaenys's Hill.	place
+Strongsong	Strongsong	/reference/k/02235/index.html	The seat of House Belmore.	place
+Summer Isles	Summer Isles	/reference/k/01197/index.html	A group of islands south of Westeros.	place
+Summer Sea	Summer Sea	/reference/k/01198/index.html	The sea off the southwest coast of Westeros.	place
+Summerhall	Summerhall	/reference/k/01602/index.html	A ruined palace.	place
+Sunflower Hall	Sunflower Hall	/reference/k/02695/index.html	The seat of House Cuy.	place
+Sunset Sea	Sunset Sea	/reference/k/01199/index.html	The sea off the northwest coast of Westeros.	place
+Sunspear	Sunspear	/reference/k/01177/index.html	The seat of House Martell.	place
+Sweetport Sound	Sweetport Sound	/reference/k/02919/index.html	The seat of House Sunglass.	place
+Sweetsister	Sweetsister	/reference/k/02679/index.html	One of the Three Sisters.	place
+Tall Trees Town	Tall Trees Town	/reference/k/01610/index.html	A town of the Summer Isles.	place
+Tarbeck Hall	Tarbeck Hall	/reference/k/01612/index.html	The former seat of House Tarbeck. It is now a ruin.	place
+Tarth	Tarth	/reference/k/01613/index.html	A long island in the Narrow Sea at the head of Shipbreaker Bay.	place
+Ten Towers	Ten Towers	/reference/k/02154/index.html	The seat of House Harlaw.	place
+Three Sisters	Three Sisters	/reference/k/01200/index.html	A group of three islands in the Bite.	place
+Three Towers	Three Towers	/reference/k/02653/index.html	The seat of House Costayne.	place
+Tor, The	The Tor	/reference/k/01624/index.html	The seat of House Jordayne.	place
+Torrhen's Square	Torrhen's Square	/reference/k/01629/index.html	The seat of House Tallhart.	place
+Tower of Glimmering	Tower of Glimmering	/reference/k/02246/index.html	A castle of House Harlaw.	place
+Tower of Joy, The	The Tower of Joy	/reference/k/01210/index.html	A tower that once stood on the border with Dorne.	place
+Tower of the Hand	Tower of the Hand	/reference/k/01986/index.html	The Tower of the Hand is the seat of the Hand of the King. It is part of the Red Keep.	place
+Towers of Harrenhal	Towers of Harrenhal	/reference/k/02462/index.html		place
+Trident, The	The Trident	/reference/k/01150/index.html	A river in Westeros.	place
+Tumbler's Falls	Tumbler's Falls	/reference/k/01899/index.html	A town in the Riverlands.	place
+Tumblestone	Tumblestone	/reference/k/01154/index.html	A river in Westeros. It begins in the western mountains and joins the Red Fork of the Trident at Riverrun.	place
+Twins, The	The Twins	/reference/k/01155/index.html	The seat of House Frey.	place
+Tyrosh	Tyrosh	/reference/k/01640/index.html	One of the nine Free Cities.	place
+Uplands	Uplands	/reference/k/02693/index.html	The seat of House Mullendore.	place
+Vaes Dothrak	Vaes Dothrak	/reference/k/01189/index.html	The only city of the Dothraki. It is the home of the dosh khaleen. At the center of the city is the lake known as the Womb of the World.	place
+Vaes Tolorro	Vaes Tolorro	/reference/k/01645/index.html	A ruined city in the red lands.	place
+Vaith, The	The Vaith	/reference/k/02908/index.html	A river in Dorne. It joins the Scourge to form the Greenblood.	place
+Vale of Arryn	Vale of Arryn	/reference/k/01131/index.html	The heart of the region known as the Vale.	place
+Vale, The	The Vale	/reference/k/01113/index.html	One of the seven principal regions of Westeros.	place
+Valyria	Valyria	/reference/k/01190/index.html	A freehold, now in ruins, that was adept at magic and created a great empire on the Eastern Continent.	place
+Vinetown	Vinetown	/reference/k/02655/index.html	A town on the Arbor.	place
+Visenya's Hill	Visenya's Hill	/reference/k/02010/index.html	Visenya's Hill is a landmark in King's Landing, atop of which sits the Great Sept of Baelor.	place
+Volantis	Volantis	/reference/k/01649/index.html	One of the nine Free Cities.	place
+Volmark	Volmark	/reference/k/02374/index.html	The seat of House Volmark.	place
+Wall, The	The Wall	/reference/k/01163/index.html	A giant wall constructed of ice and magic that denotes the northern border of the Seven Kingdoms.	place
+Water Gardens, The	The Water Gardens	/reference/k/02162/index.html	A palace just outside Sunspear that serves as a retreat for the Prince of Dorne.	place
+Wat's Wood	Wat's Wood	/reference/k/02771/index.html	A small forest in the Reach.	place
+Wayfarer's Rest	Wayfarer's Rest	/reference/k/01654/index.html	The seat of House Vance.	place
+Weeping Water, The	The Weeping Water	/reference/k/02902/index.html	A river in the North.	place
+Wendish Town	Wendish Town	/reference/k/01156/index.html	A holdfast in the Riverlands.	place
+Wendwater, The	The Wendwater	/reference/k/02905/index.html	A river that flows through the Kingswood.	place
+Westerlands, The	The Westerlands	/reference/k/01111/index.html	One of the seven principal regions of Westeros.	place
+Westeros	Westeros	/reference/k/01109/index.html	The continent on which the Seven Kingdoms are located.	place
+Whispering Sound	Whispering Sound	/reference/k/02115/index.html	The Whispering Sound is an inlet that serves as the harbor of Oldtown.	place
+Whispers, The	The Whispers	/reference/k/02294/index.html	The former seat of House Crabb, now in ruins.	place
+White Harbor	White Harbor	/reference/k/01126/index.html	The seat of House Manderly and the principal port of the North.	place
+White Knife	White Knife	/reference/k/01127/index.html	A river in the North. It empties into the sea at White Harbor.	place
+White Sword Tower, The	The White Sword Tower	/reference/k/02025/index.html	The headquarters of the Kingsguard. It is part of the Red Keep.	place
+Whitetree	Whitetree	/reference/k/01658/index.html	A wildling village.	place
+Whitewalls	Whitewalls	/reference/k/02592/index.html	A town in the Riverlands.	place
+Wickenden	Wickenden	/reference/k/02621/index.html	The seat of House Waxley.	place
+Widow's Watch	Widow's Watch	/reference/k/01659/index.html	The seat of House Flint.	place
+Winterfell	Winterfell	/reference/k/01128/index.html	The seat of House Stark.	place
+Wolfswood	Wolfswood	/reference/k/01852/index.html	A large forest stretching north and west of Winterfell.	place
+Worm River	Worm River	/reference/k/01843/index.html	A river in the Slaver's Bay region.	place
+Wyndhall	Wyndhall	/reference/k/02049/index.html	The seat of House Estren.	place
+Yi Ti	Yi Ti	/reference/k/01191/index.html	A land in the far east.	place
+Yronwood	Yronwood	/reference/k/02075/index.html	The seat of House Yronwood.	place
+Yunkai	Yunkai	/reference/k/01669/index.html	A slave-trading city on Slaver's Bay.	place

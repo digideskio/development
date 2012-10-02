@@ -5,7 +5,7 @@ var regions={
 "Astapor":"Slaver's Bay",
 "West of the Iron Islands":"Iron Islands",
 "Barrowton":"the North",
-"Bitterbridge":"Reach",
+"Bitterbridge":"the Reach",
 "Blackwater Bay":"Crownlands",
 "Braavos":"Essos",
 "camp around the Twins":"Riverlands",

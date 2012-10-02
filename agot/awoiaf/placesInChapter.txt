@@ -1,0 +1,1745 @@
+Chapter	Book	Title	placeURL	Place	ID
+0	A Game of Thrones	Prologue	/index.php/Wall	Wallt442
+
+0	A Game of Thrones	Prologue	/index.php/Castle_Black	Castle Blackt59
+
+1	A Game of Thrones	Bran I	/index.php/Winterfell	Winterfellt463
+
+1	A Game of Thrones	Bran I	/index.php/Riverrun	Riverrunt333
+
+2	A Game of Thrones	Catelyn I	/index.php/Winterfell	Winterfellt463
+
+2	A Game of Thrones	Catelyn I	/index.php/Riverrun	Riverrunt333
+
+2	A Game of Thrones	Catelyn I	/index.php/Eyrie	Eyriet109
+
+2	A Game of Thrones	Catelyn I	/index.php/Wall	Wallt442
+
+2	A Game of Thrones	Catelyn I	/index.php/Casterly_Rock	Casterly Rockt58
+
+2	A Game of Thrones	Catelyn I	/index.php/Isle_of_Faces	Isle of Facest205
+
+2	A Game of Thrones	Catelyn I	/index.php/Trident	Tridentt427
+
+3	A Game of Thrones	Daenerys I	/index.php/Pentos	Pentost300
+
+3	A Game of Thrones	Daenerys I	/index.php/Dragonstone	Dragonstonet98
+
+3	A Game of Thrones	Daenerys I	/index.php/Braavos	Braavost39
+
+3	A Game of Thrones	Daenerys I	/index.php/King%27s_Landing	King's Landingt213
+
+3	A Game of Thrones	Daenerys I	/index.php/Casterly_Rock	Casterly Rockt58
+
+3	A Game of Thrones	Daenerys I	/index.php/Eyrie	Eyriet109
+
+3	A Game of Thrones	Daenerys I	/index.php/Highgarden	Highgardent185
+
+3	A Game of Thrones	Daenerys I	/index.php/Isle_of_Faces	Isle of Facest205
+
+3	A Game of Thrones	Daenerys I	/index.php/Lys	Lyst247
+
+3	A Game of Thrones	Daenerys I	/index.php/Myr	Myrt266
+
+3	A Game of Thrones	Daenerys I	/index.php/Qohor	Qohort308
+
+3	A Game of Thrones	Daenerys I	/index.php/Trident	Tridentt427
+
+3	A Game of Thrones	Daenerys I	/index.php/Tyrosh	Tyrosht432
+
+3	A Game of Thrones	Daenerys I	/index.php/Volantis	Volantist438
+
+4	A Game of Thrones	Eddard I	/index.php/Winterfell	Winterfellt463
+
+4	A Game of Thrones	Eddard I	/index.php/Eyrie	Eyriet109
+
+4	A Game of Thrones	Eddard I	/index.php/King%27s_Landing	King's Landingt213
+
+4	A Game of Thrones	Eddard I	/index.php/Casterly_Rock	Casterly Rockt58
+
+4	A Game of Thrones	Eddard I	/index.php/Highgarden	Highgardent185
+
+4	A Game of Thrones	Eddard I	/index.php/The_Neck	The Neckt413
+
+4	A Game of Thrones	Eddard I	/index.php/Riverrun	Riverrunt333
+
+4	A Game of Thrones	Eddard I	/index.php/Storm%27s_End	Storm's Endt401
+
+4	A Game of Thrones	Eddard I	/index.php/Trident	Tridentt427
+
+5	A Game of Thrones	Jon I	/index.php/Wall	Wallt442
+
+5	A Game of Thrones	Jon I	/index.php/Casterly_Rock	Casterly Rockt58
+
+5	A Game of Thrones	Jon I	/index.php/Trident	Tridentt427
+
+5	A Game of Thrones	Jon I	/index.php/Winterfell	Winterfellt463
+
+6	A Game of Thrones	Catelyn II	/index.php/Winterfell	Winterfellt463
+
+6	A Game of Thrones	Catelyn II	/index.php/Eyrie	Eyriet109
+
+6	A Game of Thrones	Catelyn II	/index.php/Myr	Myrt266
+
+6	A Game of Thrones	Catelyn II	/index.php/Riverrun	Riverrunt333
+
+6	A Game of Thrones	Catelyn II	/index.php/Starfall	Starfallt387
+
+6	A Game of Thrones	Catelyn II	/index.php/Wall	Wallt442
+
+7	A Game of Thrones	Arya I	/index.php/Winterfell	Winterfellt463
+
+8	A Game of Thrones	Bran II	/index.php/Wall	Wallt442
+
+8	A Game of Thrones	Bran II	/index.php/King%27s_Landing	King's Landingt213
+
+8	A Game of Thrones	Bran II	/index.php/Winterfell	Winterfellt463
+
+8	A Game of Thrones	Bran II	/index.php/Casterly_Rock	Casterly Rockt58
+
+8	A Game of Thrones	Bran II	/index.php/Eyrie	Eyriet109
+
+8	A Game of Thrones	Bran II	/index.php/The_Neck	The Neckt413
+
+9	A Game of Thrones	Tyrion I	/index.php/Winterfell	Winterfellt463
+
+9	A Game of Thrones	Tyrion I	/index.php/Casterly_Rock	Casterly Rockt58
+
+9	A Game of Thrones	Tyrion I	/index.php/Wall	Wallt442
+
+10	A Game of Thrones	Jon II	/index.php/King%27s_Landing	King's Landingt213
+
+10	A Game of Thrones	Jon II	/index.php/Myr	Myrt266
+
+10	A Game of Thrones	Jon II	/index.php/Pentos	Pentost300
+
+10	A Game of Thrones	Jon II	/index.php/Winterfell	Winterfellt463
+
+11	A Game of Thrones	Daenerys II	/index.php/Pentos	Pentost300
+
+11	A Game of Thrones	Daenerys II	/index.php/Asshai	Asshait10
+
+11	A Game of Thrones	Daenerys II	/index.php/Dragonstone	Dragonstonet98
+
+11	A Game of Thrones	Daenerys II	/index.php/Lys	Lyst247
+
+12	A Game of Thrones	Eddard II	/index.php/Winterfell	Winterfellt463
+
+12	A Game of Thrones	Eddard II	/index.php/King%27s_Landing	King's Landingt213
+
+12	A Game of Thrones	Eddard II	/index.php/Tyrosh	Tyrosht432
+
+12	A Game of Thrones	Eddard II	/index.php/Pentos	Pentost300
+
+12	A Game of Thrones	Eddard II	/index.php/Bear_Island	Bear Islandt24
+
+12	A Game of Thrones	Eddard II	/index.php/Casterly_Rock	Casterly Rockt58
+
+12	A Game of Thrones	Eddard II	/index.php/Kingsroad	Kingsroadt220
+
+12	A Game of Thrones	Eddard II	/index.php/Red_Keep	Red Keept320
+
+12	A Game of Thrones	Eddard II	/index.php/Storm%27s_End	Storm's Endt401
+
+12	A Game of Thrones	Eddard II	/index.php/Trident	Tridentt427
+
+13	A Game of Thrones	Tyrion II	/index.php/Winterfell	Winterfellt463
+
+13	A Game of Thrones	Tyrion II	/index.php/Wolfswood	Wolfswoodt465
+
+13	A Game of Thrones	Tyrion II	/index.php/King%27s_Landing	King's Landingt213
+
+13	A Game of Thrones	Tyrion II	/index.php/Casterly_Rock	Casterly Rockt58
+
+13	A Game of Thrones	Tyrion II	/index.php/Dragonstone	Dragonstonet98
+
+13	A Game of Thrones	Tyrion II	/index.php/Fingers	Fingerst118
+
+13	A Game of Thrones	Tyrion II	/index.php/Kingsroad	Kingsroadt220
+
+14	A Game of Thrones	Catelyn III	/index.php/Winterfell	Winterfellt463
+
+14	A Game of Thrones	Catelyn III	/index.php/King%27s_Landing	King's Landingt213
+
+14	A Game of Thrones	Catelyn III	/index.php/Riverrun	Riverrunt333
+
+14	A Game of Thrones	Catelyn III	/index.php/White_Knife	White Knifet456
+
+14	A Game of Thrones	Catelyn III	/index.php/Kingsroad	Kingsroadt220
+
+15	A Game of Thrones	Sansa I	/index.php/Trident	Tridentt427
+
+15	A Game of Thrones	Sansa I	/index.php/Ruby_Ford	Ruby Fordt338
+
+15	A Game of Thrones	Sansa I	/index.php/The_Neck	The Neckt413
+
+15	A Game of Thrones	Sansa I	/index.php/King%27s_Landing	King's Landingt213
+
+15	A Game of Thrones	Sansa I	/index.php/Kingsroad	Kingsroadt220
+
+15	A Game of Thrones	Sansa I	/index.php/Storm%27s_End	Storm's Endt401
+
+15	A Game of Thrones	Sansa I	/index.php/Winterfell	Winterfellt463
+
+16	A Game of Thrones	Eddard III	/index.php/Trident	Tridentt427
+
+16	A Game of Thrones	Eddard III	/index.php/Winterfell	Winterfellt463
+
+17	A Game of Thrones	Bran III	/index.php/Winterfell	Winterfellt463
+
+17	A Game of Thrones	Bran III	/index.php/Trident	Tridentt427
+
+17	A Game of Thrones	Bran III	/index.php/Dothraki_Sea	Dothraki Seat94
+
+17	A Game of Thrones	Bran III	/index.php/Asshai	Asshait10
+
+18	A Game of Thrones	Catelyn IV	/index.php/King%27s_Landing	King's Landingt213
+
+18	A Game of Thrones	Catelyn IV	/index.php/Riverrun	Riverrunt333
+
+18	A Game of Thrones	Catelyn IV	/index.php/Red_Keep	Red Keept320
+
+18	A Game of Thrones	Catelyn IV	/index.php/Aegon%27s_high_hill	Aegon's high hillt2
+
+18	A Game of Thrones	Catelyn IV	/index.php/Blackwater_Rush	Blackwater Rusht33
+
+18	A Game of Thrones	Catelyn IV	/index.php/Braavos	Braavost39
+
+18	A Game of Thrones	Catelyn IV	/index.php/Dragonpit	Dragonpitt97
+
+18	A Game of Thrones	Catelyn IV	/index.php/Dragonstone	Dragonstonet98
+
+18	A Game of Thrones	Catelyn IV	/index.php/Fingers	Fingerst118
+
+18	A Game of Thrones	Catelyn IV	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+18	A Game of Thrones	Catelyn IV	/index.php/Lys	Lyst247
+
+18	A Game of Thrones	Catelyn IV	/index.php/Pentos	Pentost300
+
+18	A Game of Thrones	Catelyn IV	/index.php/Rhaenys%27s_hill	Rhaenys's hillt325
+
+18	A Game of Thrones	Catelyn IV	/index.php/Three_Sisters	Three Sisterst416
+
+18	A Game of Thrones	Catelyn IV	/index.php/Tyrosh	Tyrosht432
+
+18	A Game of Thrones	Catelyn IV	/index.php/Visenya%27s_hill	Visenya's hillt437
+
+18	A Game of Thrones	Catelyn IV	/index.php/Winterfell	Winterfellt463
+
+19	A Game of Thrones	Jon III	/index.php/Castle_Black	Castle Blackt59
+
+19	A Game of Thrones	Jon III	/index.php/Pyke	Pyket306
+
+19	A Game of Thrones	Jon III	/index.php/Winterfell	Winterfellt463
+
+20	A Game of Thrones	Eddard IV	/index.php/King%27s_Landing	King's Landingt213
+
+20	A Game of Thrones	Eddard IV	/index.php/Moat_Cailin	Moat Cailint258
+
+22	A Game of Thrones	Arya II	/index.php/Winterfell	Winterfellt463
+
+22	A Game of Thrones	Arya II	/index.php/King%27s_Landing	King's Landingt213
+
+22	A Game of Thrones	Arya II	/index.php/Braavos	Braavost39
+
+23	A Game of Thrones	Daenerys III	/index.php/Dothraki_Sea	Dothraki Seat94
+
+24	A Game of Thrones	Bran IV	/index.php/Winterfell	Winterfellt463
+
+25	A Game of Thrones	Eddard V	/index.php/Lys	Lyst247
+
+25	A Game of Thrones	Eddard V	/index.php/King%27s_Landing	King's Landingt213
+
+26	A Game of Thrones	Jon IV	/index.php/Winterfell	Winterfellt463
+
+27	A Game of Thrones	Eddard VI	/index.php/Dragonstone	Dragonstonet98
+
+28	A Game of Thrones	Catelyn V	/index.php/Winterfell	Winterfellt463
+
+31	A Game of Thrones	Tyrion IV	/index.php/Eyrie	Eyriet109
+
+31	A Game of Thrones	Tyrion IV	/index.php/Winterfell	Winterfellt463
+
+31	A Game of Thrones	Tyrion IV	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+32	A Game of Thrones	Arya III	/index.php/Red_Keep	Red Keept320
+
+33	A Game of Thrones	Eddard VIII	/index.php/Braavos	Braavost39
+
+33	A Game of Thrones	Eddard VIII	/index.php/King%27s_Landing	King's Landingt213
+
+33	A Game of Thrones	Eddard VIII	/index.php/Winterfell	Winterfellt463
+
+33	A Game of Thrones	Eddard VIII	/index.php/Dragonstone	Dragonstonet98
+
+34	A Game of Thrones	Catelyn VI	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+34	A Game of Thrones	Catelyn VI	/index.php/Bloody_Gate	Bloody Gatet36
+
+35	A Game of Thrones	Eddard IX	/index.php/Red_Keep	Red Keept320
+
+37	A Game of Thrones	Bran V	/index.php/Wolfswood	Wolfswoodt465
+
+38	A Game of Thrones	Tyrion V	/index.php/Eyrie	Eyriet109
+
+39	A Game of Thrones	Eddard X	/index.php/Tower_of_Joy	Tower of Joyt426
+
+39	A Game of Thrones	Eddard X	/index.php/Red_Keep	Red Keept320
+
+39	A Game of Thrones	Eddard X	/index.php/Winterfell	Winterfellt463
+
+40	A Game of Thrones	Catelyn VII	/index.php/Casterly_Rock	Casterly Rockt58
+
+40	A Game of Thrones	Catelyn VII	/index.php/Golden_Tooth	Golden Tootht136
+
+40	A Game of Thrones	Catelyn VII	/index.php/Riverrun	Riverrunt333
+
+40	A Game of Thrones	Catelyn VII	/index.php/Winterfell	Winterfellt463
+
+40	A Game of Thrones	Catelyn VII	/index.php/Dragonstone	Dragonstonet98
+
+40	A Game of Thrones	Catelyn VII	/index.php/Eyrie	Eyriet109
+
+40	A Game of Thrones	Catelyn VII	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+42	A Game of Thrones	Tyrion VI	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+43	A Game of Thrones	Eddard XI	/index.php/Riverrun	Riverrunt333
+
+43	A Game of Thrones	Eddard XI	/index.php/Winterfell	Winterfellt463
+
+44	A Game of Thrones	Sansa III	/index.php/Winterfell	Winterfellt463
+
+44	A Game of Thrones	Sansa III	/index.php/Braavos	Braavost39
+
+45	A Game of Thrones	Eddard XII	/index.php/King%27s_Landing	King's Landingt213
+
+47	A Game of Thrones	Eddard XIII	/index.php/Red_Keep	Red Keept320
+
+47	A Game of Thrones	Eddard XIII	/index.php/Dragonstone	Dragonstonet98
+
+48	A Game of Thrones	Jon VI	/index.php/Castle_Black	Castle Blackt59
+
+48	A Game of Thrones	Jon VI	/index.php/Wall	Wallt442
+
+49	A Game of Thrones	Eddard XIV	/index.php/Winterfell	Winterfellt463
+
+50	A Game of Thrones	Arya IV	/index.php/Winterfell	Winterfellt463
+
+50	A Game of Thrones	Arya IV	/index.php/Braavos	Braavost39
+
+50	A Game of Thrones	Arya IV	/index.php/Red_Keep	Red Keept320
+
+50	A Game of Thrones	Arya IV	/index.php/King%27s_Landing	King's Landingt213
+
+51	A Game of Thrones	Sansa IV	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+51	A Game of Thrones	Sansa IV	/index.php/King%27s_Landing	King's Landingt213
+
+52	A Game of Thrones	Jon VII	/index.php/Castle_Black	Castle Blackt59
+
+52	A Game of Thrones	Jon VII	/index.php/King%27s_Landing	King's Landingt213
+
+53	A Game of Thrones	Bran VI	/index.php/Winterfell	Winterfellt463
+
+53	A Game of Thrones	Bran VI	/index.php/Wall	Wallt442
+
+53	A Game of Thrones	Bran VI	/index.php/Shadow_Tower	Shadow Towert363
+
+53	A Game of Thrones	Bran VI	/index.php/Dreadfort	Dreadfortt99
+
+53	A Game of Thrones	Bran VI	/index.php/Citadel	Citadelt66
+
+53	A Game of Thrones	Bran VI	/index.php/Oldtown	Oldtownt291
+
+55	A Game of Thrones	Catelyn VIII	/index.php/Moat_Cailin	Moat Cailint258
+
+55	A Game of Thrones	Catelyn VIII	/index.php/The_Neck	The Neckt413
+
+55	A Game of Thrones	Catelyn VIII	/index.php/Winterfell	Winterfellt463
+
+55	A Game of Thrones	Catelyn VIII	/index.php/Riverrun	Riverrunt333
+
+56	A Game of Thrones	Tyrion VII	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+56	A Game of Thrones	Tyrion VII	/index.php/Riverrun	Riverrunt333
+
+57	A Game of Thrones	Sansa V	/index.php/Harrenhal	Harrenhalt173
+
+58	A Game of Thrones	Eddard XV	/index.php/Red_Keep	Red Keept320
+
+59	A Game of Thrones	Catelyn IX	/index.php/The_Twins	The Twinst415
+
+59	A Game of Thrones	Catelyn IX	/index.php/Riverrun	Riverrunt333
+
+59	A Game of Thrones	Catelyn IX	/index.php/Dragonstone	Dragonstonet98
+
+59	A Game of Thrones	Catelyn IX	/index.php/Winterfell	Winterfellt463
+
+60	A Game of Thrones	Jon VIII	/index.php/King%27s_Landing	King's Landingt213
+
+62	A Game of Thrones	Tyrion VIII	/index.php/Riverrun	Riverrunt333
+
+63	A Game of Thrones	Catelyn X	/index.php/Riverrun	Riverrunt333
+
+63	A Game of Thrones	Catelyn X	/index.php/Trident	Tridentt427
+
+64	A Game of Thrones	Daenerys VIII	/index.php/Asshai	Asshait10
+
+65	A Game of Thrones	Arya V	/index.php/Flea_Bottom	Flea Bottomt119
+
+65	A Game of Thrones	Arya V	/index.php/King%27s_Landing	King's Landingt213
+
+65	A Game of Thrones	Arya V	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+66	A Game of Thrones	Bran VII	/index.php/Winterfell	Winterfellt463
+
+66	A Game of Thrones	Bran VII	/index.php/Isle_of_Faces	Isle of Facest205
+
+69	A Game of Thrones	Tyrion IX	/index.php/King%27s_Landing	King's Landingt213
+
+69	A Game of Thrones	Tyrion IX	/index.php/Highgarden	Highgardent185
+
+69	A Game of Thrones	Tyrion IX	/index.php/Storm%27s_End	Storm's Endt401
+
+69	A Game of Thrones	Tyrion IX	/index.php/Asshai	Asshait10
+
+69	A Game of Thrones	Tyrion IX	/index.php/Harrenhal	Harrenhalt173
+
+70	A Game of Thrones	Jon IX	/index.php/Mole%27s_Town	Mole's Townt259
+
+70	A Game of Thrones	Jon IX	/index.php/Castle_Black	Castle Blackt59
+
+70	A Game of Thrones	Jon IX	/index.php/Wall	Wallt442
+
+71	A Game of Thrones	Catelyn XI	/index.php/Riverrun	Riverrunt333
+
+71	A Game of Thrones	Catelyn XI	/index.php/The_Neck	The Neckt413
+
+71	A Game of Thrones	Catelyn XI	/index.php/Harrenhal	Harrenhalt173
+
+74	A Storm of Swords	Prologue	/index.php/Dragonstone	Dragonstonet98
+
+74	A Storm of Swords	Prologue	/index.php/Citadel	Citadelt66
+
+74	A Storm of Swords	Prologue	/index.php/Volantis	Volantist438
+
+74	A Storm of Swords	Prologue	/index.php/Storm%27s_End	Storm's Endt401
+
+74	A Storm of Swords	Prologue	/index.php/King%27s_Landing	King's Landingt213
+
+74	A Storm of Swords	Prologue	/index.php/Eyrie	Eyriet109
+
+75	A Storm of Swords	Arya I	/index.php/Wall	Wallt442
+
+75	A Storm of Swords	Arya I	/index.php/King%27s_Landing	King's Landingt213
+
+76	A Storm of Swords	Sansa I	/index.php/King%27s_Landing	King's Landingt213
+
+77	A Storm of Swords	Tyrion I	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+77	A Storm of Swords	Tyrion I	/index.php/Broken_Anvil	Broken Anvilt47
+
+79	A Storm of Swords	Arya II	/index.php/Lorath	Loratht239
+
+79	A Storm of Swords	Arya II	/index.php/Wall	Wallt442
+
+80	A Storm of Swords	Jon I	/index.php/Citadel	Citadelt66
+
+80	A Storm of Swords	Jon I	/index.php/Shadow_Tower	Shadow Towert363
+
+81	A Storm of Swords	Catelyn I	/index.php/King%27s_Landing	King's Landingt213
+
+81	A Storm of Swords	Catelyn I	/index.php/Harrenhal	Harrenhalt173
+
+81	A Storm of Swords	Catelyn I	/index.php/Winterfell	Winterfellt463
+
+81	A Storm of Swords	Catelyn I	/index.php/Seagard	Seagardt354
+
+81	A Storm of Swords	Catelyn I	/index.php/Riverrun	Riverrunt333
+
+81	A Storm of Swords	Catelyn I	/index.php/Darry	Darryt83
+
+81	A Storm of Swords	Catelyn I	/index.php/Casterly_Rock	Casterly Rockt58
+
+82	A Storm of Swords	Tyrion II	/index.php/Harrenhal	Harrenhalt173
+
+82	A Storm of Swords	Tyrion II	/index.php/Pyke	Pyket306
+
+83	A Storm of Swords	Arya III	/index.php/Kingsroad	Kingsroadt220
+
+84	A Storm of Swords	Davos I	/index.php/Dragonstone	Dragonstonet98
+
+84	A Storm of Swords	Davos I	/index.php/Lys	Lyst247
+
+85	A Storm of Swords	Theon I	/index.php/Lordsport	Lordsportt244
+
+85	A Storm of Swords	Theon I	/index.php/Pyke	Pyket306
+
+85	A Storm of Swords	Theon I	/index.php/Winterfell	Winterfellt463
+
+85	A Storm of Swords	Theon I	/index.php/Lannisport	Lannisportt223
+
+86	A Storm of Swords	Daenerys I	/index.php/Pyke	Pyket306
+
+86	A Storm of Swords	Daenerys I	/index.php/Lannisport	Lannisportt223
+
+86	A Storm of Swords	Daenerys I	/index.php/Bear_Island	Bear Islandt24
+
+86	A Storm of Swords	Daenerys I	/index.php/Oldtown	Oldtownt291
+
+86	A Storm of Swords	Daenerys I	/index.php/Braavos	Braavost39
+
+86	A Storm of Swords	Daenerys I	/index.php/Lys	Lyst247
+
+86	A Storm of Swords	Daenerys I	/index.php/Qarth	Qartht307
+
+87	A Storm of Swords	Jon II	/index.php/Castle_Black	Castle Blackt59
+
+89	A Storm of Swords	Tyrion III	/index.php/Chataya%27s_brothel	Chataya's brothelt61
+
+90	A Storm of Swords	Bran II	/index.php/White_Harbor	White Harbort455
+
+90	A Storm of Swords	Bran II	/index.php/Dreadfort	Dreadfortt99
+
+91	A Storm of Swords	Tyrion IV	/index.php/Harrenhal	Harrenhalt173
+
+92	A Storm of Swords	Sansa II	/index.php/Red_Keep	Red Keept320
+
+92	A Storm of Swords	Sansa II	/index.php/King%27s_Landing	King's Landingt213
+
+92	A Storm of Swords	Sansa II	/index.php/Casterly_Rock	Casterly Rockt58
+
+94	A Storm of Swords	Tyrion V	/index.php/Guildhall_of_the_Alchemists	Guildhall of the Alchemistst164
+
+94	A Storm of Swords	Tyrion V	/index.php/Storm%27s_End	Storm's Endt401
+
+94	A Storm of Swords	Tyrion V	/index.php/Highgarden	Highgardent185
+
+95	A Storm of Swords	Bran III	/index.php/The_Neck	The Neckt413
+
+95	A Storm of Swords	Bran III	/index.php/Greywater_Watch	Greywater Watcht160
+
+96	A Storm of Swords	Catelyn II	/index.php/Eyrie	Eyriet109
+
+96	A Storm of Swords	Catelyn II	/index.php/King%27s_Landing	King's Landingt213
+
+96	A Storm of Swords	Catelyn II	/index.php/Riverrun	Riverrunt333
+
+96	A Storm of Swords	Catelyn II	/index.php/Highgarden	Highgardent185
+
+96	A Storm of Swords	Catelyn II	/index.php/Storm%27s_End	Storm's Endt401
+
+97	A Storm of Swords	Jon III	/index.php/Castle_Black	Castle Blackt59
+
+98	A Storm of Swords	Theon II	/index.php/Pyke	Pyket306
+
+98	A Storm of Swords	Theon II	/index.php/Harlaw	Harlawt171
+
+98	A Storm of Swords	Theon II	/index.php/Stony_Shore	Stony Shoret400
+
+98	A Storm of Swords	Theon II	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+98	A Storm of Swords	Theon II	/index.php/Moat_Cailin	Moat Cailint258
+
+99	A Storm of Swords	Tyrion VI	/index.php/Storm%27s_End	Storm's Endt401
+
+99	A Storm of Swords	Tyrion VI	/index.php/Riverrun	Riverrunt333
+
+99	A Storm of Swords	Tyrion VI	/index.php/Dragonstone	Dragonstonet98
+
+100	A Storm of Swords	Arya VI	/index.php/Harrenhal	Harrenhalt173
+
+100	A Storm of Swords	Arya VI	/index.php/Wailing_Tower	Wailing Towert441
+
+101	A Storm of Swords	Daenerys II	/index.php/Qarth	Qartht307
+
+102	A Storm of Swords	Bran IV	/index.php/Greywater_Watch	Greywater Watcht160
+
+102	A Storm of Swords	Bran IV	/index.php/Winterfell	Winterfellt463
+
+103	A Storm of Swords	Tyrion VII	/index.php/King%27s_Landing	King's Landingt213
+
+103	A Storm of Swords	Tyrion VII	/index.php/Chataya%27s_brothel	Chataya's brothelt61
+
+104	A Storm of Swords	Arya VII	/index.php/Harrenhal	Harrenhalt173
+
+104	A Storm of Swords	Arya VII	/index.php/Tower_of_Dread	Tower of Dreadt423
+
+104	A Storm of Swords	Arya VII	/index.php/Widow%27s_Tower	Widow's Towert459
+
+104	A Storm of Swords	Arya VII	/index.php/Wailing_Tower	Wailing Towert441
+
+104	A Storm of Swords	Arya VII	/index.php/Tower_of_Ghosts	Tower of Ghostst424
+
+104	A Storm of Swords	Arya VII	/index.php/Kingspyre_Tower	Kingspyre Towert216
+
+104	A Storm of Swords	Arya VII	/index.php/Ruby_Ford	Ruby Fordt338
+
+104	A Storm of Swords	Arya VII	/index.php/Trident	Tridentt427
+
+104	A Storm of Swords	Arya VII	/index.php/Riverrun	Riverrunt333
+
+105	A Storm of Swords	Catelyn III	/index.php/Storm%27s_End	Storm's Endt401
+
+105	A Storm of Swords	Catelyn III	/index.php/Eyrie	Eyriet109
+
+105	A Storm of Swords	Catelyn III	/index.php/Riverrun	Riverrunt333
+
+106	A Storm of Swords	Sansa III	/index.php/Lannisport	Lannisportt223
+
+109	A Storm of Swords	Bran V	/index.php/Winterfell	Winterfellt463
+
+109	A Storm of Swords	Bran V	/index.php/Stony_Shore	Stony Shoret400
+
+111	A Storm of Swords	Theon III	/index.php/Stony_Shore	Stony Shoret400
+
+111	A Storm of Swords	Theon III	/index.php/Torrhen%27s_Square	Torrhen's Squaret422
+
+111	A Storm of Swords	Theon III	/index.php/Winterfell	Winterfellt463
+
+112	A Storm of Swords	Arya VIII	/index.php/Harrenhal	Harrenhalt173
+
+112	A Storm of Swords	Arya VIII	/index.php/Lorath	Loratht239
+
+113	A Storm of Swords	Catelyn V	/index.php/Riverrun	Riverrunt333
+
+113	A Storm of Swords	Catelyn V	/index.php/Oxcross	Oxcrosst293
+
+113	A Storm of Swords	Catelyn V	/index.php/Golden_Tooth	Golden Tootht136
+
+113	A Storm of Swords	Catelyn V	/index.php/Storm%27s_End	Storm's Endt401
+
+113	A Storm of Swords	Catelyn V	/index.php/Harrenhal	Harrenhalt173
+
+114	A Storm of Swords	Daenerys III	/index.php/Asshai	Asshait10
+
+114	A Storm of Swords	Daenerys III	/index.php/Qarth	Qartht307
+
+115	A Storm of Swords	Tyrion IX	/index.php/Sunspear	Sunspeart405
+
+116	A Storm of Swords	Davos II	/index.php/Storm%27s_End	Storm's Endt401
+
+116	A Storm of Swords	Davos II	/index.php/Bitterbridge	Bitterbridget26
+
+116	A Storm of Swords	Davos II	/index.php/King%27s_Landing	King's Landingt213
+
+116	A Storm of Swords	Davos II	/index.php/Dragonstone	Dragonstonet98
+
+117	A Storm of Swords	Jon V	/index.php/Shadow_Tower	Shadow Towert363
+
+117	A Storm of Swords	Jon V	/index.php/Giant%27s_Stair	Giant's Stairt132
+
+118	A Storm of Swords	Tyrion X	/index.php/Rosby	Rosbyt335
+
+118	A Storm of Swords	Tyrion X	/index.php/Storm%27s_End	Storm's Endt401
+
+118	A Storm of Swords	Tyrion X	/index.php/King%27s_Landing	King's Landingt213
+
+118	A Storm of Swords	Tyrion X	/index.php/Red_Keep	Red Keept320
+
+118	A Storm of Swords	Tyrion X	/index.php/Myr	Myrt266
+
+119	A Storm of Swords	Catelyn VI	/index.php/Storm%27s_End	Storm's Endt401
+
+119	A Storm of Swords	Catelyn VI	/index.php/Harrenhal	Harrenhalt173
+
+120	A Storm of Swords	Bran VI	/index.php/Winterfell	Winterfellt463
+
+121	A Storm of Swords	Arya IX	/index.php/Braavos	Braavost39
+
+121	A Storm of Swords	Arya IX	/index.php/Harrenhal	Harrenhalt173
+
+121	A Storm of Swords	Arya IX	/index.php/Dreadfort	Dreadfortt99
+
+122	A Storm of Swords	Daenerys IV	/index.php/Braavos	Braavost39
+
+122	A Storm of Swords	Daenerys IV	/index.php/Qarth	Qartht307
+
+123	A Storm of Swords	Tyrion XI	/index.php/Kingswood	Kingswoodt221
+
+123	A Storm of Swords	Tyrion XI	/index.php/Winterfell	Winterfellt463
+
+123	A Storm of Swords	Tyrion XI	/index.php/Rosby	Rosbyt335
+
+123	A Storm of Swords	Tyrion XI	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+124	A Storm of Swords	Theon IV	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+124	A Storm of Swords	Theon IV	/index.php/Winterfell	Winterfellt463
+
+124	A Storm of Swords	Theon IV	/index.php/Wolfswood	Wolfswoodt465
+
+124	A Storm of Swords	Theon IV	/index.php/Acorn_Water	Acorn Watert1
+
+125	A Storm of Swords	Jon VI	/index.php/Winterfell	Winterfellt463
+
+126	A Storm of Swords	Sansa IV	/index.php/Storm%27s_End	Storm's Endt401
+
+126	A Storm of Swords	Sansa IV	/index.php/King%27s_Landing	King's Landingt213
+
+128	A Storm of Swords	Tyrion XII	/index.php/Winterfell	Winterfellt463
+
+129	A Storm of Swords	Catelyn VII	/index.php/Riverrun	Riverrunt333
+
+129	A Storm of Swords	Catelyn VII	/index.php/Mountains_of_the_Moon	Mountains of the Moont261
+
+129	A Storm of Swords	Catelyn VII	/index.php/The_Crag	The Cragt412
+
+129	A Storm of Swords	Catelyn VII	/index.php/Casterly_Rock	Casterly Rockt58
+
+129	A Storm of Swords	Catelyn VII	/index.php/King%27s_Landing	King's Landingt213
+
+130	A Storm of Swords	Theon V	/index.php/Winterfell	Winterfellt463
+
+130	A Storm of Swords	Theon V	/index.php/Torrhen%27s_Square	Torrhen's Squaret422
+
+130	A Storm of Swords	Theon V	/index.php/Pyke	Pyket306
+
+130	A Storm of Swords	Theon V	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+130	A Storm of Swords	Theon V	/index.php/Dreadfort	Dreadfortt99
+
+132	A Storm of Swords	Davos III	/index.php/Blackwater_Bay	Blackwater Bayt32
+
+132	A Storm of Swords	Davos III	/index.php/Dragonstone	Dragonstonet98
+
+132	A Storm of Swords	Davos III	/index.php/Blackwater_Rush	Blackwater Rusht33
+
+133	A Storm of Swords	Tyrion XIII	/index.php/Blackwater_Rush	Blackwater Rusht33
+
+134	A Storm of Swords	Sansa VI	/index.php/King%27s_Landing	King's Landingt213
+
+135	A Storm of Swords	Tyrion XIV	/index.php/Blackwater_Rush	Blackwater Rusht33
+
+136	A Storm of Swords	Sansa VII	/index.php/King%27s_Landing	King's Landingt213
+
+137	A Storm of Swords	Daenerys V	/index.php/Qarth	Qartht307
+
+137	A Storm of Swords	Daenerys V	/index.php/Pentos	Pentost300
+
+138	A Storm of Swords	Arya X	/index.php/Harrenhal	Harrenhalt173
+
+138	A Storm of Swords	Arya X	/index.php/Dreadfort	Dreadfortt99
+
+138	A Storm of Swords	Arya X	/index.php/Winterfell	Winterfellt463
+
+138	A Storm of Swords	Arya X	/index.php/Darry	Darryt83
+
+138	A Storm of Swords	Arya X	/index.php/Duskendale	Duskendalet104
+
+138	A Storm of Swords	Arya X	/index.php/Tower_of_Ghosts	Tower of Ghostst424
+
+139	A Storm of Swords	Sansa VIII	/index.php/Casterly_Rock	Casterly Rockt58
+
+139	A Storm of Swords	Sansa VIII	/index.php/Highgarden	Highgardent185
+
+139	A Storm of Swords	Sansa VIII	/index.php/Harrenhal	Harrenhalt173
+
+139	A Storm of Swords	Sansa VIII	/index.php/King%27s_Landing	King's Landingt213
+
+140	A Storm of Swords	Theon VI	/index.php/Moat_Cailin	Moat Cailint258
+
+140	A Storm of Swords	Theon VI	/index.php/Winterfell	Winterfellt463
+
+140	A Storm of Swords	Theon VI	/index.php/Dreadfort	Dreadfortt99
+
+143	A Storm of Swords	Bran VII	/index.php/Winterfell	Winterfellt463
+
+143	A Storm of Swords	Bran VII	/index.php/Dreadfort	Dreadfortt99
+
+143	A Storm of Swords	Bran VII	/index.php/White_Harbor	White Harbort455
+
+146	A Clash of Kings	Jaime I	/index.php/King%27s_Landing	King's Landingt213
+
+146	A Clash of Kings	Jaime I	/index.php/Riverrun	Riverrunt333
+
+146	A Clash of Kings	Jaime I	/index.php/Trident	Tridentt427
+
+147	A Clash of Kings	Catelyn I	/index.php/Riverrun	Riverrunt333
+
+148	A Clash of Kings	Arya I	/index.php/Trident	Tridentt427
+
+148	A Clash of Kings	Arya I	/index.php/Riverrun	Riverrunt333
+
+149	A Clash of Kings	Tyrion I	/index.php/King%27s_Landing	King's Landingt213
+
+149	A Clash of Kings	Tyrion I	/index.php/Duskendale	Duskendalet104
+
+149	A Clash of Kings	Tyrion I	/index.php/Casterly_Rock	Casterly Rockt58
+
+150	A Clash of Kings	Davos I	/index.php/Blackwater_Bay	Blackwater Bayt32
+
+150	A Clash of Kings	Davos I	/index.php/Lys	Lyst247
+
+151	A Clash of Kings	Sansa I	/index.php/Highgarden	Highgardent185
+
+152	A Clash of Kings	Jon I	/index.php/Winterfell	Winterfellt463
+
+153	A Clash of Kings	Daenerys I	/index.php/Pentos	Pentost300
+
+153	A Clash of Kings	Daenerys I	/index.php/Astapor	Astaport11
+
+153	A Clash of Kings	Daenerys I	/index.php/Qohor	Qohort308
+
+154	A Clash of Kings	Bran I	/index.php/Tumbledown_Tower	Tumbledown Towert428
+
+154	A Clash of Kings	Bran I	/index.php/Wall	Wallt442
+
+156	A Clash of Kings	Jaime II	/index.php/Inn_of_the_Kneeling_Man	Inn of the Kneeling Mant198
+
+156	A Clash of Kings	Jaime II	/index.php/King%27s_Landing	King's Landingt213
+
+156	A Clash of Kings	Jaime II	/index.php/Casterly_Rock	Casterly Rockt58
+
+157	A Clash of Kings	Tyrion II	/index.php/Citadel	Citadelt66
+
+157	A Clash of Kings	Tyrion II	/index.php/King%27s_Landing	King's Landingt213
+
+158	A Clash of Kings	Arya II	/index.php/Inn_of_the_Kneeling_Man	Inn of the Kneeling Mant198
+
+158	A Clash of Kings	Arya II	/index.php/Riverrun	Riverrunt333
+
+158	A Clash of Kings	Arya II	/index.php/Trident	Tridentt427
+
+158	A Clash of Kings	Arya II	/index.php/Gulltown	Gulltownt166
+
+158	A Clash of Kings	Arya II	/index.php/Harrenhal	Harrenhalt173
+
+158	A Clash of Kings	Arya II	/index.php/Lambswold	Lambswoldt222
+
+159	A Clash of Kings	Catelyn II	/index.php/The_Crag	The Cragt412
+
+159	A Clash of Kings	Catelyn II	/index.php/The_Twins	The Twinst415
+
+159	A Clash of Kings	Catelyn II	/index.php/King%27s_Landing	King's Landingt213
+
+160	A Clash of Kings	Jon II	/index.php/Wall	Wallt442
+
+161	A Clash of Kings	Sansa II	/index.php/Winterfell	Winterfellt463
+
+162	A Clash of Kings	Arya III	/index.php/Inn_of_the_Kneeling_Man	Inn of the Kneeling Mant198
+
+162	A Clash of Kings	Arya III	/index.php/Riverrun	Riverrunt333
+
+162	A Clash of Kings	Arya III	/index.php/King%27s_Landing	King's Landingt213
+
+164	A Clash of Kings	Tyrion III	/index.php/Duskendale	Duskendalet104
+
+164	A Clash of Kings	Tyrion III	/index.php/Golden_Tooth	Golden Tootht136
+
+164	A Clash of Kings	Tyrion III	/index.php/Riverrun	Riverrunt333
+
+164	A Clash of Kings	Tyrion III	/index.php/Moat_Cailin	Moat Cailint258
+
+164	A Clash of Kings	Tyrion III	/index.php/Eyrie	Eyriet109
+
+164	A Clash of Kings	Tyrion III	/index.php/King%27s_Landing	King's Landingt213
+
+164	A Clash of Kings	Tyrion III	/index.php/Highgarden	Highgardent185
+
+164	A Clash of Kings	Tyrion III	/index.php/Brightwater_Keep	Brightwater Keept43
+
+164	A Clash of Kings	Tyrion III	/index.php/Qarth	Qartht307
+
+164	A Clash of Kings	Tyrion III	/index.php/Winterfell	Winterfellt463
+
+164	A Clash of Kings	Tyrion III	/index.php/Casterly_Rock	Casterly Rockt58
+
+165	A Clash of Kings	Catelyn III	/index.php/Riverrun	Riverrunt333
+
+166	A Clash of Kings	Jaime III	/index.php/King%27s_Landing	King's Landingt213
+
+166	A Clash of Kings	Jaime III	/index.php/Tarth	Tartht409
+
+166	A Clash of Kings	Jaime III	/index.php/Maidenpool	Maidenpoolt249
+
+166	A Clash of Kings	Jaime III	/index.php/Riverrun	Riverrunt333
+
+166	A Clash of Kings	Jaime III	/index.php/Evenfall_Hall	Evenfall Hallt108
+
+166	A Clash of Kings	Jaime III	/index.php/Harrenhal	Harrenhalt173
+
+166	A Clash of Kings	Jaime III	/index.php/Casterly_Rock	Casterly Rockt58
+
+166	A Clash of Kings	Jaime III	/index.php/Duskendale	Duskendalet104
+
+167	A Clash of Kings	Arya IV	/index.php/Harrenhal	Harrenhalt173
+
+167	A Clash of Kings	Arya IV	/index.php/Riverrun	Riverrunt333
+
+167	A Clash of Kings	Arya IV	/index.php/High_Heart	High Heartt181
+
+167	A Clash of Kings	Arya IV	/index.php/Acorn_Hall	Acorn Hallt0
+
+168	A Clash of Kings	Daenerys II	/index.php/Astapor	Astaport11
+
+169	A Clash of Kings	Bran II	/index.php/Greywater_Watch	Greywater Watcht160
+
+169	A Clash of Kings	Bran II	/index.php/Isle_of_Faces	Isle of Facest205
+
+169	A Clash of Kings	Bran II	/index.php/Harrenhal	Harrenhalt173
+
+170	A Clash of Kings	Davos III	/index.php/Dragonstone	Dragonstonet98
+
+170	A Clash of Kings	Davos III	/index.php/Storm%27s_End	Storm's Endt401
+
+170	A Clash of Kings	Davos III	/index.php/Brightwater_Keep	Brightwater Keept43
+
+170	A Clash of Kings	Davos III	/index.php/Summerhall	Summerhallt403
+
+171	A Clash of Kings	Jon III	/index.php/Castle_Black	Castle Blackt59
+
+171	A Clash of Kings	Jon III	/index.php/Stonedoor	Stonedoort397
+
+171	A Clash of Kings	Jon III	/index.php/Greyguard	Greyguardt158
+
+172	A Clash of Kings	Daenerys III	/index.php/Astapor	Astaport11
+
+174	A Clash of Kings	Arya V	/index.php/Stoney_Sept	Stoney Septt399
+
+176	A Clash of Kings	Jaime IV	/index.php/Harrenhal	Harrenhalt173
+
+177	A Clash of Kings	Tyrion IV	/index.php/King%27s_Landing	King's Landingt213
+
+180	A Clash of Kings	Catelyn IV	/index.php/Riverrun	Riverrunt333
+
+180	A Clash of Kings	Catelyn IV	/index.php/Dreadfort	Dreadfortt99
+
+180	A Clash of Kings	Catelyn IV	/index.php/Winterfell	Winterfellt463
+
+181	A Clash of Kings	Davos IV	/index.php/Claw_Isle	Claw Islet67
+
+182	A Clash of Kings	Jaime V	/index.php/Harrenhal	Harrenhalt173
+
+182	A Clash of Kings	Jaime V	/index.php/Casterly_Rock	Casterly Rockt58
+
+182	A Clash of Kings	Jaime V	/index.php/King%27s_Landing	King's Landingt213
+
+182	A Clash of Kings	Jaime V	/index.php/Dragonstone	Dragonstonet98
+
+182	A Clash of Kings	Jaime V	/index.php/Red_Keep	Red Keept320
+
+182	A Clash of Kings	Jaime V	/index.php/Karhold	Karholdt209
+
+183	A Clash of Kings	Tyrion V	/index.php/Citadel	Citadelt66
+
+183	A Clash of Kings	Tyrion V	/index.php/Casterly_Rock	Casterly Rockt58
+
+185	A Clash of Kings	Bran III	/index.php/Brandon%27s_Gift	Brandon's Giftt40
+
+185	A Clash of Kings	Bran III	/index.php/New_Gift	New Giftt271
+
+186	A Clash of Kings	Jon V	/index.php/Castle_Black	Castle Blackt59
+
+187	A Clash of Kings	Daenerys IV	/index.php/Yunkai	Yunkait471
+
+187	A Clash of Kings	Daenerys IV	/index.php/Tyrosh	Tyrosht432
+
+187	A Clash of Kings	Daenerys IV	/index.php/Summerhall	Summerhallt403
+
+188	A Clash of Kings	Arya VIII	/index.php/High_Heart	High Heartt181
+
+188	A Clash of Kings	Arya VIII	/index.php/Harrenhal	Harrenhalt173
+
+188	A Clash of Kings	Arya VIII	/index.php/Summerhall	Summerhallt403
+
+188	A Clash of Kings	Arya VIII	/index.php/Riverrun	Riverrunt333
+
+188	A Clash of Kings	Arya VIII	/index.php/The_Twins	The Twinst415
+
+188	A Clash of Kings	Arya VIII	/index.php/Starfall	Starfallt387
+
+189	A Clash of Kings	Jaime VI	/index.php/Harrenhal	Harrenhalt173
+
+189	A Clash of Kings	Jaime VI	/index.php/The_Twins	The Twinst415
+
+189	A Clash of Kings	Jaime VI	/index.php/King%27s_Landing	King's Landingt213
+
+189	A Clash of Kings	Jaime VI	/index.php/Dreadfort	Dreadfortt99
+
+189	A Clash of Kings	Jaime VI	/index.php/Evenfall_Hall	Evenfall Hallt108
+
+189	A Clash of Kings	Jaime VI	/index.php/Casterly_Rock	Casterly Rockt58
+
+190	A Clash of Kings	Catelyn V	/index.php/The_Twins	The Twinst415
+
+190	A Clash of Kings	Catelyn V	/index.php/Golden_Tooth	Golden Tootht136
+
+190	A Clash of Kings	Catelyn V	/index.php/Duskendale	Duskendalet104
+
+190	A Clash of Kings	Catelyn V	/index.php/Riverrun	Riverrunt333
+
+190	A Clash of Kings	Catelyn V	/index.php/Moat_Cailin	Moat Cailint258
+
+190	A Clash of Kings	Catelyn V	/index.php/Oldstones	Oldstonest290
+
+190	A Clash of Kings	Catelyn V	/index.php/Winterfell	Winterfellt463
+
+190	A Clash of Kings	Catelyn V	/index.php/Pyke	Pyket306
+
+190	A Clash of Kings	Catelyn V	/index.php/The_Neck	The Neckt413
+
+192	A Clash of Kings	Arya IX	/index.php/Lord_Harroway%27s_Town	Lord Harroway's Townt240
+
+192	A Clash of Kings	Arya IX	/index.php/Trident	Tridentt427
+
+192	A Clash of Kings	Arya IX	/index.php/The_Twins	The Twinst415
+
+193	A Clash of Kings	Jon VI	/index.php/Mole%27s_Town	Mole's Townt259
+
+193	A Clash of Kings	Jon VI	/index.php/Castle_Black	Castle Blackt59
+
+193	A Clash of Kings	Jon VI	/index.php/Winterfell	Winterfellt463
+
+193	A Clash of Kings	Jon VI	/index.php/Queenscrown	Queenscrownt309
+
+194	A Clash of Kings	Catelyn VI	/index.php/Winterfell	Winterfellt463
+
+194	A Clash of Kings	Catelyn VI	/index.php/Dreadfort	Dreadfortt99
+
+194	A Clash of Kings	Catelyn VI	/index.php/Trident	Tridentt427
+
+195	A Clash of Kings	Arya X	/index.php/The_Twins	The Twinst415
+
+197	A Clash of Kings	Arya XI	/index.php/The_Twins	The Twinst415
+
+198	A Clash of Kings	Tyrion VI	/index.php/The_Twins	The Twinst415
+
+198	A Clash of Kings	Tyrion VI	/index.php/Casterly_Rock	Casterly Rockt58
+
+200	A Clash of Kings	Jon VII	/index.php/Castle_Black	Castle Blackt59
+
+201	A Clash of Kings	Bran IV	/index.php/Nightfort	Nightfortt273
+
+202	A Clash of Kings	Daenerys V	/index.php/Meereen	Meereent253
+
+203	A Clash of Kings	Tyrion VII	/index.php/King%27s_Landing	King's Landingt213
+
+205	A Clash of Kings	Tyrion VIII	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+206	A Clash of Kings	Sansa V	/index.php/Asshai	Asshait10
+
+207	A Clash of Kings	Jaime VII	/index.php/King%27s_Landing	King's Landingt213
+
+207	A Clash of Kings	Jaime VII	/index.php/Casterly_Rock	Casterly Rockt58
+
+208	A Clash of Kings	Davos VI	/index.php/Dragonstone	Dragonstonet98
+
+209	A Clash of Kings	Jon VIII	/index.php/Castle_Black	Castle Blackt59
+
+209	A Clash of Kings	Jon VIII	/index.php/Mole%27s_Town	Mole's Townt259
+
+210	A Clash of Kings	Arya XII	/index.php/The_Twins	The Twinst415
+
+210	A Clash of Kings	Arya XII	/index.php/Eyrie	Eyriet109
+
+210	A Clash of Kings	Arya XII	/index.php/Riverrun	Riverrunt333
+
+212	A Clash of Kings	Jaime VIII	/index.php/Blackhaven	Blackhavent29
+
+213	A Clash of Kings	Sansa VI	/index.php/Eyrie	Eyriet109
+
+215	A Clash of Kings	Tyrion X	/index.php/Lannisport	Lannisportt223
+
+216	A Clash of Kings	Daenerys VI	/index.php/Meereen	Meereent253
+
+216	A Clash of Kings	Daenerys VI	/index.php/Astapor	Astaport11
+
+217	A Clash of Kings	Jaime IX	/index.php/Riverrun	Riverrunt333
+
+217	A Clash of Kings	Jaime IX	/index.php/Castamere	Castameret57
+
+217	A Clash of Kings	Jaime IX	/index.php/King%27s_Landing	King's Landingt213
+
+217	A Clash of Kings	Jaime IX	/index.php/Dreadfort	Dreadfortt99
+
+217	A Clash of Kings	Jaime IX	/index.php/Red_Keep	Red Keept320
+
+217	A Clash of Kings	Jaime IX	/index.php/Dragonstone	Dragonstonet98
+
+217	A Clash of Kings	Jaime IX	/index.php/Casterly_Rock	Casterly Rockt58
+
+217	A Clash of Kings	Jaime IX	/index.php/Winterfell	Winterfellt463
+
+219	A Clash of Kings	Arya XIII	/index.php/Riverrun	Riverrunt333
+
+219	A Clash of Kings	Arya XIII	/index.php/Saltpans	Saltpanst348
+
+219	A Clash of Kings	Arya XIII	/index.php/Raventree_Hall	Raventree Hallt317
+
+219	A Clash of Kings	Arya XIII	/index.php/Braavos	Braavost39
+
+220	A Clash of Kings	Samwell IV	/index.php/Castle_Black	Castle Blackt59
+
+220	A Clash of Kings	Samwell IV	/index.php/Shadow_Tower	Shadow Towert363
+
+220	A Clash of Kings	Samwell IV	/index.php/Horn_Hill	Horn Hillt192
+
+221	A Clash of Kings	Jon XI	/index.php/Winterfell	Winterfellt463
+
+221	A Clash of Kings	Jon XI	/index.php/Gift	Giftt133
+
+222	A Clash of Kings	Tyrion XI	/index.php/Red_Keep	Red Keept320
+
+222	A Clash of Kings	Tyrion XI	/index.php/King%27s_Landing	King's Landingt213
+
+223	A Clash of Kings	Samwell V	/index.php/King%27s_Landing	King's Landingt213
+
+223	A Clash of Kings	Samwell V	/index.php/Gift	Giftt133
+
+223	A Clash of Kings	Samwell V	/index.php/Dragonstone	Dragonstonet98
+
+223	A Clash of Kings	Samwell V	/index.php/Nightfort	Nightfortt273
+
+224	A Clash of Kings	Jon XII	/index.php/Winterfell	Winterfellt463
+
+225	A Clash of Kings	Sansa VII	/index.php/Eyrie	Eyriet109
+
+225	A Clash of Kings	Sansa VII	/index.php/Winterfell	Winterfellt463
+
+226	A Clash of Kings	Epilogue	/index.php/Oldstones	Oldstonest290
+
+228	A Feast for Crows	Prologue	/index.php/Oldtown	Oldtownt291
+
+228	A Feast for Crows	Prologue	/index.php/Citadel	Citadelt66
+
+228	A Feast for Crows	Prologue	/index.php/Quill_and_Tankard	Quill and Tankardt312
+
+228	A Feast for Crows	Prologue	/index.php/Qarth	Qartht307
+
+228	A Feast for Crows	Prologue	/index.php/Asshai	Asshait10
+
+228	A Feast for Crows	Prologue	/index.php/Battle_Island	Battle Islandt19
+
+228	A Feast for Crows	Prologue	/index.php/Checkered_Hazard	Checkered Hazardt62
+
+228	A Feast for Crows	Prologue	/index.php/Highgarden	Highgardent185
+
+228	A Feast for Crows	Prologue	/index.php/Honeywine	Honeywinet191
+
+228	A Feast for Crows	Prologue	/index.php/King%27s_Landing	King's Landingt213
+
+228	A Feast for Crows	Prologue	/index.php/Meereen	Meereent253
+
+228	A Feast for Crows	Prologue	/index.php/Whispering_Sound	Whispering Soundt453
+
+228	A Feast for Crows	Prologue	/index.php/Blackwater_Rush	Blackwater Rusht33
+
+228	A Feast for Crows	Prologue	/index.php/Sailor%27s_Sept	Sailor's Septt344
+
+228	A Feast for Crows	Prologue	/index.php/Seven_Shrines	Seven Shrinest360
+
+228	A Feast for Crows	Prologue	/index.php/Starry_Sept	Starry Septt390
+
+229	A Feast for Crows	The Prophet	/index.php/Pebbleton	Pebbletont297
+
+230	A Feast for Crows	The Captain Of Guards	/index.php/Water_Gardens	Water Gardenst444
+
+230	A Feast for Crows	The Captain Of Guards	/index.php/Oldtown	Oldtownt291
+
+230	A Feast for Crows	The Captain Of Guards	/index.php/Sunspear	Sunspeart405
+
+230	A Feast for Crows	The Captain Of Guards	/index.php/Highgarden	Highgardent185
+
+232	A Feast for Crows	Brienne I	/index.php/Duskendale	Duskendalet104
+
+232	A Feast for Crows	Brienne I	/index.php/King%27s_Landing	King's Landingt213
+
+232	A Feast for Crows	Brienne I	/index.php/Rosby	Rosbyt335
+
+232	A Feast for Crows	Brienne I	/index.php/Harrenhal	Harrenhalt173
+
+233	A Feast for Crows	Samwell I	/index.php/Castle_Black	Castle Blackt59
+
+233	A Feast for Crows	Samwell I	/index.php/Citadel	Citadelt66
+
+234	A Feast for Crows	Arya I	/index.php/Braavos	Braavost39
+
+235	A Feast for Crows	Cersei II	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+235	A Feast for Crows	Cersei II	/index.php/Red_Keep	Red Keept320
+
+235	A Feast for Crows	Cersei II	/index.php/Citadel	Citadelt66
+
+235	A Feast for Crows	Cersei II	/index.php/Darry	Darryt83
+
+235	A Feast for Crows	Cersei II	/index.php/King%27s_Landing	King's Landingt213
+
+235	A Feast for Crows	Cersei II	/index.php/Casterly_Rock	Casterly Rockt58
+
+236	A Feast for Crows	Jaime I	/index.php/Highgarden	Highgardent185
+
+236	A Feast for Crows	Jaime I	/index.php/Storm%27s_End	Storm's Endt401
+
+237	A Feast for Crows	Brienne II	/index.php/Duskendale	Duskendalet104
+
+237	A Feast for Crows	Brienne II	/index.php/Dun_Fort	Dun Fortt103
+
+237	A Feast for Crows	Brienne II	/index.php/Rosby	Rosbyt335
+
+237	A Feast for Crows	Brienne II	/index.php/Maidenpool	Maidenpoolt249
+
+238	A Feast for Crows	Sansa I	/index.php/Gates_of_the_Moon	Gates of the Moont127
+
+238	A Feast for Crows	Sansa I	/index.php/Winterfell	Winterfellt463
+
+238	A Feast for Crows	Sansa I	/index.php/Eyrie	Eyriet109
+
+238	A Feast for Crows	Sansa I	/index.php/King%27s_Landing	King's Landingt213
+
+238	A Feast for Crows	Sansa I	/index.php/Riverrun	Riverrunt333
+
+238	A Feast for Crows	Sansa I	/index.php/The_Twins	The Twinst415
+
+238	A Feast for Crows	Sansa I	/index.php/Wendish_Town	Wendish Townt450
+
+239	A Feast for Crows	The Kraken's Daughter	/index.php/Ten_Towers	Ten Towerst411
+
+239	A Feast for Crows	The Kraken's Daughter	/index.php/Harlaw	Harlawt171
+
+240	A Feast for Crows	Cersei III	/index.php/Saltpans	Saltpanst348
+
+240	A Feast for Crows	Cersei III	/index.php/Storm%27s_End	Storm's Endt401
+
+240	A Feast for Crows	Cersei III	/index.php/Brightwater_Keep	Brightwater Keept43
+
+240	A Feast for Crows	Cersei III	/index.php/Highgarden	Highgardent185
+
+241	A Feast for Crows	The Soiled Knight	/index.php/Sunspear	Sunspeart405
+
+241	A Feast for Crows	The Soiled Knight	/index.php/Water_Gardens	Water Gardenst444
+
+241	A Feast for Crows	The Soiled Knight	/index.php/King%27s_Landing	King's Landingt213
+
+241	A Feast for Crows	The Soiled Knight	/index.php/Boneway	Bonewayt38
+
+241	A Feast for Crows	The Soiled Knight	/index.php/Myr	Myrt266
+
+242	A Feast for Crows	Brienne III	/index.php/Maidenpool	Maidenpoolt249
+
+242	A Feast for Crows	Brienne III	/index.php/King%27s_Landing	King's Landingt213
+
+242	A Feast for Crows	Brienne III	/index.php/Horn_Hill	Horn Hillt192
+
+242	A Feast for Crows	Brienne III	/index.php/Ashford	Ashfordt8
+
+242	A Feast for Crows	Brienne III	/index.php/Stinking_Goose	Stinking Gooset391
+
+242	A Feast for Crows	Brienne III	/index.php/Tarth	Tartht409
+
+242	A Feast for Crows	Brienne III	/index.php/Highgarden	Highgardent185
+
+242	A Feast for Crows	Brienne III	/index.php/Crackclaw_Point	Crackclaw Pointt76
+
+242	A Feast for Crows	Brienne III	/index.php/Whispers	Whisperst454
+
+243	A Feast for Crows	Samwell II	/index.php/Braavos	Braavost39
+
+243	A Feast for Crows	Samwell II	/index.php/Oldtown	Oldtownt291
+
+243	A Feast for Crows	Samwell II	/index.php/Horn_Hill	Horn Hillt192
+
+243	A Feast for Crows	Samwell II	/index.php/Citadel	Citadelt66
+
+244	A Feast for Crows	Jaime II	/index.php/Saltpans	Saltpanst348
+
+244	A Feast for Crows	Jaime II	/index.php/King%27s_Landing	King's Landingt213
+
+244	A Feast for Crows	Jaime II	/index.php/Dragonstone	Dragonstonet98
+
+245	A Feast for Crows	Cersei IV	/index.php/Sunspear	Sunspeart405
+
+245	A Feast for Crows	Cersei IV	/index.php/King%27s_Landing	King's Landingt213
+
+245	A Feast for Crows	Cersei IV	/index.php/Moat_Cailin	Moat Cailint258
+
+245	A Feast for Crows	Cersei IV	/index.php/Dreadfort	Dreadfortt99
+
+245	A Feast for Crows	Cersei IV	/index.php/The_Neck	The Neckt413
+
+245	A Feast for Crows	Cersei IV	/index.php/Wall	Wallt442
+
+246	A Feast for Crows	The Iron Captain	/index.php/Moat_Cailin	Moat Cailint258
+
+246	A Feast for Crows	The Iron Captain	/index.php/Old_Wyk	Old Wykt287
+
+246	A Feast for Crows	The Iron Captain	/index.php/Sea_Dragon_Point	Sea Dragon Pointt353
+
+246	A Feast for Crows	The Iron Captain	/index.php/Stony_Shore	Stony Shoret400
+
+246	A Feast for Crows	The Iron Captain	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+246	A Feast for Crows	The Iron Captain	/index.php/Torrhen%27s_Square	Torrhen's Squaret422
+
+247	A Feast for Crows	The Drowned Man	/index.php/Nagga%27s_Hill	Nagga's Hillt269
+
+248	A Feast for Crows	Brienne IV	/index.php/Crackclaw_Point	Crackclaw Pointt76
+
+248	A Feast for Crows	Brienne IV	/index.php/Bitterbridge	Bitterbridget26
+
+248	A Feast for Crows	Brienne IV	/index.php/Dyre_Den	Dyre Dent105
+
+248	A Feast for Crows	Brienne IV	/index.php/Whispers	Whisperst454
+
+248	A Feast for Crows	Brienne IV	/index.php/Oldtown	Oldtownt291
+
+248	A Feast for Crows	Brienne IV	/index.php/Saltpans	Saltpanst348
+
+249	A Feast for Crows	The Queenmaker	/index.php/High_Hermitage	High Hermitaget182
+
+249	A Feast for Crows	The Queenmaker	/index.php/Greenblood	Greenbloodt148
+
+249	A Feast for Crows	The Queenmaker	/index.php/Hellholt	Hellholtt180
+
+250	A Feast for Crows	Arya II	/index.php/Braavos	Braavost39
+
+250	A Feast for Crows	Arya II	/index.php/King%27s_Landing	King's Landingt213
+
+251	A Feast for Crows	Alayne I	/index.php/Eyrie	Eyriet109
+
+251	A Feast for Crows	Alayne I	/index.php/Gates_of_the_Moon	Gates of the Moont127
+
+251	A Feast for Crows	Alayne I	/index.php/Winterfell	Winterfellt463
+
+251	A Feast for Crows	Alayne I	/index.php/Harrenhal	Harrenhalt173
+
+251	A Feast for Crows	Alayne I	/index.php/Runestone	Runestonet339
+
+252	A Feast for Crows	Cersei V	/index.php/Red_Keep	Red Keept320
+
+252	A Feast for Crows	Cersei V	/index.php/Lannisport	Lannisportt223
+
+253	A Feast for Crows	Brienne V	/index.php/Maidenpool	Maidenpoolt249
+
+253	A Feast for Crows	Brienne V	/index.php/Quiet_Isle	Quiet Islet311
+
+254	A Feast for Crows	Samwell III	/index.php/Braavos	Braavost39
+
+255	A Feast for Crows	Jaime III	/index.php/Riverrun	Riverrunt333
+
+255	A Feast for Crows	Jaime III	/index.php/Harrenhal	Harrenhalt173
+
+255	A Feast for Crows	Jaime III	/index.php/Hayford	Hayfordt177
+
+256	A Feast for Crows	Cersei VI	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+256	A Feast for Crows	Cersei VI	/index.php/Visenya%27s_hill	Visenya's hillt437
+
+256	A Feast for Crows	Cersei VI	/index.php/Red_Keep	Red Keept320
+
+257	A Feast for Crows	The Reaver	/index.php/Shield_Islands	Shield Islandst369
+
+257	A Feast for Crows	The Reaver	/index.php/Southshield	Southshieldt382
+
+257	A Feast for Crows	The Reaver	/index.php/Mander	Mandert251
+
+257	A Feast for Crows	The Reaver	/index.php/Oldtown	Oldtownt291
+
+257	A Feast for Crows	The Reaver	/index.php/Oakenshield	Oakenshieldt280
+
+257	A Feast for Crows	The Reaver	/index.php/Arbor	Arbort6
+
+257	A Feast for Crows	The Reaver	/index.php/Slaver%27s_Bay	Slaver's Bayt377
+
+258	A Feast for Crows	Jaime IV	/index.php/Darry	Darryt83
+
+258	A Feast for Crows	Jaime IV	/index.php/Maidenpool	Maidenpoolt249
+
+258	A Feast for Crows	Jaime IV	/index.php/Harrenhal	Harrenhalt173
+
+258	A Feast for Crows	Jaime IV	/index.php/Riverrun	Riverrunt333
+
+258	A Feast for Crows	Jaime IV	/index.php/King%27s_Landing	King's Landingt213
+
+259	A Feast for Crows	Brienne VI	/index.php/Quiet_Isle	Quiet Islet311
+
+259	A Feast for Crows	Brienne VI	/index.php/Saltpans	Saltpanst348
+
+260	A Feast for Crows	Cersei VII	/index.php/Arbor	Arbort6
+
+260	A Feast for Crows	Cersei VII	/index.php/Dragonstone	Dragonstonet98
+
+261	A Feast for Crows	Jaime V	/index.php/Riverrun	Riverrunt333
+
+261	A Feast for Crows	Jaime V	/index.php/Darry	Darryt83
+
+261	A Feast for Crows	Jaime V	/index.php/The_Twins	The Twinst415
+
+263	A Feast for Crows	Samwell IV	/index.php/Braavos	Braavost39
+
+263	A Feast for Crows	Samwell IV	/index.php/Wall	Wallt442
+
+264	A Feast for Crows	Cersei VIII	/index.php/Dragonstone	Dragonstonet98
+
+264	A Feast for Crows	Cersei VIII	/index.php/Arbor	Arbort6
+
+264	A Feast for Crows	Cersei VIII	/index.php/Oldtown	Oldtownt291
+
+265	A Feast for Crows	Brienne VII	/index.php/Saltpans	Saltpanst348
+
+266	A Feast for Crows	Jaime VI	/index.php/Riverrun	Riverrunt333
+
+266	A Feast for Crows	Jaime VI	/index.php/The_Twins	The Twinst415
+
+266	A Feast for Crows	Jaime VI	/index.php/Casterly_Rock	Casterly Rockt58
+
+268	A Feast for Crows	The Princess In The Tower	/index.php/Ghaston_Grey	Ghaston Greyt128
+
+268	A Feast for Crows	The Princess In The Tower	/index.php/Norvos	Norvost276
+
+268	A Feast for Crows	The Princess In The Tower	/index.php/Tyrosh	Tyrosht432
+
+268	A Feast for Crows	The Princess In The Tower	/index.php/Greenstone	Greenstonet153
+
+268	A Feast for Crows	The Princess In The Tower	/index.php/Sunspear	Sunspeart405
+
+269	A Feast for Crows	Alayne II	/index.php/Gates_of_the_Moon	Gates of the Moont127
+
+269	A Feast for Crows	Alayne II	/index.php/Riverrun	Riverrunt333
+
+269	A Feast for Crows	Alayne II	/index.php/Dragonstone	Dragonstonet98
+
+269	A Feast for Crows	Alayne II	/index.php/Storm%27s_End	Storm's Endt401
+
+269	A Feast for Crows	Alayne II	/index.php/Ironoaks	Ironoakst204
+
+269	A Feast for Crows	Alayne II	/index.php/Eyrie	Eyriet109
+
+269	A Feast for Crows	Alayne II	/index.php/Winterfell	Winterfellt463
+
+271	A Feast for Crows	Cersei X	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+271	A Feast for Crows	Cersei X	/index.php/King%27s_Landing	King's Landingt213
+
+271	A Feast for Crows	Cersei X	/index.php/Visenya%27s_hill	Visenya's hillt437
+
+271	A Feast for Crows	Cersei X	/index.php/Longtable	Longtablet238
+
+272	A Feast for Crows	Jaime VII	/index.php/Riverrun	Riverrunt333
+
+272	A Feast for Crows	Jaime VII	/index.php/Casterly_Rock	Casterly Rockt58
+
+272	A Feast for Crows	Jaime VII	/index.php/The_Twins	The Twinst415
+
+272	A Feast for Crows	Jaime VII	/index.php/Fairmarket	Fairmarkett112
+
+272	A Feast for Crows	Jaime VII	/index.php/Maidenpool	Maidenpoolt249
+
+273	A Feast for Crows	Samwell V	/index.php/Redwyne_Straits	Redwyne Straitst324
+
+273	A Feast for Crows	Samwell V	/index.php/Oldtown	Oldtownt291
+
+273	A Feast for Crows	Samwell V	/index.php/Arbor	Arbort6
+
+273	A Feast for Crows	Samwell V	/index.php/Mander	Mandert251
+
+273	A Feast for Crows	Samwell V	/index.php/Ryamsport	Ryamsportt342
+
+273	A Feast for Crows	Samwell V	/index.php/Vinetown	Vinetownt436
+
+273	A Feast for Crows	Samwell V	/index.php/Starfish_Harbor	Starfish Harbort388
+
+273	A Feast for Crows	Samwell V	/index.php/Dragonstone	Dragonstonet98
+
+273	A Feast for Crows	Samwell V	/index.php/Citadel	Citadelt66
+
+273	A Feast for Crows	Samwell V	/index.php/Horn_Hill	Horn Hillt192
+
+273	A Feast for Crows	Samwell V	/index.php/Wall	Wallt442
+
+273	A Feast for Crows	Samwell V	/index.php/Slaver%27s_Bay	Slaver's Bayt377
+
+275	A Dance with Dragons	Prologue	/index.php/Shadow_Tower	Shadow Towert363
+
+276	A Dance with Dragons	Tyrion I	/index.php/Pentos	Pentost300
+
+276	A Dance with Dragons	Tyrion I	/index.php/Wall	Wallt442
+
+277	A Dance with Dragons	Daenerys I	/index.php/Meereen	Meereent253
+
+277	A Dance with Dragons	Daenerys I	/index.php/Yunkai	Yunkait471
+
+278	A Dance with Dragons	Jon I	/index.php/White_Harbor	White Harbort455
+
+280	A Dance with Dragons	Tyrion II	/index.php/Pentos	Pentost300
+
+280	A Dance with Dragons	Tyrion II	/index.php/Volantis	Volantist438
+
+280	A Dance with Dragons	Tyrion II	/index.php/Astapor	Astaport11
+
+280	A Dance with Dragons	Tyrion II	/index.php/Yunkai	Yunkait471
+
+280	A Dance with Dragons	Tyrion II	/index.php/Meereen	Meereent253
+
+280	A Dance with Dragons	Tyrion II	/index.php/Myr	Myrt266
+
+280	A Dance with Dragons	Tyrion II	/index.php/Lys	Lyst247
+
+281	A Dance with Dragons	The Merchant's Man	/index.php/Volantis	Volantist438
+
+281	A Dance with Dragons	The Merchant's Man	/index.php/Meereen	Meereent253
+
+281	A Dance with Dragons	The Merchant's Man	/index.php/Slaver%27s_Bay	Slaver's Bayt377
+
+282	A Dance with Dragons	Jon II	/index.php/Citadel	Citadelt66
+
+282	A Dance with Dragons	Jon II	/index.php/Icemark	Icemarkt197
+
+282	A Dance with Dragons	Jon II	/index.php/Greyguard	Greyguardt158
+
+282	A Dance with Dragons	Jon II	/index.php/King%27s_Tower	King's Towert214
+
+284	A Dance with Dragons	Davos I	/index.php/Sweetsister	Sweetsistert407
+
+284	A Dance with Dragons	Davos I	/index.php/White_Harbor	White Harbort455
+
+284	A Dance with Dragons	Davos I	/index.php/Wall	Wallt442
+
+284	A Dance with Dragons	Davos I	/index.php/Eyrie	Eyriet109
+
+284	A Dance with Dragons	Davos I	/index.php/Gulltown	Gulltownt166
+
+284	A Dance with Dragons	Davos I	/index.php/Three_Sisters	Three Sisterst416
+
+285	A Dance with Dragons	Jon III	/index.php/Castle_Black	Castle Blackt59
+
+285	A Dance with Dragons	Jon III	/index.php/Wall	Wallt442
+
+286	A Dance with Dragons	Daenerys II	/index.php/Meereen	Meereent253
+
+286	A Dance with Dragons	Daenerys II	/index.php/Naath	Naatht267
+
+286	A Dance with Dragons	Daenerys II	/index.php/King%27s_Landing	King's Landingt213
+
+286	A Dance with Dragons	Daenerys II	/index.php/Dothraki_Sea	Dothraki Seat94
+
+287	A Dance with Dragons	Reek I	/index.php/Dreadfort	Dreadfortt99
+
+290	A Dance with Dragons	Davos II	/index.php/White_Harbor	White Harbort455
+
+290	A Dance with Dragons	Davos II	/index.php/Braavos	Braavost39
+
+290	A Dance with Dragons	Davos II	/index.php/Qarth	Qartht307
+
+291	A Dance with Dragons	Daenerys III	/index.php/Qarth	Qartht307
+
+291	A Dance with Dragons	Daenerys III	/index.php/Astapor	Astaport11
+
+291	A Dance with Dragons	Daenerys III	/index.php/Yunkai	Yunkait471
+
+292	A Dance with Dragons	Jon IV	/index.php/Dreadfort	Dreadfortt99
+
+292	A Dance with Dragons	Jon IV	/index.php/Winterfell	Winterfellt463
+
+292	A Dance with Dragons	Jon IV	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+295	A Dance with Dragons	Reek II	/index.php/Moat_Cailin	Moat Cailint258
+
+295	A Dance with Dragons	Reek II	/index.php/Dreadfort	Dreadfortt99
+
+296	A Dance with Dragons	Jon V	/index.php/Wall	Wallt442
+
+297	A Dance with Dragons	Tyrion VI	/index.php/Volantis	Volantist438
+
+297	A Dance with Dragons	Tyrion VI	/index.php/Meereen	Meereent253
+
+299	A Dance with Dragons	The Lost Lord	/index.php/Griffin%27s_Roost	Griffin's Roostt161
+
+299	A Dance with Dragons	The Lost Lord	/index.php/Stoney_Sept	Stoney Septt399
+
+299	A Dance with Dragons	The Lost Lord	/index.php/Meereen	Meereent253
+
+300	A Dance with Dragons	The Windblown	/index.php/Pentos	Pentost300
+
+300	A Dance with Dragons	The Windblown	/index.php/Slaver%27s_Bay	Slaver's Bayt377
+
+300	A Dance with Dragons	The Windblown	/index.php/Meereen	Meereent253
+
+300	A Dance with Dragons	The Windblown	/index.php/Yunkai	Yunkait471
+
+300	A Dance with Dragons	The Windblown	/index.php/Astapor	Astaport11
+
+301	A Dance with Dragons	The Wayward Bride	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+301	A Dance with Dragons	The Wayward Bride	/index.php/Barrowton	Barrowtont16
+
+301	A Dance with Dragons	The Wayward Bride	/index.php/Moat_Cailin	Moat Cailint258
+
+301	A Dance with Dragons	The Wayward Bride	/index.php/Ten_Towers	Ten Towerst411
+
+301	A Dance with Dragons	The Wayward Bride	/index.php/Sea_Dragon_Point	Sea Dragon Pointt353
+
+302	A Dance with Dragons	Tyrion VII	/index.php/Volantis	Volantist438
+
+302	A Dance with Dragons	Tyrion VII	/index.php/Meereen	Meereent253
+
+302	A Dance with Dragons	Tyrion VII	/index.php/Qarth	Qartht307
+
+303	A Dance with Dragons	Jon VI	/index.php/Wall	Wallt442
+
+304	A Dance with Dragons	Davos IV	/index.php/White_Harbor	White Harbort455
+
+304	A Dance with Dragons	Davos IV	/index.php/Winterfell	Winterfellt463
+
+304	A Dance with Dragons	Davos IV	/index.php/King%27s_Landing	King's Landingt213
+
+304	A Dance with Dragons	Davos IV	/index.php/Dreadfort	Dreadfortt99
+
+304	A Dance with Dragons	Davos IV	/index.php/The_Neck	The Neckt413
+
+304	A Dance with Dragons	Davos IV	/index.php/Oldcastle	Oldcastlet288
+
+304	A Dance with Dragons	Davos IV	/index.php/Widow%27s_Watch	Widow's Watcht461
+
+304	A Dance with Dragons	Davos IV	/index.php/White_Knife	White Knifet456
+
+304	A Dance with Dragons	Davos IV	/index.php/Ramsgate	Ramsgatet316
+
+304	A Dance with Dragons	Davos IV	/index.php/Sheepshead_Hills	Sheepshead Hillst367
+
+304	A Dance with Dragons	Davos IV	/index.php/Broken_Branch	Broken Brancht49
+
+304	A Dance with Dragons	Davos IV	/index.php/Skagos	Skagost373
+
+305	A Dance with Dragons	Daenerys V	/index.php/Meereen	Meereent253
+
+305	A Dance with Dragons	Daenerys V	/index.php/Astapor	Astaport11
+
+306	A Dance with Dragons	Melisandre I	/index.php/Long_Lake	Long Laket235
+
+307	A Dance with Dragons	Reek III	/index.php/Barrowton	Barrowtont16
+
+307	A Dance with Dragons	Reek III	/index.php/The_Twins	The Twinst415
+
+307	A Dance with Dragons	Reek III	/index.php/Winterfell	Winterfellt463
+
+308	A Dance with Dragons	Tyrion VIII	/index.php/Qarth	Qartht307
+
+309	A Dance with Dragons	Bran III	/index.php/Winterfell	Winterfellt463
+
+310	A Dance with Dragons	Jon VII	/index.php/Wall	Wallt442
+
+311	A Dance with Dragons	Daenerys VI	/index.php/Astapor	Astaport11
+
+311	A Dance with Dragons	Daenerys VI	/index.php/Meereen	Meereent253
+
+311	A Dance with Dragons	Daenerys VI	/index.php/Yunkai	Yunkait471
+
+312	A Dance with Dragons	The Prince of Winterfell	/index.php/Winterfell	Winterfellt463
+
+313	A Dance with Dragons	The Watcher	/index.php/Sunspear	Sunspeart405
+
+313	A Dance with Dragons	The Watcher	/index.php/King%27s_Landing	King's Landingt213
+
+314	A Dance with Dragons	Jon VIII	/index.php/Wall	Wallt442
+
+316	A Dance with Dragons	The Turncloak	/index.php/Winterfell	Winterfellt463
+
+317	A Dance with Dragons	The King's Prize	/index.php/Deepwood_Motte	Deepwood Mottet88
+
+317	A Dance with Dragons	The King's Prize	/index.php/Winterfell	Winterfellt463
+
+318	A Dance with Dragons	Daenerys VII	/index.php/Yunkai	Yunkait471
+
+319	A Dance with Dragons	Jon IX	/index.php/Nightfort	Nightfortt273
+
+319	A Dance with Dragons	Jon IX	/index.php/Eastwatch-by-the-Sea	Eastwatch-by-the-Seat106
+
+320	A Dance with Dragons	The Blind Girl	/index.php/Braavos	Braavost39
+
+320	A Dance with Dragons	The Blind Girl	/index.php/Lys	Lyst247
+
+320	A Dance with Dragons	The Blind Girl	/index.php/Pentos	Pentost300
+
+321	A Dance with Dragons	A Ghost in Winterfell	/index.php/Winterfell	Winterfellt463
+
+322	A Dance with Dragons	Tyrion X	/index.php/Yunkai	Yunkait471
+
+322	A Dance with Dragons	Tyrion X	/index.php/Meereen	Meereent253
+
+323	A Dance with Dragons	Jaime I	/index.php/Raventree_Hall	Raventree Hallt317
+
+323	A Dance with Dragons	Jaime I	/index.php/Riverrun	Riverrunt333
+
+323	A Dance with Dragons	Jaime I	/index.php/King%27s_Landing	King's Landingt213
+
+323	A Dance with Dragons	Jaime I	/index.php/Pennytree	Pennytreet299
+
+324	A Dance with Dragons	Jon X	/index.php/Wall	Wallt442
+
+324	A Dance with Dragons	Jon X	/index.php/Eastwatch-by-the-Sea	Eastwatch-by-the-Seat106
+
+325	A Dance with Dragons	Daenerys VIII	/index.php/Meereen	Meereent253
+
+325	A Dance with Dragons	Daenerys VIII	/index.php/Yunkai	Yunkait471
+
+325	A Dance with Dragons	Daenerys VIII	/index.php/Naath	Naatht267
+
+326	A Dance with Dragons	Theon I	/index.php/White_Harbor	White Harbort455
+
+327	A Dance with Dragons	Daenerys IX	/index.php/Meereen	Meereent253
+
+327	A Dance with Dragons	Daenerys IX	/index.php/Pentos	Pentost300
+
+328	A Dance with Dragons	Jon XI	/index.php/Castle_Black	Castle Blackt59
+
+328	A Dance with Dragons	Jon XI	/index.php/Eastwatch-by-the-Sea	Eastwatch-by-the-Seat106
+
+329	A Dance with Dragons	Cersei I	/index.php/Dragonstone	Dragonstonet98
+
+329	A Dance with Dragons	Cersei I	/index.php/Raventree_Hall	Raventree Hallt317
+
+330	A Dance with Dragons	The Queensguard	/index.php/Yunkai	Yunkait471
+
+330	A Dance with Dragons	The Queensguard	/index.php/Meereen	Meereent253
+
+330	A Dance with Dragons	The Queensguard	/index.php/Volantis	Volantist438
+
+331	A Dance with Dragons	The Iron Suitor	/index.php/Slaver%27s_Bay	Slaver's Bayt377
+
+331	A Dance with Dragons	The Iron Suitor	/index.php/Volantis	Volantist438
+
+331	A Dance with Dragons	The Iron Suitor	/index.php/Meereen	Meereent253
+
+333	A Dance with Dragons	Jon XII	/index.php/Wall	Wallt442
+
+333	A Dance with Dragons	Jon XII	/index.php/Castle_Black	Castle Blackt59
+
+334	A Dance with Dragons	The Discarded Knight	/index.php/Yunkai	Yunkait471
+
+336	A Dance with Dragons	The Griffin Reborn	/index.php/Cape_Wrath	Cape Wratht56
+
+336	A Dance with Dragons	The Griffin Reborn	/index.php/Griffin%27s_Roost	Griffin's Roostt161
+
+336	A Dance with Dragons	The Griffin Reborn	/index.php/Storm%27s_End	Storm's Endt401
+
+337	A Dance with Dragons	The Sacrifice	/index.php/Dragonstone	Dragonstonet98
+
+337	A Dance with Dragons	The Sacrifice	/index.php/Karhold	Karholdt209
+
+338	A Dance with Dragons	Victarion I	/index.php/Meereen	Meereent253
+
+340	A Dance with Dragons	Cersei II	/index.php/Great_Sept_of_Baelor	Great Sept of Baelort145
+
+340	A Dance with Dragons	Cersei II	/index.php/Red_Keep	Red Keept320
+
+340	A Dance with Dragons	Cersei II	/index.php/Lannisport	Lannisportt223
+
+344	A Dance with Dragons	Jon XIII	/index.php/Winterfell	Winterfellt463
+
+346	A Dance with Dragons	Daenerys X	/index.php/Meereen	Meereent253
+
+347	A Dance with Dragons	Epilogue	/index.php/Red_Keep	Red Keept320
+
+347	A Dance with Dragons	Epilogue	/index.php/Griffin%27s_Roost	Griffin's Roostt161
+
+347	A Dance with Dragons	Epilogue	/index.php/Storm%27s_End	Storm's Endt401
+
+347	A Dance with Dragons	Epilogue	/index.php/Meereen	Meereent253
+
+347	A Dance with Dragons	Epilogue	/index.php/Dragonstone	Dragonstonet98
+
+347	A Dance with Dragons	Epilogue	/index.php/Casterly_Rock	Casterly Rockt58
+
