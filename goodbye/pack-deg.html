@@ -19,8 +19,7 @@
 var margin = {top: 0, right: 40, bottom: 0, left: 40},
     width = 4000 - margin.left - margin.right,
     height = 4000 - margin.top - margin.bottom;
-var cScale=d3.scale.linear().domain([0,2,4]).range(["purple","#eee","green"]);
-
+var cScale=d3.scale.linear().domain([0,4]).range(["#ccc","darkorange"]);
 var fScale=d3.scale.linear().domain([0,100,1000,5000]).range([0,9,18,36]).clamp([true]);
 var pack = d3.layout.pack()
     .size([width - 4, height - 4])
@@ -65,9 +64,8 @@ console.log("data arranged");
     .enter().append("g")
       .attr("class", function(d) { return d.children ? "node node"+d.depth : "leaf node"; })
       .classed("person",function(d) {return d.type==="person"})
-  
-      .classed("big",function(d) {return d.size>100&&d.type==="person"})
-      .classed("small",function(d) {return d.size<=100&&d.type==="person"})
+      .classed("big",function(d) {return d.size>100})
+      .classed("small",function(d) {return d.size<=100})
       .attr("transform", function(d) { 
         if(d.size>100){
           var angle=Math.random()*2*Math.PI;
@@ -77,7 +75,7 @@ console.log("data arranged");
         }
       });
   
-  
+      
   
 
   //node.append("title")

@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+
+.link {
+  fill: none;
+  stroke: #000;
+}
+
+.node {
+  stroke: #fff;
+}
+
+#chart {position:fixed;}
+#side {position:absolute;top:0px;left:1000px;width:420px;}
+.sidebar i {
+float: right;
+margin-top: 2px;
+margin-right: -6px;
+opacity: .25;
+}
+.details {border:1px solid #DDD;padding:8px 12px;}
+
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover {
+color: white;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+background-color: #08C;
+}
+.nav-tabs > .active > i {color:white;}
+</style>
+<title>100 months of email</title>
+<body>
+
+  <div id="chart"><div class="row span12">
+    <h1>Good bye <span style="font-variant:small-caps">OECD</span>!<br><small>All correspondants to jerome.cukier@oecd.org visualized</small></h1></div>
+  </div>
+  <div id="side">
+    <div class="row span12" style="width:420px;margin:10px 0px 20px 0px;">
+      
+      <div class="pull-right">
+        <div class="btn-group">
+          <button class="btn btn-mini" id="bAZ">A-Z</button>
+          <button class="btn btn-mini active" id="b123"><img src="sortIcon.png"/></button>
+        </div>
+      </div>
+      <div class="pull-right">Sort names by:&nbsp;</div>
+    </div>
+    <div>
+      <ul class="nav nav-tabs nav-stacked sidebar"></ul>
+    </div>
+  </div>
+<script src="http://d3js.org/d3.v2.min.js"></script>
+<script>
+
+var cScale=d3.scale.linear()
+  .domain([0,2,4])
+  //.domain([0,4])
+  //.range(["#EDF8B1","#7FCDBB","#2C7FB8"])
+  //.range(["#D7191C","#FFFFBF","#2B83BA"])
+  //.range(["purple","green"])
+  .range(["purple","lightblue","green"])
+  ;
+var fsScale=d3.scale.linear()
+  .domain([20,200])
+  .range([10,24])
+  .clamp([true])
+;
+var margin = {top: 0, right: 40, bottom: 0, left: 40},
+    width = 1000 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
+var force = d3.layout.force()
+    .charge(function(d) {return -1.4*Math.sqrt(d.msg)})
+    .linkStrength(0)
+    .size([width, height]);
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var loading=svg.append("g");
+loading.append("text").text("Loading email data...").attr("y",15);
+loading.append("rect").attr("y",25).attr("width",200).attr("height",20).attr("rx",2).attr("ry",2).style("stroke","purple").style("fill","none");
+loading.append("rect").attr("y",27).attr("x",3).attr("width",0).attr("id","progress").attr("height",16).attr("rx",2).attr("ry",2).style("fill","purple").transition().duration(2000).attr("width",165);
+var dataN,dataL,nodes,links,hash;
+var oScale=d3.scale.linear().domain([1075594084000,1347439920188]);
+d3.json("nodes.txt", function(json) {
+  console.log("nodes data loaded.")
+  dataN=json;
+  var k=d3.keys(json);
+  //var 
+  nodes=k.map(function(d) {return json[d];});
+  nodes[23].degree=4;
+  nodes[534].degree=4;
+  nodes[26].degree=4;
+  nodes[72].degree=3;
+  nodes[599].degree=4;
+  nodes[522].degree=4;
+  nodes[576].degree=3;
+  nodes[1659].degree=4;
+  nodes[444].degree=3;
+
+  nodes=nodes.filter(function(d) {return d.msg>10;})
+  hash={};
+  nodes.forEach(function(d,i){
+    var r=1.5*(70*(4-(+d.degree))+50*Math.random()+(50-Math.sqrt(d.msg)));
+    var angle=Math.random()*Math.PI*2;
+    var ca=Math.cos(angle),sa=Math.sin(angle);
+    nodes[i].x=width/2+margin.left+r*ca;nodes[i].y=height/2+margin.top+r*sa;
+    hash[d.ID]=i;}
+  )
+  nodes[52].msg=1;
+  nodes[0].msg=1;
+  console.log("nodes data arranged.")
+
+// legend
+
+svg.append("text").attr("x",10).attr("y",height-170).text("Legend:").style("font-weight","bold");
+var legend=svg.selectAll(".legend").data([[4,"You worked in my team"],[3,"You worked in my division"],[2,"You worked in my directorate"],[1,"You worked at OECD"],[0,"You worked outside of OECD"]]).enter()
+  .append("g");
+legend.append("rect").attr("x",10).attr("y",function(d,i) {return height-155+20*i;}).attr("width",20).attr("height",20).style("fill",function(d) {return cScale(d[0]);}).style("stroke","black");
+legend.append("text").attr("x",40).attr("y",function(d,i) {return height-140+20*i;}).text(function(d) {return d[1];})
+svg.append("text").attr("x",10).attr("y",height-30).text("The size of the bubbles correspond to the number of messages featuring this correspondant. ")
+svg.append("text").attr("x",10).attr("y",height-10).text("The transparency depends on the age of the last message with the correspondant.")
+// svg helper for line chart
+ 
+
+// now the side part.  
+
+  allNodes=nodes.slice()
+  allNodes.sort(function(a,b) {return b.msg-a.msg;});
+  allNodes=allNodes.slice(0,allNodes.length-1)
+  divs=d3.select("ul").selectAll("li").data(allNodes).enter().append("li").attr("id",function(d) {return "a"+d.ID;});
+  topline=divs
+    .append("a")
+  topline
+      .append("i").classed("icon-chevron-down",1).attr("id",function(d) {return "i"+d.ID;})
+  topline
+    .append("span").html(function(d) {return d.name;})
+  topline.on("click",highlight);
+
+  d3.select("#bAZ").on("click",function() {
+    allNodes.sort(function(a,b) {return a.name.toLowerCase().replace("'","")>b.name.toLowerCase().replace("'","")?1:-1;});
+    d3.select(this).classed("active",1);
+    d3.select("#b123").classed("active",0);
+    update(selected);
+  })
+
+  d3.select("#b123").on("click",function() {
+    allNodes.sort(function(a,b) {return b.msg-a.msg;});
+    d3.select(this).classed("active",1);
+    d3.select("#bAZ").classed("active",0);
+    update(selected);
+  })
+ 
+
+  //side.selectAll(".barchart").data(top10).enter().append("g").classed("barchart",1).attr("transform",function(d,i).)
+
+  d3.csv("links.csv",function(csv) {
+    dataL=csv;
+
+    d3.select("#progress").transition().attr("width",195).each("end",function() {loading.transition().delay(250).style("opacity",0).each("end",function() {loading.remove();});});
+    csv=csv.map(function(link) {return {source:+link.source,target:+link.target,value:+link.value};})
+    links=[];
+    //nodes.forEach(function(d,i) {links.push({source:i,target:0,value:+d.deg});})
+    csv.forEach(function(link) {
+      var ls=link.source,lt=link.target,lv=link.value;
+      if (ls in hash && lt in hash && lt!=1 && lv>100)
+        {links.push({source:hash[ls],target:hash[lt]});}
+    })
+   // nodes.forEach(function(d,i) {links.push({source:i,target:0,value:.1})})
+     force
+      .nodes(nodes)
+     // .links(links)
+      .start();
+
+    nodesg=svg.append("g").attr("transform","translate(0,-15)");
+     var link = nodesg.selectAll("line.link")
+      .data(links)
+    .enter().append("line")
+      .style("stroke-width",1).style("opacity",0).style("stroke","black")
+      .attr("class", function(d) {return "link l"+d.source.ID+" l"+d.target.ID;})
+      .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+    var node = nodesg.selectAll("circle.node")
+      .data(nodes)
+    .enter().append("circle")
+      .attr("class", "node")
+      .attr("id",function(d){return "c"+d.ID;})
+      .on("click",highlight)
+
+      .attr("r", function(d) {return Math.sqrt(d.msg/4);})
+      //.style("visibility",function(d) {return d.msg>100?"visible":"hidden";})
+      .style("fill", function(d) {return cScale(+d.degree);})
+      
+      .style("opacity",function(d) {return oScale(new Date(d.end).valueOf());});
+      node.append("title").text(function(d) {return d.name+" - click for details";})
+     force.on("tick", function() {    
+
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+    node.attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  });
+
+  })
+});
+var selected=-1;
+function highlight(d){
+  var id=d.ID;
+  highlightID(id);
+}
+var x=d3.time.scale().range([30,350]).domain([new Date(2004,1,2),new Date(2012,08,10)]);
+function highlightID(id) {
+    var line = d3.svg.line()
+    .x(function(d,i) { return 40*i; })
+    .y(function(d) { return 25-25*d.value/d.max; })
+
+  
+  d3.select("#c"+selected).transition().style("stroke-width",1).style("stroke","#fff");
+  d3.select("#a"+selected).select(".details").remove();
+  d3.select("#a"+selected).classed("active",0);
+  //d3.selectAll(".l"+selected).transition().style("opacity",0);
+  if(id===selected){selected=-1;} else {
+    var myDiv=d3.select("#a"+id).classed("active",1);
+    d3.select("#c"+id).transition().style("stroke-width",5).style("stroke","#000");
+    selected=id;
+    d3.selectAll(".l"+id).transition().style("opacity",.25);
+    //details.select("i").classed("icon-chevron-down",1).classed("icon-chevron-up",0);
+    d3.select("#d"+id).style("display","block").select("i").classed("icon-chevron-down",0).classed("icon-chevron-up",1);
+
+    var details=myDiv
+      .append("div").attr("id",function(d) {return "d"+d.ID;}).classed("details",1);
+    var address=details.append("p").classed("muted",1).html(function(d) {
+      var address=d.address;if(address.slice(0,7)==="/O=OECD") {
+        var text="Internal user";
+        if (d.affiliation.length) {text+=" ("+d.affiliation+")";}
+        return text;
+      } else {return address;}
+    });
+    var startSplit,endSplit, activeTime;
+    var messages=details.append("p");messages.append("strong").html("Messages:&nbsp;");messages.append("span").html(function(d){
+      startSplit=d.start.split(" ")[0].split("-");
+      endSplit=d.end.split(" ")[0].split("-");
+      activeTime="First message:"+d.start.split(" ")[0]+", last:"+d.end.split(" ")[0]
+      return d.msg;
+    })
+    var s=details
+      .append("svg").attr("height",80).attr("width",500)
+        .append("g").attr("transform","translate(5,5)");
+    s.append("path").attr("d","M30,0v30h320").style("stroke","#ddd").style("fill","none");
+    /*s       .append("path")
+            .attr("transform","translate(30,0)")
+            .attr("d",function(d) {var max=d3.max(d.years);return line(d.years.map(function(d) {return {value:d,max:max};}));})
+            .style("fill","none").style("stroke","steelblue").append("title").text(function(d) {return d.value; });
+    s.selectAll("circle").data(function (d) {var max=d3.max(d.years);return d.years.map(function(d) {return {value:d,max:max};});}).enter()
+          .append("circle")
+          .attr("r",3).attr("cx",function(d,i){return 30+40*i}).attr("cy",function(d,i){return 25-25*d.value/d.max})
+          .style("fill","steelblue").style("stroke","none")
+            .append("title").text(function(d) {return d.value;})*/
+    
+    var xStart=x(new Date(+startSplit[0],+startSplit[1]-1,+startSplit[2]));console.log(xStart);
+
+    var xEnd=x(new Date(+endSplit[0],+endSplit[1]-1,+endSplit[2]));console.log(xEnd);
+    
+    var y=d3.scale.linear().range([30,0]);
+    var range=s.append("rect").attr("x",xStart).attr("width",xEnd-xStart).attr("height",30).attr("y",0).style("fill","darkorange").style("opacity",.1);
+    
+    s.append("path").attr("d","M"+xStart+",50v3h"+(xEnd-xStart)+"v-3").style("stroke","darkorange").style("fill","none").append("title").text(activeTime);
+    s.append("text").attr("x",(xStart+xEnd)/2).attr("y",63).style("font-size",10).style("fill","darkorange").text("time active").attr("text-anchor","middle").append("title").text(activeTime);
+    var bars=s.selectAll(".bars").data(function(d) {y.domain([0,d3.max(d.years)]);return d.years;}).enter().append("rect").style("stroke","steelblue").style("fill","steelblue").style("stroke-opacity",.75).style("fill-opacity",.5).attr("x",function(d,i){return i?15+40*i:30;}).attr("width",function(d,i) {return (i==0||i==8)?15:30;}).attr("y",30).attr("height",0);
+    bars.transition().attr("y",y).attr("height",function(d) {return 30-y(d);})
+
+
+
+
+    s.append("text").text("0").attr("x",25).attr("y",28).attr("text-anchor","end").style("font-size",10).style("fill","#999");
+    s.append("text").text(function(d) {return d3.max(d.years);}).attr("x",25).attr("y",5).attr("text-anchor","end").style("font-size",10).style("fill","#999");
+    s.selectAll("years").data([2004,2006,2008,2010,2012]).enter()
+      .append("text").text(String).attr("x",function(d,i){return 30+80*i;}).attr("y",45).style("font-size",10).style("fill","#999").attr("text-anchor","middle");
+    s.selectAll("yearsTick").data(d3.range(9)).enter().append("path").attr("d",function(d) {return "M"+(30+40*d)+",35v3";}).style("stroke","#ddd");
+  
+    var wc=details
+      .append("div").classed("wordcloud",1);
+    wc
+        .append("p").append("strong").html("Frequent words in email subjects:");
+    wc  .append("div").classed("wcWords",1).attr("id",function(d) {return "wd"+d.ID;}).selectAll("span")
+        .data(function(d) {var max=d3.max(d.mf, function(w) {return w.freq;});return d.mf.map(function(w) {return {word:w.word,freq:w.freq,max:max};}).sort(function(a,b) {return (a.word>b.word)?1:-1;});})
+        .enter()
+          .append("span").html(function(d) {return d.word+" ";})
+          .style("font-size",function(d) {return fsScale(d.freq)+"px";})
+          .style("font-weight",function(d) {})
+          .style("color",function() {return cScale(Math.random()*4);})
+            .append("title").text(function(d) {return d.freq;})
+  
+  }
+
+  
+}
+function update(d) {
+    divs=d3.select("ul").selectAll("li").data(allNodes).attr("id",function(d) {return "a"+d.ID;}).classed("active",0);
+    topline=divs.select("a")
+    topline
+      .select("i").classed("icon-chevron-down",1).attr("id",function(d) {return "i"+d.ID;})
+    topline
+      .select("span").html(function(d) {return d.name;})
+    d3.select(".details").remove();
+    if(selected!==-1){
+      var s=selected;
+      selected=-1;
+      highlightID(s);
+    }
+
+  }
+</script>

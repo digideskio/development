@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)https://class.coursera.org/gamification-2012-001/lecture/index -->
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>Video Listing</title>
+
+<link rel="stylesheet" href="https://class.coursera.org/assets/core/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://class.coursera.org/assets/core/css/main.css?v=08272012">
+<link rel="stylesheet" href="https://class.coursera.org/assets/core/css/font-awesome.css">
+<script type="text/javascript" async="" src="./Video Listing_files/204.min.js"></script><script type="text/javascript" async="" src="./Video Listing_files/ga.js"></script><script type="text/javascript" src="./Video Listing_files/jquery.js"></script>
+<script type="text/javascript" src="./Video Listing_files/json.js"></script>
+<script type="text/javascript" src="./Video Listing_files/hc_fix.js"></script>
+<script src="./Video Listing_files/bootstrap-modal.js" type="text/javascript"></script>
+<script src="./Video Listing_files/modal_focus.js" type="text/javascript"></script>
+<script src="./Video Listing_files/bind_modal_focus.js" type="text/javascript"></script>
+<script src="./Video Listing_files/top_nav_bar.js" type="text/javascript"></script>
+<script src="./Video Listing_files/get_query_parameters.js"></script>
+<script src="./Video Listing_files/list_accordian.js"></script>
+<link rel="stylesheet" href="https://class.coursera.org/assets/app/generic/css/item_list.css">
+<link rel="stylesheet" href="https://class.coursera.org/assets/core/css/jquery_ui/jquery_ui.css">
+<script src="./Video Listing_files/jquery_ui.js"></script>
+<script src="./Video Listing_files/jquery.history.js"></script>
+<link rel="stylesheet" href="https://class.coursera.org/assets/core/css/font-awesome.css">
+<script src="./Video Listing_files/bootstrap-twipsy.js"></script>
+<link rel="stylesheet" href="https://class.coursera.org/assets/app/lecture/css/lecture_dialog.css">
+<link rel="stylesheet" href="https://class.coursera.org/assets/app/lecture/css/lecture_list.css?version=20120321">
+<script src="./Video Listing_files/lecture_list_functions.js"></script>
+<script src="./Video Listing_files/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="https://class.coursera.org/assets/app/lecture/css/jquery.fancybox-1.3.4.css">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28377374-1']);
+  _gaq.push(['_setDomainName', 'coursera.org']);
+  _gaq.push(['_setAllowLinker', true]);  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  window._204 = window._204 || [];
+  window._204.push({key:"pageview", val:{}});
+
+  (function()
+  {
+    var a = document.createElement('script'); a.type = 'text/javascript'; a.async = true;
+    a.src = 'https://eventing.coursera.org/204.min.js?client=spark&user=150123';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(a, s);
+  })();
+
+</script>
+<link rel="icon" href="https://spark-public.s3.amazonaws.com/gamification/static/images/favicon.ico">
+
+</head>
+
+<body>
+    <a href="https://class.coursera.org/gamification-2012-001/lecture/index#page-content" class="hidden">Skip Navigation</a>
+    <div class="hidden">
+        This page features MathJax technology to render mathematical formulae.
+        If you are using a screen reader, please visit <a href="http://www.dessci.com/en/products/mathplayer/">MathPlayer</a> to download the plugin for your browser. Please note that this is an Internet Explorer-only plugin at this time.
+    </div>
+
+    <h1 class="hidden">Gamification</h1>
+
+	
+<div class="coursera_topbar">
+    <h2 class="hidden">Top Navigation Bar</h2>
+
+    <div class="coursera_navbar_container">
+        <ul class="coursera_toplevel_nav" id="coursera_topbar">
+            <li class="coursera_top_item" style=""><a href="https://www.coursera.org/courses/" target="_new">Courses</a></li>
+
+            
+            <li class="coursera_top_item">
+                <a href="https://class.coursera.org/gamification-2012-001/lecture/index#" rel="dropdown_aboutus" style="cursor:hand">About <i class="icon-caret-down"></i> </a>
+            </li>
+
+                        
+            <li class="coursera_top_item">
+                <a href="https://class.coursera.org/gamification-2012-001/lecture/index#" rel="dropdown_my" data-user-id="150123">Jérôme Cukier <i class="icon-caret-down"></i> </a>
+            </li>
+            
+                    </ul>
+    </div>
+
+    <ul id="dropdown_aboutus" class="coursera_submenu_nav">
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/about/jobs" target="_new">Jobs</a></li>
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/about/team" target="_new">Team</a></li>
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/about/contact" target="_new">Contact Us</a></li>
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/about/" target="_new">About Us</a></li>
+    </ul>
+
+    <ul id="dropdown_my" class="coursera_submenu_nav">
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/" target="_new">Courses</a></li>
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/account/profile" target="_new">Profile</a></li>
+        <li class="coursera_sub_item"><a href="https://www.coursera.org/account/settings" target="_new">Settings</a></li>
+        <li class="coursera_sub_item"><a href="https://class.coursera.org/gamification-2012-001/class/preferences">Course Preferences</a></li>
+        <li class="coursera_sub_item"><a href="https://class.coursera.org/gamification-2012-001/auth/logout">Logout</a></li>
+    </ul>
+
+    <div class="coursera_logo_container">
+        <a href="https://www.coursera.org/">
+        <img id="coursera_topbar_logo" src="./Video Listing_files/topbar-coursera-logo.png" alt="Coursera">
+        </a>
+    </div>
+
+</div>
+
+
+<div id="banner-top" style="background:repeat-x url(&#39;https://s3.amazonaws.com/coursera/universities/penn/top-banner-background.png&#39;)">
+    <div id="course-logo-text">
+        <a href="https://class.coursera.org/gamification-2012-001/class/index">
+            <div>
+                <div>
+                    <img src="./Video Listing_files/top-banner.png">
+                </div>
+                <div class="course-logo-image" style="position:absolute;top:47px;left:17px;height:68px;width:120px;">
+                    <div style="background-position:-5px 0px;background-size:130px;height:68px;width:120px;background-image:url(&#39;https://s3.amazonaws.com/coursera/topics/gamification/small-icon.hover.png&#39;)">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="course-logo-name" style="position:absolute;top:87px;left:155px;">
+                <nobr>Gamification</nobr>
+            </div>
+        </a>
+    </div>
+    <div id="banner-course-info">
+        <div class="course-instructor-name">Kevin Werbach</div>
+        <div class="course-time">Associate Professor, The Wharton School, Univ. of Pennsylvania</div>
+    </div>
+</div>
+    
+        <div class="container-fluid">
+        <div class="sidebar page-sidebar" id="page-sidebar">
+            <h2 class="hidden">Side Navigation Bar</h2>
+<ul style="list-style-type:none;margin-left:0px;">
+		<li>
+		<p class="navbar_item navbar_home">
+				<a href="https://class.coursera.org/gamification-2012-001/class/index">
+			Home		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_wiki">
+				<a href="https://class.coursera.org/gamification-2012-001/wiki/view?page=Syllabus">
+			Syllabus		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_lecture">
+				<a href="./Video Listing_files/Video Listing.html">
+			Video Lectures		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_quiz">
+				<a href="https://class.coursera.org/gamification-2012-001/quiz/index?quiz_type=homework#">
+			Homework Quizzes		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_assignment">
+				<a href="https://class.coursera.org/gamification-2012-001/human_grading/index">
+			Written Assignments		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_quiz">
+				<a href="https://class.coursera.org/gamification-2012-001/quiz/index?quiz_type=exam#">
+			Final Exam		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_forum">
+				<a href="https://class.coursera.org/gamification-2012-001/forum/index">
+			Discussion Forums		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_wiki">
+				<a href="https://class.coursera.org/gamification-2012-001/wiki/view?page=policies">
+			Course Policies		</a>
+				</p>
+	</li>
+		<li>
+		<p class="navbar_item navbar_wiki">
+				<a href="https://class.coursera.org/gamification-2012-001/wiki/view?page=GamificationDesignFramework">
+			Gamification Design Framework		</a>
+				</p>
+	</li>
+			<li style="padding-top:20px;">
+		<p class="navbar_item navbar_wiki">
+		<a href="http://www.meetup.com/Coursera/" target="_blank">
+			Join a Meetup
+		</a>
+		</p>
+	</li>
+			<li>
+		<p class="navbar_item navbar_wiki">
+		<a href="https://share.coursera.org/wiki/index.php/gamification:Main" target="_blank">
+			Course Wiki
+		</a>
+		</p>
+	</li>
+	</ul>
+
+        </div>
+        <div class="content page-content" id="page-content">
+            <div style="float: left;">
+    <h2 style="padding-bottom:12px">Video Lectures</h2>
+</div>
+
+
+<div class="item_list">
+<a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link expanded"><h3 class="list_header">1. What is Gamification</h3> <span class="list_header_state hidden">(expanded, click to collapse)</span></a><ul class="item_section_list" style="display: block; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="20" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=20" href="https://class.coursera.org/gamification-2012-001/lecture/20" rel="lecture-link" class="lecture-link">
+1.1 Introduction (3:27)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.1.pdf" data-placement="above" rel="twipsy" data-original-title="1.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">1.1 for 1.1 Introduction (3:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=20_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.1 Introduction (3:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=20_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.1 Introduction (3:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=20" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.1 Introduction (3:27)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="21" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=21" href="https://class.coursera.org/gamification-2012-001/lecture/21" rel="lecture-link" class="lecture-link">
+1.2 Course Overview (9:53)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.2.pdf" data-placement="above" rel="twipsy" data-original-title="Slides 1.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">Slides 1.2 for 1.2 Course Overview (9:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=21_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.2 Course Overview (9:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=21_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.2 Course Overview (9:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=21" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.2 Course Overview (9:53)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="22" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=22" href="https://class.coursera.org/gamification-2012-001/lecture/22" rel="lecture-link" class="lecture-link">
+1.3 Definition of Gamification (12:32)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.3.pdf" data-placement="above" rel="twipsy" data-original-title="">
+           <i class="icon-picture resource"></i>
+           <div class="hidden"> for 1.3 Definition of Gamification (12:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=22_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.3 Definition of Gamification (12:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=22_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.3 Definition of Gamification (12:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=22" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.3 Definition of Gamification (12:32)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="23" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=23" href="https://class.coursera.org/gamification-2012-001/lecture/23" rel="lecture-link" class="lecture-link">
+1.4 Why Study Gamification (7:31)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.4.pdf" data-placement="above" rel="twipsy" data-original-title="1.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">1.4 for 1.4 Why Study Gamification (7:31)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=23_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.4 Why Study Gamification (7:31)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=23_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.4 Why Study Gamification (7:31)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=23" data-placement="above" rel="twipsy" data-original-title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.4 Why Study Gamification (7:31)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="24" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=24" href="https://class.coursera.org/gamification-2012-001/lecture/24" rel="lecture-link" class="lecture-link">
+1.5 History of Gamification (10:19)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.5.pdf" data-placement="above" rel="twipsy" data-original-title="1.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">1.5 for 1.5 History of Gamification (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=24_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.5 History of Gamification (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=24_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.5 History of Gamification (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=24" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.5 History of Gamification (10:19)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="39" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=39" href="https://class.coursera.org/gamification-2012-001/lecture/39" rel="lecture-link" class="lecture-link">
+1.6 Examples and Categories (14:37)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F1.6.pdf" data-placement="above" rel="twipsy" data-original-title="1.6">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">1.6 for 1.6 Examples and Categories (14:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=39_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 1.6 Examples and Categories (14:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=39_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 1.6 Examples and Categories (14:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=39" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 1.6 Examples and Categories (14:37)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link expanded"><h3 class="list_header">2. Games</h3> <span class="list_header_state hidden">(expanded, click to collapse)</span></a><ul class="item_section_list" style="display: block; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="27" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=27" href="https://class.coursera.org/gamification-2012-001/lecture/27" rel="lecture-link" class="lecture-link">
+2.1 gamification in context (11:16)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F2.1.pdf" data-placement="above" rel="twipsy" data-original-title="2.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">2.1 for 2.1 gamification in context (11:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=27_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 2.1 gamification in context (11:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=27_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 2.1 gamification in context (11:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=27" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 2.1 gamification in context (11:16)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="25" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=25" href="https://class.coursera.org/gamification-2012-001/lecture/25" rel="lecture-link" class="lecture-link">
+2.2 what is a game (10:12)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F2.2.pdf" data-placement="above" rel="twipsy" data-original-title="2.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">2.2 for 2.2 what is a game (10:12)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=25_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 2.2 what is a game (10:12)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=25_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 2.2 what is a game (10:12)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=25" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 2.2 what is a game (10:12)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="28" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=28" href="https://class.coursera.org/gamification-2012-001/lecture/28" rel="lecture-link" class="lecture-link">
+2.3 games and play (9:44)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F2.3.pdf" data-placement="above" rel="twipsy" data-original-title="2.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">2.3 for 2.3 games and play (9:44)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=28_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 2.3 games and play (9:44)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=28_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 2.3 games and play (9:44)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=28" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 2.3 games and play (9:44)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="29" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=29" href="https://class.coursera.org/gamification-2012-001/lecture/29" rel="lecture-link" class="lecture-link">
+2.4 video games (11:18)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F2.4.pdf" data-placement="above" rel="twipsy" data-original-title="2.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">2.4 for 2.4 video games (11:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=29_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 2.4 video games (11:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=29_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 2.4 video games (11:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=29" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 2.4 video games (11:18)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="35" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=35" href="https://class.coursera.org/gamification-2012-001/lecture/35" rel="lecture-link" class="lecture-link">
+2.5 Just a Game? (10:18)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F2.5.pdf" data-placement="above" rel="twipsy" data-original-title="2.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">2.5 for 2.5 Just a Game? (10:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=35_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 2.5 Just a Game? (10:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=35_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 2.5 Just a Game? (10:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=35" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 2.5 Just a Game? (10:18)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link expanded"><h3 class="list_header">3. Game Thinking</h3> <span class="list_header_state hidden">(expanded, click to collapse)</span></a><ul class="item_section_list" style="display: block; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="33" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=33" href="https://class.coursera.org/gamification-2012-001/lecture/33" rel="lecture-link" class="lecture-link">
+3.1 Why Gamify (9:34)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.1.pdf" data-placement="above" rel="twipsy" data-original-title="3.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.1 for 3.1 Why Gamify (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=33_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.1 Why Gamify (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=33_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.1 Why Gamify (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=33" data-placement="above" rel="twipsy" data-original-title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.1 Why Gamify (9:34)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="32" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=32" href="https://class.coursera.org/gamification-2012-001/lecture/32" rel="lecture-link" class="lecture-link">
+3.2 think like a game designer (8:18)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.2.pdf" data-placement="above" rel="twipsy" data-original-title="3.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.2 for 3.2 think like a game designer (8:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=32_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.2 think like a game designer (8:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=32_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.2 think like a game designer (8:18)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=32" data-placement="above" rel="twipsy" data-original-title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.2 think like a game designer (8:18)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="34" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=34" href="https://class.coursera.org/gamification-2012-001/lecture/34" rel="lecture-link" class="lecture-link">
+3.3 Design Rules (11:04)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.3.pdf" data-placement="above" rel="twipsy" data-original-title="3.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.3 for 3.3 Design Rules (11:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=34_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.3 Design Rules (11:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=34_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.3 Design Rules (11:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=34" data-placement="above" rel="twipsy" data-original-title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.3 Design Rules (11:04)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="36" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=36" href="https://class.coursera.org/gamification-2012-001/lecture/36" rel="lecture-link" class="lecture-link">
+3.4 Tapping the Emotions (7:17)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.4.pdf" data-placement="above" rel="twipsy" data-original-title="3.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.4 for 3.4 Tapping the Emotions (7:17)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=36_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.4 Tapping the Emotions (7:17)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=36_en&format=srt" data-placement="above" rel="twipsy" data-original-title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.4 Tapping the Emotions (7:17)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=36" data-placement="above" rel="twipsy" data-original-title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.4 Tapping the Emotions (7:17)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="37" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=37" href="https://class.coursera.org/gamification-2012-001/lecture/37" rel="lecture-link" class="lecture-link">
+3.5 Anatomy of Fun (7:10)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.5.pdf" data-placement="above" rel="twipsy" title="3.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.5 for 3.5 Anatomy of Fun (7:10)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=37_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.5 Anatomy of Fun (7:10)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=37_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.5 Anatomy of Fun (7:10)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=37" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.5 Anatomy of Fun (7:10)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="38" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=38" href="https://class.coursera.org/gamification-2012-001/lecture/38" rel="lecture-link" class="lecture-link">
+3.6 Finding the Fun (7:42)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F3.6.pdf" data-placement="above" rel="twipsy" title="3.6">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">3.6 for 3.6 Finding the Fun (7:42)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=38_en&format=txt" data-placement="above" rel="twipsy" data-original-title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 3.6 Finding the Fun (7:42)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=38_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 3.6 Finding the Fun (7:42)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=38" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 3.6 Finding the Fun (7:42)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">4. Game Elements</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="40" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=40" href="https://class.coursera.org/gamification-2012-001/lecture/40" rel="lecture-link" class="lecture-link">
+4.1 Breaking Games Down (7:51)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F4.1.pdf" data-placement="above" rel="twipsy" title="4.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">4.1 for 4.1 Breaking Games Down (7:51)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=40_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 4.1 Breaking Games Down (7:51)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=40_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 4.1 Breaking Games Down (7:51)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=40" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 4.1 Breaking Games Down (7:51)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="41" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=41" href="https://class.coursera.org/gamification-2012-001/lecture/41" rel="lecture-link" class="lecture-link">
+4.2 The Pyramid of Elements (12:57)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F4.2.pdf" data-placement="above" rel="twipsy" title="4.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">4.2 for 4.2 The Pyramid of Elements (12:57)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=41_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 4.2 The Pyramid of Elements (12:57)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=41_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 4.2 The Pyramid of Elements (12:57)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=41" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 4.2 The Pyramid of Elements (12:57)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="42" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=42" href="https://class.coursera.org/gamification-2012-001/lecture/42" rel="lecture-link" class="lecture-link">
+4.3 The PBL Triad (13:47)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F4.3.pdf" data-placement="above" rel="twipsy" title="4.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">4.3 for 4.3 The PBL Triad (13:47)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=42_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 4.3 The PBL Triad (13:47)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=42_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 4.3 The PBL Triad (13:47)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=42" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 4.3 The PBL Triad (13:47)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="43" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=43" href="https://class.coursera.org/gamification-2012-001/lecture/43" rel="lecture-link" class="lecture-link">
+4.4 Limitations of Elements (10:29)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F4.4.pdf" data-placement="above" rel="twipsy" title="4.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">4.4 for 4.4 Limitations of Elements (10:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=43_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 4.4 Limitations of Elements (10:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=43_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 4.4 Limitations of Elements (10:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=43" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 4.4 Limitations of Elements (10:29)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="67" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=67" href="https://class.coursera.org/gamification-2012-001/lecture/67" rel="lecture-link" class="lecture-link">
+4.5 Bing Gordon Interview (15:44)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=67_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 4.5 Bing Gordon Interview (15:44)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=67_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 4.5 Bing Gordon Interview (15:44)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=67" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 4.5 Bing Gordon Interview (15:44)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">5. Motivation &amp; Psychology (I)</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="44" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=44" href="https://class.coursera.org/gamification-2012-001/lecture/44" rel="lecture-link" class="lecture-link">
+5.1 Motivational Design (10:27)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F5.1.pdf" data-placement="above" rel="twipsy" title="5.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">5.1 for 5.1 Motivational Design (10:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=44_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 5.1 Motivational Design (10:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=44_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 5.1 Motivational Design (10:27)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=44" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 5.1 Motivational Design (10:27)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="45" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=45" href="https://class.coursera.org/gamification-2012-001/lecture/45" rel="lecture-link" class="lecture-link">
+5.2 Behaviorism (11:37)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F5.2.pdf" data-placement="above" rel="twipsy" title="5.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">5.2 for 5.2 Behaviorism (11:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=45_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 5.2 Behaviorism (11:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=45_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 5.2 Behaviorism (11:37)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=45" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 5.2 Behaviorism (11:37)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="46" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=46" href="https://class.coursera.org/gamification-2012-001/lecture/46" rel="lecture-link" class="lecture-link">
+5.3 Behaviorism in Gamification (11:50)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F5.3.pdf" data-placement="above" rel="twipsy" title="5.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">5.3 for 5.3 Behaviorism in Gamification (11:50)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=46_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 5.3 Behaviorism in Gamification (11:50)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=46_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 5.3 Behaviorism in Gamification (11:50)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=46" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 5.3 Behaviorism in Gamification (11:50)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="51" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=51" href="https://class.coursera.org/gamification-2012-001/lecture/51" rel="lecture-link" class="lecture-link">
+5.4 Reward Structures (10:30)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F5.4.pdf" data-placement="above" rel="twipsy" title="5.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">5.4 for 5.4 Reward Structures (10:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=51_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 5.4 Reward Structures (10:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=51_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 5.4 Reward Structures (10:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=51" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 5.4 Reward Structures (10:30)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="52" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=52" href="https://class.coursera.org/gamification-2012-001/lecture/52" rel="lecture-link" class="lecture-link">
+5.5 Reward Schedules (10:19)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F5.5.pdf" data-placement="above" rel="twipsy" title="5.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">5.5 for 5.5 Reward Schedules (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=52_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 5.5 Reward Schedules (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=52_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 5.5 Reward Schedules (10:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=52" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 5.5 Reward Schedules (10:19)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">6. Motivation &amp; Psychology (II)</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="47" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=47" href="https://class.coursera.org/gamification-2012-001/lecture/47" rel="lecture-link" class="lecture-link">
+6.1 Limits of Behaviorism (6:05)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.1.pdf" data-placement="above" rel="twipsy" title="6.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.1 for 6.1 Limits of Behaviorism (6:05)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=47_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.1 Limits of Behaviorism (6:05)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=47_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.1 Limits of Behaviorism (6:05)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=47" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.1 Limits of Behaviorism (6:05)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="48" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=48" href="https://class.coursera.org/gamification-2012-001/lecture/48" rel="lecture-link" class="lecture-link">
+6.2 Dangers of Behaviorism (10:34)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.2.pdf" data-placement="above" rel="twipsy" title="6.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.2 for 6.2 Dangers of Behaviorism (10:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=48_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.2 Dangers of Behaviorism (10:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=48_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.2 Dangers of Behaviorism (10:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=48" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.2 Dangers of Behaviorism (10:34)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="49" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=49" href="https://class.coursera.org/gamification-2012-001/lecture/49" rel="lecture-link" class="lecture-link">
+6.3 Intrinsic and Extrinsic Motivation (8:32)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.3.pdf" data-placement="above" rel="twipsy" title="6.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.3 for 6.3 Intrinsic and Extrinsic Motivation (8:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=49_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.3 Intrinsic and Extrinsic Motivation (8:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=49_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.3 Intrinsic and Extrinsic Motivation (8:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=49" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.3 Intrinsic and Extrinsic Motivation (8:32)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="50" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=50" href="https://class.coursera.org/gamification-2012-001/lecture/50" rel="lecture-link" class="lecture-link">
+6.4 How Rewards Can Demotivate (9:49)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.4.pdf" data-placement="above" rel="twipsy" title="6.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.4 for 6.4 How Rewards Can Demotivate (9:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=50_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.4 How Rewards Can Demotivate (9:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=50_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.4 How Rewards Can Demotivate (9:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=50" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.4 How Rewards Can Demotivate (9:49)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="53" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=53" href="https://class.coursera.org/gamification-2012-001/lecture/53" rel="lecture-link" class="lecture-link">
+6.5 Self Determination Theory (13:15)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.5.pdf" data-placement="above" rel="twipsy" title="6.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.5 for 6.5 Self Determination Theory (13:15)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=53_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.5 Self Determination Theory (13:15)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=53_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.5 Self Determination Theory (13:15)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=53" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.5 Self Determination Theory (13:15)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="72" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=72" href="https://class.coursera.org/gamification-2012-001/lecture/72" rel="lecture-link" class="lecture-link">
+6.6 Part 1 Wrap-Up (1:48)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F6.6.pdf" data-placement="above" rel="twipsy" title="6.6">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">6.6 for 6.6 Part 1 Wrap-Up (1:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=72_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 6.6 Part 1 Wrap-Up (1:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=72_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 6.6 Part 1 Wrap-Up (1:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=72" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 6.6 Part 1 Wrap-Up (1:48)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">7. Gamification Design Framework</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="54" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=54" href="https://class.coursera.org/gamification-2012-001/lecture/54" rel="lecture-link" class="lecture-link">
+7.1 The Design Process (11:36)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F7.1.pdf" data-placement="above" rel="twipsy" title="7.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">7.1 for 7.1 The Design Process (11:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=54_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 7.1 The Design Process (11:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=54_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 7.1 The Design Process (11:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=54" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 7.1 The Design Process (11:36)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="55" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=55" href="https://class.coursera.org/gamification-2012-001/lecture/55" rel="lecture-link" class="lecture-link">
+7.2 Objectives and Behaviors (14:29)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F7.2.pdf" data-placement="above" rel="twipsy" title="7.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">7.2 for 7.2 Objectives and Behaviors (14:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=55_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 7.2 Objectives and Behaviors (14:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=55_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 7.2 Objectives and Behaviors (14:29)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=55" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 7.2 Objectives and Behaviors (14:29)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="56" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=56" href="https://class.coursera.org/gamification-2012-001/lecture/56" rel="lecture-link" class="lecture-link">
+7.3 Players (10:16)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F7.3.pdf" data-placement="above" rel="twipsy" title="7.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">7.3 for 7.3 Players (10:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=56_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 7.3 Players (10:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=56_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 7.3 Players (10:16)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=56" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 7.3 Players (10:16)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="57" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=57" href="https://class.coursera.org/gamification-2012-001/lecture/57" rel="lecture-link" class="lecture-link">
+7.4 Activity Loops (7:56)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F7.4.pdf" data-placement="above" rel="twipsy" title="7.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">7.4 for 7.4 Activity Loops (7:56)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=57_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 7.4 Activity Loops (7:56)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=57_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 7.4 Activity Loops (7:56)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=57" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 7.4 Activity Loops (7:56)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="58" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=58" href="https://class.coursera.org/gamification-2012-001/lecture/58" rel="lecture-link" class="lecture-link">
+7.5 Fun and Tools (9:34)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F7.5.pdf" data-placement="above" rel="twipsy" title="7.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">7.5 for 7.5 Fun and Tools (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=58_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 7.5 Fun and Tools (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=58_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 7.5 Fun and Tools (9:34)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=58" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 7.5 Fun and Tools (9:34)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">8. Design Choices</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="59" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=59" href="https://class.coursera.org/gamification-2012-001/lecture/59" rel="lecture-link" class="lecture-link">
+8.1 Taking Stock (9:14)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F8.1.pdf" data-placement="above" rel="twipsy" title="8.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">8.1 for 8.1 Taking Stock (9:14)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=59_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 8.1 Taking Stock (9:14)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=59_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 8.1 Taking Stock (9:14)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=59" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 8.1 Taking Stock (9:14)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="60" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=60" href="https://class.coursera.org/gamification-2012-001/lecture/60" rel="lecture-link" class="lecture-link">
+8.2 Is Gamification Right for Me (13:30)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F8.2.pdf" data-placement="above" rel="twipsy" title="8.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">8.2 for 8.2 Is Gamification Right for Me (13:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=60_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 8.2 Is Gamification Right for Me (13:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=60_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 8.2 Is Gamification Right for Me (13:30)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=60" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 8.2 Is Gamification Right for Me (13:30)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="61" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=61" href="https://class.coursera.org/gamification-2012-001/lecture/61" rel="lecture-link" class="lecture-link">
+8.3 Design for Collective Good (15:00)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F8.3.pdf" data-placement="above" rel="twipsy" title="8.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">8.3 for 8.3 Design for Collective Good (15:00)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=61_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 8.3 Design for Collective Good (15:00)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=61_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 8.3 Design for Collective Good (15:00)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=61" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 8.3 Design for Collective Good (15:00)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="62" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=62" href="https://class.coursera.org/gamification-2012-001/lecture/62" rel="lecture-link" class="lecture-link">
+8.4 Designing for Happiness (7:49)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F8.4.pdf" data-placement="above" rel="twipsy" title="8.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">8.4 for 8.4 Designing for Happiness (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=62_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 8.4 Designing for Happiness (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=62_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 8.4 Designing for Happiness (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=62" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 8.4 Designing for Happiness (7:49)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="82" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=82" href="https://class.coursera.org/gamification-2012-001/lecture/82" rel="lecture-link" class="lecture-link">
+8.5 Amy Jo Kim Interview (13:28)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=82_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 8.5 Amy Jo Kim Interview (13:28)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=82_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 8.5 Amy Jo Kim Interview (13:28)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=82" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 8.5 Amy Jo Kim Interview (13:28)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">9. Enterprise Gamification</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="63" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=63" href="https://class.coursera.org/gamification-2012-001/lecture/63" rel="lecture-link" class="lecture-link">
+9.1 Enterprise Applications (14:40)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F9.1.pdf" data-placement="above" rel="twipsy" title="9.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">9.1 for 9.1 Enterprise Applications (14:40)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=63_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 9.1 Enterprise Applications (14:40)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=63_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 9.1 Enterprise Applications (14:40)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=63" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 9.1 Enterprise Applications (14:40)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="64" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=64" href="https://class.coursera.org/gamification-2012-001/lecture/64" rel="lecture-link" class="lecture-link">
+9.2 Workplace Motivation (8:48)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F9.2.pdf" data-placement="above" rel="twipsy" title="9.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">9.2 for 9.2 Workplace Motivation (8:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=64_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 9.2 Workplace Motivation (8:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=64_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 9.2 Workplace Motivation (8:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=64" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 9.2 Workplace Motivation (8:48)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="65" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=65" href="https://class.coursera.org/gamification-2012-001/lecture/65" rel="lecture-link" class="lecture-link">
+9.3 The Game vs. The Job (9:36)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F9.3.pdf" data-placement="above" rel="twipsy" title="9.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">9.3 for 9.3 The Game vs. The Job (9:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=65_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 9.3 The Game vs. The Job (9:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=65_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 9.3 The Game vs. The Job (9:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=65" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 9.3 The Game vs. The Job (9:36)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="66" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=66" href="https://class.coursera.org/gamification-2012-001/lecture/66" rel="lecture-link" class="lecture-link">
+9.4 Playbor (7:49)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F9.4.pdf" data-placement="above" rel="twipsy" title="9.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">9.4 for 9.4 Playbor (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=66_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 9.4 Playbor (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=66_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 9.4 Playbor (7:49)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=66" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 9.4 Playbor (7:49)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="73" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=73" href="https://class.coursera.org/gamification-2012-001/lecture/73" rel="lecture-link" class="lecture-link">
+9.5 Daniel Debow Interview (15:32)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=73_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 9.5 Daniel Debow Interview (15:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=73_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 9.5 Daniel Debow Interview (15:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=73" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 9.5 Daniel Debow Interview (15:32)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">10. Social Impact &amp; Behavior Change</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="68" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=68" href="https://class.coursera.org/gamification-2012-001/lecture/68" rel="lecture-link" class="lecture-link">
+10.1 Gamification for Good (7:08)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F10.1.pdf" data-placement="above" rel="twipsy" title="10.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">10.1 for 10.1 Gamification for Good (7:08)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=68_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 10.1 Gamification for Good (7:08)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=68_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 10.1 Gamification for Good (7:08)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=68" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 10.1 Gamification for Good (7:08)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="69" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=69" href="https://class.coursera.org/gamification-2012-001/lecture/69" rel="lecture-link" class="lecture-link">
+10.2 Social Good Applications (13:36)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F10.2.pdf" data-placement="above" rel="twipsy" title="10.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">10.2 for 10.2 Social Good Applications (13:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=69_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 10.2 Social Good Applications (13:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=69_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 10.2 Social Good Applications (13:36)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=69" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 10.2 Social Good Applications (13:36)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="71" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=71" href="https://class.coursera.org/gamification-2012-001/lecture/71" rel="lecture-link" class="lecture-link">
+10.3 Social Impact Techniques (10:32)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F10.3.pdf" data-placement="above" rel="twipsy" title="10.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">10.3 for 10.3 Social Impact Techniques (10:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=71_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 10.3 Social Impact Techniques (10:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=71_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 10.3 Social Impact Techniques (10:32)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=71" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 10.3 Social Impact Techniques (10:32)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="70" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=70" href="https://class.coursera.org/gamification-2012-001/lecture/70" rel="lecture-link" class="lecture-link">
+10.4 Behavior Change (9:48)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F10.4.pdf" data-placement="above" rel="twipsy" title="10.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">10.4 for 10.4 Behavior Change (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=70_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 10.4 Behavior Change (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=70_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 10.4 Behavior Change (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=70" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 10.4 Behavior Change (9:48)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="77" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=77" href="https://class.coursera.org/gamification-2012-001/lecture/77" rel="lecture-link" class="lecture-link">
+10.5 Susan Hunt Stevens Interview (15:12)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=77_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 10.5 Susan Hunt Stevens Interview (15:12)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=77_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 10.5 Susan Hunt Stevens Interview (15:12)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=77" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 10.5 Susan Hunt Stevens Interview (15:12)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">11. Criticisms and Risks</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="74" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=74" href="https://class.coursera.org/gamification-2012-001/lecture/74" rel="lecture-link" class="lecture-link">
+11.1 Pointsification (13:38)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F11.1.pdf" data-placement="above" rel="twipsy" title="11.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">11.1 for 11.1 Pointsification (13:38)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=74_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 11.1 Pointsification (13:38)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=74_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 11.1 Pointsification (13:38)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=74" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 11.1 Pointsification (13:38)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="78" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=78" href="https://class.coursera.org/gamification-2012-001/lecture/78" rel="lecture-link" class="lecture-link">
+11.2 Exploitationware (8:19)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F11.2.pdf" data-placement="above" rel="twipsy" title="11.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">11.2 for 11.2 Exploitationware (8:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=78_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 11.2 Exploitationware (8:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=78_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 11.2 Exploitationware (8:19)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=78" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 11.2 Exploitationware (8:19)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="76" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=76" href="https://class.coursera.org/gamification-2012-001/lecture/76" rel="lecture-link" class="lecture-link">
+11.3 Gaming the Game (8:07)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F11.3.pdf" data-placement="above" rel="twipsy" title="11.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">11.3 for 11.3 Gaming the Game (8:07)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=76_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 11.3 Gaming the Game (8:07)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=76_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 11.3 Gaming the Game (8:07)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=76" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 11.3 Gaming the Game (8:07)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="79" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=79" href="https://class.coursera.org/gamification-2012-001/lecture/79" rel="lecture-link" class="lecture-link">
+11.4 Legal issues (8:53)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F11.4.pdf" data-placement="above" rel="twipsy" title="11.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">11.4 for 11.4 Legal issues (8:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=79_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 11.4 Legal issues (8:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=79_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 11.4 Legal issues (8:53)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=79" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 11.4 Legal issues (8:53)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="80" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=80" href="https://class.coursera.org/gamification-2012-001/lecture/80" rel="lecture-link" class="lecture-link">
+11.5 Regulatory Issues (8:04)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F11.5.pdf" data-placement="above" rel="twipsy" title="11.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">11.5 for 11.5 Regulatory Issues (8:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=80_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 11.5 Regulatory Issues (8:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=80_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 11.5 Regulatory Issues (8:04)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=80" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 11.5 Regulatory Issues (8:04)</div>
+        </a>
+</div>
+</li></ul><a href="https://class.coursera.org/gamification-2012-001/lecture/index#" class="list_header_link contracted"><h3 class="list_header">12. Beyond the Basics</h3> <span class="list_header_state hidden">(collapsed, click to expand)</span></a><ul class="item_section_list" style="display: none; "><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="81" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=81" href="https://class.coursera.org/gamification-2012-001/lecture/81" rel="lecture-link" class="lecture-link">
+12.1 Beyond the Basics (6:01)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.1.pdf" data-placement="above" rel="twipsy" title="12.1">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.1 for 12.1 Beyond the Basics (6:01)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=81_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.1 Beyond the Basics (6:01)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=81_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.1 Beyond the Basics (6:01)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=81" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.1 Beyond the Basics (6:01)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="83" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=83" href="https://class.coursera.org/gamification-2012-001/lecture/83" rel="lecture-link" class="lecture-link">
+12.2 Inducement Prizes (11:52)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.2.pdf" data-placement="above" rel="twipsy" title="12.2">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.2 for 12.2 Inducement Prizes (11:52)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=83_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.2 Inducement Prizes (11:52)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=83_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.2 Inducement Prizes (11:52)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=83" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.2 Inducement Prizes (11:52)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="84" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=84" href="https://class.coursera.org/gamification-2012-001/lecture/84" rel="lecture-link" class="lecture-link">
+12.3 Virtual Economies (10:46)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.3.pdf" data-placement="above" rel="twipsy" title="12.3">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.3 for 12.3 Virtual Economies (10:46)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=84_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.3 Virtual Economies (10:46)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=84_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.3 Virtual Economies (10:46)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=84" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.3 Virtual Economies (10:46)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="85" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=85" href="https://class.coursera.org/gamification-2012-001/lecture/85" rel="lecture-link" class="lecture-link">
+12.4 Collective Action (14:24)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.4.pdf" data-placement="above" rel="twipsy" title="12.4">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.4 for 12.4 Collective Action (14:24)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=85_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.4 Collective Action (14:24)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=85_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.4 Collective Action (14:24)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=85" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.4 Collective Action (14:24)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="86" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=86" href="https://class.coursera.org/gamification-2012-001/lecture/86" rel="lecture-link" class="lecture-link">
+12.5 The Future of Gamification -- part 1 (9:48)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.5.pdf" data-placement="above" rel="twipsy" title="12.5">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.5 for 12.5 The Future of Gamification -- part 1 (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=86_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.5 The Future of Gamification -- part 1 (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=86_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.5 The Future of Gamification -- part 1 (9:48)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=86" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.5 The Future of Gamification -- part 1 (9:48)</div>
+        </a>
+</div>
+</li><li class="item_row viewed"><span class="hidden">Completed</span><a data-lecture-id="87" data-lecture-view-link="https://class.coursera.org/gamification-2012-001/lecture/view?lecture_id=87" href="https://class.coursera.org/gamification-2012-001/lecture/87" rel="lecture-link" class="lecture-link">
+12.6 The Future of Gamification -- part 2 (6:02)<i class="icon-facetime-video" style="padding-left:5px;"></i>
+</a>
+<div class="item_resource">
+        <a target="_new" href="https://d19vezwu8eufl6.cloudfront.net/gamification/slides%2F12.6.pdf" data-placement="above" rel="twipsy" title="12.6">
+           <i class="icon-picture resource"></i>
+           <div class="hidden">12.6 for 12.6 The Future of Gamification -- part 2 (6:02)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=87_en&format=txt" data-placement="above" rel="twipsy" title="Subtitles (text)">
+           <i class="icon-align-justify resource"></i>
+           <div class="hidden">Subtitles (text) for 12.6 The Future of Gamification -- part 2 (6:02)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/subtitles?q=87_en&format=srt" data-placement="above" rel="twipsy" title="Subtitles (srt)">
+           <i class="icon-list resource"></i>
+           <div class="hidden">Subtitles (srt) for 12.6 The Future of Gamification -- part 2 (6:02)</div>
+        </a>
+        <a target="_new" href="https://class.coursera.org/gamification-2012-001/lecture/download.mp4?lecture_id=87" data-placement="above" rel="twipsy" title="Video (MP4)">
+           <i class="icon-download-alt resource"></i>
+           <div class="hidden">Video (MP4) for 12.6 The Future of Gamification -- part 2 (6:02)</div>
+        </a>
+</div>
+</li></ul></div>
+<script>
+    var fancyboxImageURL = 'https://class.coursera.org/assets/app/lecture/css/fancybox.png';
+</script>
+        </div>
+    </div>
+            <script src="./Video Listing_files/profiles.js" type="text/javascript"></script>
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>

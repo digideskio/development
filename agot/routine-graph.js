@@ -66,11 +66,12 @@ init();
 
 
 var timer=setInterval("play()", 50);
-d3.select("#slider").on("change",function() {clearInterval(timer);i=this.value;start(i);})
+var ticked=0;
 
+d3.select("#slider").on("change",function() {clearInterval(timer);i=this.value;start(i);})
+d3.select("#free").on("change",function() {ticked=!ticked;force.start();})
 svg.append("text").attr({x:20,y:20,id:"chapter"}).style("font-weight","bold");
 svg.append("text").attr({x:20,y:40,id:"POV"}).style("font-style","italic");
-
 
 
 function init() {
@@ -104,13 +105,26 @@ function init() {
 		.text(function(d) { return d.name; });
 	
 	force.on("tick", function() {
+		if(ticked)	{
+			var mxScale=d3.scale.linear().domain([0,3780]).range([0,width]),
+				myScale=d3.scale.linear().domain([0,2400]).range([0,height]);
+			link.attr("x1", function(d) { return mxScale(d.source.coords[0]); })
+		    .attr("y1", function(d) { return myScale(d.source.coords[1]); })
+		    .attr("x2", function(d) { return mxScale(d.target.coords[0]); })
+	  	    .attr("y2", function(d) { return myScale(d.target.coords[1]); });
+		
+		node.attr("cx", function(d) { return mxScale(d.coords[0]); })
+		    .attr("cy", function(d) { return myScale(d.coords[1]); });
+	
+		} else {
 		link.attr("x1", function(d) { return d.source.x; })
 		    .attr("y1", function(d) { return d.source.y; })
 		    .attr("x2", function(d) { return d.target.x; })
 	  	    .attr("y2", function(d) { return d.target.y; });
-	
+		
 		node.attr("cx", function(d) { return d.x; })
 		    .attr("cy", function(d) { return d.y; });
+		}
 	  });
 
 	

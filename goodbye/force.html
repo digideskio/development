@@ -51,7 +51,6 @@ background-color: #08C;
       <ul class="nav nav-tabs nav-stacked sidebar"></ul>
     </div>
   </div>
-<script src="../../../d3.v2.min.js"></script>  
 <script src="http://d3js.org/d3.v2.min.js"></script>
 <script>
 
@@ -70,9 +69,9 @@ var fsScale=d3.scale.linear()
 ;
 var margin = {top: 0, right: 40, bottom: 0, left: 40},
     width = 1000 - margin.left - margin.right,
-    height = 850 - margin.top - margin.bottom;
+    height = 800 - margin.top - margin.bottom;
 var force = d3.layout.force()
-    .charge(function(d) {return -1.5*Math.sqrt(d.msg)})
+    .charge(function(d) {return -1.4*Math.sqrt(d.msg)})
     .linkStrength(0)
     .size([width, height]);
 var svg = d3.select("#chart").append("svg")
@@ -85,14 +84,13 @@ var loading=svg.append("g");
 loading.append("text").text("Loading email data...").attr("y",15);
 loading.append("rect").attr("y",25).attr("width",200).attr("height",20).attr("rx",2).attr("ry",2).style("stroke","purple").style("fill","none");
 loading.append("rect").attr("y",27).attr("x",3).attr("width",0).attr("height",16).attr("rx",2).attr("ry",2).style("fill","purple").transition().duration(300).attr("width",195);
-var dataN,dataL,nodes,links,hash,allData;
+var dataN,dataL,nodes,links,hash;
 var oScale=d3.scale.linear().domain([1075594084000,1347439920188]);
 d3.json("nodes.txt", function(json) {
   console.log("nodes data loaded.")
   dataN=json;
   var k=d3.keys(json);
   //var 
-  allData=k.map(function(d) {return json[d];});
   nodes=k.map(function(d) {return json[d];});
   nodes[23].degree=4;
   nodes[534].degree=4;
@@ -102,18 +100,16 @@ d3.json("nodes.txt", function(json) {
   nodes[522].degree=4;
   nodes[576].degree=3;
   nodes[1659].degree=4;
-  nodes[444].degree=3
+  nodes[444].degree=3;
 
-  nodes=nodes.filter(function(d) {return d.msg>100;})
+  nodes=nodes.filter(function(d) {return d.msg>10;})
   hash={};
   nodes.forEach(function(d,i){
-    var r=70*(4-(+d.degree))+50*Math.random()+(50-Math.sqrt(d.msg));
+    var r=1.5*(70*(4-(+d.degree))+50*Math.random()+(50-Math.sqrt(d.msg)));
     var angle=Math.random()*Math.PI*2;
     var ca=Math.cos(angle),sa=Math.sin(angle);
-    nodes[i].x=500+r*ca;nodes[i].y=500+r*sa;
-    //hash[d.ID]=i;
-    hash[i]=d.ID;
-    }
+    nodes[i].x=width/2+margin.left+r*ca;nodes[i].y=height/2+margin.top+r*sa;
+    hash[d.ID]=i;}
   )
   nodes[52].msg=1;
   nodes[0].msg=1;
@@ -121,13 +117,13 @@ d3.json("nodes.txt", function(json) {
 
 // legend
 
-svg.append("text").attr("x",10).attr("y",680).text("Legend:").style("font-weight","bold");
+svg.append("text").attr("x",10).attr("y",height-170).text("Legend:").style("font-weight","bold");
 var legend=svg.selectAll(".legend").data([[4,"You worked in my team"],[3,"You worked in my division"],[2,"You worked in my directorate"],[1,"You worked at OECD"],[0,"You worked outside of OECD"]]).enter()
   .append("g");
-legend.append("rect").attr("x",10).attr("y",function(d,i) {return 695+20*i;}).attr("width",20).attr("height",20).style("fill",function(d) {return cScale(d[0]);}).style("stroke","black");
-legend.append("text").attr("x",40).attr("y",function(d,i) {return 710+20*i;}).text(function(d) {return d[1];})
-svg.append("text").attr("x",10).attr("y",820).text("The size of the bubbles correspond to the number of messages featuring this correspondant. ")
-svg.append("text").attr("x",10).attr("y",840).text("The transparency depends on the age of the last message with the correspondant.")
+legend.append("rect").attr("x",10).attr("y",function(d,i) {return height-155+20*i;}).attr("width",20).attr("height",20).style("fill",function(d) {return cScale(d[0]);}).style("stroke","black");
+legend.append("text").attr("x",40).attr("y",function(d,i) {return height-140+20*i;}).text(function(d) {return d[1];})
+svg.append("text").attr("x",10).attr("y",height-30).text("The size of the bubbles correspond to the number of messages featuring this correspondant. ")
+svg.append("text").attr("x",10).attr("y",height-10).text("The transparency depends on the age of the last message with the correspondant.")
 // svg helper for line chart
  
 
@@ -176,28 +172,30 @@ svg.append("text").attr("x",10).attr("y",840).text("The transparency depends on 
    // nodes.forEach(function(d,i) {links.push({source:i,target:0,value:.1})})
      force
       .nodes(nodes)
-      .links(links)
+     // .links(links)
       .start();
-     var link = svg.selectAll("line.link")
+
+    nodesg=svg.append("g").attr("transform","translate(0,-15)");
+     var link = nodesg.selectAll("line.link")
       .data(links)
     .enter().append("line")
       .style("stroke-width",1).style("opacity",0).style("stroke","black")
       .attr("class", function(d) {return "link l"+d.source.ID+" l"+d.target.ID;})
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
-    link.append("title").text(function(d) {return d.source.ID});
 
-    var node = svg.selectAll("circle.node")
+    var node = nodesg.selectAll("circle.node")
       .data(nodes)
     .enter().append("circle")
       .attr("class", "node")
       .attr("id",function(d){return "c"+d.ID;})
       .on("click",highlight)
+
       .attr("r", function(d) {return Math.sqrt(d.msg/4);})
       //.style("visibility",function(d) {return d.msg>100?"visible":"hidden";})
       .style("fill", function(d) {return cScale(+d.degree);})
       
       .style("opacity",function(d) {return oScale(new Date(d.end).valueOf());});
-      node.append("title").text(function(d) {return d.name/*+" "+d.ID*/;})
+      node.append("title").text(function(d) {return d.name+" - click for details";})
      force.on("tick", function() {    loading.remove();
 
     link.attr("x1", function(d) { return d.source.x; })
@@ -215,7 +213,7 @@ function highlight(d){
   var id=d.ID;
   highlightID(id);
 }
-
+var x=d3.time.scale().range([30,350]).domain([new Date(2004,1,2),new Date(2012,08,10)]);
 function highlightID(id) {
     var line = d3.svg.line()
     .x(function(d,i) { return 40*i; })
@@ -225,7 +223,6 @@ function highlightID(id) {
   d3.select("#c"+selected).transition().style("stroke-width",1).style("stroke","#fff");
   d3.select("#a"+selected).select(".details").remove();
   d3.select("#a"+selected).classed("active",0);
-  d3.selectAll(".link").transition().style("opacity",0);
   //d3.selectAll(".l"+selected).transition().style("opacity",0);
   if(id===selected){selected=-1;} else {
     var myDiv=d3.select("#a"+id).classed("active",1);
@@ -237,13 +234,25 @@ function highlightID(id) {
 
     var details=myDiv
       .append("div").attr("id",function(d) {return "d"+d.ID;}).classed("details",1);
-    var address=details.append("p").classed("muted",1).html(function(d) {return d.address;});
-    var messages=details.append("p");messages.append("strong").html("Messages:&nbsp;");messages.append("span").html(function(d){return d.msg+"&nbsp;(first:"+d.start.split(" ")[0]+", last:"+d.end.split(" ")[0]+")";})
+    var address=details.append("p").classed("muted",1).html(function(d) {
+      var address=d.address;if(address.slice(0,7)==="/O=OECD") {
+        var text="Internal user";
+        if (d.affiliation.length) {text+=" ("+d.affiliation+")";}
+        return text;
+      } else {return address;}
+    });
+    var startSplit,endSplit, activeTime;
+    var messages=details.append("p");messages.append("strong").html("Messages:&nbsp;");messages.append("span").html(function(d){
+      startSplit=d.start.split(" ")[0].split("-");
+      endSplit=d.end.split(" ")[0].split("-");
+      activeTime="First message:"+d.start.split(" ")[0]+", last:"+d.end.split(" ")[0]
+      return d.msg;
+    })
     var s=details
-      .append("svg").attr("height",60).attr("width",500)
+      .append("svg").attr("height",80).attr("width",500)
         .append("g").attr("transform","translate(5,5)");
     s.append("path").attr("d","M30,0v30h320").style("stroke","#ddd").style("fill","none");
-    s       .append("path")
+    /*s       .append("path")
             .attr("transform","translate(30,0)")
             .attr("d",function(d) {var max=d3.max(d.years);return line(d.years.map(function(d) {return {value:d,max:max};}));})
             .style("fill","none").style("stroke","steelblue").append("title").text(function(d) {return d.value; });
@@ -251,7 +260,23 @@ function highlightID(id) {
           .append("circle")
           .attr("r",3).attr("cx",function(d,i){return 30+40*i}).attr("cy",function(d,i){return 25-25*d.value/d.max})
           .style("fill","steelblue").style("stroke","none")
-            .append("title").text(function(d) {return d.value;})
+            .append("title").text(function(d) {return d.value;})*/
+    
+    var xStart=x(new Date(+startSplit[0],+startSplit[1]-1,+startSplit[2]));console.log(xStart);
+
+    var xEnd=x(new Date(+endSplit[0],+endSplit[1]-1,+endSplit[2]));console.log(xEnd);
+    
+    var y=d3.scale.linear().range([30,0]);
+    var range=s.append("rect").attr("x",xStart).attr("width",xEnd-xStart).attr("height",30).attr("y",0).style("fill","darkorange").style("opacity",.1);
+    
+    s.append("path").attr("d","M"+xStart+",50v3h"+(xEnd-xStart)+"v-3").style("stroke","darkorange").style("fill","none").append("title").text(activeTime);
+    s.append("text").attr("x",(xStart+xEnd)/2).attr("y",63).style("font-size",10).style("fill","darkorange").text("time active").attr("text-anchor","middle").append("title").text(activeTime);
+    var bars=s.selectAll(".bars").data(function(d) {y.domain([0,d3.max(d.years)]);return d.years;}).enter().append("rect").style("stroke","steelblue").style("fill","steelblue").style("stroke-opacity",.75).style("fill-opacity",.5).attr("x",function(d,i){return i?15+40*i:30;}).attr("width",function(d,i) {return (i==0||i==8)?15:30;}).attr("y",30).attr("height",0);
+    bars.transition().attr("y",y).attr("height",function(d) {return 30-y(d);})
+
+
+
+
     s.append("text").text("0").attr("x",25).attr("y",28).attr("text-anchor","end").style("font-size",10).style("fill","#999");
     s.append("text").text(function(d) {return d3.max(d.years);}).attr("x",25).attr("y",5).attr("text-anchor","end").style("font-size",10).style("fill","#999");
     s.selectAll("years").data([2004,2006,2008,2010,2012]).enter()
@@ -268,6 +293,7 @@ function highlightID(id) {
           .append("span").html(function(d) {return d.word+" ";})
           .style("font-size",function(d) {return fsScale(d.freq)+"px";})
           .style("font-weight",function(d) {})
+          .style("color",function() {return cScale(Math.random()*4);})
             .append("title").text(function(d) {return d.freq;})
   
   }

@@ -1,0 +1,2769 @@
+adamostrow	New York, NY	34198
+deroyperaza	Brooklyn, NY	956
+CedricKiefer	Berlin	1076
+robdthomas	NY	349
+kdattoli	Boston, MA	255
+albertocairo	USA, Brazil, Spain	6019
+Sosolimited	Boston, MA	677
+MindaZetlin	Woodstock, NY	1763
+NASAViz	Greenbelt, MD	2446
+tanyacash21	Boston, MA	310
+FaceOfBigData	New York City, NY	2026
+benpopper	Brooknam, USA	3471
+shawzilla	Houston, TX 	310
+medialab	Cambridge, Massachusetts	78064
+brucenussbaum	global	10730
+QuidLabs	San Francisco, CA	1228
+McManusReport	New York	144
+fathominfo	Boston	845
+kystokes	Bloomington, Ind.	1112
+Grahaphics	Brooklyn, New York	1308
+AlexJamesFitz	NYC	4064
+HarrisonWeber	NY, NY	3022
+msenese	Los Angeles	2147
+SeeingStructure	San Francisco, CA	567
+michalmigurski	Oakland CA	1208
+WileyBiz	Hoboken and San Francisco	5386
+cocteau	New York, New York	784
+nypl_labs		2089
+trustcloud	New York, NY	753
+jeffcutlerstamm	Portland, OR	436
+pentagram		94986
+InfographicWrld	NYC	1253
+jandersen	San Francisco, CA	1111
+DGM885	Newnan, Georgia	1286
+seanmcnaughton	north america	284
+benjaminjackson	Brooklyn, NY	1990
+buildingeye	San Francisco and Dublin	156
+ekeneijeoma	NYC	427
+daveixd	Savannah, GA	4067
+TEDNews	New York, NY	201807
+eddie_satterly	Denver, CO	84
+gzim	Boston, MA	417
+metamarkets	San Francisco, CA	1344
+tableau	Seattle, WA	10797
+cpanetta77	Washington, DC	348
+13pt	NYC	401
+99u	New York, NY	140672
+aBirt	Antwerp, BE & Minneapolis, MN	192
+JeffClark	Toronto	3370
+kristathomas	T: 34.064306,-118.37251	3669
+caseorganic	Portland, OR	15633
+creativecap	New York City	7091
+Behance		442059
+mobrumbach	Boulder + Philadelphia 	134
+davebowker	London, UK	500
+nytimes	New York, NY	6281001
+mattbot	Brooklyn, NY	410
+ManageFlitter	Sydney, Australia	100230
+jkaminsky	New York, NY	94
+bizspark	Redmond, Washington. USA	24685
+field_io	London, UK	2772
+148	Versailles, France	1454
+CreativeSandbox		33858
+se_etc	berlin	36
+scriberian	London, UK	720
+elissafink	Seattle, WA USA	1258
+canvasnewyork	new york, ny	436
+neilhalloran	Austin, TX	41
+knightfdn	Miami, FL	33121
+IBM	Armonk, New York	29886
+zoebfox	Brooklyn, NY	2802
+OReillyMedia	Sebastopol, Cambridge, Farnham	50846
+infobeautiful		42966
+mgualtieri	Massachusetts, USA	23142
+obviousjim	Brooklyn, NY	1148
+lhockenson		1204
+InstantAtlas	Edinburgh, Scotland	866
+danielegaliffa	Milan/Brindisi/next?	942
+AIGANY	New York, NY	9846
+timoreilly	Sebastopol, CA	1621519
+onformative	Berlin	1279
+ohhaidavis	Ottawa, ON	195
+eyebeamnyc	540 West 21st Street - NYC	8851
+TheBizJam	Grand Rapids Michigan	383
+kaggle	San Francisco	3972
+katyh629	Houston, TX	53
+dlaverty		33
+katybeck	Somerville, MA	87
+gibsonhall		194
+redindhi	San Francisco	507
+jatorre	New York	1872
+tanyaelsh	New York	222
+IBMResearch	12 labs on 6 continents.	24210
+MapBox	Washington, DC	6176
+willprotein	iPhone: 48.891889,2.346278	986
+shancarter	SF Bay Area	1854
+alexanderchen	New York	2328
+datanews	New York City	588
+unsarah	brooklyn, new york	573
+GuardianData	London, UK	26553
+tillnm	Berlin	576
+sowhatllc	Jackson, WY - USA	318
+JustInTheSouth	Asheville, NC	10022
+ClaireAshley	NYC	315
+lukeelmers	Los Angeles, CA	1045
+rkmnyc	Tampa,Florida	1101
+MarshaKnight	San Francisco	1057
+jenniferturliuk	Citizen of the world	1673
+JonBruner	New York	2234
+codeandtheory	New York and San Francisco	3775
+DataPointed	California, USA	3174
+zeh	New York, NY	1880
+murnane	Annapolis, Maryland	1006
+adamlaiacano	Brooklyn, NY	571
+nishantshah1	Brooklyn, NY	309
+Clark_and_Kent	NYC	432
+xplane		4191
+Weinberg	Washington DC	485
+Mel_Abe	Brooklyn, NY	450
+pitaru	Brooklyn NY	2575
+largetail	NYC with a foot in Berlin	1155
+pizawL	Toronto, ON	538
+agbegin	San Diego, CA	977
+stop	San Francisco, CA	250494
+joshblake	Woodbridge, VA	1919
+KevinQ	New York, NY	1733
+pomeranian99	New York, NY	15633
+ilikedata	Sydney, Australia	814
+TurnerDouglas	Brooklyn 11211	726
+reibellow	Brooklyn, NY	201
+cmalamed	DC Region	1429
+kartographjs		1083
+wjjessen	Indianapolis, IN	2205
+kennelliott	New York, NY	530
+drawnline	New York, New York	952
+Freakalytics	Seattle, WA	1605
+JanSru	London, United Kingdom	715
+posco	San Francisco, CA	1486
+jpmarcum	New York, NY	1459
+Neil_S_Parmar	Toronto, Canada	974
+annaebbesen	Washington DC	2514
+kilby76	Phoenix, AZ	8487
+monicaulmanu	Bucharest	554
+gabrielflorit	Boston, MA	382
+MostlyAnalytics	in Manhattan	1608
+jamiethalman	Los Angeles, CA	153
+Polychart		252
+notlion	San Franciso	893
+WWRob	San Francisco	548
+Emma_Ashru	Manhattan, New York	347
+JDK_Design		438
+visualoomph	Edison, NJ, USA	9556
+paul_irish	San Francisco	57487
+dpatil	Silicon Valley	9181
+exygy	San Francisco	378
+rubinafillion	Brooklyn, NY	1934
+jeresig	Brooklyn, NY	83168
+rands	los gatos, ca	27169
+heyamberrae	Boulder, CO	12373
+storywithdata		771
+snibbe	San Francisco	1868
+catchfoot	San Francisco	2700
+kaxline	San Francisco	1169
+jocabola	London	779
+happymonday_ca	Toronto, Canada	109
+liasomething		776
+cleverfranke	Utrecht	645
+kurtosis0	San Francisco	1095
+bradfordcross	San Francisco	5692
+ErikLaurijssen		496
+Vizoftheday	United States	581
+brainSteen	Germany	310
+SydRMartin	Seattle WA	142
+dinocitraro	Portland, OR	334
+DouglasCrets	Mountain View, California 	4754
+desisparsons	New York City	361
+thorlakur	Iceland	226
+albertoconti	MD, USA	781
+kcimc	Brooklyn	3646
+scootrous	SF	569
+iBlend	New Jersey	8627
+kellyelaine	Seattle, WA	292
+arnicas	Framingham, MA	697
+farra	Brooklyn, NY	4835
+leahculver	San Francisco, California	25844
+sorenmacbeth	Portland, OR	109003
+mrogati	Sunnyvale, CA	2690
+CynicalKiddo	pinterest.com/cynicalkiddo	468
+JohnFMoore	Winthrop, MA USA	56111
+defunkt	San Francisco	17933
+vizify	Portland, Oregon	6294
+MetaThis	Saint Louis, MO	2597
+_erik_k		848
+TheGardenPrty	NYC	376
+brooklynmag	Brooklyn, NY	3071
+duswain	London	295
+DataVizGuy	Melbourne, Australia	268
+joshuahirsch	Brooklyn	2326
+andrewshea	New York	304
+kissane	Brooklyn	12086
+justcreative	New York, New York	55099
+tmcw	a very low orbit satellite	1101
+jessiarrington	Brooklyn	4692
+zeolitefuhrman	brooklyn	149
+ireneros	Massachusetts	2022
+robroc	Montreal, Quebec	2643
+mbostock	San Francisco, CA	4500
+FromCarl	Atlanta	3556
+jde123		392
+annfriedman	Los Angeles	12783
+rsa	San Francisco	9910
+Chanders	Brooklyn, NY	4151
+marshallk	Portland, OR	44089
+nicolaskb	Europe	3286
+datagotham	New York, NY	466
+Jeevesmeister	Brooklyn, NYC	436
+lisa_cornish	Australia	658
+developmentseed	Washington, DC	8122
+cliffkuang	Brooklyn, NY	7444
+josh_wills	San Francisco, CA	1567
+i8joe	San Francisco, CA	3683
+swissmiss	Brooklyn, NY	325026
+Rasiej	New York City	6982
+ckanal	New York, NY	15893
+caelainnbarr	London	578
+futuraprime	Brooklyn NY	446
+GlobeMattC	Boston, Massachusetts	1598
+Bimbos365Club	San Francisco, CA	2107
+dancow	New York City, Eastern half	3898
+RezaAli	Palo Alto	1016
+nancyduarte	Mountain View, CA	20500
+MarcoBohr	London	2275
+wiederkehr	Lenzburg, Switzerland	978
+mcristia	Ohio	1828
+paulbradshaw	Birmingham, UK	17033
+jsundram	Somerville, MA	466
+mesunsan	brooklyn	75
+alexgoldmark	NYC	2973
+grantmeaccess	Memphis	974
+ryansholin	Loudoun County, VA	5994
+SunFoundation	Washington, DC	19331
+visualisingdata	Hebden Bridge, Yorkshire	6244
+akosner	Cape Elizabeth ME	1011
+popcultpirate	Manhattan	1762
+markweaver	NYC/NJ	9884
+simplebits	Salem, MA	54472
+jenny8lee	Out and about	39317
+A_L	Brooklyn, NY	2269
+Vizzuality	Madrid & NY	1541
+carolinebeavon	Birmingham	2230
+nickbilton	NY for 15 years; now SF!	141840
+CreatorsProject		28853
+NASAJPL	Pasadena, Calif.	395376
+ndiakopoulos	New York, NY	1132
+michelleminkoff	Washington, DC	2490
+dwtkns	New York, NY	455
+gabrieldance	brooklyn	3320
+jolieodell	San Francisco	44348
+future_ish	Seattle, WA	549
+jcberk	Chicago, IL	1621
+HelenWalters	New York/London	14762
+AnthonyDB	Washington, D.C., metroplex.	1246
+AlexOsterwalder	Swiss Global Citizen	21269
+dmgerbino	Brewster, NY	2028
+rachelbinx	precariously SF	820
+kleinmatic	New York City	3252
+DataJunkie	Santa Monica, CA	4177
+datagems	Reston, VA	7439
+peteskomoroch	Silicon Valley	9234
+datavis	Switzerland	9828
+AndreaKalli		7720
+TASCHENAmerica	Los Angeles/New York/Miami	6345
+idnworld	Hong Kong	10232
+drewvigal	New York, NY	15153
+lisawilliams	T: 42.365894,-71.16047	4021
+visualbudget	Austin, TX	116
+derekwillis	here, there and everywhere	3009
+hubertallen	Baltimore, MD	1381
+moebio	Buenos Aires	1221
+metalabharvard	Cambridge, MA	2041
+tysone	Brooklyn	2568
+mcgeoff	Stanford, California, USA	850
+mediatwit	San Francisco	18860
+jennydeluxe	Brooklyn 	465529
+SchoolOfData		880
+shashashasha	iPhone: 37.754047,-122.416328	1803
+theowatson	Amsterdam	2834
+ywallin	New York City/Berlin	333
+richardsalex	Chicago, IL	302
+steverubel	New York	70933
+AndrewWK	Manhattan, New York City, USA	209772
+curiousoctopus	New York	6277
+coulterjones		525
+charlesapple	Virginia Beach, Va.	3521
+scottbelsky	New York, NY	33536
+FastCoDesign	New York, NY	122576
+mahirmyavuz	New York  Linz  Istanbul	851
+gilgul	NYC	3187
+andrewphelps	New York & Boston	5666
+2storypdx	Portland, Oregon	1791
+mercier_chris	Reading, Berkshire, UK	81
+juliaxgulia	New York, NY	11444
+JessicaTungsten	New York, New York	77
+GaryGlozier	Newcastle upon Tyne	180
+enf		2599
+blprnt	Brooklyn, NY	12056
+danielkmc	New York, USA	281
+timmayd	The Heights, Houston, TX	1806
+Vicki_HouseMark		41
+misskarlybrown	Bournemouth	59
+hmason	NYC	21278
+cyrillerossant	Londres	183
+ItsAllTears	Edinburgh	707
+simonre1	London, UK	122
+jasonlankow	Orange County, CA	5312
+chrisspurr	London	232
+ismaailm	London	76
+RegentStreetW1	London's  West End	213
+GestaltenNews	BLN, NYC, LDN, TKO	5607
+jessicakzoller	Leeds	93
+TodaysArt	The Hague, NL	6543
+georgiamoon	T: 40.767865,-73.876176	678
+Daisie1965	Earth	69
+hollyoxen	nyc	328
+CRS_RDS	London	150
+tyberiuswong	New York	220
+wakejoseppy	on my bike	56
+Winklab	Boston-ish	141
+FiniStrini	London	61
+noahi	Seattle, WA	2750
+HughGriffiths	Swansea, UK	560
+GraceHelyer		24
+russcahill	Liverpool	15
+hyperakt	Brooklyn, NY	4424
+cherylchapman_		144
+hey_erma	Houston	128
+30DanielMarquez	Los Angeles	42
+EdwardTufte	USA	9720
+aka_anuar	Puebla, MX	136
+VisualLori	Seattle	663
+gracerodriguez	Houston TX	6918
+AspiAspirada		121
+noahcarter	Southampton, NY, USA	752
+PeterDJMain	London, UK	1427
+alignedleft	San Francisco	1075
+TrillyC		7
+WinnersFingers		36
+columnfive	Newport Beach CA	12880
+Aoifedesign	London	38
+JESS3	LA	17047
+eyeofestival		3697
+CulturePilot	The Heights, Houston, TX	2132
+krees	Portland, OR	2237
+brainpicker	Brooklyn, NY	242370
+womblemap		17
+stamen	San Francisco, CA	7650
+driven_by_data	Germany	3074
+TomDukeIV		258
+MidMarket_IBM	Amsterdam, Brussels	932
+AlDeDomARTe	Upstate New York	127
+micheileagan	NYC	36
+soippa	North West England	80
+inspired12	Houston, TX	1013
+shawnbot	San Francisco	1937
+Periscopic	Portland, OR	2852
+vazquezbrust	Buenos Aires, Argentina	39
+Marilenafr	BOLOGNA	351
+ndintenfass	San Francisco	464
+smfrogers	London	4748
+MichaelMacLeod1	Edinburgh	1986
+Char_Thornton	London	68
+oceandesign	London	44
+es_stela	London	548
+jasondrake14	Norwich	123
+nbrgraphs	NJ	1378
+shoveitdesign	Belfast	33
+Vivave17	London	35
+VisualizingOrg	Worldwide	6246
+Uknowyahyah	los angeles/west covina Biotch	120
+Dennisimo	Brighton, UK.	527
+emily_alpert	London	54
+TheArduinoGuy	London, England.	1835
+DataKind	Brooklyn, NY	2471
+joachim99	London	81
+emma_lawlor	london	56
+Tim_HotPixel	Houston, TX	126
+_andicreate	Derbyshire / Middlesbrough	138
+opentocreate	based in London serving the UK	398
+FastCompany	New York, NY	585917
+pitchinteractiv	Berkeley, California	2814
+feltron	NYC	20313
+jakeporway	Brooklyn, NY	2786
+tomlorek	San Francisco	133
+jonathanpberger	nyc	980
+NvOesterreich	New York City	214
+StephenTracey		50
+MasonKathryn		10
+futureArtifact	san francisco	12
+rkputri	San Francisco	22
+superkaybee	Houston TX	726
+tangyiding	Shanghai, Santa Clara	755
+amikahmad	Pirate (my tweets | my brainz)	164
+pinkyrimmer		67
+gilesgoatboy	Los Angeles	2826
+joshserrin	Gloucester, MA	55
+Protoecologics	Los Angeles 	116
+MarshallMoore	Spokane, WA	150
+rjrest	SF Bay Area	11
+IdealBabyShower		8
+JamesTrendy	Pitstone	253
+charlaparlour	manchester 	185
+BeetrootMedia	Mid Cornwall	41
+ipopdesigns	Brooklyn, NY	64
+RosieCGillespie	London	13
+ZannyMellor	London	381
+sdtacker	T: 29.754819,-95.457835	231
+ManriqueGaby		41
+AnAprilsfool	Brentwood	24
+maybewhen	Highgate, London	82
+Uli_T	London	97
+pfletch1023		117
+mikeini	San Francisco	435
+SesoDesign	Los Angeles, CA	206
+andysandland	Oxford, UK	89
+Jon723	New Jersey/New York	153
+EffervescentUK	Cornwall, Plymouth, Devon UK	348
+SameerahShaikh	UK	113
+danielhry	London	24
+nicorowland	London	33
+metoofull	SF / SD / NY	102
+Jevelyn2	London, UK	9
+jaspervalero	Merced, CA	270
+atifadam	Baltimore	78
+idontknowmaybe	London, UK	440
+TheGroveConsult	San Francisco, CA	846
+katebharding	NYC right now	777
+CaroHalford	London	30
+jerollinson		9
+mannydarden		25
+emma_devine		62
+DotTwentythree	everywhen	31
+robertcheckal	New York City, NY	838
+NYD_Agyeman	Here, there & everywhere	127
+AdamWestbrook	London, UK (for now)	5903
+ChanceGallery	123 Sydney St  LONDON SW3 6NR	97
+seedataltd	Exeter, Devon	324
+CharlKateDavies	Cardiff	100
+4Roonio	Laandaan	4
+J_B_H_	New Cross, London	203
+Joe_boll	liverpool	225
+juanbjork		1
+nick_creed	UK	385
+labrat001		4
+carlmyhill	cambridge/oxford/london	79
+sirajma	London, UK	60
+NaomiHead4		14
+marceVillalobos	Heredia, Costa Rica	114
+thatblueraccoon		26
+GraphicsTees		35
+spohnat		27
+torqpoker	Los Angeles	15
+mavenventures		1201
+campbellgurl	birmingham	327
+AlexKessling		4
+ideastree	T: 51.506466,-0.143079	1393
+noddy	san francisco, ca	197
+KatMelan	London, UK 	76
+tiemsin	philippines	260
+matthanover	Los Angeles	318
+Memphis1972	West Yorkshire	55
+RIBA_PoW	London	36
+POINTLondon	London	205
+Tom_Duke	T: 29.71803,-95.516238	662
+NicoleRevers	London	26
+andreaoggiano	Sheffield	12
+IsonEmma	England	16
+CMMotionGraphic	London	24
+ojfutures	London	45
+anknelburblets	London	762
+terrytalkitup	London	44
+mrmoco1	Blindley Heath, Surrey	167
+VJHarperVisuals	London UK	375
+jluisv1	Madrid	224
+ibmevents	NY, London, Paris, Tokyo	12140
+hautevulture	Emerald City	17
+artstoreUK	Glasgow	354
+hollobaugh		13
+lunchbag	San Francisco, California	511
+AnaFRamirez		3
+and_lew	Liverpool	196
+MORLEYphhs	London Hertfordshire Essex	2514
+rpienciak	New York	89
+freakSTATIC	Portsmouth, South UK	446
+maj_mag	Manchester 	77
+lgorithm	Dundee, Scotland	70
+derosimona		55
+zampearson	USA	11
+joliodesign	california	642
+think_ui	Lt. Thetford, Cambridge, UK	308
+Beth8780Ramirez	Paradise Island  :)	104
+dlutzy	Melbourne, Australia	756
+misslaurakerry	Colchester	285
+elemunjeli	Olympia	150
+fmeGraphics	Bournemouth	18
+CarsonFarmer	St Andrews, Scotland	70
+CedFunches	San Diego, CA	398
+StreetArtDesign	Worldwide	385
+andyjaeger	London	572
+Sonal_18	London	321
+beglen		292
+missyshera	London	40
+Sultan	New York, NY	1091
+Vaden	iPhone: 34.114587,-118.155878	33
+MilesWar	Cardiff	73
+sodavekt		102
+Idea_36	Bath	26
+cdeconigb	Santiago,Chile	49
+CafeOrganicoMex	San Jose, CA	143
+chadharness	Charlotte, NC	10
+antonietariosmt	san jose ca.usa	62
+leedunn	Torquay	202
+quarterpenny	Sheffield	23
+arcollier6	North East	26
+EmmaMaier	iPhone: 0.000000,0.000000	3420
+suziei	sf	68
+RitchieSKing	New York City	179
+Savoia_Sports		1
+camholm	San Francisco, CA	677
+olgapierce	New York	522
+MariadaGandra	LONDON	148
+vanessadaou	New York City	523
+brianwealthall	Leicester	26
+slalam	San Francisco, CA, USA	310
+wnchn		13
+olivermaccarthy	Reading, UK	88
+OARoota	United Kingdom	50
+N8bec		10
+miss_beretta	Leeds	184
+5Dcore	international	1756
+treezrppl2	CA	24
+rolyaT_maharG		21
+sarika1411		4
+xyz_ak	San Francisco, California 	312
+carrotte		31
+MrWillyChocolat		10
+Themelis_Cuiper	Amsterdam, The Netherlands	39903
+ifesdjeen	Mnchen	460
+MuddySports	Southwest England, Bath	461
+grant_grant6		0
+ecf29	New York	104
+botanic_zoo	London UK	1
+coreyhulse	Philadelphia	204
+i_serena	Scotland	165
+pravarthan	Hyderabad	34
+China_Teachers	Shenzhen,China	191
+LALResearch	UK	149
+hiphoplibrary		8220
+adam_doh		82
+Reubehind	Beijing.China	31
+mweissli	London, United Kingdom	47
+RobertMTyler		277
+Maddoghutchings	los angeles	13
+mezcla00	london	194
+netzing		37
+mmordecai	the land of colours and shapes	2538
+loisrp	Vancouver	388
+VirginiaBulacio	Los Angeles, CA	303
+digitaltoon		65
+TommWeller		19
+RedBaron1892		9
+jminusaequalsv	The Bronx	11
+TimShorten	London	178
+_dispar	274 Vzla Latam	1170
+socbeatty	Ireland	86
+FrankNoz	San Francisco, CA	30
+jaemikew		28
+IanHousplant	London	67
+BirdLife_IM	Cambridge, UK	41
+owenbriant	London	83
+beckyayre	Nottingham - London	112
+Lui_President	Elyse	1312
+bgstephen	Aberdeen	67
+IanAD	Nr Stamford	58
+tomkersten	Chanhassen, MN, USA	182
+nicklmitch	Austin, TX	4
+Go_Paul	High Wycombe, UK	231
+sabasaba	San Francisco	783
+lucia_k	London	82
+Gabinetedelimon	Sax	110
+SylwiaKubus	London	41
+LenCosta3rd	New York, NY	920
+jdavid	94117	857
+nelstrom	London	2187
+leadereview	Marin County, CA	47
+IanBesler	Los Angeles	93
+ScienceLifeNY		1233
+CynicalKiddo	pinterest.com/cynicalkiddo	468
+josephruscio	San Francisco	454
+rivern31		9
+trisss		18
+dabhandmedia	London	230
+MichaelEditeur	London	360
+amelierose92		184
+museums_ru		217
+JoeKnight21	essex boy	23
+GlobalSherpa	New York, NY	79
+krissbaird	London	147
+canyouwhoopit	nueva york	194
+marxiouk	London	22
+TonyT07	Datchworth, Hertfordshire, UK	446
+Jherdz7		242
+Anthony_Downing	London	68
+FRITZERISM	NYC	15
+roughbounds		63
+essence_dev	London, NY & SF	14
+carsondesigns		19
+AJamDonut	Blackpool	30
+ParkGraeme	Yorkshire	93
+marktipper	London	457
+Mista_Cain	St. Albans	355
+shivaduck	London	1054
+david_haylock	Aberystwyth	138
+MatthewSpence18		68
+CamMckirdy		88
+RLAWood	London	95
+beatsglasgow	Glasgow	129
+jill_warren	Liverpool, England	549
+mark_karwowski	UK	297
+levity	Brooklyn / SF	494
+cendana_jea	Bremerton, WA	146
+rachsmith92		92
+PaulCureton	Manchester	283
+UoSArts	University of Salford	648
+SHANGST06	southampton	6
+highrisedesign	London	84
+NeilMGregerson	Olympia, Washington	68
+MYNTMAGAZINE		439
+daniadmiss	London	35
+tomrobbins1	Edinburgh & London	524
+gsconsulting	Hampshire, UK	195
+spongecity	Edinburgh	97
+slawekdesign		11
+vandys	iPhone: 38.668030,-121.262817	184
+tmrchrdsn	California, USA	118
+KhaoticRob	Seattle, WA	2
+design_ness		5
+hereandnowness	Los Angeles	143
+PAYNESHURVELL	LONDON	1667
+icodesign	London	1316
+wearesource	London	2495
+lorentzframe		27
+beth_blatch	Leigh-On-Sea / Nottingham	259
+DarrenStatman	LONDON	92
+TanyaLed	London	4
+katrinaavotina	Leeds, UK	654
+ambrouk	Never very far from my phone	1045
+BonMelange	Los Angeles	415
+Yamal_Peninsula	Moscow, Russia	40
+Architectworks		305
+zingbot	New York	828
+dcturner	La'ndan	958
+wrightwell	Surrey, UK	641
+venturi_ltd	Manchester, UK	363
+Emersson	New York, New York	193
+paper_parade	London	220
+Meltface_		21
+karolk	London	179
+stinavision	London	239
+soraya_amorim	London . UK	163
+Cuterosy00		62
+Julie_altoft	Hull, East Yorkshire	322
+mattvigil	Loverly Los Angeles	213
+laurengibbonz	BROOKLYN, NY	61
+betalovetweets	London	113
+LaFede86	Venezia	64
+jesse_hp	London	255
+Stevetmedia	Dorset	87
+FPAmerican	New York, NY	126
+nomadclark		103
+NicholasLambour	Otley	21
+x_Primrose_x	Belfast	22
+Designshorts	UK	102
+MelissaSterry	Earth2Hub.com	1317
+brainmatrixinc	New York	99
+larrysbrain	Leeds	309
+hannahclark121	Redcar Cleveland	61
+sevencolours_mu	London, UK	39
+jeriex	UK	43
+akseli_huhtanen	Helsinki, Finland	100
+krismagraw	Wigan	124
+tsoukn	London	96
+Sophie_Nicola	Los Angeles	91
+LaVasey		9
+OliviaMeeLDN	London	545
+delormev		61
+leoniecumiskey	London	371
+leedelplanque	Lincoln, UK 	134
+weemcc100	Glasgow	50
+marianlouise	Bucks	105
+HarrietDallow	London	147
+OGMustafa	London, UK	252
+Starr_Photos	UK	45
+James_Mathew_S	Leeds, England	475
+georgiecrackers	LONDON	21
+strikingpoverty		24
+psivadasan	Bellevue, Washington	103
+VitSvoboda		26
+shortlister	Los Angeles	837
+pedrito1414	London	458
+jrez	London. Tel Aviv. Redfern.	408
+Floosch	England	114
+chrisdwarren	London	15
+StuffArtistSay	California 	709
+taylorlord7		137
+QGill	United Kingdom	165
+simbeckhampson	Aystetten, Germany	6900
+justmytwospence	Mountain View, CA	82
+Yellowcardas	London	353
+Cheri_Beer	Barry	65
+derekgaw	Seattle	93
+guiselaine		101
+marklane83	Middlesbrough	59
+steveDsmart	Scotland	5
+thehighlandway	London	492
+sgruenwald	San Diego	5477
+soldham	Seattle	69
+selenakays		15
+Ben_Toone	52.821341,1.403169	237
+mod_cinema	UK	109
+KatiePStylist	London	64
+zeligsound	London. UK	545
+charl_dee		66
+stevenklise	Brooklyn	180
+JeometriData	Guernsey, Channel Islands	33
+gibsonpaul	Cambridge	97
+DoShorts	UK	179
+kohei726	London UK	112
+elarcombe	Cheshire 	150
+AshleyVawter	Claremont, CA	31
+CarlodeGregorio	Somerset, UK.	33
+Melomessage	London	347
+4ndr3wm0rt0n	Edinburgh, UK	78
+twitthinker	Seattle, WA	279
+New_Possibiliti	Worcestershire, UK	207
+ninjafinger80	London	172
+kinzi92		7
+stucker_bug	Innerleithen	78
+GonzaloMannucci	San Francisco. CA	65
+hypertml	silicon valley	161
+ybaynes	Los Angeles	86
+1rickemo		5
+storywithdata		771
+WorkHouseG	harrogate	332
+NathanSpaun	Berkeley, CA	35
+slmarkusnyc	new york	44
+mwagerfield	Stockholm	217
+LocativeLabs		20
+LilachFeldman	40.764183,-73.962801	483
+IntriguingNW	UK	593
+joshshaw31	Manchester	29
+PHLOYtweets	San Jose, CA	592
+funtabulousrose	Greater London/Surrey Borders	67
+JakofSpades	London	28
+georgiamuir	London for now...	92
+misaouette		0
+s_manghani		364
+walesepa	Wales and its suburbs	287
+isykes	Central London	126
+yesi79	San Jose, CA	320
+jennymutluc	Cambridge, UK	49
+Contestabili	San Francisco	56
+justbobchico	Chico CA	21
+jpberkowitz		33
+andreasconradi		174
+LincsSausage	Sussex, UK	67
+Aphrodite_32		115
+StetsonXiaoLi		836
+bloopington	Brighton, UK	193
+Simonandclaire		0
+lawrence_lek	London	463
+dpu_ucl	London UK	417
+catzguzman	San Diego	111
+andyalmost	London, UK	509
+alisonb_1	Glasgow	51
+bowbrick	London	3306
+aphidcatcher	Carrick, Ayrshire, UK	403
+Semasiographic		91
+lewisthomas06		83
+hellovaughan	Birmingham UK	144
+maijintheartist	Los Angeles, California	5373
+stewarttownsend	iPhone: 53.852402,-2.220047	3831
+mattwindymiller	Harrow, London	49
+bridgetzsweet		173
+rtomayko	NORTH AMERICA	6904
+jorgecid	London	64
+PwrdesignStudio		72
+mwojtkiewicz	London	20
+JamoGames	Birmingham, UK	282
+cbergman	San Francisco, CA  USA	142
+capturephotosam	south wales	165
+AlcisGeo	UK	1087
+LoParkin	South London	207
+MaartenClaessen		8
+ElledAria	UK	92
+Amykilner93	South Yorkshire	185
+EdmogFW	London / South Wales	1798
+richardovery	Wellington, Telford UK	194
+SarahSeti	San Diego	74
+SamDuggan	London	46
+ClearByBen	London, UK	54
+krisErrett	Hell's Kitchen, New York City	39
+HiveData	Palo Alto & Los Angeles, CA	93
+Oeufmurf		60
+The_Lighthouse	Glasgow, Scotland	4348
+Namshee	Aberdeenshire	121
+Urbanizas		396
+BramSelleslach	Los Angeles, California	18700
+petermccurley	Northern Ireland	151
+RossIanSwain	Shrewsbury, Shropshire	90
+ethanmiller		167
+minhurice	37.782234,-122.393026	49
+garthmcr		5
+tobyleetham	Ripon, North Yorkshire 	1026
+ianrobsons	North East England	657
+1813_1855	ny	3632
+robmyers		578
+DesignQualia	Reading, UK	4
+prussian__blue	London	43
+wasteofpaper	Bristol	61
+Melas61		64
+ltlnessy	UK	19
+cameron_lock	San Francisco Bay Area	55
+jwilliamson201	douglas isle of man	41
+EmilandDC	Paris	688
+kraminator	Cambridge / Newcastle, UK	67
+cmw_DAM		12
+SarahRBarrera	California	53
+alizahgrace		82
+ChristianSTate	London	58
+OneMinuteBriefs	Manchester	255
+mr_michaelcaton	Brooklyn, New York	268
+KatrionaBeales	London	850
+kellyelaine	Seattle, WA	292
+CanMathsDepartm		23
+PhototechImage	UK	86
+MisterTee90		116
+andimastrosavas		15
+alizardx	SF Bay Area	171
+frackham_edu	UK	253
+MichaelNiktaris	Astoria, New York	60
+TerryJChivers	United Kingdom	49
+Pinfographics	U.S. Based	36
+David_Wrenne	Bournemouth	311
+NickySpear_	London	43
+GrantEvans4	United Kingdom	88
+c4rest	Vancouver	4
+craftylilpanda		154
+likear0se	the city of dreams	61
+gkujda	Los Angeles	41
+edtparkes	Loughborough Junction, London	310
+bibliotree		141
+M3VOY	Tarleton Nr Preston Lancs UK	39524
+Daily_Idiom		5
+AdventurSpencer	California	465
+joseveravisagel		28
+sailology	betwixt + between	6
+moodstrike		103
+TripleLiftHQ	New York	29
+enoex	Berkeley, CA	168
+alex_jako	Hebden Bridge	117
+LiguoTweets		104
+backspace	Brooklyn, NY	91
+CaterinaMAF		41
+designtuitive		13
+heidiharman	Stockholm/London	2713
+thegandalf83	Cardiff, UK	111
+N_Dring	Manchester	174
+Mo_was_here	London	219
+aim4faith	A poem in progress...	483
+bestiario140		1792
+Ghostdavandal	Northampton, UK	48
+sankywashere	london	1958
+kristwongz	on the Internet	241
+anotherbrooklyn	Los Angeles	47
+louisespage	UK	173
+la_gaia	London as a general rule.	541
+cjpettitt	United Kingdom	52
+CANDDi	Teesside	647
+_natw	London	1021
+Andy864		20
+JonnyVeeArgh	Oxford	71
+reinikainen	CDF, LON, BRU, HEL, JNS	1946
+johnathon_hunt	Kent, UK	188
+WillDonohoe	London / Plymouth / Brighton	102
+Alejaj	London	0
+Oliviaab_photos		74
+ih0ng	New Jersey	25
+japeljoff	iPhone: 40.691620,-73.953140	144
+em_auger	London	82
+DaveTenney	Seattle, WA	1407
+JohnMbene	London	60
+MarnieLandon	Toronto, Canada	761
+sugarfreeworld	King's Cross, London	30
+anthonyshafto	London / New York / Durban	915
+marziaarico	London	91
+MavrosP	London	33
+margaridamfsous	London	25
+Studio401	Sherborne, Dorset UK	62
+AltaPacifica	North Oakland, Alta Pacifica	125
+FIsabelM		80
+tdpsk	London, United Kingdom	68
+ingepanneels		124
+jon_oldershaw	UK	1742
+makingthings	London UK	36
+djalondon	London	62
+allyrevolution	Wimbledon	56
+lisadicarlucci	New York	456
+Ginrain	Beijing, China	17
+walker_nat	99% of time, on a train	279
+chrissanchez	nYc	247
+2129tweets		35
+KrashHellmet	Johannesburg, South Africa	53
+lrabaud123	United Kingdom	144
+PaulWeighand	Portobello, Edinburgh	110
+carlcumiskey	chester	20
+awaisshah	Nottingham	33
+pragmetrics		16
+printforgood	Manchester, UK	564
+IMattyBoy	London	136
+seveneightnine	Nottingham, UK	1352
+ddunbar	Edinburgh, UK	140
+pattierney1	London	120
+geovek	Stirling, Scotland	139
+BettyAdamou	London	1416
+MikeMcKelvie	Dubai, UAE	231
+irunmywebsite	London	16
+C_Pilling	Brooklyn, NY	109
+dollar	London	363
+CataBahamondes		71
+InteractiveLSAD	Liverpool	541
+Research4Truth	New York	42
+trashleasmyth	manchester/belfast	36
+ARBrooker		161
+cvrNYC	New York, New York	40
+GeoCKC	T: 37.540842,-122.067049	625
+stevepoxsonfoto	Leicester	493
+deejays	seattle, wa	259
+shula_p	brooklyn, ny	127
+benosan	London	242
+pash_09	London, UK	169
+lazinghams		4
+evanraskob	London, UK	262
+DevinoDesigns	London, United Kingdom	135
+Julsbo	London	724
+Actonepanto	England	239
+QRKim	Palm Desert, CA	23259
+vboguta	San Francisco	139
+barrylsutton		47
+_SimonEllis_	Liverpool	391
+nate_porta		88
+JulianSelf	London	148
+LucySawin_FH		36
+gfunk1512	Midlands	169
+tamaraelmallah	London	71
+3ThingsToSay	UK	39
+Alistair_Leak	London	153
+_StuartMorris	Leigh on Sea	96
+DomWhiteland		59
+heedidesign	Edinburgh	77
+Diane_W	Aberdeen&Edinburgh	19
+BigDataInsight	London	683
+GaryYoung86		85
+allyandwilbur	East London line	341
+SAINT__H	London	210
+Hanbo_Design	Henley-on-Thames	173
+xavierboug	Copenhagen	181
+scottweston_	Stourbridge	416
+FRO__real	Brooklyn, NY	535
+emily1852	Baltimore-Washington Metro	37
+decorateyermind	Bristol	134
+v3ronique	New York City	1292
+nahtzen	Brooklyn, NY	464
+benatipsosmori	London + Paris	10846
+loura		188
+Sanitarius	N.Y.C.	648
+lonfelesina	Sacramento, CA	227
+marketpublique	NYC, The Internets	4122
+danielleleslie	San Francisco, CA	1889
+thisnewfuture	London	94
+IE_Analytics	David Barton	333
+LaurenSinreich		95
+Leadershipfreak	USA	123412
+chris_strat	London	39
+MikayNeves	425/509	363
+JMBMMusicGroup	Newark, NJ	78
+lauradee	Milton Keynes	594
+PH1LR	London	188
+appliedworks	5 Hoxton Square, London	862
+mikestubbs	Liverpool	1103
+frankdasilva	London | 51.503642, -0.216942	2441
+HotelElephant	Heygate Estate,London, SE17	114
+smiling_wolf	Liverpool	2575
+ericblucker	Seattle	100
+processphoto	London	699
+GregoryMorley	Terra	112
+papalamour	Wales Cymru UK	158
+BeJaiG	London, United Kingdom	9
+ilovecharts	Brooklyn, NY	26402
+bridgenortheast		196
+ingridk	London	3098
+wildlifeinwater	Cambridge, UK	317
+BattyMichael	55N 1W 41-in-the-sky	139
+rarthur_spicy		76
+Open_Data	London	252
+StuartBerry1	Pendle ,Lancs & West Yorkshire	2478
+andrewdrinkh2o		19
+katychuang	NYC	280
+albertatrebla	here or there	362
+uscthanhtan	Seattle, WA	2252
+phillyooo	Wien	20
+Degross_Design		20
+carolineyoh	NYC	39
+vizebooksApp	London	429
+gp__	Northern Ireland	186
+tranchester	New York City	3
+urbanant	San Francisco, CA	445
+_timothyholt	Surrey, England, UK	214
+Jim_Hough27	Chester/Liverpool	109
+Hartnall	London	107
+hollielubbock	London	323
+mali1	Oxford	115
+jimparkery		21
+Eris	NY in body, SF in heart	4521
+stevietint	Altrincham Cheshire	69
+PeteThomond	London	87
+newsillustrator	Qalat-Lagman	454
+ellis_	San Francisco	982
+Cesi_D	Devon, UK	3815
+projectboondock		68
+rethinkEDteam	New York	164
+kayeelelewhy	NJ/NY/CT	171
+sarahhoss	Near the beach, Pembrokeshire	639
+chrishutchinson	Liverpool/Birmingham	929
+tinny_1987	UK	215
+qubird		41
+digital_filter	London	624
+lucykrobinson	Glasgow	698
+JosephHHerrera		82
+Guilhes	anywhere	762
+8787_SFALI	Woolwich.London	33
+hearley88	Banbury	71
+infografiche		5508
+medbukey	LONDINIVM & KONSTANTINOVPOLIS	286
+MarkNilski		49
+allanimateduk	Yorkshire, N East, N West	119
+beccaflei		25
+mcrprintfair	Manchester UK	738
+skulpture	Doncaster	246
+Jen_Devonshire	Glasgow, UK	108
+nacht	London	740
+jaredlw		4
+ShonaMacVicar	Oban - Scotland	152
+eCommerceULVR	London	828
+LiamLewis	Cardiff	152
+mali_LFC		12
+SystemsFunking	richard.craig@bristol.ac.uk	370
+LCCMAP12	Elephant & Castle, London, UK	175
+charlapereira1		7
+Nick_ImportIO	TechHub@Campus	31
+jcukier	Paris / USA	1729
+Splendoid	England, UK	129
+ndalyrose	London, UK	1225
+Digital_tonic	Manchester	378
+JennTforTalent	San Francisco, CA	49
+helenawithH	Berln	197
+Kraig_Walker	Dundee, Scotland	321
+HWattKapitain		34
+MariaC_ampbell	Plymouth	89
+juliareich	Aurora, New York	722
+infinitestrikes		41
+cameracub	Newcastle upon Tyne	119
+angelachuking		1
+benedettafrida		47
+juanvelasco	Washington, District of Columb	820
+NSkreslet	London, UK	158
+living_map		8
+GovindaMadhava	London	334
+fluffyjo	San Francisco Bay Area	759
+Chris_Wagg		6
+Graciee1997	Chorley	240
+KeriKilgo	Los Angeles, Ca	54
+sauceshank24		27
+onlyorca	Bristol, UK	230
+lightgap	California	54
+k_thos	Brooklyn, NY	764
+WeLoveNoise	New York	468
+serdaraylanc	GFY	113
+oura	New York	20
+_irregulars	Manchester, UK	24
+mattalcock	London - UK	66
+BillBarnhill	42.967621,-75.440524	336
+hugotapir	Berlin, Deutschland	164
+isabelachick		50
+alykat	Arlington, Va.	1125
+tiffunk	Chicago	80
+laura_mol	Utrecht, The Netherlands	101
+JackHighLow		86
+FreshMilk_CI	Berlin and beyond	27
+olinhyde	San Diego, CA, USA	2288
+amitVerb	NY	80
+robwardantwerp	Oregon	9
+SiParbutt		87
+timstutts		220
+adamerovich	Pittsburgh, PA	172
+Voice4Jesus	In GOD'S Hands	51
+cassyld		69
+Lweddingplanner	London	152
+DFosterGraphics	Brooklyn, NY	89
+tendrebarbare	Phillandia	62
+NirViaje		76
+erikzrekz	leadville, co	100
+thenuvi	Everywhere	5
+bobettebuster	Hollywood Hills	366
+sfree5	Evanston, IL	174
+LuComnext	Los Angeles, California	142
+markfoxisadj	Living in PDX. Made in MPLS.	328
+sheikhi987		29
+beaudaignault	Los Angeles	18
+SeeDay	Ann Arbor, Michigan, USA	376
+rrichard09	State College, PA	758
+magneticnorth	Sunshine Bakery	74
+rybotron	San Francisco, CA	187
+BZP_Scanty	Not sure, think I'm lost.	19
+amandahmeng		4
+jasonbdunne	NYC	341
+sportsvideos5		320
+nomadicism	Washington, DC	352
+lor_doran	Dublin, Ireland	13
+sincerely_april		285
+FuturesUrban	Toronto	84
+mvasilev	Hudson Valley 	178
+sean_mcdonald	venice, ca	608
+michaeldavis777	New York Dallas Chicago	21330
+yesroger	Chelsea, NY	97
+danflores	San Diego, California	752
+soomean	Seoul :: FL :: NYC	289
+Graphicality1	Los Angeles	257
+SDI_2012	Caracas, Venezuela	6795
+lovelytones		0
+sebastientiscar	Versailles	22
+murilomaluf		83
+Bbvdolly	Chula Vista	25
+ElenaOvaitt	New York, NY	42
+DesignedlyHappy	North America most of the time	293
+scottabel	Earth, San Francisco, CA	8501
+Adaptv	California	2822
+mustarddean		36
+expertmehost	Brooklyn, NY	525
+simontaufique	New York City	243
+vigilantefilm	San Francisco Bay	555
+yardenas	New York, NY	390
+awitt0	Greater Nashville Area	21
+tsentco	Hollywood, CA	63
+gabriela_monroy		8
+rodneyed		25
+BaranovDesign	New York, NY	9
+sobeclan	PENNSYLVANIA	79
+luckylizday	Brooklyn, NY	34
+angepain	Cambridge, MA	45
+natistician		151
+benoit__b	Brockport, NY	171
+longrohs	Los Angeles, CA	65
+erik_griswold	Exiled to Southern California	171
+drbrid	N. Ireland	130
+abbass_sharif	U.S.A.	227
+knqin		224
+zeigenvector	Brooklyn, NY	167
+SDSvisuals	Glasgow UK	124
+GoVuGo	NYC & NC	126
+iconnexe	Toulouse, France	44
+haggistacos	Brooklyn, NY	43
+studiojubilee	London	91
+CSchacter	Toronto	89
+jchaps21	London + Devon	276
+AVW_DESIGNS	London	167
+hanger43	Brooklyn, NY	76
+tommytoussaint		211
+hunvreus	Shanghai	287
+heresyjewels	Clifton, Bristol, UK	35
+PROJECTLAHwood	Hollywood, CA	42
+RupertCook	Winchester and London	353
+jlaynsf	san francisco	57
+santibraida	Buenos Aires, Argentina	243
+cguarata	Venezuela	327
+lisacahill2110		110
+terra823		87
+NomfundoSarah	London, United Kingdom	515
+paulgonzz	Florida	149
+marycz		356
+reid24hrs		390
+bigdatasociety	New York	24
+kristinagnars		41
+rcoddington	Arlington, Virginia	182
+doublek420		2
+StrutNYC	Brooklyn NYC	11
+yesha_bavishi		37
+emotioner	chicago, il, usa	42
+oNattySo	Irvine, CA / Seattle, WA	280
+nuviapp	Everywhere	26
+brunocm	NYC/Manhattan Bch, CA / Rio	225
+Schemawound	CT	105
+benguerrette	Los Angeles	181
+damianogui		35
+LuissandroDelGo	Paris	130
+OclothingCo		132
+sound50pound	Pasadena	4
+alexbowe	Tokyo	599
+patrickherron	The Otherverse	353
+neilhalloran	Austin, TX	41
+peachylene	NYC	64
+TullioDeSantis	PA	615
+PetiteSam	Dallas, TX	1089
+bRcode	Boston	101
+valencamacho	T: 4.700024,-74.040234	212
+DruMMer7918		290
+Many_Vibes		0
+John4man	Atlanta	437
+ChangeCurator	Portland, OR	0
+Brentzel	Pittsburgh	102
+josiekeenan		1
+designgeorge24	West Hollywood CA	4029
+johnauie	San Francisco, CA	296
+HousseynouFall	New York	40
+petermccarthy	Croton-on-Hudson, NY	1360
+FrancesSneddon		71
+HButler2		314
+calderas	nyc	95
+TurnerDouglas	Brooklyn 11211	726
+diane_lindquist	Los Angeles, California	406
+SmudgeTool	Regina, Saskatchewan, Canada	10
+Patrick_Gerland	New York, USA	39
+karin_melberg	Chicagoland, IL, USA	137
+msgleej54	T: 41.322057,-72.957866	217
+m1interactive	Chicago	48
+jpmarcum	New York, NY	1459
+SmithWinthrop	Denver Area	65
+jaytiesse	Cambridge, MA, USA	650
+shannonmattern	New York	199
+Leftywrighty	Dallas, Texas	125
+brucehensler	Pennsylvania	69
+antonmc	Ottawa, Canada	164
+xojoella	New York	181
+arielhaney		47
+patrlynch	New Haven, Connecticut, USA	525
+jenwebs	Portland	194
+Smoothdee29	Buffalo ny	78
+amproehl	San Francisco	314
+rogonegda	 	21
+lindyjb	Left Coast	729
+SylkeGruhnwald	Zurich / Suisse	460
+FauxChenaux	Brooklyn, NY	35
+ibrahimbashir	Bay Area, CA	322
+garzasergio13	OakCliff Texas	31
+mollieruskin	The Big Apple	417
+PANNTTERA		243
+donsleeter	San Francisco Bay Area	24
+Teri_DBC	NYC and Other	414
+datagramdesign		20
+swanninNYC	New York City	494
+AllJournalism	Washington, D.C.	339
+jmw86069	RTP, NC	13
+JMP_UK	United Kingdom	35
+Marcio_Melo	San Francisco	7
+ProleArtThreat	Brooklyn	154
+ifiwereafont	New York City	354
+HibridoDiseno	Mrida - Venezuela	406
+SommerLivia_	LosAngeles	461
+jamesjgrady	boston	280
+dhillenbrand	GSO NC	60
+akcolgan	Sioux Falls, SD	432
+santirivai	Jakarta, Indonesia	810
+WhitneyHCobb	Colorado	46
+Adriaan_6	This planet	22974
+johntmeyer	Sioux Falls, SD	3480
+DIconexiones	New York | Caracas	3612
+alidaltonsmith	New York	158
+cdxtech	Randolph, NJ	84
+thegreenpear		65
+benstukenborg	The Sprawl	230
+thehoons	Portland OR	331
+TeeCurrie	Royal Oak, Michigan 	416
+e_garcialopez	DC	28
+rottytooth	New York City	108
+seeshaw20	NY	133
+AAUWPress	Washington, DC	493
+BlueHenWill	Newark, Delaware	150
+tangoldman		81
+kevinhartman	Chicago, Illinois	282
+vJRGaur	Hyderabad	138
+AbruzzoJoseph		4
+claudioguglieri	New York City	1462
+hoguech	New York	236
+JZSQCREW	31.214145,121.426456	16
+sammmlo	So Cal :D	41
+ser9e	As above, so below	196
+locicerobrian	San Francisco Bay Area	8
+edupaige	Victoria, BC, Canada	471
+uxable	Portland, OR	391
+DesignTimes	Boston	3211
+shalvishah7	India	107
+LiSx2A	Brooklyn, NY	44
+alanjosephwilli	NOLA	444
+SimonWMarks	Belfast, UK	19
+RonRonsnow		3
+Fitsagee69	California	89
+toryhargro	Washington, D.C.	759
+MapsForGood		54
+terrencefradet		9
+PBarlowDesign	Atlanta, GA	63
+olgaprudits		20
+suehawkins	upstate ny	56
+efjcomposer	Philadelphia	18
+kalisurfer	Los Angeles	1522
+DaveHogue	San Francisco CA USA	1494
+SuperiorAnimalX		31
+Deezills	NYC - Los Angeles	103
+thefuturewasnow	Chicago	1107
+mgroeninger	Boulder-ish, CO	292
+MalikFromLA	NYC	323
+dbarthjones		184
+ajmapes		39
+piprojektz	LA/OC	84
+Trenndable	San Francisco, CA	1936
+ChristineCapota	Washington, D.C.	719
+ericklo		24
+kwlczk		43
+davidnunez	somerville, MA	1036
+skairam	San Francisco, CA	1152
+carece	Dallas TX	27380
+MarshaKnight	San Francisco	1057
+srusonis	San Francisco	188
+jedahan	nyc	263
+AleOrmazabalC		48
+pradarize	Paradise, NYC	112
+BlueKyte23	Austin; Aberdeen; Melbourne	400
+jeharrington	Brooklyn, NY	86
+GilroyGraphic	Denver, Colorado	161
+Jen_Bennet		42
+hanleybrand	Philadelphia, Pa	27
+alecuitti	here and there	80
+ericfickes	skatepark or the internets	1071
+RonaMM	LONDON UK	143
+dohug	san francisco, ca	307
+ilovepaisley	san francisco	72
+castrohuercano	Espaa	1
+fcage	New York	350
+gimemoya	Milan, Italy	139
+superturbos	east trampton	35
+IkarianDesign	San Francisco	210
+NASAViz	Greenbelt, MD	2446
+mbh_ns	San Francisco	4
+rwness	Rhode Island	154
+willprotein	iPhone: 48.891889,2.346278	986
+ashdewey	San Francisco, CA	127
+Pusdima_Unmul	Samarinda Kalimantan Timur	162
+MrSnickers	New York City	49
+elizabeth_shell	D.C.	1143
+ojala	Brooklyn	75
+daga_agad	San Francisco	247
+1stworldfatigue		19
+Schmooru		1450
+jonithak	New York, NY	144
+ralyralz	Northern Colorado	29
+MBDineen	Upstate NY	91
+ranimolla	Brooklyn 	693
+All_Spaced_Out		8
+runawaysun	Houston, TX	983
+mi8kue	Schweiz	21
+paulmdavis	Austin, TX	708
+TheWonderLoaf	Chicago, IL	17
+AndrewKarnavas	Houston, TX	1395
+karlwaldman	Canton, MA	445
+LogicMatter	Seattle, WA	51
+vbeauty	iPhone: 40.742733,-74.007468	153
+VivLBC	Nottingham/London	354
+NASA_Dawn	the main asteroid belt	8484
+CalmHam	New York	63
+jurassicshark		81
+dme212		33
+Urifarres		148
+ishawithaneye	San Francisco	96
+HaroldDean1		46
+paulrbrown	Seattle, WA	979
+Johnny_Geezus	LES - NYC	31
+RealAnisRahman	Bangladesh	140
+unsarah	brooklyn, new york	573
+lalabarnett		135
+msozknit	emerald city	23
+viviankamen	Brooklyn, NY	54
+michael_iriarte	Venice - CA	57
+andersweberg	Kllerd, Sweden	282
+semiot	iPhone: 51.520904,-0.105338	355
+JohnBeazley1	Oxfordshire	203
+awfullyawful_	San Francisco, CA	15
+openbracketdes	Hornsey	60
+saaaaaam	London	423
+digitalidea88	Guangzhou, China	1
+dataeverywhere	London	79
+PublicityGuru	Fort Lee, NJ USA	174452
+WUArtsMindset	Rock Hill, SC	142
+br3nd2n		32
+taylorjames9	Los Angeles	165
+sharonmoshavi	Washington, DC	195
+FordFoundation	New York, N.Y.	8293
+kellyegan	Providence RI	88
+blauriaz	New York, NY	92
+redvessels		79
+dereklieu	District of Columbia	352
+brontegirl	Washington DC	1273
+akaiving	Seoul, Korea	2904
+deassoc		67
+drewvigal	New York, NY	15153
+epiraces	New York, NY	1450
+georgevaldes	New York City	348
+mdingle	London Town	174
+willknight	Cambridge, MA	1136
+gleuch	NYC	1357
+cheaptalk	Dublin, Ireland	116
+achanimal	san francisco & new york	54
+mmichaeloverton	New York, New York	16
+andremanning	Dublin, Ireland	98
+ConvergeSF	San Francisco	90
+printsubstance	London	279
+drianbavis	San Francisco Bay Area	182
+cyhung	Washington D.C.	215
+CraigAlanLong	Lawrence Kansas	31
+dontmindthedata	New York	2
+jonnygoldstein	Pittsburgh	1881
+Bridget_NewGirl	Area codes: 864, 803, 610, 814	1044
+duckdracula		0
+lisasigebrand	Stockholm	121
+wearewhitefox	London, UK	136
+JennieJacksonL		254
+MaxiBorge	London 	15
+MrSlash	Milan	296
+MaheshSathya	Mountain View, California	7
+semanticdave		63
+pushstartcreate	Austin, TX	135
+baseline_mag	Kent, UK	5890
+Trendsooner	London, UK	148
+ashpickford		56
+ErikLaurijssen		496
+_ChrisRojas_	Silicon Valley	337
+AgnesCappadoro	France	16
+graphicacy_info	Washington, D.C.	4
+vizthinker	Hawaii	385
+may_86	mexico df	200
+TroubadourRC	Dallas, TX	43
+cullendjackson		4
+small_media	London	237
+jtnimoy	Sunnyvale	1831
+BDataScientist	Seattle, WA	390
+marcmontlleo		74
+TafThorne	Guildford, Surrey	46
+AMQdata		33
+zhoyoyo	Washington, D.C.	68
+WingAssignment	London	107
+antgalvin	Kerry and Cork, Ireland	963
+JPaulNv2	Santa Barbara	28
+thomaz_rezende		68
+Riskworks	Omaha, Nebraska USA	202
+secti0n9	London	520
+busynessgirl	Sandy, UT	3819
+alvarovalino	Washington DC	638
+chucknuflux	Windsor, Canada	67
+Raymondfish	Chicago	54
+gorchov	iPhone: 37.827680,-122.252372	53
+tuomasmas	Helsinki, Finland	850
+GeoDAWG	Arlington, Virginia	1241
+cob_sky	London	67
+Allolex	London, United Kingdom	160
+amirmasoudabdol	Amsterdam, Netherland	172
+Mike_Hawk3	Coon Rapids! Reppin' CRHS	162
+gginthemorning	istanbul	389
+patentinquiry	Seattle, WA	706
+LeilaHaddou		11
+rakhi	London	697
+GregKepler	New York, NY, USA	215
+shkodrov	Redmond, WA	15
+tutman_mm	Gteborg, Sweden	3
+GoStudiosTV	downtown godalming
+	141
+solongsweetlime	Boston, MA	105
+flightws		73
+PublicFig	Bloomington, IN	120
+the_dataist	Stockholm, Sweden	436
+opendataphilly	Philadelphia, PA	1001
+Soldbrand	South London	201
+CesarPicco		9
+PappaManga	Stockholm	44
+DTAndyB	Brooklyn, NY	127
+paulamitai	New York	198
+ntmartin	London/Bangkok	313
+angryuxdesigner	USA	23
+markbulling	London, Greater London, United	150
+ZeynepHG	New York City	114
+prettybobkitty	Athens, Ohio	30
+PoulakisSusan		6
+drjohnlatham	Colorado	108
+TCGPHLPerm		59
+stephendwolff	Dorchester, UK	158
+AvenueMediaNY	New York	40
+Elishee_Design	New Jersey	18
+edgarsioson		2
+joebeuckman	MPLS WTFD	210
+americanwarlord		74
+mjbroadbent	New York, NY	2048
+L_Villamil	Washington, DC & Athens, Ohio	18
+IolandaCarvalho		180
+_YasserAhmed		342
+louisyunghoi	London, UK	455
+Valentina9		225
+Nikizwg	Arizona	188
+vj_anomolee	Dallas, Texas	437
+jeffwetherhold	Cambridge, MA	31
+thedavidprice	Portland, Oregon	278
+iamkimb	New York, New York	175
+ara_anderson	Tampa, FL	55
+Crisnoble	St. Charles, IL	87
+dianestaheli		7
+LRobiner	Sudbury, MA USA	1058
+splitlevelhead		25
+jedbackhouse	London W4 / Suffolk, UK	398
+stephentown42	London	3
+MiriamEMiller	london	34
+josephrobertson	Portland OR	95
+mgualtieri	Massachusetts, USA	23142
+neelieon	Dublin	27
+McDavage		19
+knutbykalle		26
+CarpeDatumRx	Santa Clara, California	42
+Erik_CM	Luxembourg	77
+missbrittanydow	Toronto, Ontario	542
+nigelsussman	San Francisco	167
+dboptimizer	San Francisco	575
+mr_knott_	Limerick, Ireland.	112
+valeriziraka	Georgia, Tbilisi	231
+skulk001	iPhone: 38.927700,-77.055389	48
+rodnylobos	Palo Alto, CA	117
+flyingtrilobite	Toronto	2613
+TimothyBHealy	Long Island, NY	4
+HDScores	Online via HQ in Maryland	22569
+enokafamily	DC	37
+mhkeller	New York, NY	926
+svtpejl	Stockholm, Sweden	434
+rhsherer	Brooklyn	53
+cornfact	manhattan	65
+johnrodat	NY & NH, US	339
+VIA_PGH	Pittsburgh, PA	1157
+candidopris	Toronto	58
+danphelanlondon	London	461
+IlmIvy	New York, NY 	19
+AndrewSaftel	Tennessee 	179
+magpie_diaries	Leeds/UK	190
+rosstallan		11
+luxylike	London	501
+agencyfdesign		112
+FedericoBorello	Alba/Torino	41
+bradpottle	Toronto	293
+thisismikep	Las Vegas	97
+shiondev	Houston, TX	489
+MichaelDeutch	San Francisco	3415
+audrey_aaa		25
+nofakesandyhere	NM, but missing TX 	123
+HeatherABarnett		56
+xsrossiter		29
+brandsteve	Portland Oregon	716
+julieanixter	NYC/DC/Hudson River Valley	737
+FayNicolson		81
+ExtremistNo1	Latvia	105
+simonbaier	New York, NY	207
+DiraJenna	Saint Louis	137
+iseaRedlands	Redlands, CA	29
+StevenMerenda	New York, NY	161
+hirumianajones	Brooklyn, NY	148
+Julie4equality	Long Beach,CA	515
+TheLastLovemark	Made in New York	633
+joseduarteq	Bogot	405
+johannaberg	Stockholm 	519
+elguary	New York	329
+Roofzoo	Dundee/Glenrothes	175
+tanbamboo	hangzhou, china	165
+unicornix		0
+ajservis	Pittsburgh, PA	120
+suneelgrover	New York, NY - USA	88
+SunniBrown	Keep Austin Weird, TX	7645
+RubyOfnt		5
+timohoyer	Palo Alto, CA	264
+fer_gandara_a	Amherst	83
+drouin_simon		17
+RidAlem		83
+kaplanukmobile	London	62
+dupre	Santiago de Chile	320
+osianllwyd	Dalston	3
+leepmon	Washington DC	243
+eneylon	LV-223	271
+FlyingJSquirrel	Ottawa	157
+bdussault	Montreal	51
+MimiVuong	The Original 416	229
+akanoodles	London	256
+j_l_kelly	SF + NYC	133
+michaelwgreen	Kent, UK	115
+katiemercer	Vancouver, British Columbia	1434
+AbbottKatz	London, UK	70
+freakonometrics	Montral, Canada	2675
+joseolivares	Brooklyn, NY	184
+lucidhole		306
+Jamie_Shoard	Epsom	206
+AaaLee	London,UK	136
+piteta87	New York, New York	17
+mpeers	Greater Toronto	762
+savannah_holder	South Carolina	194
+howard_iv	New York, NY	146
+mavericktek	DFW, TX	2
+duswain	London	295
+PraxisLIVE		18
+ajstarks	iPhone: 40.635453,-74.421894	382
+nicolawass1	Liverpool England	159
+ezstbogncs		4
+mnosal	Boston, MA	38
+Andrew__Fox	London, UK	426
+mlascarides	brooklyn, ny	705
+atldataviz	Atlanta	6
+ElianeVdB	Manhattan	28
+BlueHenLeslie	University of Delaware	69
+VisualMining	Rockville, MD	1138
+AlPidgen	Chester, United Kingdom	10
+kikidc	Washington, DC	75
+Westglow	Milton MA	24
+Elektrafestival	Montral, Qc, Canada	1702
+nico_ogden	Provo, UT	63
+itirinois	Ciudad Abierta, Valparaso.	354
+mikewragg	Oxford, UK	179
+teedubolya		63
+MattSoar	Montral	220
+erinhauber		80
+robdunne	Manchester, UK	486
+Michel_in_space	London	772
+stratstream		15
+scarahnellis	London and other places	924
+SuccessBL	Jane and Finch to the world!	367
+Andy_Millar	London	201
+joanebeaudoin	Lake Orion, MI	172
+IDMorton001	Edinburgh	67
+katedoornobos	San Francisco, CA	134
+NamiKinc	brooklyn	69
+cebperry		9
+4_cast	Puslinch, ON Canada	44
+shaundubs	Austin, TX	247
+nunovargas	Palo Alto, CA	676
+KosherPeter	Da'gal'gai	145
+ux4science	London	166
+overskilling	Edinburgh	58
+mahsaiam	New York	158
+ImranNazirMir		10
+npscan		13
+KevinRMitchell	Woodbridge Suffolk England UK	557
+katiemccurdy	burlington, vt	770
+ChelseaRising	New York	2491
+infographichelp	Miami, Florida	43
+MrSiWhiteley	London, UK	68
+ryansullivanuk	Manchester UK	64
+ZerofiveLtd	Leicester	74
+Montrepreneurs	Helena, MT	168
+IttyBittyArtist		54
+Raw10Production	Ohio	555
+gibsonhall		194
+tentfortwo	San Francisco, CA	19
+TuringSunflower	#mcr #uk	761
+graphiclet		22
+cliehr	London	25
+peterbone_	Cambridge, UK	18
+emh	Vancouver, BC	612
+alembicdesign	Herts/London, UK	159
+jlayla_shoe	Calgary	137
+STUDIO_DOG	Dog basket at SystemFX!	27
+lexhag		25
+thejemalshow	San Francisco Bay Area	516
+CdnCarto	Canada	208
+wright_anything	Newcastle upon Tyne	33
+AFortioriData	Grad student @ Columbia	4
+chrisbayleyyy	Manchester	272
+alandstanley	Brighton, UK	205
+dilwich007		216
+themba	06520	1445
+karikraus	college park, MD	1415
+jcrary	Minneapolis	12
+ukgav	Birmingham, UK	808
+GEOpdx	Portland, OR, USA	2582
+MattBird_UKCES	Sheffield	196
+greeneracres		357
+divadpoc	Graz|Styria|Austria	27
+jmwjmwjmw	Bellingham, WA	199
+W_Whit	New Hampshire	61
+elizacormack	Boston, MA	471
+infogr8	London // Los Angeles	259
+thaneryland	London	251
+repoocyaj	Ashland, Oregon	22
+daltonparsons	Stillwater, OK	1335
+emma_feerick	Galway/Dublin	710
+seanboon	Snoqualmie, WA	647
+cityforward		3872
+EmpowerMM	Cincinnati, OH	2537
+ErikaMudrak		82
+max_little	Norwich	198
+vickybuser		110
+nubedehelado	San Diego, CA	155
+danielhoang	Seattle, WA	1531
+MarkusIsSocial		17
+northCee	somewhere off the M62...	80
+nypl_labs		2089
+wassx	Here and there,...	55
+martinstabe	London	4132
+NewMediaMary	Toronto, Ontario, Canada	980
+longarche	Atlanta, Georgia, USA	15
+mikewirth	North Carolina	893
+tvargs	San Francisco	119
+robturknett	Austin, Texas, USA	123
+LL411	Austin, TX	236
+Richard_Maddox	Austin, Texas	168
+finnneuik	London, Grobritannien	82
+hfairfield		1052
+pablocomotion		262
+AmyKett	Manchester	448
+hollyvann	Augusta, GA	40
+sbhatt	Seattle	752
+oneonth3run	destination undefined	50
+SamuelBrownUK	London / Sheffield / Paris	42
+RommelRuiz	Los Angeles, CA	368
+cognitiveloop		27
+AllysonMaturey		30
+FanfareForArts	Hanover, NH	64
+MillmanRandi	WHERE EVER LYN HEART IS :3	592
+eelert	Brooklyn, New York	212
+omarrr	Don't call it Frisco	404
+JoeHinton		11
+mariascileppi	Chicago	547
+imelda	houston, tx	1103
+TheBuzzRadar	London	84
+munkyfonkey	UK	3376
+KMimagine	SF BAY AREA	577
+banksean	San Francisco	603
+isaacobezo	Seattle, WA	31
+SAP_VisualEnt	Global	49
+robertobelo	London, UK	586
+G_SCREEN	London / Worldwide	135
+MonaChalabi		204
+Angel	Los Angeles, CA	5929
+Themistoclea	Ubiquitous	227
+amyburvall	Oahu, Hi	1150
+kcrowebasspro	San Diego, CA	353
+lohiggs	Boulder Colorado	183
+infographer_ru	Moscow	613
+amyleerobinson	Cambridge, MA	1122
+TomasFlodr		4
+wwfalcon	By the river	99
+Urban3DModeling	Harrisburg Pennsylvania	55
+CJWizzle	Wolverhampton | Leeds	226
+l_lysakowski	San Francisco	246
+billdeandc		17
+mike_leech	seattle, wa	134
+adelaide_chen	SF Bay Area and LA	144
+oscarj	Sheffield, UK	77
+divyakkm	Mumbai	95
+lamthuyvo	New York	1605
+PeteAnsell	London	36
+mjcarbaugh	Raleigh, NC	56
+nathanbussiere	Austin, TX	62
+ccaryl	Washington, DC	885
+BUBBLEDit		85
+Gillespie411	Cleveland, Ohio	393
+philvb		78
+ptak	Asheville, NC	1958
+analysismktg	Tring, Hertforshire	178
+mikeyernst	New York City, NY	550
+HullTube	Hull	632
+aliciadesantis	New York	117
+theDANtheMAN	New York, New York	111
+2nplus1	Cardiff	374
+coobytron	Riverside	34
+JeanneDeBont	Netherlands	133
+danpottertweets	Windham, NH	197
+JMP_software	Cary, North Carolina	1023
+Dusty_Cole	Tucson, AZ	121
+BusinessBigData	New York, New York	147
+openprocessing	New York, NY	3276
+garylmjohnson	minneapolis	223
+druggy21	West Midlands, Uk	204
+ywallin	New York City/Berlin	333
+kbapur	Cambridge,MA	23
+TimothyZak		2
+hernan_jaimes		45
+animadver	Beijing, China	117
+jthomassie1	38.932, -77.218	364
+SKBeckerCoach	New York, NY	330
+hodgsonac	New York, New York	425
+frankieindc	DC or Africa	20
+ktransier	Seattle	176
+eleonoreft	New York	45
+rsbridge	Newtown, PA	32
+redindhi	San Francisco	507
+happymonday_ca	Toronto, Canada	109
+alyblenkin	New York	71
+trinachi	Chicago	629
+tilotheterrible		6
+HYPERSONICED	Brooklyn, NY	61
+everdenepublic	westport	70
+genes2brains2me		43
+ajenncy		1
+nikkimc	Ann Arbor, Michigan	562
+roryjeffers	Belfast	581
+objectgraph	New York	287
+rosiecima		51
+MarthaRussell	Silicon Valley	287
+chartio	San Francisco, CA	895
+liza_stark	Brooklyn, NY	102
+rawrccd	Caochangdi, China	15
+albertoconti	MD, USA	781
+ErieSunsets73		16
+FathomOnline	Cleveland, Ohio	4669
+dcardo	Central PA, Cambridge, Bogot	294
+RKinBangalore	Bangalore & Washington, DC	96
+olapersson	iPhone: -23.566254,-46.653793	915
+esubialka	Minneapolis, MN	7
+lifewinning		131
+14eleven	Houston, TX	574
+armortech		1
+adam_r_cook	Portland, OR	14
+jrmontag	Boulder	1392
+AviOnWire	SF Bay Area	32
+ManageFlitter	Sydney, Australia	100230
+vavpan	midhigan	152
+coffish	here	183
+Dan_CARINO	Los Angeles	496
+katdowns	Washington, D.C.	1716
+FreeRangeRsrch	Washington DC	69
+ProntoInfograph	New York, NY	19
+paldhous	San Francisco	630
+woodmaps		51
+BlindsDotCom	Houston HQ, serving the world	870
+marcrobichaud	San Francisco	29
+HuangHaoshan		5
+brady	San Francisco, CA	10789
+danleedesign	Ottawa, Ontario, Canada	246
+ohhaidavis	Ottawa, ON	195
+DianaOnTheRoad	Hildesheim, Germany	140
+ammunitiongroup	San Francisco	1102
+catannaberger	New York	178
+xplane		4191
+ryanhatesthis	Astoria, New York	1417
+alisonKotin	Boston	55
+mobrumbach	Boulder + Philadelphia 	134
+Flack_Me		36382
+martinemme	Berlin - Venice	170
+siteations	NE metropolitan corridor	48
+DouglasMason10	San Francisco	34
+dismalscience	Washington, DC	208
+anarkhosr20		72
+pizawL	Toronto, ON	538
+GilbertMizrahi	Greater Boston	573
+statisticscom		37
+bFenstermacher	Seattle, WA, USA	499
+lazslo	NYC	54
+JesshichiZhang		12
+mgulledgeNL	Springfield, Mo.	96
+Tidhar		245
+1973MikeS	Western Connecticut	0
+smelendez	New York, NY	382
+jottadotcom	London	5842
+brizini	new york	125
+basicsbible		1089
+datadump_	Yogyakarta, Indonesia	9
+SeanCHairston	Newark NJ	160
+ryansholin	Loudoun County, VA	5994
+stochastic_jedi		97
+pcolombo		310
+diligentrocket		7
+espatial		978
+msawired	New York, New York	193
+anelsona		618
+gustad	New York, NY	732
+nisha_isha		101
+rubinafillion	Brooklyn, NY	1934
+matushiq	Prague	898
+citrusgruen	Dresden | Berlin	24
+AlanWunsche	Toronto, Canada	804
+tecky_becky	new york	115
+janicesunjoo	New York, NY	136
+benbendc	College Park, Maryland	2516
+Hankish	San Francisco, CA	105
+gnrtvdsgn	Germany	1495
+davidoldham	Salt Lake City	669
+KirkDBorne	George Mason University	592
+nascif		5
+noomerikal	los angeles	177
+I_am_LeighLeigh	Leicester, UK	1938
+EsselRao	Steel town
+	80
+mattVDiLeo	DC Metro	415
+francamps	Brooklyn, NY	119
+Alejandral	DC	1384
+mTriDesign	DeKalb IL	97
+sgourley	San Francisco, New Zealand	3609
+XPTR	Globe trotter	407
+eddie_satterly	Denver, CO	84
+jamiethalman	Los Angeles, CA	153
+cleverfranke	Utrecht	645
+hannah_davey	London	236
+palosmalosojos	Mxico D.F.	89
+Junia101	San Francisco	27
+yoditstanton	London	77
+designbypst		174
+emilykmaguire		29
+jde123		392
+wait096		166
+myspacebooktube	space	133
+abhik1368	Indiana Bloomington	120
+LoChausson		4
+aileengemma	New York	323
+desert_stars	New York	2
+SydRMartin	Seattle WA	142
+kristathomas	T: 34.064306,-118.37251	3669
+VisceralBiz	Everywhere	375
+evalottchen	Li-La-London Town	2777
+rkdd	Chicago, IL	264
+henri37	Estonia	122
+rosieisatwit	London, UK	205
+antonyu0400		0
+AsherSAli		3
+michelleminkoff	Washington, DC	2490
+monicaulmanu	Bucharest	555
+debsbalme	T: 40.770997,-73.867169	410
+tiam_t		21
+foundthings	London, England	24965
+_erik_k		848
+misterdaikon	San Francisco	121
+chunglinwen	Cambridge, MA	41
+ApacheGeo	Everywhere!	116
+greg_pond		91
+148	Versailles, France	1454
+dancow	New York City, Eastern half	3898
+Riki_Neill	London	201
+thorlakur	Iceland	226
+ffffffco	Brooklyn, NY	53
+pfanderson	Ann Arbor, Michigan	8532
+kosystems	Fairfax, VA	21
+Dea_M	Asheville, NC	369
+barkingcatsUK	London	98
+FatBlood	Brooklyn, NYC	2450
+danielscottd	Pheonix, Az	59
+dolleebee	NYC	314
+AlliArchitect	Brooklyn, NY	312
+Annemcx	London UK	4542
+Umang_A	Washington DC	52
+allenday	Los Angeles	131
+jamesholwell	London, UK	66
+carolinebeavon	Birmingham	2230
+knomsu		2
+MadeleineBarry4		13
+wzhou7	Knoxville, TN, USA	9
+spatafio	New York, NY	1081
+jessiarrington	Brooklyn	4692
+fjoiner	DC	372
+resonate_io	Belgrade, SR, 21-23 March 2013	1919
+cpanetta77	Washington, DC	348
+buildingeye	San Francisco and Dublin	156
+rrddrr2	New York, NY	15
+joshkitlas	13210	602
+danjbecker	Athens, GA	285
+Hernan_Pisano	Miami, NYC, Santiago.	466
+medenfield	Savannah, Ga.	518
+jgbos	Cambridge	31
+seereadnow		43
+thom_nic	Pawtucket, RI	213
+YWorlds	Minneapolis & New York City	151
+Web5Drupal	New York City	136
+sigpwned	SF / Austin	672
+LCucinotta	Brooklyn, NY	904
+aeaiaa	London	684
+StephenBeckett	London, UK	81
+marmackay	London	204
+lmeccouri	Springfield, Ma	10
+joyclee	San Francisco, CA	593
+danee_economics		1299
+neilbudde	Philadelphia, PA	1794
+ERES_KAYROS	New York	252
+joshblake	Woodbridge, VA	1919
+marshallk	Portland, OR	44089
+alvinmartinez	Westchester, NY	480
+dbl001	New York	29
+avoiland	Washington, DC	303
+Jwrong	 USA TX 	555
+thrashlab	Los Angeles	3406
+infografiacc	Caracas, Venezuela	5532
+luiscarli		134
+lopezjohn639	USA	76
+marciamarcia	Staunton, VA	12521
+bretdr	Cincinnati OH	3
+luckorchance		67
+cydharrell	San Francisco	987
+theASIDEblog	Roslyn, New York	900
+CSRware	San Francisco, California	1073
+jkeefe	New York City	3163
+patrickgage	Albuquerque, NM	671
+RightConnectAP	Asia Pacific	1
+hanelly	DC	10405
+powerfulpoint	New York	997
+madtab	New York City	154
+ashbhoopathy	Seattle  San Francisco	1382
+stephenhandley	USA	392
+edd	California	4326
+Projectempiretv	Brisbane	261
+Humantific	New York	1101
+markbolgiano	Washington DC	354
+AndreasWiener	Hamburg	101
+lothsg	New York	99
+jscarto	State College, PA	176
+mlouca	cupertino, ca	188
+graphic_bM		3
+ClimateComm		1380
+VanillaCrash	Barcelona	182
+Kaperas		662
+Dataista	Miami, Santiago.	71
+zeruch	Silicon Valley	335
+jihiitea	New York, New York	161
+samcroswell	Oceanside, CA	50
+tedlee	Toronto  NYC	540
+eksyzed	New York 	12
+nikhan	NY,NY	183
+metalabharvard	Cambridge, MA	2041
+ezequielpaura		228
+rayna_breuer		41
+RezaAli	Palo Alto	1016
+jennymlavelle	New York	752
+wiltfried		84
+jatorre	New York	1872
+kyleprojects	Manila	128
+AurashKhawarzad	Brooklyn, NY	912
+zenontc		22
+alliearisu		14
+cms_	iPhone: 40.712555,-74.004471	473
+MoodleyDylan		16
+rosknopov	USA	276
+maximolly	that's a good question.	2577
+annahrw	New York	112
+bstein002		12
+getkaizer	BLR	483
+bshoick	New York, NY	206
+GestaltenNews	BLN, NYC, LDN, TKO	5607
+matthewepler	New York, NY	118
+plugisto	Munich, Germany	40
+jmulkeyartist	louisiana	177
+abc3d	London, England	1709
+jesse_fish	New York City	77
+ohheyclaude	Sydney, Australia	223
+ThaSmig		23
+anebotoh		222
+TWProf1	Illinois State University	112
+_philroc_	Bordeaux	19
+lpm7	San Francisco 	50
+wblut	Bruges, Belgium	605
+the_wrangler	UCLA	2240
+monopage_str	Stuttgart	16
+shineboa	south Korea	299
+Jeevesmeister	Brooklyn, NYC	436
+AllanWalkah		23
+DeuVerstehen	Facebook	94
+MacDiva	Worldwide | NYC	6032
+ClaireAshley	NYC	315
+BNKetti	PSU	124
+ducksoul99		6
+aasmundos	Oslo	41
+elineschmeets	The Netherlands	79
+idnworld	Hong Kong	10232
+mimiosity	New York, NY	90
+arctic_sunrise	Coventry, UK	808
+elenazordan		44
+GregTIBLE	Paris	275
+sowlseed	Thailand	30
+Shocklee	NYC & Worldwide	7722
+hebchop	iPhone: 38.791939,-90.326996	439
+jacalynclosurdo	NY,  NY	23
+snajmi	San Francisco | Honolulu	518
+0065paula	39.112163,117.19044	87
+signal__noise	London	131
+acatisacat	MADE IN DUBLIN	578
+klagueux	Newburyport	27
+nobukoNY	NY	36
+expereal	New York	61
+Redleaff	Sydney	92
+Waosolo	Choc - Colombia	2460
+PopChartLab	Brooklyn, NY	4090
+oculusbusiness		0
+n_dayspring		16
+pixelbeat	Buenos Aires	1187
+marijerr		258
+yonester		10
+feedbooth		266
+pcheung630	New York | Miami | Hong Kong	767
+caitlinclancy_	Mancunian in London for now	69
+thomaspaillot	Montpellier	16
+abmakulec	Washington, DC	1610
+ppulchrum	Espaa	7
+camoesjo	Oeiras	845
+CarolynMPowers	Washington, DC	46
+fromthehip	Brooklyn	5554
+schatmandu	nyc	63
+buzzdata	Toronto, Canada	1249
+amandamcdc	NYC	1020
+debraeanderson	New York City	726
+studiolakmoes	arnhem	455
+OC_Data	Europe	6
+info_innovation	Washington, DC and global 	553
+citizenplanner		136
+DKNGstudios	Long Beach, CA	2923
+eric_klotz	San Francisco / New York	95
+moiraeve1		1001
+richb69		22
+vmullerfr	Paris	550
+bethjansontfi	New York, NY	832
+AlisonSeaman	Regina, SK, Canada	437
+ashjeyes	Hopefully near the sea...	113
+betonytaylor	London	911
+AlexandreSitbon	Boston, Massachusetts, USA	73
+mshashkova	Moscow	19
+shawzilla	Houston, TX 	310
+hannieyama	Amsterdam	43
+juanfrans		44
+calxdesign	Brighton, England, UK	315
+Aleks_Todorova	Silicon Valley	1980
+SoullaStylianou	Birmingham, UK	1619
+AlexGeller_		17
+emilymiethner	New York!	2504
+transcendla	3350'15.15N 11823'26.35W	42
+HELLOANDCO	Los Angeles, CA	1770
+SoapSudTycoon	South Africa	65
+xy_feng	40.719387,-74.000559	195
+_kiwicomm		24
+Aleb_Z	Internet is omnipresent	478
+giorgialupi	Milan	624
+frethkr		0
+ToyeTweets		191
+hope	Join the mob @	355289
+deb_lavoy	D.C. Metro (burbs)	2119
+christianbeil	In the Nexus, hopefully	107
+JohnDC	Brooklyn, New York City	920
+ExpoViz	France	239
+GraveyMcGraves		44
+Ad_Juster	San Diego, New York, Seattle	122
+magpieriff	Boston, MA	204
+J3tt4tur4	Brighton / Leeds / NEL @ ER	411
+datapattern	Minneapolis, MN	9
+GMSanFelipe		25
+Who_sHOU		790
+davidchatting	Ipswich, UK	345
+abbasmm		21
+GCBAdata	Buenos Aires, Argentina	2158
+nichom	Corvallis, OR	90
+LASHirsh	Triangle, NC	110
+medeiros_rod	recife, pe, brazil	516
+sznichols	Baltimore, MD	36
+helloimjanine	Berkeley, CA.	57
+flearned	Wonderful Land of Oz	109
+enzondio	Raleigh, NC	287
+Between5Bells	Geelong, Australia.	500
+eleanorpd	Mercer Island, WA	519
+MattHeusman	Lincoln, Nebraska	321
+allie_hustle	Chapel Hill, NC	129
+OhThatNumi	New York	329
+Greendrv	Louisville, KY	1541
+ariazou	Cambridge, MA	4
+AmberEuros	Worldwide	651
+grantbrewer	South Africa	210
+_fflores	Melbourne, Australia	23
+lohjianhui	Singapore	44
+mccNYU	New York City	598
+mesunsan	brooklyn	75
+ninabakes	San Francisco, CA	98
+sg_williams	London	144
+MarijaMatesic	Zagreb	1256
+ReadandProsper	Washington, D.C.	53
+RaikoMoeller	Potsdam	6
+aidenbenton		39
+julienbayle	France	711
+kmukerjee	Washington DC	133
+JojoMalig	Philippines	3764
+valleysboy	Newry in County Down.	273
+TierneyODea	Austin, TX	1645
+Sciortino_Mike	Chicago	144
+malarv	Washington, DC	62
+EddieChen	New York	17
+future_ish	Seattle, WA	549
+kklawless	Toronto	608
+canvasnewyork	new york, ny	436
+blythest		284
+codymastel	Minneapolis, Minnesota	111
+SimpleReach	New York	1004
+frprosper	Paris	160
+kenji_special	Hamburg, Germany.	278
+minsun_design		83
+vero_gypsy		123
+create_discover	Manchester, UK	700
+playoutpt	Lisboa, Portugal	127
+obviousdesigner		379
+mstrategist	Scottsdale, AZ USA	28011
+fastplants	University of Wisconsin--Madis	1191
+pnts	New York, NY	1068
+WoolfDesignsPMF	Norwich, UK	490
+thildalin	London, UK	275
+markglowski	Santa Cruz	7
+SQUARE_HQ	London, New York & Paris	17036
+imaginexp		71
+danielqsegura	El Nvuevo Mvndo	231
+lmanningdesign	NYC	238
+mary_franck		122
+qunb	Paris	373
+_ph_		140
+Siya_Nhlumayo	Johannesburg	167
+ResonNTegrity	Melbourne, Australia	64
+bolo_bao	San Francisco	117
+CregVanEtten		31
+hvergara	Santiago, Chile	1547
+HoustonHasHeart	Houston, TX	63
+nowespy	Seoul, Korea	667
+martinalejandro	Buenos Aires, Argentina	1208
+billyprophet	Central Florida	224
+AudraCoulombe	New York City	85
+imtimhanlon	Melbourne, Australia	968
+corythesaurus		32
+reidwt	New York, New York	124
+jasonlucey	Portland Oregon	91
+GradStudentLif1		41
+pravinv_		8
+darh78	Anywhere	57
+mcfarljo	Regina, Saskatchewan, Canada	1432
+Brianstaats	Orange County, CA	213
+sociallibris	Seller of books	403
+digitalprintbiz	Ireland	429
+datalicious	Sydney, Australia	6720
+natera	20.709541, -103.374444	775
+annieliao		116
+duichmckay	Glasgow, Scotland	53
+eyeofestival		3697
+jabberwo	leeuwarden	19
+K_A_Productions	Texas	3120
+albertocairo	USA, Brazil, Spain	6019
+jonnymorse	Brighton	199
+nathan__watson	Toronto, Ont.	148
+agbegin	San Diego, CA	977
+pnavarrc	Santiago, CL	95
+jacgenet		18
+karendoore	Dallas, Tx	5
+cansaglam	Istanbul	44
+skaalnes	Stockholm  WWWorldwide	1089
+dramalho	Setbal, Portugal	1339
+sacred_kau	New York, NY	168
+VilleMolander	Copenhagen S	26
+bwhontwerpers	Leeuwarden	164
+alia_o_f	Brooklyn, NY	177
+mutabazi	Washington, DC	215
+thedavidfallin	Birmingham, Alabama	36
+yamini	Atlanta, GA, USA	449
+_kato	braunschweig, germany	29
+wallacetim	  New York	335
+bodenlos	Connecticut & New York	43
+eb_rmc	Chicago, IL	98
+juditlayana	London	120
+haaghaus	San Francisco	81
+pentagram		94986
+Siobhan_Eval		24
+karynrossen	Melbourne, Australia	204
+sthrdgDNR	38.837155,-77.104217	7
+ariariarik	Surabaya	23
+TheMoleculeVFX	New York, NY	910
+peterarvai	SF and Budapest	1918
+GEschwartz	home	44
+missybiring	Shoreditch, London	18
+MisterEscorpion	Mexico City	415
+scenesinthecity	Montreal	80
+poezn	San Francisco	413
+seb_it		35
+mercifr1	France	24
+decode_	iPhone: 43.783850,12.675266	173
+JeromeBouthier	Paris	418
+murakimari	Palo Alto, CA	13
+tikkers	NYC	3981
+somewhere_nono	Earth	289
+joaotiago	Aveiro, Portugal	587
+MercPai	San Jose	616
+readwriteit		0
+mdorn	T: 40.91359,-73.05575	591
+Venngage	Everywhere	540
+justingoskydive		1
+daylonmw	Lutecia	160
+datatelling		1137
+aplusplus	Berlin	528
+We_Do_Data		565
+DataRemixed	Los Angeles, CA	417
+JohnKitover	JohnKitover.com	450
+hamcake	Winnipeg, Manitoba, Canada	707
+ALT74	DC, NYC, Dornbirn (Austria)	232
+yagmourian	San Francisco, CA	127
+ir4mpcc	Nebraska	21
+GSMIgreen	USA	405
+treasa	Ireland	859
+cromerot	New York	78
+JMistiaen	Washington, DC	60
+a_b_morrison	Cincinnati	16
+distantshape	Madison, WI	63
+scottjanousek	Where are YOU? I asked 1st.	1805
+mk_david	milano	127
+iamctodd	Boston (Somerville) / Madrid	1303
+GabbiCahane	London	1031
+birkut	MexDF	504
+peterpaulrubens	Berlin	319
+ichicco		20
+gardner21566		8
+ptvan	San Francisco | Detroit	370
+PelarraSanti		447
+zehnzehen	Mnchen	128
+82unpluggd	Houston, TX	97
+chartball		193
+LNdata	Buenos Aires, Argentina	2439
+bolafsson	Evanston, IL	290
+mwtree	Seoul, Korea	113
+ebethcomstock		0
+blprnt	Brooklyn, NY	12056
+myampol		28
+der_no	New Orleans, LA	406
+hellomista	Sydney!	228
+obahama	State College, PA	239
+darius_morawiec	Stuttgart, Germany	257
+correajfc	Donde el viento me dej.	863
+anilopez	 Vancouver, Canada	1579
+Aerocles	New York City	6871
+murnane	Annapolis, Maryland	1006
+HBCompass	Juneau, Alaska	157
+kaosbeat	Ghent	286
+vuokko	New York, NY	1396
+CarlaBerrie	Kelowna	33
+janwaechter	Zurich, Switzerland	265
+cotdp	London, UK	373
+njgriffiths	NYC	80
+halsey_	New York City	163
+kenbot	New York, NY	726
+blogbrevity	Jacksonville, FL 	7728
+mandymcm	DC	239
+polishedsolid	Philly	240
+sfhostel	San Francisco, California	69
+kemper	Madison, WI	91
+carboncomp	Cardiff	17
+ndrewg	Toronto, Ontario	514
+refikanadol	Los Angeles	882
+djspooky	New York	5718
+PhilLaliberte		20
+aldenwoodrow	Berkeley, CA	93
+sa_rah_hen_dy	Melbourne	17
+pcollellmir	T: 41.305258,2.060463	116
+nadinebruder	Berlin	231
+smithschoolsean	Washington, D.C.	25
+infosthetics	Leuven (~Brussels)	12152
+earth2travis	Texas	1471
+wiringdevice	Bangkok	189
+kod3000	planet.earth	310
+ctc2501	Philly -- NYC -- SF	99
+uptousnews		63
+mjane_h	Portland, OR	623
+transvisualorg		27
+salimmitha	London	677
+CamSMatthews	San Francisco, CA	20
+chrisrivard	Portland, OR	354
+juliustroeger	Berlin	637
+marcyvalo1	Milano	78
+_Mortimer_	Je tiens bon la barre. 	129
+datahh	LA / DC / London	315
+medriscoll	San Francisco, CA	7457
+KarenBastienOK	Paris	2739
+Mapitup	London	223
+theowatson	Amsterdam	2834
+smfrogers	London	4748
+akcamiwik	iPhone: 52.684311,-2.446823	634
+hub_collective	Portland, Oregon	505
+stevevarga	Brooklyn, NY	337
+landike	Ukraine. Ivano-Frankivsk	965
+Lord_Winkleton		112
+JanWillemTulp	The Hague, The Netherlands	2070
+BohyemianSong	Seoul, Republic of Korea	436
+ran_so_fast	DC	40
+brightredchilli		28
+paultauk	The Cedars	5
+jandersen	San Francisco, CA	1111
+renatobonomini	Milan, Italy	141
+sboak	San Francisco, CA	210
+edwingprod	Stuttgart	453
+shawnbot	San Francisco	1937
+eric_hochhalter	Austin, TX	11
+adilrazakhattak	Islamabad	5
+GlobPeaceIndex	global!	5243
+Aunalytics	Chicago	93
+skquinn	Houston, TX	4344
+gdequeiroz		130
+lakraft2011	lagos,Nigeria	118
+dataswine		5
+troyyoung	san francisco	709
+driven_by_data	Germany	3074
+visualbudget	Austin, TX	116
+patrickkeenanme	San Francisco, CA	759
+makersnfounders	montevideo, uruguay	213
+visualecon	NYC area	1773
+wiederkehr	Lenzburg, Switzerland	978
+Antoon2112		2464
+blakepleasant	Chi-Town suburbs	201
+dare_anne		0
+lesliegrignon	Chicago/Delaware	229
+talin_vt	Houston, TX	434
+menadler	Chicago, IL	154
+CivicLabChicago	Chicago	178
+SchoolOfData		880
+betterfly77		37
+carlocarlotze		2
+jessicahagy	Seattle	7835
+enf		2599
+katyh629	Houston, TX	53
+VisionsCarto	Paris Arendal (Norvge)  Riga	2584
+jshugars	iPhone: 37.488255,-122.229851	973
+crackerfactor	Toronto	151
+brian_root	New York	119
+Francois_Nguyen	Paris	40
+vivitoon	Manhattan	56
+mimosin8	Chicago, Baltimore	175
+Koshedzhiyska	Rome, Italy	36
+tonydenchfield	Madrid, Spain	26
+DiegoLSarmiento	Santa Ana, Costa Rica	230
+jasonlankow	Orange County, CA	5312
+GimmieGraphics	New York, New York	647
+Bimbos365Club	San Francisco, CA	2107
+CedricKiefer	Berlin	1076
+pitchinteractiv	Berkeley, California	2814
+tarafusco	3555'N, 07906'W 	80
+emmajemm	New York, NY	227
+danielsouza	Brasil 	1541
+rudolftitl	Vienna, Austria	205
+Nicholas_oco	Madison, WI	39
+Wiene	Amsterdam	48
+toby365		23
+Ahtyah		25
+skizzler	San Francisco, CA	62
+marianne_m	San Francisco, CA	2200
+chabbzilla	NYC	38
+chrisspurgeon	iPhone: 34.159605,-118.370247	881
+L8SmartLight	San Diego, Madrid	353
+we_are_CUP	the Center for Urban Pedagogy	378
+cmeledo	Paris, France	309
+ArtenTheCurator	Namibia + South Africa	183
+skyrilldesign		11616
+riesenwildschaf	Hessen	1
+ExtraditionGame		9250
+SunFoundation	Washington, DC	19331
+stixmcvix	Crouch End, London	56
+SyncaddSystems	Honolulu, Alexandria, SoCal	53
+wicked7578	nyc	40
+dougrausch		17
+jaymfriedman	Plano, TX	400
+mandalatv	Harrisburg, Pa	524
+mariuswatz	New York	5433
+samthegent	Melbourne, Australia	38
+ChaseGilliam	Baltimore, MD	68
+vjeanneperrier	France	2206
+StaceyHankeInc	Chicago	15598
+HTXmusic	Houston, TX	92
+tmcw	a very low orbit satellite	1101
+boggssystems	Toronto	48
+sfc_fabiovianna	So Paulo, SP	409
+rpgove		15
+riondotnu	Oakland, California	792
+ll_long	Cambridge	7
+srhhnry	New York City	20
+lgrammel	Victoria, BC, Canada	230
+mattlatmatt	Oakland, CA	1559
+briellenyc	New York, NY	542
+TheSuffers	Houston,TX	406
+ianmehisto	Toronto	634
+m_ott	Stuttgart, Germany	858
+alexwaza	St Mand	411
+richard_larue	Chicago, IL	472
+eikovis		0
+natashanuttall	Lincoln	448
+vlandham	39.025414,-94.568195	404
+tomgibes	Atlanta, GA	96
+elfpavlik	European Continent	326
+lerenzom		2
+moebio	Buenos Aires	1221
+JackKristo		70
+VizWorld		5202
+jonathanpberger	nyc	980
+TrophyHubbyBexa	Columbus, OH	315
+mbabwahsingh	New York metro	111
+mariame	Brooklyn, NY	277
+pciuccarelli	Italy	1231
+adilla	The Future	941
+adexchanger	New York City, NY	18491
+hkjung	Cincinnati, OH	49
+mccorkle	NYC	175
+GregRatner	New York, NY	195
+simonconlin	Toronto 	795
+ecstefania	Caracas, Venezuela	254
+TomDuscher	Hamburg and Kiel, Germany	11
+DougFulop	New York, NY	147
+Alicia_Cornwell	Boston	35
+nashavirata	New York, New York	124
+calocero_design	nomade	203
+paragofchicago	Boston, MA	99
+tobowers	Brooklyn, NY	107
+visualisingdata	Hebden Bridge, Yorkshire	6244
+gwenrr	Washington DC	826
+ninapilar	In the Cloud	1116
+ghostpressbed	Toronto, ON Canada	834
+fran_ohara	Cardiff, UK	270
+yuichy		908
+pwentzeljr	Astoria, NY	49
+rachelbinx	precariously SF	820
+jgracesimmons	brooklyn, ny	120
+georgiamoon	T: 40.767865,-73.876176	678
+S_I_D_L	New York, NY	85
+corwood		154
+katybeck	Somerville, MA	87
+FaustoNunez	New York City!!!	5
+TheAdamEvans	Evanston, IL	92
+cdjeremy	more or less where I aim to be	627
+misternaxal	Denton, Texas	424
+sgeoviz	London, UK	29
+ekeneijeoma	NYC	427
+iBlend	New Jersey	8627
+TheDiffVisComms	Bozeman, Montana	251
+tilapia	London	555
+jobbies	Melbourne, Australia	277
+MLThomsen	Madison, Wisconsin	810
+_next2nothing	Europe	19
+elearoar	Austin, TX	94
+imendivelso	Sector 7-G	112
+se_etc	berlin	36
+oberhaeuserinfo	Hamburg, Germany	636
+velletweets	New Delhi, India	34
+darkitechture	norway	50
+loosetooth	Chicago, mostly	1284
+auzwa	Melbourne	49
+Tom_Pch	Warwick, UK	142
+doeyjavis	Minneapolis, MN	1295
+christinebpc	Houston, Texas	6430
+JourneyAgents	The Inner Rings of Houston	201
+DrSvalbard	Brooklyn	383
+GiovannaSun	New York City	2838
+demo9		83
+jeff1024	Vancouver	131
+_JoshDoyle	Chicago	47
+shashashasha	iPhone: 37.754047,-122.416328	1803
+cemregungor	Brooklyn, NY	218
+dinocitraro	Portland, OR	334
+kncukier		1208
+CompStak	New York, NY	1161
+alignedleft	San Francisco	1075
+joshritchie	Newport Beach, Ca	641
+polygonio		4693
+NvOesterreich	New York City	214
+GrantFitzner	London	452
+sazpeitia	Brooklyn / NOLA / Mex	351
+mirkolorenz	Cologne, Germany	1130
+kopperwoman	Brooklyn, NY	524
+aBirt	Antwerp, BE & Minneapolis, MN	192
+Periscopic	Portland, OR	2852
+mndepape	Roncesvalles | Toronto	14
+AdahParris		682
+tomp2	London	532
+bryanconnor	Baltimore	683
+thergbcorp	Spain	154
+jaspervputten	Cambridge, MA	30
+youplusmedesign	new york, ny 	685
+melisachiem	New York, NY	28
+elew		29
+MarianaSmiles	New York City	403
+emschuch	NYC	144
+spoutcreative	Los Angeles	632
+GDPplus		17
+zeolitefuhrman	brooklyn	149
+cuznerdexter	London	146
+tonegr	Oslo, Norway	73
+obfuscurity		1460
+parksebastien	New York, NY	339
+jemoraz	Barcelona	137
+kim_weiner	NYC	41
+marytownville	Brooklyn	35
+yeremia23	Yakarta	39
+KristinGorski	Blogville, Internet	509
+joandimicco		1122
+mcgeoff	Stanford, California, USA	850
+protein	Worldwide	4302
+CivicData	United States	1035
+luisCielak	Philadelphia, PA	245
+kathyklotzguest	San Jose, CA	524
+H_perigo	Brasil	50
+BitViz		59
+hellomainstem	SF / NY / International	69
+ackushner	San Francisco	354
+krismawil		95
+miguelnacenta	Calgary	209
+jamestunick	New York City	467
+oc_tv	London - Paris	121
+visualcache	Stockholm, Sweden	767
+adamperer	nyc	242
+lisapisa77		732
+serial_consign	Toronto	2623
+gridmk	Atlanta, GA	488
+jpp123	San Francisco	311
+ndintenfass	San Francisco	464
+mattsacks	portland	127
+dscheibel	New York City	584
+kennelliott	New York, NY	530
+MomokoPrice	Toronto	412
+radarboy	New York	73
+BradleyRTurner	Philadelphia, PA	275
+PauloQuerido	Portugal, Lisboa	61671
+marlaahlgrimm	Madison, Wisconsin 53711	745
+pureamber	Brooklyn, NY	2024
+mflikes	Manhattan, NY	322
+ShprAlex	NYC, UWS	172
+pmcruz	Coimbra	143
+jaredaucourant	BALL SO HARD	235
+maralllo	London	33
+itas_miller	Novosibirsk	71
+ItsMarshallTime	Brooklyn, NY	539
+thoughtbird	Bloomington IN	152
+KAPdesign	Canada	51
+VinPixel	South Africa	107
+ArtenTheCreator	South Africa + Namibia	694
+VisualLori	Seattle	663
+Infografiska	Skellefte, Sweden	190
+rachnadhall	Amsterdam	169
+oscarmarinmiro	L'Hospitalet, Barcelona	338
+wemcn	Stanford CA	450
+anabananana	New York City	80
+ryepez3	Veracruz	500
+menadeau	Dedham, MA	776
+JESS3	LA	17047
+stevensondarren		126
+Mathew_Lucas	Staffordshire/Macclesfield	676
+moritz_stefaner	Lilienthal	3984
+manybots	Portugal	540
+miriamquick		84
+Maid_Marianne	London	834
+unequaldesign	Los Angeles, CA	1692
+pao_tweet	Italia	199
+MeghanDotter	Arlington, VA	175
+mrejfox	NY	608
+designscale	New York, New York	11
+diassennato	London	193
+aliennatn	Minnesota	183
+mschloff	NJ to NY every day	39
+billautomata	38104	254
+jaxdeleon	Brooklyn, NY	114
+gguild	Seattle	1200
+duprejohn	Greenpoint, Brooklyn	200
+rafacm	Vienna, Austria	134
+plieka	Mnchen, Germany	98
+mike_polner	Silicon Valley	73
+nicotron	IxD / MAPS / DATA / HANDCRAFT	374
+laneharrison	Charlotte	261
+cjanuska	Minneapolis	311
+albertstevens	Dronten. Netherlands, Europe	32
+Anna_Knight	London	233
+perianne	Web	512
+sisiwei	Washington, DC	578
+quadrigram	Barcelona, Spain	166
+jschwabish		162
+kevinsmith____	Manchester	339
+aaudu	Twilight Zone	373
+j_baeuml		10
+thoughtmerchant	New York, New York	225
+SocialWebNerd	Baltimore, MD	1078
+manucartoons	Brooklyn, NY	201
+paulrrobinson		40
+13_Hall	Baltimore, MD	47
+kalinadan	Sofia, Bulgaria	1131
+martycook_	Melbourne	200
+designaroni	Minneapolis MN, Everywhere...	153
+justinschier	New York, NY	447
+mindfulmovies	Germany	573
+billseliger	Chicago, IL	80
+EcoLabs	London, UK	2981
+outliers_es	Spain	123
+Spiral_31	sry.bc.ca	180
+ChristiansenJen		435
+Analytic_Design	Vancouver	370
+InstantAtlas	Edinburgh, Scotland	866
+blacktm	New York City	194
+visualoomph	Edison, NJ, USA	9556
+noahi	Seattle, WA	2750
+aimeewoodall	Houston, Texas	5088
+eagereyes	Seattle, WA	3678
+littlemelinda	The City of San Francisco	335
+MetaDesignSF	San Francisco, CA	816
+mibakh	USA	14
+adoperations	Global	50728
+the55		105
+hey_erma	Houston	128
+zachrodgers	Beacon, NY	2249
+jbrogers	Sydney, New South Wales	695
+VisualizingOrg	Worldwide	6246
+k3sue		186
+googlea	Munich, Germany	914
+GiovanniToschi		72
+DurrellRitt	Bellevue WA	193
+dialgforgina	Space City, TX	853
+smallmultiples	Sydney, Australia	416
+chuck_hooper	central California USA	92
+datagoodies	CT, NYC 	1505
+Corie_Sarin	Hawaii	184
+PubKevin	T: 37.913303,-122.051613	1307
+imusicmash	San Francisco, CA	1075
+productsarehard		195
+grjenkin	Carrollton, TX	1711
+wilsonyan	San Francisco, CA	17
+jlkelly	New York	1013
+AnalyzingMedia	Worldwide	84
+ilikedata	Sydney, Australia	814
+DataDjo		97
+Justin_Rapp	North Dakota	385
+InfographicBox		7774
+gracerodriguez	Houston TX	6918
+krees	Portland, OR	2237
+roamline	Roaming the globe	325
+ZingChart	San Diego	987
+katiefehren	San Francisco	13650
+OpenDataTN	Tunisie	242
+CulturePilot	The Heights, Houston, TX	2132
+timmayd	The Heights, Houston, TX	1806
+stiles	Washington, D.C.	4826
+MacKramerTweet	cincinnati	25
+M_T_Patterson	Pittsburgh	471
+armina_79	Gent, Belgium	531
+tomlorek	San Francisco	133
+kkwinger	san francisco, ca	245
+jfavlam	Villefontaine	356
+graemeknows	Commonwealth of Massachusetts	744
+justgrimes	Washington DC	1775
+mgpettit	Berkeley, CA	416
+nbrgraphs	NJ	1378
+alexhorowitz	New York, NY	245
+toneta	Barcelona, Catalunya	2065
+robtsai	NYC	424
+5280Ariana		2
+tylermalin	los angeles	4712
+Lakisha_Policar	Irvine	164
+cragindesign	San Diego	356
+inspired12	Houston, TX	1013
+EyeonIBM		1589
+briangoldston	New York + San Francisco	43
+telegraphx		1740
+superkaybee	Houston TX	726
+TerrieMonroe		16

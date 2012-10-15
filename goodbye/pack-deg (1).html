@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.link {
+  fill: none;
+  stroke: #000;
+}
+
+.node {
+  stroke: #fff;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v2.min.js"></script>
+<script>
+
+var margin = {top: 0, right: 40, bottom: 0, left: 40},
+    width = 4000 - margin.left - margin.right,
+    height = 4000 - margin.top - margin.bottom;
+var cScale=d3.scale.linear().domain([0,4]).range(["#ccc","darkorange"]);
+var fScale=d3.scale.linear().domain([0,100,1000,5000]).range([0,9,18,36]).clamp([true]);
+var pack = d3.layout.pack()
+    .size([width - 4, height - 4])
+  //  .sort(d3.ascending)
+    .sort(function(a,b){return 
+      //10000*(b.deg-a.deg)+
+      Math.random();//Math.random()-.5;
+    })
+    .value(function(d) { return d.size; });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var data,n,debugD;
+var years=d3.range(2004,2013);
+d3.csv("dataMsg.csv", function(csv) {
+  data=csv;
+  console.log("data loaded.")
+  csv.sort(function(a,b) {return a.deg-b.deg;})
+  n={name:"emails",children:[]};
+  var lastDeg=-1, addTo=n.children;
+  csv.forEach(function(d) {
+    if(d.deg!==lastDeg){
+      addTo.push({name:"deg"+d.deg, type:"group",children:[]});
+      addTo=addTo[addTo.length-1].children;
+      lastDeg=d.deg;
+    }
+    addTo.push({
+      name:d.name,
+      type:"person",
+      dir:d.dir,
+      dep:d.dep,
+      deg:+d.deg,
+      size:+d.nbMsg});
+  })
+var doitonce=false;
+console.log("data arranged");
+  var node = svg.data([n]).selectAll("g.node")
+      .data(pack.nodes)
+    .enter().append("g")
+      .attr("class", function(d) { return d.children ? "node node"+d.depth : "leaf node"; })
+      .classed("person",function(d) {return d.type==="person"})
+      .classed("big",function(d) {return d.size>100})
+      .classed("small",function(d) {return d.size<=100})
+      .attr("transform", function(d) { 
+        if(d.size>100){
+          var angle=Math.random()*2*Math.PI;
+          return "translate(" + (width/2+Math.cos(angle)*width/2) + "," + (height/2+Math.sin(angle)*height/2) + ")"; 
+        } else {
+          return "translate(" + d.x + "," + d.y + ")"  
+        }
+      });
+  
+      
+  
+
+  //node.append("title")
+  //    .text(function(d) { return d.name + (d.children ? "" : ": " + format(d.size)); });
+  d3.selectAll(".big").transition()
+    .duration(10000)
+    .attr("transform",function(d) {
+      return "translate(" + d.x + "," + d.y + ")"  
+    })
+    .each("end",function(){
+      if(!doitonce){doitonce=true;
+        d3.selectAll(".small").append("circle").attr("r",0).style("stroke","none").style("fill",function(d) {return typeof(d.deg)==="undefined" ? "none" : cScale(d.deg) ;})
+        .transition().duration(1000).attr("r",function(d) {return d.r;}).delay(function() {return 3000*Math.random();})
+      }
+    });
+  d3.selectAll(".big").append("circle")
+      .attr("r", 0)
+      .style("stroke","none"
+       // "#888"
+       )
+      .style("fill",function(d) {return typeof(d.deg)==="undefined" ? "none" : cScale(d.deg) ;})
+      .transition()
+      .duration(2500)
+      .attr("r",function(d) { return d.r; })
+      //.style("stroke",function(d) {return d.depth===2 ? "none":"#eee"})
+  d3.selectAll(".person").append("text").text(function(d) {return d.name;})
+    .attr("text-anchor","middle")
+    .style("visibility",function(d) {return d.size>=100?"visible":"hidden"})
+    .style("font-size",function(d) {return fScale(d.size);})
+    .style("stroke","none").style("fill","black").style("font","Frutiger");
+  /*d3.selectAll(".node1").append("text").text(function(d) {return d.name;})
+    .attr("text-anchor","middle")
+    .style("visibility",function(d) {return d.children.length>=10?"visible":"hidden"})
+    .style("font-size",function(d) {return fScale(d.children.length);});*/
+    
+
+  /*node.filter(function(d) { return !d.children; }).append("text")
+      .attr("text-anchor", "middle")
+      .attr("dy", ".3em")
+      .text(function(d) { return d.name.substring(0, d.r / 3); });*/
+
+});
+
+</script>
