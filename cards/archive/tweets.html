@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Lato:300|Playball' rel='stylesheet' type='text/css'>
+
+<style>
+#r1 {display:none;}
+body {font-family:lato;font-size:10px;}
+#chart {font-family:lato;}
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+
+<script>
+var Grailbird={};
+Grailbird.data={};
+</script>
+
+<script src="2012_01.js"></script>
+<script src="2012_02.js"></script>
+<script src="2012_03.js"></script>
+<script src="2012_04.js"></script>
+<script src="2012_05.js"></script>
+<script src="2012_06.js"></script>
+<script src="2012_07.js"></script>
+<script src="2012_08.js"></script>
+<script src="2012_09.js"></script>
+<script src="2012_10.js"></script>
+<script src="2012_11.js"></script>
+<script src="2012_12.js"></script>
+<script src="mentions.js"></script>
+
+<script src="../../d3.v3.min.js"></script>
+
+<div class="container">
+  <div class="row" id="r1">
+    <div class="span">
+      <h1>Tweets 2012</h1>
+    </div>
+  </div>
+  <div class="row" id="r2">
+    <div class="span" id="tweets"><table></table></div>
+  </div>
+</div>
+
+
+</div>
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+
+<script>
+
+var tweets=[];
+d3.range(1,13).forEach(function(i) {
+  var td="tweets_2012_";
+  if(i<10) {td=td+"0"+i} else {td=td+i;}
+  console.log(td);
+  Grailbird.data[td].forEach(function(t) {tweets.push(t);})
+})
+var x;
+mentions.forEach(function(t) {tweets.push(t);})
+var rows=d3.selectAll("table").selectAll("tr").data(tweets).enter().append("tr")
+rows.append("td").html(function(t) {return t["created_at"]})
+rows.append("td").html(function(t) {return t["user"]["screen_name"]})
+rows.append("td").html(function(t) {return t["text"]})
+rows.append("td").html(function(t) {return t["id"]})
+rows.append("td").html(function(t) {return t["in_reply_to_status_id"]})
+rows.append("td").html(function(t) {if(t["entities"]["user_mentions"]) {x=t["entities"]["user_mentions"]; return  t["entities"]["user_mentions"].map(function(m) {return m["screen_name"]}).join(",");} else {return ""}})
+
+</script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

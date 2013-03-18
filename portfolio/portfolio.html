@@ -38,7 +38,7 @@
 </script>
 </head>
 <body>
-<script src="../d3.v2.min.js?2.8.1">
+<script src="http://d3js.org/d3.v3.min.js">
 </script>
 <div class="container">
 	<a href="http://www.jeromecukier.net/">jeromecukier.net</a>
@@ -67,7 +67,7 @@ var data;
 d3.csv("portfolio.csv",function(csv) {
 	data=csv;
 	csv.sort(function(a,b){return Math.random()-.5;}); // randomize sort
-	csv=csv.slice(0,12);
+	//csv=csv.slice(0,12);
 	var pf=d3.select("#portfolio");
 	var rows=pf.selectAll(".row").data(d3.range(Math.ceil(csv.length/4))).enter()
 		.append("div").classed("row pf",1);

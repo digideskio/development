@@ -71,7 +71,7 @@
 				.attr("height", function(d) {
 					return yScale(d.value);
 				})
-				.attr("fill", "steelblue")							// <-- Moved 'fill' from CSS to here, as an element attribute
+				//.attr("fill", "steelblue")							// <-- Moved 'fill' from CSS to here, as an element attribute
 				.on("mouseover", function(d) {
 					d3.select(this).classed("highlight", true);
 				})
@@ -85,12 +85,14 @@
 			function recolor() {
 				
 			    svg.selectAll("rect.bar")
-					.transition()
-					.duration(500)
-					.attr("fill", function() {
+			    	.attr("height",function() {return Math.random()*100;})
+					//.transition()
+					//.duration(500)
+					.style("fill", function(d) {
 						var r = Math.random() * 255;					//Choose random red, green, blue values
 						var g = Math.random() * 255;
 						var b = Math.random() * 255;
+						return d3.rgb(r,g,b);
 						return "rgb(" + r + "," + g + "," + b + ")";	//Set fill to rgb value
 					});
 
